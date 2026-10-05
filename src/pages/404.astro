@@ -1,0 +1,11 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { ActionLink } from '../components/Chrome';
+import { Link } from '@heroui/react';
+import Icon from '../components/Icon';
+import { getPage } from '../lib/content';
+const page = await getPage('404');
+---
+<Layout title="Page not found" description={page.description} kind="notfound" seo={page.seo} noindex>
+  <main id="main" class="not-found"><div class="not-found-icon"><Icon name="search" size={30} /></div><span class="eyebrow">404</span><h1>{page.title}</h1><div class="hero-description" set:html={page.html} /><ActionLink href="/" primary icon="back">Explore servers</ActionLink><Link className="explore-guides" href="/guides/">Or learn something new in Guides <Icon name="arrow" size={17} /></Link></main>
+</Layout>

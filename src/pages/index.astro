@@ -1,0 +1,29 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Catalog from '../components/Catalog';
+import Icon from '../components/Icon';
+import { getEntries, cardData, getPage } from '../lib/content';
+const [servers, page] = await Promise.all([getEntries('server'), getPage('home')]);
+const categories = new Set(servers.map(server => server.category)).size;
+const totalStars = servers.reduce((sum, server) => sum + (server.repositoryStats?.stars || 0), 0);
+const categoryOptions = [...servers.reduce((counts, server) => counts.set(server.category, (counts.get(server.category) || 0) + 1), new Map<string, number>())]
+  .map(([name, count]) => ({ name, count }));
+---
+<Layout title="MCP Server Directory — Find the Best MCP Servers" description={page.description} active="directory" kind="directory" seo={page.seo} updated={page.updated} entries={servers}>
+  <main id="main" class="directory-page">
+    <section class="hero home-hero">
+      <span class="eyebrow"><i />Verified public registry <b>{servers.length} servers indexed</b></span>
+      <h1>Find the right <span>MCP server</span><br />for your AI tools</h1>
+      <div class="hero-description" set:html={page.html} />
+    </section>
+    <Catalog entries={servers.slice(0, 12).map(cardData)} categoryOptions={categoryOptions} catalogUrl="/catalog-server.json" kind="server" client:load />
+    <nav aria-label="Server directory pages" class="directory-pagination"><a href="/servers/page/2/">Browse all server pages <Icon name="arrow" size={16} /></a></nav>
+    <section class="resource-roadmap" aria-labelledby="client-directory-title"><div class="section-heading"><span class="section-kicker">BROWSE BY AI CLIENT</span><h2 id="client-directory-title">MCP servers for the tools you use.</h2><p>Start with servers whose documentation mentions your client, then verify current compatibility upstream.</p><a href="/categories/">Browse every server category <Icon name="arrow" size={16} /></a></div><div class="resource-grid"><a href="/clients/claude-code/"><Icon name="code" /><span><b>Claude Code</b><small>Developer tools, data, and automation.</small></span><Icon name="arrow" /></a><a href="/clients/codex/"><Icon name="code" /><span><b>Codex</b><small>Source-linked servers for coding workflows.</small></span><Icon name="arrow" /></a><a href="/clients/cursor/"><Icon name="code" /><span><b>Cursor</b><small>Repository, browser, and database tools.</small></span><Icon name="arrow" /></a><a href="/clients/vs-code/"><Icon name="code" /><span><b>VS Code</b><small>Servers documented for editor workflows.</small></span><Icon name="arrow" /></a></div></section>
+    <section class="registry-overview" aria-labelledby="registry-overview-title">
+      <div class="overview-copy"><span class="section-kicker">MODEL CONTEXT PROTOCOL</span><h2 id="registry-overview-title">A universal connection layer for context-aware AI.</h2><p>Discover open-source servers, inspect their repositories, and connect agents to the tools and data already in your workflow.</p><a href="/guides/what-is-mcp/">Understand the protocol <Icon name="arrow" size={16} /></a></div>
+      <div class="protocol-flow" aria-label="MCP architecture"><div><Icon name="code" /><span>AI client</span></div><i /><div class="protocol-core"><Icon name="memory" /><span>MCP</span></div><i /><div><Icon name="database" /><span>Tools & data</span></div></div>
+      <dl class="registry-metrics"><div><dt>{servers.length}</dt><dd>Public servers</dd></div><div><dt>{categories}</dt><dd>Categories</dd></div><div><dt>{new Intl.NumberFormat('en-US', { notation: 'compact', maximumFractionDigits: 1 }).format(totalStars)}</dt><dd>GitHub stars</dd></div><div><dt>100%</dt><dd>Static index</dd></div></dl>
+    </section>
+    <section class="resource-roadmap" aria-labelledby="resource-roadmap-title"><div class="section-heading"><span class="section-kicker">DEVELOPER RESOURCES</span><h2 id="resource-roadmap-title">From first connection to production.</h2><p>Concise, source-linked guidance for building confidently with MCP.</p></div><div class="resource-grid"><a href="/guides/what-is-mcp/"><Icon name="book" /><span><b>Protocol foundations</b><small>Understand servers, clients, tools, and resources.</small></span><Icon name="arrow" /></a><a href="/guides/how-to-use-mcp/"><Icon name="code" /><span><b>Implementation guides</b><small>Connect and configure your first MCP server.</small></span><Icon name="arrow" /></a><a href="/guides/server-permissions/"><Icon name="check" /><span><b>Security & permissions</b><small>Review access before enabling integrations.</small></span><Icon name="arrow" /></a></div></section>
+  </main>
+</Layout>

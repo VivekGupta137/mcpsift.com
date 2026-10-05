@@ -1,0 +1,60 @@
+---
+import { Header, Footer } from '../components/Chrome';
+import { repositoryUrl } from '../lib/content';
+import type { Entry } from '../lib/content';
+import type { SeoMetadata } from '../lib/seo-metadata';
+import type { PageKind } from '../lib/seo';
+import Seo from '../components/Seo.astro';
+import '@fontsource-variable/geist';
+import '@fontsource/jetbrains-mono/400.css';
+import '../styles/global.css';
+
+interface Props { title: string; description: string; active?: string; noindex?: boolean; kind?: PageKind; seo?: SeoMetadata; entry?: Entry; entries?: Entry[]; updated?: string }
+const { title, description, active = '', noindex = false, kind, seo, entry, entries, updated } = Astro.props;
+---
+<!doctype html>
+<html lang="en" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#09090b" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <Seo title={title} description={description} kind={kind} seo={seo} entry={entry} entries={entries} updated={updated} noindex={noindex} repository={repositoryUrl} />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <div class="site-shell">
+      <Header active={active} repository={repositoryUrl} client:load />
+      <slot />
+      <Footer repository={repositoryUrl} />
+    </div>
+    <script is:inline>
+      (() => {
+        const redirectPath = '/out/';
+        const rewrite = root => {
+          const selector = 'a[href]:not([data-skip-outbound]):not([data-outbound-processed])';
+          const anchors = [
+            ...(root.matches?.(selector) ? [root] : []),
+            ...(root.querySelectorAll?.(selector) || []),
+          ];
+          for (const anchor of anchors) {
+            let target;
+            try { target = new URL(anchor.getAttribute('href'), location.href); } catch { continue; }
+            if (!['http:', 'https:'].includes(target.protocol) || target.origin === location.origin) continue;
+            anchor.dataset.outboundProcessed = 'true';
+            anchor.href = `${redirectPath}?url=${encodeURIComponent(target.href)}`;
+            const rel = new Set((anchor.getAttribute('rel') || '').split(/\s+/).filter(Boolean));
+            rel.add('nofollow');
+            rel.add('noopener');
+            rel.add('noreferrer');
+            anchor.setAttribute('rel', [...rel].join(' '));
+          }
+        };
+        rewrite(document);
+        new MutationObserver(records => {
+          for (const record of records) for (const node of record.addedNodes) if (node.nodeType === Node.ELEMENT_NODE) rewrite(node);
+        }).observe(document.documentElement, { childList: true, subtree: true });
+      })();
+    </script>
+  </body>
+</html>

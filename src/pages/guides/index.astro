@@ -1,0 +1,12 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Catalog from '../../components/Catalog';
+import { getEntries, cardData, getPage } from '../../lib/content';
+const [guides, page] = await Promise.all([getEntries('guide'), getPage('guides')]);
+---
+<Layout title="MCP guides & tutorials" description={page.description} active="guides" kind="guides" seo={page.seo} updated={page.updated} entries={guides}>
+  <main id="main" class="guides-page">
+    <section class="hero guides-hero"><span class="eyebrow">{page.eyebrow}</span><h1>{page.title}</h1><div class="hero-description" set:html={page.html} /></section>
+    <Catalog entries={guides.map(cardData)} kind="guide" client:load />
+  </main>
+</Layout>

@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "totalServers": 540,
+    "totalCategories": 160,
+    "totalStars": 3234710,
+    "generatedDate": "2026-10-04",
+    "sources": ["Official Registry", "GitHub Awesome Lists", "PulseMCP", "Smithery", "Glama.ai", "Community"]
+  },
+  "languageDistribution": {
+    "TypeScript": 283,
+    "Python": 149,
+    "Go": 38,
+    "JavaScript": 17,
+    "Java": 11,
+    "Other": 42
+  },
+  "topServers": [
+    {"name": "Browser Use", "stars": 115471},
+    {"name": "Scrapling MCP Server", "stars": 82556},
+    {"name": "Context7", "stars": 62141},
+    {"name": "Ollama MCP Adapter", "stars": 55300},
+    {"name": "Chrome DevTools MCP", "stars": 52299},
+    {"name": "Codebase Memory MCP", "stars": 43870},
+    {"name": "Playwright MCP", "stars": 37382},
+    {"name": "GitHub MCP Server", "stars": 33300},
+    {"name": "Blender MCP", "stars": 30000},
+    {"name": "UI-TARS Desktop", "stars": 29000}
+  ]
+}

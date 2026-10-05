@@ -1,0 +1,51 @@
+{
+  "name": "mcp-sift",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "check": "astro check",
+    "build": "astro build && pagefind --site dist",
+    "preview": "astro preview",
+    "refresh:readmes": "node scripts/refresh-readmes.mjs",
+    "refresh:github-readmes": "node scripts/refresh-github-readme-links.mjs",
+    "import:github": "node scripts/import-github-mcp-servers.mjs"
+  },
+  "dependencies": {
+    "@astrojs/partytown": "2.1.8",
+    "@astrojs/react": "7.0.0",
+    "@astrojs/sitemap": "3.7.4",
+    "@dicebear/core": "10.7.0",
+    "@dicebear/styles": "10.6.0",
+    "@fontsource-variable/geist": "5.3.0",
+    "@fontsource/inter": "^5.2.0",
+    "@fontsource/jetbrains-mono": "^5.2.0",
+    "@heroui/react": "3.2.6",
+    "@heroui/styles": "3.2.6",
+    "@tailwindcss/vite": "4.3.3",
+    "astro": "7.3.5",
+    "astro-seo": "1.2.0",
+    "gray-matter": "4.0.3",
+    "lucide-react": "^0.577.0",
+    "marked": "18.0.14",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "sanitize-html": "2.18.0",
+    "tailwindcss": "4.3.3"
+  },
+  "devDependencies": {
+    "@astrojs/check": "0.9.10",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@types/sanitize-html": "^2.16.0",
+    "pagefind": "1.5.2",
+    "schema-dts": "2.1.0",
+    "sharp": "0.35.5",
+    "typescript": "~5.9.3"
+  }
+}

@@ -1,0 +1,64 @@
+---
+import { Chip, Link } from '@heroui/react';
+import Layout from '../../layouts/Layout.astro';
+import { ActionLink } from '../../components/Chrome';
+import Icon from '../../components/Icon';
+import RepositoryStats from '../../components/RepositoryStats';
+import MarkdownContent from '../../components/MarkdownContent';
+import { getEntries, repositoryUrl } from '../../lib/content';
+import { markdownSections, renderMarkdown } from '../../lib/markdown';
+import { fetchReadme } from '../../lib/readme.mjs';
+import { serverSeoDescription, serverSeoTitle } from '../../lib/seo';
+import { categorySlug } from '../../lib/landing';
+import { EntryCard } from '../../components/Catalog';
+import { cardData } from '../../lib/content';
+
+export async function getStaticPaths() {
+  const entries = await getEntries('server');
+  return Promise.all(entries.map(async entry => ({
+    params: { slug: entry.slug },
+    props: {
+      entry,
+      readme: entry.readmeUrl ? await fetchReadme(entry.readmeUrl) : null,
+      related: entries
+        .filter(item => item.slug !== entry.slug && item.category === entry.category)
+        .sort((a, b) => Number(b.source === 'Official') - Number(a.source === 'Official') || (b.repositoryStats?.stars || 0) - (a.repositoryStats?.stars || 0))
+        .slice(0, 4),
+    },
+  })));
+}
+const { entry, readme, related } = Astro.props;
+const sections = markdownSections(entry.body);
+const renderedReadme = readme?.markdown ? renderMarkdown(readme.markdown, 'readme', readme.url) : null;
+---
+<Layout title={`${serverSeoTitle(entry.title)} — Setup & documentation`} description={serverSeoDescription(entry.title, entry.description)} active="directory" kind="server" seo={entry.seo} entry={entry} updated={entry.updated}>
+  <main id="main" class="detail-page" data-pagefind-body>
+    <span hidden data-pagefind-filter="kind:server" data-pagefind-meta={`slug:${entry.slug}`} />
+    <span hidden data-pagefind-filter={`category:${entry.category}`} />
+    <nav class="breadcrumbs" aria-label="Breadcrumb" data-pagefind-ignore><Link href="/">Directory</Link><span>/</span><Link href={`/categories/${categorySlug(entry.category)}/`}>{entry.category}</Link><span>/</span><span aria-current="page">{entry.title}</span></nav>
+    <header class="server-heading">
+      <div class="server-identity"><div class="server-avatar large"><img src={`/avatars/${entry.slug}.svg`} alt="" width="72" height="72" decoding="async" /></div><div><h1 data-pagefind-meta="title">{entry.title}</h1><p>by {entry.owner}</p></div></div>
+      <p class="server-summary" data-pagefind-meta="description">{entry.description}</p>
+      <div class="chips"><Chip className="category-chip">{entry.category}</Chip><Chip className="category-chip">{entry.transport}</Chip><Chip className="category-chip">{entry.source}</Chip></div>
+      <RepositoryStats stats={entry.repositoryStats} detailed />
+      {entry.githubUrl && !entry.repositoryStats && <p class="repository-stats" data-pagefind-ignore>Repository statistics are temporarily unavailable.</p>}
+      <div class="server-actions actions" data-pagefind-ignore>{entry.githubUrl && <ActionLink href={entry.githubUrl} icon="github" primary>View on GitHub</ActionLink>}{entry.documentationUrl && <ActionLink href={entry.documentationUrl}>Documentation</ActionLink>}</div>
+    </header>
+    <div class="detail-grid">
+      <article class="server-content">
+        {sections.map((section, index) => <section class:list={['markdown-section', { panel: index === 0 }]}><MarkdownContent html={section.html} client:visible /></section>)}
+        <aside class="access-note" data-pagefind-ignore><Icon name="info" /><div><strong>Review access before connecting</strong><p>Use the minimum permissions needed. Publicly available does not mean anonymous access, free usage, or a security endorsement.</p></div></aside>
+      </article>
+      <aside class="detail-sidebar" data-pagefind-ignore>
+        <section class="panel metadata-panel"><h2>At a glance</h2><dl><div><dt>Category</dt><dd>{entry.category}</dd></div><div><dt>Connection</dt><dd>{entry.transport}</dd></div><div><dt>Source</dt><dd>{entry.source}</dd></div><div><dt>Authentication</dt><dd>{entry.authentication}</dd></div></dl>{entry.endpoint && <div class="endpoint"><span>Public endpoint</span><code>{entry.endpoint}</code></div>}<div class="chips">{entry.tags.map(tag => <Chip size="sm" className="category-chip">{tag}</Chip>)}</div></section>
+        <div class="source-note"><h3>The repository is the source of truth.</h3><p>Setup, compatibility, and permissions can change. Check the README before connecting.</p>{entry.readmeUrl && <Link href="#repository-readme">Read the repository README <Icon name="arrow" size={16} /></Link>}</div>
+        {repositoryUrl && <Link className="edit-link" href={`${repositoryUrl}/edit/main/data/servers/${entry.slug}.md`} target="_blank" rel="noopener noreferrer">Suggest an edit <Icon name="external" size={14} /></Link>}
+      </aside>
+    </div>
+    {related.length > 0 && <section class="resource-roadmap" aria-labelledby="related-servers-title"><div class="section-heading"><span class="section-kicker">KEEP EXPLORING</span><h2 id="related-servers-title">Related {entry.category} MCP servers</h2><p>Compare source, connection, and authentication details before choosing an implementation.</p><Link href={`/categories/${categorySlug(entry.category)}/`}>View the complete category <Icon name="arrow" size={16} /></Link></div><div class="entries-grid">{related.map(item => <EntryCard entry={cardData(item)} />)}</div></section>}
+    {entry.readmeUrl && <section class="readme-section" aria-labelledby="repository-readme">
+      <div class="readme-heading" data-pagefind-ignore><div><span class="eyebrow">FROM THE SOURCE</span><h2 id="repository-readme">Repository README</h2><p>{readme?.fetchedAt ? `Build-time snapshot · Retrieved ${new Date(readme.fetchedAt).toISOString().slice(0, 10)}${readme.state === 'cached' ? ' · Cached copy' : ''}` : 'The original documentation, published by the project maintainers.'}</p></div><ActionLink href={entry.readmeUrl} icon="external">View original</ActionLink></div>
+      {renderedReadme ? <div class="panel readme-panel"><MarkdownContent html={renderedReadme.html} className="repository-markdown" client:visible /></div> : <div class="panel readme-unavailable" data-pagefind-ignore><Icon name="info" size={28} /><h3>README temporarily unavailable</h3><p>The build couldn’t retrieve the repository README. You can still open the original documentation above. It will be retried on the next build.</p></div>}
+    </section>}
+  </main>
+</Layout>

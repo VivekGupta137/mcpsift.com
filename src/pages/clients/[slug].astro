@@ -1,0 +1,21 @@
+---
+import { Link } from '@heroui/react';
+import Layout from '../../layouts/Layout.astro';
+import Catalog from '../../components/Catalog';
+import { cardData, getEntries } from '../../lib/content';
+import { clientLanding, clientMatches, type ClientSlug } from '../../lib/landing';
+
+export async function getStaticPaths() {
+  const entries = await getEntries('server');
+  return Object.entries(clientLanding).map(([slug, landing]) => ({ params: { slug }, props: { clientSlug: slug, landing, entries: entries.filter(entry => clientMatches(entry, landing.terms)) } }));
+}
+const { clientSlug, landing, entries } = Astro.props as { clientSlug: ClientSlug; landing: typeof clientLanding[ClientSlug]; entries: Awaited<ReturnType<typeof getEntries>> };
+---
+<Layout title={landing.title} description={landing.description} active="directory" kind="directory" entries={entries.slice(0, 24)}>
+  <main id="main" class="guides-page" data-pagefind-body>
+    <nav class="breadcrumbs" aria-label="Breadcrumb" data-pagefind-ignore><Link href="/">Directory</Link><span>/</span><span aria-current="page">{landing.name}</span></nav>
+    <section class="hero guides-hero"><span class="eyebrow">MCP SERVERS FOR {landing.name.toUpperCase()} · {entries.length} MATCHES</span><h1>{landing.title}</h1><p class="hero-description">{landing.description} Listings are matched from documented compatibility and project descriptions; always confirm support in the upstream README.</p></section>
+    <Catalog entries={entries.slice(0, 24).map(cardData)} catalogUrl={`/catalog/client/${clientSlug}.json`} kind="server" client:load />
+    <section class="panel" data-pagefind-ignore><h2>Use MCP servers safely in {landing.name}</h2><p>Review authentication, transport, and requested permissions before enabling a server. <Link href="/guides/server-permissions/">Read the MCP permissions guide</Link> or <Link href="/guides/how-to-use-mcp/">learn how to connect a server</Link>.</p></section>
+  </main>
+</Layout>

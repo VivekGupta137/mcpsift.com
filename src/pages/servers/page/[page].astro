@@ -1,0 +1,42 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import Catalog from '../../../components/Catalog';
+import { cardData, getEntries } from '../../../lib/content';
+
+export async function getStaticPaths() {
+  const pageSize = 24;
+  const servers = await getEntries('server');
+  const pageCount = Math.max(1, Math.ceil(servers.length / pageSize));
+  return Array.from({ length: pageCount - 1 }, (_, index) => ({
+    params: { page: String(index + 2) },
+    props: { servers, pageNumber: index + 2, pageCount },
+  }));
+}
+
+const pageSize = 24;
+const { servers, pageNumber, pageCount } = Astro.props;
+const pageEntries = servers.slice((pageNumber - 1) * pageSize, pageNumber * pageSize);
+const previous = pageNumber > 2 ? `/servers/page/${pageNumber - 1}/` : '/';
+const next = pageNumber < pageCount ? `/servers/page/${pageNumber + 1}/` : undefined;
+---
+<Layout
+  title={`MCP Server Directory — Page ${pageNumber}`}
+  description={`Browse MCP servers ${((pageNumber - 1) * pageSize) + 1}–${Math.min(pageNumber * pageSize, servers.length)} in the MCP Sift directory.`}
+  active="directory"
+  kind="directory"
+  entries={pageEntries}
+>
+  <main id="main" class="directory-page">
+    <section class="hero home-hero">
+      <span class="eyebrow"><i />MCP server directory</span>
+      <h1>Browse MCP servers <span>— page {pageNumber}</span></h1>
+      <p class="hero-description">Explore the next set of open-source servers for connecting AI tools to data and workflows.</p>
+    </section>
+    <Catalog entries={pageEntries.map(cardData)} kind="server" client:load />
+    <nav aria-label="Server directory pages" class="directory-pagination">
+      {previous && <a href={previous} rel="prev">Previous</a>}
+      <span>Page {pageNumber} of {pageCount}</span>
+      {next && <a href={next} rel="next">Next</a>}
+    </nav>
+  </main>
+</Layout>

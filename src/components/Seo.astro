@@ -1,0 +1,54 @@
+---
+import { SEO } from 'astro-seo';
+import type { Entry } from '../lib/content';
+import type { SeoMetadata } from '../lib/seo-metadata';
+import { createPageSchema, escapeHtml, plainMetadata, serializeJsonLd, socialImagePath, type PageKind } from '../lib/seo';
+
+interface Props {
+  title: string;
+  description: string;
+  kind?: PageKind;
+  seo?: SeoMetadata;
+  noindex?: boolean;
+  entry?: Entry;
+  entries?: Entry[];
+  repository?: string;
+  updated?: string;
+}
+const { title, description, kind = 'directory', seo = {}, noindex = false, entry, entries, repository, updated } = Astro.props;
+const site = Astro.site;
+const cleanTitle = plainMetadata(seo.title || title);
+const cleanDescription = plainMetadata(seo.description || description);
+const fullTitle = `${cleanTitle} · MCP Sift`;
+const canonical = site && kind !== 'notfound' ? new URL(Astro.url.pathname, site).href : null;
+const image = site ? new URL(seo.image || socialImagePath(Astro.url.pathname), site).href : undefined;
+const imageAlt = seo.imageAlt || `${cleanTitle} — MCP Sift`;
+const excluded = noindex || seo.noindex === true || !site || kind === 'notfound';
+const graph = site && image && !excluded ? createPageSchema({ site, pathname: Astro.url.pathname, title: fullTitle, description: cleanDescription, image, kind, entry, entries, repository, updated }) : undefined;
+const authorUrl = entry?.authorUrl || (entry?.author === 'MCP Sift' && site ? new URL('/about/', site).href : undefined);
+const customImage = Boolean(seo.image);
+const extraMeta = entry?.author ? [{ name: 'author', content: entry.author }] : [];
+---
+<SEO
+  title={escapeHtml(fullTitle)}
+  description={cleanDescription}
+  canonical={canonical}
+  noindex={excluded}
+  robotsExtras={excluded ? undefined : 'max-image-preview:large, max-snippet:-1, max-video-preview:-1'}
+  openGraph={image ? {
+    basic: { title: fullTitle, type: kind === 'guide' ? 'article' : 'website', image, ...(canonical ? { url: canonical } : {}) },
+    optional: { description: cleanDescription, siteName: 'MCP Sift', locale: 'en_US' },
+    image: { alt: imageAlt, ...(!customImage ? { width: 1200, height: 630, type: 'image/png' } : {}) },
+    ...(kind === 'guide' && entry ? { article: {
+      publishedTime: entry.date,
+      modifiedTime: entry.updated || entry.date,
+      ...(authorUrl ? { authors: [authorUrl] } : {}),
+      section: entry.category,
+      tags: entry.tags,
+    } } : {}),
+  } : undefined}
+  twitter={{ card: image ? 'summary_large_image' : 'summary', title: fullTitle, description: cleanDescription, ...(image ? { image, imageAlt } : {}) }}
+  extend={{ meta: extraMeta }}
+/>
+{site && <link rel="sitemap" type="application/xml" title="Sitemap" href={new URL('/sitemap-index.xml', site)} />}
+{graph && <script type="application/ld+json" is:inline set:html={serializeJsonLd(graph)} />}

@@ -1,0 +1,58 @@
+---
+import { Link } from '@heroui/react';
+import Layout from '../layouts/Layout.astro';
+import Icon from '../components/Icon';
+---
+<Layout title="Leaving MCP Sift" description="External link confirmation" kind="about" noindex>
+  <main id="main" class="outbound-page">
+    <section class="panel outbound-card" aria-labelledby="outbound-title">
+      <span class="brand-mark"><Icon name="external" size={24} /></span>
+      <h1 id="outbound-title">You’re leaving MCP Sift</h1>
+      <p class="outbound-message">External websites have their own content, privacy, and security policies. Check the destination before continuing.</p>
+      <p class="outbound-destination" id="outbound-destination">Checking destination…</p>
+      <p class="outbound-countdown" id="outbound-countdown" role="status" aria-live="polite">Continue available in 5 seconds</p>
+      <div class="outbound-actions">
+        <Link href="/" className="action-link secondary">Return to MCP Sift</Link>
+        <a class="action-link primary outbound-continue" id="outbound-continue" aria-disabled="true" data-skip-outbound>Continue</a>
+      </div>
+      <noscript><p class="outbound-message outbound-invalid">JavaScript is required to validate and open this external destination.</p></noscript>
+    </section>
+  </main>
+  <script is:inline>
+    (() => {
+      const destination = document.getElementById('outbound-destination');
+      const countdown = document.getElementById('outbound-countdown');
+      const continueLink = document.getElementById('outbound-continue');
+      const raw = new URLSearchParams(location.search).get('url');
+      let target;
+      try {
+        target = new URL(raw || '');
+        if (!['http:', 'https:'].includes(target.protocol) || target.origin === location.origin || target.username || target.password) throw new Error('Invalid destination');
+      } catch {
+        destination.textContent = 'Invalid or missing external destination.';
+        destination.classList.add('outbound-invalid');
+        countdown.textContent = 'This link cannot be opened.';
+        return;
+      }
+
+      destination.textContent = target.hostname;
+      const waitMilliseconds = 5000;
+      const startedAt = performance.now();
+      const timer = window.setInterval(() => {
+        const remaining = Math.max(0, waitMilliseconds - (performance.now() - startedAt));
+        const seconds = Math.ceil(remaining / 1000);
+        if (remaining > 0) {
+          countdown.textContent = `Continue available in ${seconds} ${seconds === 1 ? 'second' : 'seconds'}`;
+          return;
+        }
+        window.clearInterval(timer);
+        continueLink.href = target.href;
+        continueLink.setAttribute('target', '_blank');
+        continueLink.setAttribute('rel', 'nofollow noopener noreferrer');
+        continueLink.removeAttribute('aria-disabled');
+        countdown.textContent = 'Opening the external website…';
+        location.replace(target.href);
+      }, 100);
+    })();
+  </script>
+</Layout>

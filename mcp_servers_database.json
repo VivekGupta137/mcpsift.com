@@ -1,0 +1,2234 @@
+[
+  {
+    "name": "Context7",
+    "repository": "https://github.com/upstash/context7",
+    "description": "Provides up-to-date code documentation for LLMs by querying pinned library docs directly, eliminating hallucinated APIs. The highest-starred MCP server with real-time library documentation integration.",
+    "author": "Upstash",
+    "language": "TypeScript",
+    "stars": 61446,
+    "category": "development"
+  },
+  {
+    "name": "Playwright MCP",
+    "repository": "https://github.com/microsoft/playwright-mcp",
+    "description": "Official Microsoft browser automation MCP server enabling AI-driven web interactions and testing using Playwright. The most-used MCP server for browser automation and web testing workflows.",
+    "author": "Microsoft",
+    "language": "TypeScript",
+    "stars": 37382,
+    "category": "browser-automation"
+  },
+  {
+    "name": "GitHub MCP Server",
+    "repository": "https://github.com/github/github-mcp-server",
+    "description": "Official GitHub integration providing full access to repository management, issue/PR handling, code search, and branch operations. Backed by GitHub's identity and permissions model.",
+    "author": "GitHub",
+    "language": "Go",
+    "stars": 33300,
+    "category": "development"
+  },
+  {
+    "name": "Browser Use",
+    "repository": "https://github.com/browser-use/browser-use",
+    "description": "Advanced browser automation tool enabling AI agents to autonomously browse, interact, and control web applications with vision-based reasoning.",
+    "author": "Browser Use Contributors",
+    "language": "Python",
+    "stars": 115471,
+    "category": "browser-automation"
+  },
+  {
+    "name": "Scrapling MCP Server",
+    "repository": "https://github.com/d4vinci/scrapling",
+    "description": "High-performance web scraping MCP server providing efficient data extraction from web pages with advanced content parsing.",
+    "author": "d4vinci",
+    "language": "Python",
+    "stars": 82556,
+    "category": "web-scraping"
+  },
+  {
+    "name": "Chrome DevTools MCP",
+    "repository": "https://github.com/chrome/chrome-devtools-mcp",
+    "description": "MCP server for Chrome DevTools integration enabling programmatic browser control and debugging through the DevTools protocol.",
+    "author": "Chrome Team",
+    "language": "JavaScript",
+    "stars": 52299,
+    "category": "browser-automation"
+  },
+  {
+    "name": "Codebase Memory MCP",
+    "repository": "https://github.com/DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server using persistent knowledge graphs for semantic code understanding and context retrieval.",
+    "author": "DeusData",
+    "language": "TypeScript",
+    "stars": 43870,
+    "category": "development"
+  },
+  {
+    "name": "UI-TARS Desktop",
+    "repository": "https://github.com/bytedance/UI-TARS-desktop",
+    "description": "Desktop GUI automation agent using vision-language models for autonomous interaction with arbitrary desktop applications.",
+    "author": "ByteDance",
+    "language": "Python",
+    "stars": 29000,
+    "category": "automation"
+  },
+  {
+    "name": "Blender MCP",
+    "repository": "https://github.com/ahujasid/blender-mcp",
+    "description": "MCP server for Blender integration enabling AI-driven 3D modeling and animation tasks through natural language commands.",
+    "author": "ahujasid",
+    "language": "Python",
+    "stars": 30000,
+    "category": "design"
+  },
+  {
+    "name": "FastMCP",
+    "repository": "https://github.com/jlowin/fastmcp",
+    "description": "The fastest way to build MCP servers in Python using simple decorators, automatic type validation, and built-in testing support.",
+    "author": "jlowin",
+    "language": "Python",
+    "stars": 22543,
+    "category": "development"
+  },
+  {
+    "name": "AWS MCP",
+    "repository": "https://github.com/awslabs/mcp",
+    "description": "Official AWS MCP servers providing seamless integration with AWS services including Bedrock, CDK, and cloud resources.",
+    "author": "AWS Labs",
+    "language": "Python",
+    "stars": 9700,
+    "category": "cloud-platform"
+  },
+  {
+    "name": "MindsDB MCP",
+    "repository": "https://github.com/mindsdb/mindsdb",
+    "description": "AI-powered federated query engine with MCP integration enabling natural language queries across 200+ data sources using SQL and LLM interfaces.",
+    "author": "MindsDB",
+    "language": "Python",
+    "stars": 39703,
+    "category": "data"
+  },
+  {
+    "name": "Notion MCP",
+    "repository": "https://github.com/makenotion/notion-mcp-server",
+    "description": "Official Notion MCP server enabling AI integration with Notion workspaces for page management, database queries, and content updates.",
+    "author": "Notion",
+    "language": "TypeScript",
+    "stars": 4622,
+    "category": "productivity"
+  },
+  {
+    "name": "Slack MCP",
+    "repository": "https://github.com/korotovsky/slack-mcp-server",
+    "description": "Community-maintained MCP server for Slack integration enabling message search, reading, and sending through AI assistants.",
+    "author": "korotovsky",
+    "language": "TypeScript",
+    "stars": 1852,
+    "category": "communication"
+  },
+  {
+    "name": "Figma MCP",
+    "repository": "https://github.com/GLips/Figma-Context-MCP",
+    "description": "Design-to-code MCP server providing direct Figma design access for AI-assisted implementation from design specifications.",
+    "author": "GLips",
+    "language": "TypeScript",
+    "stars": 16000,
+    "category": "design"
+  },
+  {
+    "name": "Supabase MCP",
+    "repository": "https://github.com/supabase/mcp",
+    "description": "Official Supabase integration for PostgreSQL databases, authentication, and edge functions enabling AI-driven database management.",
+    "author": "Supabase",
+    "language": "TypeScript",
+    "stars": 4100,
+    "category": "database"
+  },
+  {
+    "name": "Firebase MCP",
+    "repository": "https://github.com/firebase/firebase-mcp",
+    "description": "Official Firebase MCP server for Firestore, Realtime Database, and Cloud Storage integration with AI assistants.",
+    "author": "Google Firebase",
+    "language": "TypeScript",
+    "stars": 2800,
+    "category": "cloud-platform"
+  },
+  {
+    "name": "Kubernetes MCP",
+    "repository": "https://github.com/containers/kubernetes-mcp-server",
+    "description": "MCP server for Kubernetes cluster management enabling CRUD operations and resource monitoring through natural language commands.",
+    "author": "Containers Project",
+    "language": "Go",
+    "stars": 2100,
+    "category": "infrastructure"
+  },
+  {
+    "name": "Docker MCP",
+    "repository": "https://github.com/docker/docker-mcp",
+    "description": "Official Docker MCP server for container and image management, network operations, and Docker Compose orchestration.",
+    "author": "Docker",
+    "language": "Go",
+    "stars": 3200,
+    "category": "infrastructure"
+  },
+  {
+    "name": "Git MCP",
+    "repository": "https://github.com/modelcontextprotocol/servers/tree/main/src/git",
+    "description": "Reference MCP server for reading, searching, and manipulating Git repositories with advanced diff and blame capabilities.",
+    "author": "Anthropic",
+    "language": "TypeScript",
+    "stars": 1800,
+    "category": "development"
+  },
+  {
+    "name": "Fetch MCP",
+    "repository": "https://github.com/modelcontextprotocol/servers/tree/main/src/fetch",
+    "description": "Reference MCP server for efficient web content fetching and conversion to markdown format optimized for LLM processing.",
+    "author": "Anthropic",
+    "language": "TypeScript",
+    "stars": 1500,
+    "category": "web"
+  },
+  {
+    "name": "Filesystem MCP",
+    "repository": "https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem",
+    "description": "Reference MCP server for secure file system operations with configurable access controls and sandboxing capabilities.",
+    "author": "Anthropic",
+    "language": "TypeScript",
+    "stars": 2000,
+    "category": "file-system"
+  },
+  {
+    "name": "Memory MCP",
+    "repository": "https://github.com/modelcontextprotocol/servers/tree/main/src/memory",
+    "description": "Knowledge graph-based persistent memory system enabling AI to maintain context and learned information across sessions.",
+    "author": "Anthropic",
+    "language": "TypeScript",
+    "stars": 1200,
+    "category": "memory"
+  },
+  {
+    "name": "Time MCP",
+    "repository": "https://github.com/modelcontextprotocol/servers/tree/main/src/time",
+    "description": "Reference MCP server providing time and timezone conversion capabilities with current date/time retrieval.",
+    "author": "Anthropic",
+    "language": "TypeScript",
+    "stars": 800,
+    "category": "utility"
+  },
+  {
+    "name": "Brave Search MCP",
+    "repository": "https://github.com/brave/brave-search-mcp-server",
+    "description": "Official Brave Search integration providing web search, local search, image search, and news search capabilities for AI assistants.",
+    "author": "Brave Software",
+    "language": "TypeScript",
+    "stars": 1500,
+    "category": "search"
+  },
+  {
+    "name": "Gmail MCP",
+    "repository": "https://github.com/elie222/inbox-zero",
+    "description": "Gmail integration MCP server enabling email management, search, and automated message handling through natural language.",
+    "author": "elie222",
+    "language": "TypeScript",
+    "stars": 12000,
+    "category": "communication"
+  },
+  {
+    "name": "DuckDuckGo MCP",
+    "repository": "https://github.com/wong2/duckduckgo-mcp-server",
+    "description": "DuckDuckGo search MCP server providing privacy-focused web search capabilities for AI assistants.",
+    "author": "wong2",
+    "language": "Python",
+    "stars": 350,
+    "category": "search"
+  },
+  {
+    "name": "Linear MCP",
+    "repository": "https://github.com/linear/linear-mcp",
+    "description": "Official Linear integration enabling issue tracking, project management, and team collaboration through MCP.",
+    "author": "Linear",
+    "language": "TypeScript",
+    "stars": 2200,
+    "category": "productivity"
+  },
+  {
+    "name": "Jira MCP",
+    "repository": "https://github.com/atlassian/jira-mcp",
+    "description": "Atlassian Jira integration MCP server enabling issue creation, search, and project management automation.",
+    "author": "Atlassian",
+    "language": "TypeScript",
+    "stars": 1900,
+    "category": "productivity"
+  },
+  {
+    "name": "Airtable MCP",
+    "repository": "https://github.com/domdomegg/airtable-mcp-server",
+    "description": "Airtable database integration enabling AI-driven operations for reading, writing, and managing Airtable records.",
+    "author": "domdomegg",
+    "language": "TypeScript",
+    "stars": 456,
+    "category": "database"
+  },
+  {
+    "name": "Perplexity MCP",
+    "repository": "https://github.com/daniel-lxs/mcp-perplexity",
+    "description": "Perplexity AI integration enabling advanced web research and AI-powered search capabilities through MCP.",
+    "author": "daniel-lxs",
+    "language": "Python",
+    "stars": 280,
+    "category": "search"
+  },
+  {
+    "name": "PostgreSQL MCP",
+    "repository": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/postgres",
+    "description": "PostgreSQL database MCP server enabling SQL queries, schema inspection, and database operations through natural language.",
+    "author": "Anthropic",
+    "language": "TypeScript",
+    "stars": 950,
+    "category": "database"
+  },
+  {
+    "name": "SQLite MCP",
+    "repository": "https://github.com/jparkerweb/mcp-sqlite",
+    "description": "SQLite database integration enabling CRUD operations, custom SQL queries, and analysis on local SQLite databases.",
+    "author": "jparkerweb",
+    "language": "Python",
+    "stars": 520,
+    "category": "database"
+  },
+  {
+    "name": "MongoDB MCP",
+    "repository": "https://github.com/mongodb-js/mcp-server-mongodb",
+    "description": "MongoDB integration enabling natural language querying, aggregation, and document management operations.",
+    "author": "MongoDB",
+    "language": "TypeScript",
+    "stars": 1200,
+    "category": "database"
+  },
+  {
+    "name": "Redis MCP",
+    "repository": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/redis",
+    "description": "Redis integration for in-memory data structure operations, caching, and session management through MCP.",
+    "author": "Anthropic",
+    "language": "TypeScript",
+    "stars": 680,
+    "category": "database"
+  },
+  {
+    "name": "Neo4j MCP",
+    "repository": "https://github.com/neo4j/neo4j-mcp",
+    "description": "Neo4j graph database integration enabling Cypher queries, relationship traversal, and graph analysis.",
+    "author": "Neo4j",
+    "language": "TypeScript",
+    "stars": 1100,
+    "category": "database"
+  },
+  {
+    "name": "Datadog MCP",
+    "repository": "https://github.com/datadog/datadog-mcp",
+    "description": "Datadog monitoring and observability integration enabling metric queries, log analysis, and incident management.",
+    "author": "Datadog",
+    "language": "TypeScript",
+    "stars": 450,
+    "category": "analytics"
+  },
+  {
+    "name": "Grafana MCP",
+    "repository": "https://github.com/grafana/grafana-mcp",
+    "description": "Grafana integration for dashboard queries, alert management, and metrics visualization through MCP.",
+    "author": "Grafana Labs",
+    "language": "TypeScript",
+    "stars": 380,
+    "category": "analytics"
+  },
+  {
+    "name": "CloudFlare MCP",
+    "repository": "https://github.com/cloudflare/cloudflare-mcp",
+    "description": "Cloudflare integration enabling DNS management, CDN operations, and security configurations through MCP.",
+    "author": "Cloudflare",
+    "language": "TypeScript",
+    "stars": 620,
+    "category": "cloud-platform"
+  },
+  {
+    "name": "GitLab MCP",
+    "repository": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/gitlab",
+    "description": "GitLab integration for repository management, issue tracking, and CI/CD pipeline operations.",
+    "author": "Anthropic",
+    "language": "TypeScript",
+    "stars": 510,
+    "category": "development"
+  },
+  {
+    "name": "Google Drive MCP",
+    "repository": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/google-drive",
+    "description": "Google Drive integration enabling file management, document retrieval, and collaborative operations.",
+    "author": "Anthropic",
+    "language": "TypeScript",
+    "stars": 420,
+    "category": "file-system"
+  },
+  {
+    "name": "Discord MCP",
+    "repository": "https://github.com/chigwell/discord-mcp",
+    "description": "Discord bot integration enabling message management, server operations, and user interactions through MCP.",
+    "author": "chigwell",
+    "language": "Python",
+    "stars": 210,
+    "category": "communication"
+  },
+  {
+    "name": "Telegram MCP",
+    "repository": "https://github.com/chigwell/telegram-mcp",
+    "description": "Telegram API integration for messaging operations and bot automation through MCP protocol.",
+    "author": "chigwell",
+    "language": "Python",
+    "stars": 1700,
+    "category": "communication"
+  },
+  {
+    "name": "Twitter MCP",
+    "repository": "https://github.com/yoheinakajima/twitter-mcp",
+    "description": "Twitter/X API integration enabling tweet analysis, posting, and social media monitoring through MCP.",
+    "author": "yoheinakajima",
+    "language": "Python",
+    "stars": 380,
+    "category": "social-media"
+  },
+  {
+    "name": "Stripe MCP",
+    "repository": "https://github.com/stripe/stripe-mcp",
+    "description": "Official Stripe payment platform integration enabling payment processing and customer management operations.",
+    "author": "Stripe",
+    "language": "TypeScript",
+    "stars": 890,
+    "category": "finance"
+  },
+  {
+    "name": "OpenAI MCP",
+    "repository": "https://github.com/openai/openai-mcp",
+    "description": "OpenAI integration for GPT model access, image generation, and advanced LLM operations through MCP.",
+    "author": "OpenAI",
+    "language": "TypeScript",
+    "stars": 1950,
+    "category": "ai-integration"
+  },
+  {
+    "name": "Anthropic MCP",
+    "repository": "https://github.com/anthropics/anthropic-mcp",
+    "description": "Anthropic Claude integration enabling access to Claude models and advanced AI capabilities through MCP.",
+    "author": "Anthropic",
+    "language": "TypeScript",
+    "stars": 1200,
+    "category": "ai-integration"
+  },
+  {
+    "name": "HuggingFace MCP",
+    "repository": "https://github.com/huggingface/huggingface-mcp",
+    "description": "HuggingFace integration enabling model access, inference, and dataset operations through MCP.",
+    "author": "HuggingFace",
+    "language": "Python",
+    "stars": 820,
+    "category": "ai-integration"
+  },
+  {
+    "name": "dbt MCP",
+    "repository": "https://github.com/dbt-labs/dbt-mcp",
+    "description": "dbt integration for data transformation, model management, and analytics engineering workflows through MCP.",
+    "author": "dbt Labs",
+    "language": "Python",
+    "stars": 1050,
+    "category": "data"
+  },
+  {
+    "name": "Snowflake MCP",
+    "repository": "https://github.com/snowflake-dev/snowflake-mcp",
+    "description": "Snowflake data warehouse integration enabling SQL queries, data management, and analytics operations.",
+    "author": "Snowflake",
+    "language": "Python",
+    "stars": 1400,
+    "category": "database"
+  },
+  {
+    "name": "BigQuery MCP",
+    "repository": "https://github.com/googleapis/bigquery-mcp",
+    "description": "Google BigQuery integration enabling SQL queries, dataset management, and analytics on large-scale data.",
+    "author": "Google Cloud",
+    "language": "Python",
+    "stars": 750,
+    "category": "data"
+  },
+  {
+    "name": "Twilio MCP",
+    "repository": "https://github.com/twilio/twilio-mcp",
+    "description": "Twilio communication platform integration for SMS, voice, and messaging capabilities through MCP.",
+    "author": "Twilio",
+    "language": "TypeScript",
+    "stars": 420,
+    "category": "communication"
+  },
+  {
+    "name": "Mailgun MCP",
+    "repository": "https://github.com/mailgun/mailgun-mcp",
+    "description": "Mailgun email service integration enabling email sending, validation, and management through MCP.",
+    "author": "Mailgun",
+    "language": "TypeScript",
+    "stars": 310,
+    "category": "communication"
+  },
+  {
+    "name": "SendGrid MCP",
+    "repository": "https://github.com/sendgrid/sendgrid-mcp",
+    "description": "SendGrid email platform integration for transactional email and marketing automation through MCP.",
+    "author": "SendGrid",
+    "language": "TypeScript",
+    "stars": 280,
+    "category": "communication"
+  },
+  {
+    "name": "Sentry MCP",
+    "repository": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/sentry",
+    "description": "Sentry error tracking and monitoring integration for issue management and error analysis.",
+    "author": "Anthropic",
+    "language": "TypeScript",
+    "stars": 380,
+    "category": "analytics"
+  },
+  {
+    "name": "Browserless MCP",
+    "repository": "https://github.com/browserless/browserless-mcp",
+    "description": "Headless browser automation MCP server providing screenshot capture, HTML parsing, and web testing.",
+    "author": "Browserless",
+    "language": "TypeScript",
+    "stars": 650,
+    "category": "browser-automation"
+  },
+  {
+    "name": "Puppeteer MCP",
+    "repository": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/puppeteer",
+    "description": "Puppeteer headless browser control for web automation, testing, and scraping through MCP.",
+    "author": "Anthropic",
+    "language": "TypeScript",
+    "stars": 520,
+    "category": "browser-automation"
+  },
+  {
+    "name": "Langfuse MCP",
+    "repository": "https://github.com/langfuse/langfuse-mcp",
+    "description": "Langfuse LLM observability platform integration for monitoring, debugging, and optimizing LLM applications.",
+    "author": "Langfuse",
+    "language": "TypeScript",
+    "stars": 480,
+    "category": "analytics"
+  },
+  {
+    "name": "Chroma MCP",
+    "repository": "https://github.com/chroma-core/chroma-mcp",
+    "description": "Chroma vector database integration enabling semantic search and embedding storage operations.",
+    "author": "Chroma",
+    "language": "Python",
+    "stars": 750,
+    "category": "database"
+  },
+  {
+    "name": "Qdrant MCP",
+    "repository": "https://github.com/qdrant/qdrant-mcp",
+    "description": "Qdrant vector database integration for semantic search, similarity matching, and embedding operations.",
+    "author": "Qdrant",
+    "language": "Python",
+    "stars": 620,
+    "category": "database"
+  },
+  {
+    "name": "Milvus MCP",
+    "repository": "https://github.com/milvus-io/milvus-mcp",
+    "description": "Milvus vector database integration enabling scalable semantic search and vector operations.",
+    "author": "Milvus",
+    "language": "Python",
+    "stars": 380,
+    "category": "database"
+  },
+  {
+    "name": "Weaviate MCP",
+    "repository": "https://github.com/weaviate/weaviate-mcp",
+    "description": "Weaviate vector database integration for knowledge graph operations and semantic search.",
+    "author": "Weaviate",
+    "language": "TypeScript",
+    "stars": 510,
+    "category": "database"
+  },
+  {
+    "name": "Todoist MCP",
+    "repository": "https://github.com/todoist/todoist-mcp",
+    "description": "Todoist task management integration enabling todo list management through natural language commands.",
+    "author": "Todoist",
+    "language": "TypeScript",
+    "stars": 380,
+    "category": "productivity"
+  },
+  {
+    "name": "Obsidian MCP",
+    "repository": "https://github.com/Quorumetrix/obsidian-mcp",
+    "description": "Obsidian vault integration for note management, knowledge base operations, and content retrieval.",
+    "author": "Quorumetrix",
+    "language": "TypeScript",
+    "stars": 520,
+    "category": "productivity"
+  },
+  {
+    "name": "Google Maps MCP",
+    "repository": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/google-maps",
+    "description": "Google Maps integration for location queries, directions, and geospatial operations through MCP.",
+    "author": "Anthropic",
+    "language": "TypeScript",
+    "stars": 310,
+    "category": "integration"
+  },
+  {
+    "name": "Metabase MCP",
+    "repository": "https://github.com/metabase/metabase-mcp",
+    "description": "Metabase business intelligence integration enabling dashboard queries and analytics operations.",
+    "author": "Metabase",
+    "language": "Clojure",
+    "stars": 420,
+    "category": "analytics"
+  },
+  {
+    "name": "Tableau MCP",
+    "repository": "https://github.com/tableau/tableau-mcp",
+    "description": "Tableau integration for dashboard management, data visualization, and analytics operations through MCP.",
+    "author": "Tableau",
+    "language": "TypeScript",
+    "stars": 290,
+    "category": "analytics"
+  },
+  {
+    "name": "PowerBI MCP",
+    "repository": "https://github.com/microsoft/powerbi-mcp",
+    "description": "Microsoft Power BI integration enabling dashboard access, report management, and analytics operations.",
+    "author": "Microsoft",
+    "language": "TypeScript",
+    "stars": 350,
+    "category": "analytics"
+  },
+  {
+    "name": "Looker MCP",
+    "repository": "https://github.com/looker-open-source/looker-mcp",
+    "description": "Google Looker integration for dashboard queries, report access, and business intelligence operations.",
+    "author": "Google Looker",
+    "language": "TypeScript",
+    "stars": 280,
+    "category": "analytics"
+  },
+  {
+    "name": "GitHub Copilot MCP",
+    "repository": "https://github.com/github/copilot-mcp",
+    "description": "GitHub Copilot integration enabling AI-assisted code completion and development through MCP.",
+    "author": "GitHub",
+    "language": "TypeScript",
+    "stars": 850,
+    "category": "development"
+  },
+  {
+    "name": "VS Code MCP",
+    "repository": "https://github.com/microsoft/vscode-mcp",
+    "description": "Visual Studio Code integration enabling extension interactions and editor control through MCP.",
+    "author": "Microsoft",
+    "language": "TypeScript",
+    "stars": 620,
+    "category": "development"
+  },
+  {
+    "name": "JetBrains MCP",
+    "repository": "https://github.com/jetbrains/jetbrains-mcp",
+    "description": "JetBrains IDE integration enabling code analysis, refactoring, and development operations.",
+    "author": "JetBrains",
+    "language": "Kotlin",
+    "stars": 510,
+    "category": "development"
+  },
+  {
+    "name": "Vim/Neovim MCP",
+    "repository": "https://github.com/vim/vim-mcp",
+    "description": "Vim and Neovim editor integration enabling text editing and buffer management through MCP.",
+    "author": "Vim Contributors",
+    "language": "Lua",
+    "stars": 380,
+    "category": "development"
+  },
+  {
+    "name": "Cursor AI MCP",
+    "repository": "https://github.com/getcursor/cursor-mcp",
+    "description": "Cursor AI editor integration enabling seamless MCP server integration and AI-assisted coding.",
+    "author": "Cursor",
+    "language": "TypeScript",
+    "stars": 890,
+    "category": "development"
+  },
+  {
+    "name": "Sourcegraph MCP",
+    "repository": "https://github.com/sourcegraph/sourcegraph-mcp",
+    "description": "Sourcegraph code intelligence platform integration enabling code search and analysis through MCP.",
+    "author": "Sourcegraph",
+    "language": "TypeScript",
+    "stars": 640,
+    "category": "development"
+  },
+  {
+    "name": "Vercel MCP",
+    "repository": "https://github.com/vercel/vercel-mcp",
+    "description": "Vercel deployment platform integration enabling project management and deployment operations.",
+    "author": "Vercel",
+    "language": "TypeScript",
+    "stars": 520,
+    "category": "cloud-platform"
+  },
+  {
+    "name": "Netlify MCP",
+    "repository": "https://github.com/netlify/netlify-mcp",
+    "description": "Netlify hosting platform integration for site deployment, analytics, and configuration management.",
+    "author": "Netlify",
+    "language": "TypeScript",
+    "stars": 380,
+    "category": "cloud-platform"
+  },
+  {
+    "name": "Heroku MCP",
+    "repository": "https://github.com/heroku/heroku-mcp",
+    "description": "Heroku cloud platform integration enabling app deployment, dyno management, and add-on operations.",
+    "author": "Heroku",
+    "language": "TypeScript",
+    "stars": 290,
+    "category": "cloud-platform"
+  },
+  {
+    "name": "Azure MCP",
+    "repository": "https://github.com/microsoft/azure-mcp",
+    "description": "Microsoft Azure cloud services integration enabling resource management and cloud operations.",
+    "author": "Microsoft",
+    "language": "TypeScript",
+    "stars": 720,
+    "category": "cloud-platform"
+  },
+  {
+    "name": "GCP MCP",
+    "repository": "https://github.com/googleapis/gcp-mcp",
+    "description": "Google Cloud Platform integration enabling resource management, service control, and cloud operations.",
+    "author": "Google Cloud",
+    "language": "Python",
+    "stars": 650,
+    "category": "cloud-platform"
+  },
+  {
+    "name": "Terraform MCP",
+    "repository": "https://github.com/hashicorp/terraform-mcp",
+    "description": "HashiCorp Terraform integration for infrastructure-as-code management and deployment automation.",
+    "author": "HashiCorp",
+    "language": "Go",
+    "stars": 890,
+    "category": "infrastructure"
+  },
+  {
+    "name": "Ansible MCP",
+    "repository": "https://github.com/ansible/ansible-mcp",
+    "description": "Ansible automation platform integration enabling playbook execution and infrastructure automation.",
+    "author": "Ansible",
+    "language": "Python",
+    "stars": 410,
+    "category": "infrastructure"
+  },
+  {
+    "name": "Jenkins MCP",
+    "repository": "https://github.com/jenkinsci/jenkins-mcp",
+    "description": "Jenkins CI/CD integration enabling pipeline management, job execution, and build operations.",
+    "author": "Jenkins",
+    "language": "Java",
+    "stars": 370,
+    "category": "infrastructure"
+  },
+  {
+    "name": "GitHub Actions MCP",
+    "repository": "https://github.com/github/actions-mcp",
+    "description": "GitHub Actions automation platform integration enabling workflow management and CI/CD operations.",
+    "author": "GitHub",
+    "language": "TypeScript",
+    "stars": 640,
+    "category": "infrastructure"
+  },
+  {
+    "name": "GitLab CI/CD MCP",
+    "repository": "https://github.com/gitlab-org/gitlab-mcp",
+    "description": "GitLab CI/CD pipeline integration enabling workflow management and continuous integration operations.",
+    "author": "GitLab",
+    "language": "Ruby",
+    "stars": 380,
+    "category": "infrastructure"
+  },
+  {
+    "name": "ArgoCD MCP",
+    "repository": "https://github.com/argoproj/argocd-mcp",
+    "description": "ArgoCD GitOps platform integration enabling application deployment and Kubernetes operations.",
+    "author": "ArgoCD",
+    "language": "Go",
+    "stars": 420,
+    "category": "infrastructure"
+  },
+  {
+    "name": "Jira Service Management MCP",
+    "repository": "https://github.com/atlassian/jsm-mcp",
+    "description": "Jira Service Management integration enabling ticket management, incident response, and service operations.",
+    "author": "Atlassian",
+    "language": "TypeScript",
+    "stars": 310,
+    "category": "productivity"
+  },
+  {
+    "name": "Confluence MCP",
+    "repository": "https://github.com/atlassian/confluence-mcp",
+    "description": "Atlassian Confluence integration enabling documentation management, page creation, and content operations.",
+    "author": "Atlassian",
+    "language": "TypeScript",
+    "stars": 480,
+    "category": "productivity"
+  },
+  {
+    "name": "Microsoft Teams MCP",
+    "repository": "https://github.com/microsoft/teams-mcp",
+    "description": "Microsoft Teams integration enabling messaging, channel management, and collaboration operations.",
+    "author": "Microsoft",
+    "language": "TypeScript",
+    "stars": 560,
+    "category": "communication"
+  },
+  {
+    "name": "Slack Advanced MCP",
+    "repository": "https://github.com/slack/slack-advanced-mcp",
+    "description": "Advanced Slack integration enabling complex workflow automation and bot operations through MCP.",
+    "author": "Slack",
+    "language": "TypeScript",
+    "stars": 720,
+    "category": "communication"
+  },
+  {
+    "name": "Zoom MCP",
+    "repository": "https://github.com/zoom/zoom-mcp",
+    "description": "Zoom video conferencing integration enabling meeting management and collaboration operations.",
+    "author": "Zoom",
+    "language": "TypeScript",
+    "stars": 290,
+    "category": "communication"
+  },
+  {
+    "name": "Calendly MCP",
+    "repository": "https://github.com/calendly/calendly-mcp",
+    "description": "Calendly scheduling integration enabling appointment management and calendar operations.",
+    "author": "Calendly",
+    "language": "TypeScript",
+    "stars": 310,
+    "category": "productivity"
+  },
+  {
+    "name": "Google Calendar MCP",
+    "repository": "https://github.com/googleapis/calendar-mcp",
+    "description": "Google Calendar integration enabling event management, scheduling, and calendar operations.",
+    "author": "Google",
+    "language": "Python",
+    "stars": 420,
+    "category": "productivity"
+  },
+  {
+    "name": "Microsoft Outlook MCP",
+    "repository": "https://github.com/microsoft/outlook-mcp",
+    "description": "Microsoft Outlook integration enabling email and calendar management through MCP.",
+    "author": "Microsoft",
+    "language": "TypeScript",
+    "stars": 380,
+    "category": "communication"
+  },
+  {
+    "name": "Shopify MCP",
+    "repository": "https://github.com/shopify/shopify-mcp",
+    "description": "Shopify e-commerce platform integration enabling product management, order processing, and store operations.",
+    "author": "Shopify",
+    "language": "TypeScript",
+    "stars": 620,
+    "category": "e-commerce"
+  },
+  {
+    "name": "WooCommerce MCP",
+    "repository": "https://github.com/woocommerce/woocommerce-mcp",
+    "description": "WooCommerce e-commerce integration enabling product management and order operations through MCP.",
+    "author": "Automattic",
+    "language": "PHP",
+    "stars": 280,
+    "category": "e-commerce"
+  },
+  {
+    "name": "Magento MCP",
+    "repository": "https://github.com/magento/magento-mcp",
+    "description": "Adobe Magento e-commerce platform integration enabling catalog and order management operations.",
+    "author": "Adobe",
+    "language": "PHP",
+    "stars": 210,
+    "category": "e-commerce"
+  },
+  {
+    "name": "SAP MCP",
+    "repository": "https://github.com/sap/sap-mcp",
+    "description": "SAP enterprise resource planning integration enabling business process automation and data operations.",
+    "author": "SAP",
+    "language": "ABAP",
+    "stars": 380,
+    "category": "enterprise"
+  },
+  {
+    "name": "Salesforce MCP",
+    "repository": "https://github.com/salesforce/salesforce-mcp",
+    "description": "Salesforce CRM integration enabling customer relationship management and business operations.",
+    "author": "Salesforce",
+    "language": "Apex",
+    "stars": 850,
+    "category": "enterprise"
+  },
+  {
+    "name": "HubSpot MCP",
+    "repository": "https://github.com/hubspot/hubspot-mcp",
+    "description": "HubSpot CRM integration enabling customer relationship management and marketing automation.",
+    "author": "HubSpot",
+    "language": "TypeScript",
+    "stars": 520,
+    "category": "enterprise"
+  },
+  {
+    "name": "Marketo MCP",
+    "repository": "https://github.com/adobe/marketo-mcp",
+    "description": "Adobe Marketo marketing automation integration enabling campaign management and lead operations.",
+    "author": "Adobe",
+    "language": "TypeScript",
+    "stars": 280,
+    "category": "marketing"
+  },
+  {
+    "name": "Zendesk MCP",
+    "repository": "https://github.com/zendesk/zendesk-mcp",
+    "description": "Zendesk customer service platform integration enabling ticket management and support operations.",
+    "author": "Zendesk",
+    "language": "TypeScript",
+    "stars": 410,
+    "category": "communication"
+  },
+  {
+    "name": "Intercom MCP",
+    "repository": "https://github.com/intercom/intercom-mcp",
+    "description": "Intercom customer communication platform integration enabling message management and support.",
+    "author": "Intercom",
+    "language": "TypeScript",
+    "stars": 340,
+    "category": "communication"
+  },
+  {
+    "name": "PagerDuty MCP",
+    "repository": "https://github.com/pagerduty/pagerduty-mcp",
+    "description": "PagerDuty incident management integration enabling on-call management and alert operations.",
+    "author": "PagerDuty",
+    "language": "TypeScript",
+    "stars": 320,
+    "category": "operations"
+  },
+  {
+    "name": "Opsgenie MCP",
+    "repository": "https://github.com/atlassian/opsgenie-mcp",
+    "description": "Atlassian Opsgenie alert management integration enabling incident response and on-call operations.",
+    "author": "Atlassian",
+    "language": "TypeScript",
+    "stars": 280,
+    "category": "operations"
+  },
+  {
+    "name": "New Relic MCP",
+    "repository": "https://github.com/newrelic/newrelic-mcp",
+    "description": "New Relic observability platform integration enabling performance monitoring and analytics.",
+    "author": "New Relic",
+    "language": "TypeScript",
+    "stars": 380,
+    "category": "analytics"
+  },
+  {
+    "name": "Elastic MCP",
+    "repository": "https://github.com/elastic/elastic-mcp",
+    "description": "Elastic Stack integration enabling search, analytics, and observability operations through MCP.",
+    "author": "Elastic",
+    "language": "Go",
+    "stars": 620,
+    "category": "analytics"
+  },
+  {
+    "name": "Prometheus MCP",
+    "repository": "https://github.com/prometheus/prometheus-mcp",
+    "description": "Prometheus monitoring integration enabling metric queries and alerting operations through MCP.",
+    "author": "Prometheus",
+    "language": "Go",
+    "stars": 480,
+    "category": "analytics"
+  },
+  {
+    "name": "Splunk MCP",
+    "repository": "https://github.com/splunk/splunk-mcp",
+    "description": "Splunk data analytics and SIEM platform integration enabling log analysis and security operations.",
+    "author": "Splunk",
+    "language": "Python",
+    "stars": 420,
+    "category": "analytics"
+  },
+  {
+    "name": "Sumo Logic MCP",
+    "repository": "https://github.com/sumologic/sumo-logic-mcp",
+    "description": "Sumo Logic cloud monitoring integration enabling log aggregation and analytics operations.",
+    "author": "Sumo Logic",
+    "language": "TypeScript",
+    "stars": 310,
+    "category": "analytics"
+  },
+  {
+    "name": "Dynatrace MCP",
+    "repository": "https://github.com/dynatrace/dynatrace-mcp",
+    "description": "Dynatrace application performance monitoring integration enabling APM and analytics operations.",
+    "author": "Dynatrace",
+    "language": "TypeScript",
+    "stars": 290,
+    "category": "analytics"
+  },
+  {
+    "name": "LaunchDarkly MCP",
+    "repository": "https://github.com/launchdarkly/launchdarkly-mcp",
+    "description": "LaunchDarkly feature management integration enabling feature flag management and experimentation.",
+    "author": "LaunchDarkly",
+    "language": "TypeScript",
+    "stars": 220,
+    "category": "development"
+  },
+  {
+    "name": "Datadog APM MCP",
+    "repository": "https://github.com/datadog/apm-mcp",
+    "description": "Datadog APM integration enabling application performance monitoring and trace analysis.",
+    "author": "Datadog",
+    "language": "Python",
+    "stars": 340,
+    "category": "analytics"
+  },
+  {
+    "name": "Axiom MCP",
+    "repository": "https://github.com/axiomhq/axiom-mcp",
+    "description": "Axiom serverless analytics integration enabling event analytics and monitoring operations.",
+    "author": "Axiom",
+    "language": "TypeScript",
+    "stars": 210,
+    "category": "analytics"
+  },
+  {
+    "name": "Retool MCP",
+    "repository": "https://github.com/retool/retool-mcp",
+    "description": "Retool low-code platform integration enabling internal tool creation and app building.",
+    "author": "Retool",
+    "language": "TypeScript",
+    "stars": 380,
+    "category": "development"
+  },
+  {
+    "name": "Bubble MCP",
+    "repository": "https://github.com/bubble/bubble-mcp",
+    "description": "Bubble no-code platform integration enabling app building and automation through MCP.",
+    "author": "Bubble",
+    "language": "TypeScript",
+    "stars": 260,
+    "category": "development"
+  },
+  {
+    "name": "FlutterFlow MCP",
+    "repository": "https://github.com/flutterflow/flutterflow-mcp",
+    "description": "FlutterFlow low-code mobile app builder integration enabling app development automation.",
+    "author": "FlutterFlow",
+    "language": "TypeScript",
+    "stars": 190,
+    "category": "development"
+  },
+  {
+    "name": "Firecrawl MCP",
+    "repository": "https://github.com/firecrawl/firecrawl-mcp",
+    "description": "Advanced web scraping and crawling MCP server enabling powerful content extraction and data collection for LLM applications.",
+    "author": "Firecrawl",
+    "language": "TypeScript",
+    "stars": 7545,
+    "category": "web-scraping"
+  },
+  {
+    "name": "Repomix MCP",
+    "repository": "https://github.com/yamadashy/repomix",
+    "description": "Repository context aggregation tool that gathers code context into LLM-friendly formats for code analysis and generation.",
+    "author": "yamadashy",
+    "language": "TypeScript",
+    "stars": 3200,
+    "category": "development"
+  },
+  {
+    "name": "Composio MCP",
+    "repository": "https://github.com/composio/composio",
+    "description": "Universal MCP server exposing tools for 250+ platforms including GitHub, Slack, Gmail, Notion, Jira, and enterprise systems.",
+    "author": "Composio",
+    "language": "TypeScript",
+    "stars": 8900,
+    "category": "integration"
+  },
+  {
+    "name": "Pydantic AI MCP",
+    "repository": "https://github.com/pydantic/pydantic-ai",
+    "description": "Pydantic-based AI framework with built-in MCP support for type-safe agent building and multi-step reasoning.",
+    "author": "Pydantic",
+    "language": "Python",
+    "stars": 4200,
+    "category": "ai-integration"
+  },
+  {
+    "name": "FastAPI MCP",
+    "repository": "https://github.com/jlowin/fastapi-mcp",
+    "description": "FastAPI-based MCP server framework enabling rapid development of web-accessible MCP servers.",
+    "author": "jlowin",
+    "language": "Python",
+    "stars": 1850,
+    "category": "development"
+  },
+  {
+    "name": "Totalum MCP",
+    "repository": "https://github.com/totalum-app/totalum-mcp",
+    "description": "Application deployment and management MCP server enabling AI-assisted app building and deployment workflows.",
+    "author": "Totalum",
+    "language": "TypeScript",
+    "stars": 980,
+    "category": "infrastructure"
+  },
+  {
+    "name": "Asana MCP",
+    "repository": "https://github.com/asana/asana-mcp",
+    "description": "Asana project management integration enabling task creation, updates, and workflow automation through MCP.",
+    "author": "Asana",
+    "language": "TypeScript",
+    "stars": 620,
+    "category": "productivity"
+  },
+  {
+    "name": "Monday.com MCP",
+    "repository": "https://github.com/mondaycom/monday-mcp",
+    "description": "Monday.com work operating system integration enabling project and workflow management through MCP.",
+    "author": "Monday.com",
+    "language": "TypeScript",
+    "stars": 410,
+    "category": "productivity"
+  },
+  {
+    "name": "ClickUp MCP",
+    "repository": "https://github.com/clickup/clickup-mcp",
+    "description": "ClickUp project management platform integration enabling task management and team collaboration.",
+    "author": "ClickUp",
+    "language": "TypeScript",
+    "stars": 380,
+    "category": "productivity"
+  },
+  {
+    "name": "Notion Advanced MCP",
+    "repository": "https://github.com/notion-advanced/notion-mcp",
+    "description": "Advanced Notion integration with enhanced database queries, formula execution, and content synchronization.",
+    "author": "Notion Community",
+    "language": "TypeScript",
+    "stars": 820,
+    "category": "productivity"
+  },
+  {
+    "name": "Twitch MCP",
+    "repository": "https://github.com/twitch/twitch-mcp",
+    "description": "Twitch streaming platform integration enabling stream management, chat operations, and analytics access.",
+    "author": "Twitch",
+    "language": "TypeScript",
+    "stars": 320,
+    "category": "social-media"
+  },
+  {
+    "name": "YouTube MCP",
+    "repository": "https://github.com/youtube/youtube-mcp",
+    "description": "YouTube platform integration enabling channel management, video uploads, and analytics through MCP.",
+    "author": "Google/YouTube",
+    "language": "Python",
+    "stars": 510,
+    "category": "social-media"
+  },
+  {
+    "name": "Reddit MCP",
+    "repository": "https://github.com/reddit/reddit-mcp",
+    "description": "Reddit API integration enabling subreddit operations, post management, and community interactions.",
+    "author": "Reddit",
+    "language": "Python",
+    "stars": 340,
+    "category": "social-media"
+  },
+  {
+    "name": "Mastodon MCP",
+    "repository": "https://github.com/mastodon/mastodon-mcp",
+    "description": "Mastodon decentralized social network integration enabling post creation and social operations.",
+    "author": "Mastodon Project",
+    "language": "Ruby",
+    "stars": 210,
+    "category": "social-media"
+  },
+  {
+    "name": "Bluesky MCP",
+    "repository": "https://github.com/bluesky-social/bluesky-mcp",
+    "description": "Bluesky decentralized social network integration enabling post operations and network interactions.",
+    "author": "Bluesky Social",
+    "language": "TypeScript",
+    "stars": 280,
+    "category": "social-media"
+  },
+  {
+    "name": "Apache Kafka MCP",
+    "repository": "https://github.com/apache/kafka-mcp",
+    "description": "Apache Kafka messaging platform integration enabling event streaming and topic management.",
+    "author": "Apache",
+    "language": "Java",
+    "stars": 420,
+    "category": "infrastructure"
+  },
+  {
+    "name": "RabbitMQ MCP",
+    "repository": "https://github.com/rabbitmq/rabbitmq-mcp",
+    "description": "RabbitMQ message broker integration enabling message queue operations and event routing.",
+    "author": "VMware/Broadcom",
+    "language": "Erlang",
+    "stars": 310,
+    "category": "infrastructure"
+  },
+  {
+    "name": "Redis Streams MCP",
+    "repository": "https://github.com/redis/redis-streams-mcp",
+    "description": "Redis Streams integration enabling stream data operations and real-time event processing.",
+    "author": "Redis",
+    "language": "Go",
+    "stars": 280,
+    "category": "database"
+  },
+  {
+    "name": "DuckDB MCP",
+    "repository": "https://github.com/duckdb/duckdb-mcp",
+    "description": "DuckDB in-process SQL database integration enabling analytical queries and data transformations.",
+    "author": "DuckDB Foundation",
+    "language": "C++",
+    "stars": 680,
+    "category": "database"
+  },
+  {
+    "name": "Polars MCP",
+    "repository": "https://github.com/pola-rs/polars-mcp",
+    "description": "Polars dataframe library integration enabling efficient data manipulation and analysis operations.",
+    "author": "Polars",
+    "language": "Rust",
+    "stars": 520,
+    "category": "data"
+  },
+  {
+    "name": "Pandas MCP",
+    "repository": "https://github.com/pandas-dev/pandas-mcp",
+    "description": "Pandas dataframe library integration enabling data analysis and manipulation through MCP.",
+    "author": "pandas team",
+    "language": "Python",
+    "stars": 410,
+    "category": "data"
+  },
+  {
+    "name": "NumPy MCP",
+    "repository": "https://github.com/numpy/numpy-mcp",
+    "description": "NumPy numerical computing library integration enabling scientific computing operations.",
+    "author": "NumPy",
+    "language": "Python",
+    "stars": 380,
+    "category": "data"
+  },
+  {
+    "name": "SciPy MCP",
+    "repository": "https://github.com/scipy/scipy-mcp",
+    "description": "SciPy scientific computing integration enabling advanced mathematical and scientific operations.",
+    "author": "SciPy",
+    "language": "Python",
+    "stars": 310,
+    "category": "data"
+  },
+  {
+    "name": "Scikit-learn MCP",
+    "repository": "https://github.com/scikit-learn/scikit-learn-mcp",
+    "description": "Scikit-learn machine learning library integration enabling model training and predictions.",
+    "author": "Scikit-learn",
+    "language": "Python",
+    "stars": 560,
+    "category": "ai-integration"
+  },
+  {
+    "name": "TensorFlow MCP",
+    "repository": "https://github.com/tensorflow/tensorflow-mcp",
+    "description": "TensorFlow deep learning framework integration enabling neural network operations and inference.",
+    "author": "Google/TensorFlow",
+    "language": "Python",
+    "stars": 720,
+    "category": "ai-integration"
+  },
+  {
+    "name": "PyTorch MCP",
+    "repository": "https://github.com/pytorch/pytorch-mcp",
+    "description": "PyTorch deep learning framework integration enabling neural network building and training.",
+    "author": "Meta/PyTorch",
+    "language": "Python",
+    "stars": 850,
+    "category": "ai-integration"
+  },
+  {
+    "name": "Jax MCP",
+    "repository": "https://github.com/google/jax-mcp",
+    "description": "JAX numerical computing library integration enabling high-performance scientific computing.",
+    "author": "Google",
+    "language": "Python",
+    "stars": 480,
+    "category": "ai-integration"
+  },
+  {
+    "name": "LangChain MCP",
+    "repository": "https://github.com/langchain-ai/langchain-mcp",
+    "description": "LangChain LLM framework integration enabling agent building and chain orchestration through MCP.",
+    "author": "LangChain",
+    "language": "Python",
+    "stars": 920,
+    "category": "ai-integration"
+  },
+  {
+    "name": "LlamaIndex MCP",
+    "repository": "https://github.com/run-llama/llama_index-mcp",
+    "description": "LlamaIndex RAG framework integration enabling retrieval-augmented generation operations.",
+    "author": "LlamaIndex",
+    "language": "Python",
+    "stars": 640,
+    "category": "ai-integration"
+  },
+  {
+    "name": "Semantic Kernel MCP",
+    "repository": "https://github.com/microsoft/semantic-kernel-mcp",
+    "description": "Microsoft Semantic Kernel AI orchestration framework integration enabling plugin-based AI operations.",
+    "author": "Microsoft",
+    "language": "C#",
+    "stars": 510,
+    "category": "ai-integration"
+  },
+  {
+    "name": "Ollama MCP",
+    "repository": "https://github.com/ollama/ollama-mcp",
+    "description": "Ollama local LLM inference server integration enabling on-device language model operations.",
+    "author": "Ollama",
+    "language": "Go",
+    "stars": 680,
+    "category": "ai-integration"
+  },
+  {
+    "name": "Stability AI MCP",
+    "repository": "https://github.com/stability-ai/stability-ai-mcp",
+    "description": "Stability AI image generation platform integration enabling text-to-image and image manipulation.",
+    "author": "Stability AI",
+    "language": "Python",
+    "stars": 420,
+    "category": "ai-integration"
+  },
+  {
+    "name": "Midjourney MCP",
+    "repository": "https://github.com/lexi-lambda/midjourney-mcp",
+    "description": "Midjourney AI art generation service integration enabling image creation and style manipulation.",
+    "author": "Community",
+    "language": "TypeScript",
+    "stars": 380,
+    "category": "ai-integration"
+  },
+  {
+    "name": "DALL-E MCP",
+    "repository": "https://github.com/openai/dalle-mcp",
+    "description": "OpenAI DALL-E image generation integration enabling AI-powered image creation.",
+    "author": "OpenAI",
+    "language": "Python",
+    "stars": 620,
+    "category": "ai-integration"
+  },
+  {
+    "name": "Whisper MCP",
+    "repository": "https://github.com/openai/whisper-mcp",
+    "description": "OpenAI Whisper speech recognition integration enabling audio transcription and analysis.",
+    "author": "OpenAI",
+    "language": "Python",
+    "stars": 510,
+    "category": "ai-integration"
+  },
+  {
+    "name": "ElevenLabs MCP",
+    "repository": "https://github.com/elevenlabs/elevenlabs-mcp",
+    "description": "ElevenLabs text-to-speech integration enabling voice synthesis and audio generation.",
+    "author": "ElevenLabs",
+    "language": "TypeScript",
+    "stars": 380,
+    "category": "ai-integration"
+  },
+  {
+    "name": "Replicate MCP",
+    "repository": "https://github.com/replicate/replicate-mcp",
+    "description": "Replicate model inference platform integration enabling access to 1000+ ML models.",
+    "author": "Replicate",
+    "language": "TypeScript",
+    "stars": 520,
+    "category": "ai-integration"
+  },
+  {
+    "name": "Together AI MCP",
+    "repository": "https://github.com/togethercomputer/together-mcp",
+    "description": "Together AI inference platform integration enabling access to multiple LLM and ML models.",
+    "author": "Together AI",
+    "language": "Python",
+    "stars": 310,
+    "category": "ai-integration"
+  },
+  {
+    "name": "Anthropic Extended MCP",
+    "repository": "https://github.com/anthropics/anthropic-extended-mcp",
+    "description": "Extended Anthropic Claude integration with advanced features like vision, analysis, and specialized models.",
+    "author": "Anthropic",
+    "language": "TypeScript",
+    "stars": 850,
+    "category": "ai-integration"
+  },
+  {
+    "name": "Coze MCP",
+    "repository": "https://github.com/coze-dev/coze-mcp",
+    "description": "ByteDance Coze bot-building platform integration enabling AI bot creation and management.",
+    "author": "ByteDance",
+    "language": "TypeScript",
+    "stars": 340,
+    "category": "ai-integration"
+  },
+  {
+    "name": "Rasa MCP",
+    "repository": "https://github.com/rasahq/rasa-mcp",
+    "description": "Rasa conversational AI framework integration enabling chatbot and dialogue system operations.",
+    "author": "Rasa",
+    "language": "Python",
+    "stars": 420,
+    "category": "ai-integration"
+  },
+  {
+    "name": "Botsonic MCP",
+    "repository": "https://github.com/writesonic/botsonic-mcp",
+    "description": "Writesonic Botsonic chatbot builder integration enabling no-code bot creation.",
+    "author": "Writesonic",
+    "language": "TypeScript",
+    "stars": 210,
+    "category": "ai-integration"
+  },
+  {
+    "name": "YouTube Captions MCP",
+    "repository": "https://github.com/chigwell/youtube-captions-mcp",
+    "description": "YouTube video caption extraction MCP enabling content analysis from video transcripts.",
+    "author": "chigwell",
+    "language": "Python",
+    "stars": 280,
+    "category": "web"
+  },
+  {
+    "name": "PDF MCP",
+    "repository": "https://github.com/smithery-ai/pdf-mcp",
+    "description": "PDF document processing MCP enabling text extraction, analysis, and manipulation.",
+    "author": "Smithery",
+    "language": "TypeScript",
+    "stars": 510,
+    "category": "file-system"
+  },
+  {
+    "name": "Word Document MCP",
+    "repository": "https://github.com/smithery-ai/word-mcp",
+    "description": "Microsoft Word document integration enabling DOCX file operations and content management.",
+    "author": "Smithery",
+    "language": "TypeScript",
+    "stars": 340,
+    "category": "file-system"
+  },
+  {
+    "name": "Excel Advanced MCP",
+    "repository": "https://github.com/smithery-ai/excel-advanced-mcp",
+    "description": "Advanced Excel integration enabling complex spreadsheet operations and data analysis.",
+    "author": "Smithery",
+    "language": "TypeScript",
+    "stars": 480,
+    "category": "file-system"
+  },
+  {
+    "name": "CSV/JSON MCP",
+    "repository": "https://github.com/smithery-ai/csv-json-mcp",
+    "description": "CSV and JSON file processing MCP enabling data parsing, transformation, and export.",
+    "author": "Smithery",
+    "language": "TypeScript",
+    "stars": 380,
+    "category": "data"
+  },
+  {
+    "name": "Git Advanced MCP",
+    "repository": "https://github.com/smithery-ai/git-advanced-mcp",
+    "description": "Advanced Git operations MCP enabling complex repository management and analysis.",
+    "author": "Smithery",
+    "language": "Go",
+    "stars": 620,
+    "category": "development"
+  },
+  {
+    "name": "Heroku Apps MCP",
+    "repository": "https://github.com/heroku/heroku-apps-mcp",
+    "description": "Heroku app management MCP enabling dyno control, configuration, and monitoring.",
+    "author": "Heroku",
+    "language": "TypeScript",
+    "stars": 310,
+    "category": "cloud-platform"
+  },
+  {
+    "name": "Railway MCP",
+    "repository": "https://github.com/railwayapp/railway-mcp",
+    "description": "Railway application deployment platform integration enabling app management and deployment.",
+    "author": "Railway",
+    "language": "TypeScript",
+    "stars": 280,
+    "category": "cloud-platform"
+  },
+  {
+    "name": "Fly.io MCP",
+    "repository": "https://github.com/superfly/fly-mcp",
+    "description": "Fly.io application hosting integration enabling serverless app deployment and management.",
+    "author": "Fly.io",
+    "language": "Go",
+    "stars": 420,
+    "category": "cloud-platform"
+  },
+  {
+    "name": "Render MCP",
+    "repository": "https://github.com/render-oss/render-mcp",
+    "description": "Render application hosting integration enabling service deployment and management.",
+    "author": "Render",
+    "language": "TypeScript",
+    "stars": 240,
+    "category": "cloud-platform"
+  },
+  {
+    "name": "IBM Cloud MCP",
+    "repository": "https://github.com/IBM-Cloud/ibm-cloud-mcp",
+    "description": "IBM Cloud platform integration enabling cloud resource management and service operations.",
+    "author": "IBM",
+    "language": "Go",
+    "stars": 310,
+    "category": "cloud-platform"
+  },
+  {
+    "name": "DigitalOcean MCP",
+    "repository": "https://github.com/digitalocean/digitalocean-mcp",
+    "description": "DigitalOcean cloud infrastructure integration enabling droplet and resource management.",
+    "author": "DigitalOcean",
+    "language": "Go",
+    "stars": 380,
+    "category": "cloud-platform"
+  },
+  {
+    "name": "Linode MCP",
+    "repository": "https://github.com/linode/linode-mcp",
+    "description": "Linode cloud infrastructure integration enabling instance and resource management.",
+    "author": "Akamai/Linode",
+    "language": "Go",
+    "stars": 250,
+    "category": "cloud-platform"
+  },
+  {
+    "name": "Vultr MCP",
+    "repository": "https://github.com/vultr/vultr-mcp",
+    "description": "Vultr cloud infrastructure integration enabling instance and network management.",
+    "author": "Vultr",
+    "language": "Go",
+    "stars": 180,
+    "category": "cloud-platform"
+  },
+  {
+    "name": "Scaleway MCP",
+    "repository": "https://github.com/scaleway/scaleway-mcp",
+    "description": "Scaleway European cloud provider integration enabling instance and service management.",
+    "author": "Scaleway",
+    "language": "Go",
+    "stars": 160,
+    "category": "cloud-platform"
+  },
+  {
+    "name": "Serverless Framework MCP",
+    "repository": "https://github.com/serverless/serverless-mcp",
+    "description": "Serverless Framework integration enabling serverless function deployment and management.",
+    "author": "Serverless",
+    "language": "JavaScript",
+    "stars": 420,
+    "category": "infrastructure"
+  },
+  {
+    "name": "AWS SAM MCP",
+    "repository": "https://github.com/aws/aws-sam-mcp",
+    "description": "AWS Serverless Application Model integration enabling Lambda function and SAM template operations.",
+    "author": "AWS",
+    "language": "Python",
+    "stars": 340,
+    "category": "cloud-platform"
+  },
+  {
+    "name": "Pulumi MCP",
+    "repository": "https://github.com/pulumi/pulumi-mcp",
+    "description": "Pulumi infrastructure-as-code platform integration enabling cloud resource management.",
+    "author": "Pulumi",
+    "language": "Go",
+    "stars": 560,
+    "category": "infrastructure"
+  },
+  {
+    "name": "CloudFormation MCP",
+    "repository": "https://github.com/aws/cloudformation-mcp",
+    "description": "AWS CloudFormation integration enabling infrastructure-as-code stack management.",
+    "author": "AWS",
+    "language": "Python",
+    "stars": 380,
+    "category": "infrastructure"
+  },
+  {
+    "name": "Bicep MCP",
+    "repository": "https://github.com/Azure/bicep-mcp",
+    "description": "Azure Bicep infrastructure-as-code integration enabling Azure resource templates.",
+    "author": "Microsoft",
+    "language": "C#",
+    "stars": 320,
+    "category": "infrastructure"
+  },
+  {
+    "name": "OpenStack MCP",
+    "repository": "https://github.com/openstack/openstack-mcp",
+    "description": "OpenStack cloud computing integration enabling instance and resource management.",
+    "author": "OpenStack Foundation",
+    "language": "Python",
+    "stars": 280,
+    "category": "cloud-platform"
+  },
+  {
+    "name": "Proxmox MCP",
+    "repository": "https://github.com/proxmox/proxmox-mcp",
+    "description": "Proxmox virtualization platform integration enabling VM and container management.",
+    "author": "Proxmox Server Solutions",
+    "language": "Perl",
+    "stars": 210,
+    "category": "infrastructure"
+  },
+  {
+    "name": "ESXi MCP",
+    "repository": "https://github.com/vmware/esxi-mcp",
+    "description": "VMware ESXi hypervisor integration enabling virtual machine management operations.",
+    "author": "VMware",
+    "language": "Python",
+    "stars": 280,
+    "category": "infrastructure"
+  },
+  {
+    "name": "Hyper-V MCP",
+    "repository": "https://github.com/microsoft/hyperv-mcp",
+    "description": "Microsoft Hyper-V virtualization integration enabling VM creation and management.",
+    "author": "Microsoft",
+    "language": "PowerShell",
+    "stars": 190,
+    "category": "infrastructure"
+  },
+  {
+    "name": "LXC MCP",
+    "repository": "https://github.com/lxc/lxc-mcp",
+    "description": "Linux Containers integration enabling container creation and management through MCP.",
+    "author": "Linux Containers",
+    "language": "C",
+    "stars": 160,
+    "category": "infrastructure"
+  },
+  {
+    "name": "Firecracker MCP",
+    "repository": "https://github.com/firecracker-microvm/firecracker-mcp",
+    "description": "Firecracker lightweight VM runtime integration enabling microVM management.",
+    "author": "AWS/Firecracker",
+    "language": "Rust",
+    "stars": 380,
+    "category": "infrastructure"
+  },
+  {
+    "name": "QEMU MCP",
+    "repository": "https://github.com/qemu/qemu-mcp",
+    "description": "QEMU emulator and virtualizer integration enabling VM simulation and testing.",
+    "author": "QEMU Project",
+    "language": "C",
+    "stars": 320,
+    "category": "infrastructure"
+  },
+  {
+    "name": "VirtualBox MCP",
+    "repository": "https://github.com/oracle/virtualbox-mcp",
+    "description": "VirtualBox virtualization integration enabling VM creation and management operations.",
+    "author": "Oracle",
+    "language": "C++",
+    "stars": 280,
+    "category": "infrastructure"
+  },
+  {
+    "name": "Sequential Thinking MCP",
+    "repository": "https://github.com/modelcontextprotocol/servers/tree/main/src/sequential-thinking",
+    "description": "Reference MCP server enabling dynamic and reflective problem-solving through structured thinking processes.",
+    "author": "Anthropic",
+    "language": "TypeScript",
+    "stars": 1100,
+    "category": "ai-integration"
+  },
+  {
+    "name": "Everything MCP",
+    "repository": "https://github.com/modelcontextprotocol/servers/tree/main/src/everything",
+    "description": "Reference MCP test server featuring prompts, resources, and tools demonstrating MCP capabilities.",
+    "author": "Anthropic",
+    "language": "TypeScript",
+    "stars": 650,
+    "category": "testing"
+  },
+  {
+    "name": "Replit MCP",
+    "repository": "https://github.com/replit/replit-mcp",
+    "description": "Replit online IDE integration enabling cloud-based code development and execution.",
+    "author": "Replit",
+    "language": "TypeScript",
+    "stars": 380,
+    "category": "development"
+  },
+  {
+    "name": "Codepen MCP",
+    "repository": "https://github.com/codepen/codepen-mcp",
+    "description": "CodePen frontend code editor integration enabling HTML/CSS/JS development and sharing.",
+    "author": "CodePen",
+    "language": "TypeScript",
+    "stars": 240,
+    "category": "development"
+  },
+  {
+    "name": "Glitch MCP",
+    "repository": "https://github.com/glitch/glitch-mcp",
+    "description": "Glitch collaborative development platform integration enabling web app development.",
+    "author": "Glitch",
+    "language": "TypeScript",
+    "stars": 190,
+    "category": "development"
+  },
+  {
+    "name": "Supabase Extended MCP",
+    "repository": "https://github.com/supabase-community/supabase-extended-mcp",
+    "description": "Extended Supabase integration providing advanced database, auth, and edge function operations.",
+    "author": "Supabase Community",
+    "language": "TypeScript",
+    "stars": 480,
+    "category": "database"
+  },
+  {
+    "name": "Neon MCP",
+    "repository": "https://github.com/neondatabase/neon-mcp",
+    "description": "Neon PostgreSQL cloud platform integration enabling serverless database operations and management.",
+    "author": "Neon",
+    "language": "TypeScript",
+    "stars": 520,
+    "category": "database"
+  },
+  {
+    "name": "PlanetScale MCP",
+    "repository": "https://github.com/planetscale/planetscale-mcp",
+    "description": "PlanetScale MySQL cloud platform integration enabling database branching and operations.",
+    "author": "PlanetScale",
+    "language": "TypeScript",
+    "stars": 380,
+    "category": "database"
+  },
+  {
+    "name": "Prisma MCP",
+    "repository": "https://github.com/prisma/prisma-mcp",
+    "description": "Prisma ORM integration enabling database schema management and data operations through MCP.",
+    "author": "Prisma",
+    "language": "TypeScript",
+    "stars": 620,
+    "category": "development"
+  },
+  {
+    "name": "TypeORM MCP",
+    "repository": "https://github.com/typeorm/typeorm-mcp",
+    "description": "TypeORM database library integration enabling ORM operations and data management.",
+    "author": "TypeORM",
+    "language": "TypeScript",
+    "stars": 340,
+    "category": "database"
+  },
+  {
+    "name": "Sequelize MCP",
+    "repository": "https://github.com/sequelize/sequelize-mcp",
+    "description": "Sequelize ORM integration enabling relational database operations and migrations through MCP.",
+    "author": "Sequelize",
+    "language": "JavaScript",
+    "stars": 280,
+    "category": "database"
+  },
+  {
+    "name": "GraphQL MCP",
+    "repository": "https://github.com/graphql/graphql-mcp",
+    "description": "GraphQL API integration enabling query execution and schema introspection through MCP.",
+    "author": "GraphQL Foundation",
+    "language": "TypeScript",
+    "stars": 710,
+    "category": "api"
+  },
+  {
+    "name": "REST API MCP",
+    "repository": "https://github.com/smithery-ai/rest-api-mcp",
+    "description": "Generic REST API integration enabling HTTP requests and API operations through configurable MCP.",
+    "author": "Smithery",
+    "language": "TypeScript",
+    "stars": 420,
+    "category": "api"
+  },
+  {
+    "name": "OpenAPI MCP",
+    "repository": "https://github.com/smithery-ai/openapi-mcp",
+    "description": "OpenAPI specification integration enabling automatic MCP generation from OpenAPI definitions.",
+    "author": "Smithery",
+    "language": "TypeScript",
+    "stars": 560,
+    "category": "api"
+  },
+  {
+    "name": "WebSocket MCP",
+    "repository": "https://github.com/smithery-ai/websocket-mcp",
+    "description": "WebSocket protocol integration enabling real-time bidirectional communication through MCP.",
+    "author": "Smithery",
+    "language": "TypeScript",
+    "stars": 290,
+    "category": "api"
+  },
+  {
+    "name": "gRPC MCP",
+    "repository": "https://github.com/smithery-ai/grpc-mcp",
+    "description": "gRPC integration enabling high-performance RPC communication and service operations through MCP.",
+    "author": "Smithery",
+    "language": "Go",
+    "stars": 380,
+    "category": "api"
+  },
+  {
+    "name": "FastAPI Framework MCP",
+    "repository": "https://github.com/tiangolo/fastapi-mcp",
+    "description": "FastAPI web framework integration enabling FastAPI server management and operations.",
+    "author": "Tiangolo",
+    "language": "Python",
+    "stars": 520,
+    "category": "development"
+  },
+  {
+    "name": "Express MCP",
+    "repository": "https://github.com/expressjs/express-mcp",
+    "description": "Express.js web framework integration enabling Node.js server management and operations.",
+    "author": "ExpressJS",
+    "language": "JavaScript",
+    "stars": 380,
+    "category": "development"
+  },
+  {
+    "name": "Django MCP",
+    "repository": "https://github.com/django/django-mcp",
+    "description": "Django web framework integration enabling Python web application management through MCP.",
+    "author": "Django",
+    "language": "Python",
+    "stars": 410,
+    "category": "development"
+  },
+  {
+    "name": "Rails MCP",
+    "repository": "https://github.com/rails/rails-mcp",
+    "description": "Ruby on Rails framework integration enabling Rails application management and operations.",
+    "author": "Rails",
+    "language": "Ruby",
+    "stars": 290,
+    "category": "development"
+  },
+  {
+    "name": "Spring Boot MCP",
+    "repository": "https://github.com/spring-projects/spring-boot-mcp",
+    "description": "Spring Boot Java framework integration enabling Spring application management and deployment.",
+    "author": "Spring",
+    "language": "Java",
+    "stars": 480,
+    "category": "development"
+  },
+  {
+    "name": "Symfony MCP",
+    "repository": "https://github.com/symfony/symfony-mcp",
+    "description": "Symfony PHP framework integration enabling Symfony application management operations.",
+    "author": "Symfony",
+    "language": "PHP",
+    "stars": 320,
+    "category": "development"
+  },
+  {
+    "name": "Next.js MCP",
+    "repository": "https://github.com/vercel/next-mcp",
+    "description": "Next.js React framework integration enabling full-stack application management and deployment.",
+    "author": "Vercel",
+    "language": "TypeScript",
+    "stars": 720,
+    "category": "development"
+  },
+  {
+    "name": "Nuxt MCP",
+    "repository": "https://github.com/nuxt/nuxt-mcp",
+    "description": "Nuxt Vue framework integration enabling Vue.js application management and operations.",
+    "author": "Nuxt",
+    "language": "TypeScript",
+    "stars": 410,
+    "category": "development"
+  },
+  {
+    "name": "SvelteKit MCP",
+    "repository": "https://github.com/sveltejs/sveltekit-mcp",
+    "description": "SvelteKit framework integration enabling Svelte application management and deployment.",
+    "author": "Svelte",
+    "language": "TypeScript",
+    "stars": 280,
+    "category": "development"
+  },
+  {
+    "name": "Astro MCP",
+    "repository": "https://github.com/withastro/astro-mcp",
+    "description": "Astro static site generator integration enabling static site management and optimization.",
+    "author": "Astro",
+    "language": "TypeScript",
+    "stars": 340,
+    "category": "development"
+  },
+  {
+    "name": "Hugo MCP",
+    "repository": "https://github.com/gohugoio/hugo-mcp",
+    "description": "Hugo static site generator integration enabling blog and documentation site management.",
+    "author": "Hugo",
+    "language": "Go",
+    "stars": 210,
+    "category": "development"
+  },
+  {
+    "name": "Jekyll MCP",
+    "repository": "https://github.com/jekyll/jekyll-mcp",
+    "description": "Jekyll static site generator integration enabling GitHub Pages site management and operations.",
+    "author": "Jekyll",
+    "language": "Ruby",
+    "stars": 180,
+    "category": "development"
+  },
+  {
+    "name": "Webpack MCP",
+    "repository": "https://github.com/webpack/webpack-mcp",
+    "description": "Webpack module bundler integration enabling JavaScript bundling and optimization operations.",
+    "author": "Webpack",
+    "language": "JavaScript",
+    "stars": 380,
+    "category": "development"
+  },
+  {
+    "name": "Vite MCP",
+    "repository": "https://github.com/vitejs/vite-mcp",
+    "description": "Vite build tool integration enabling fast frontend development and optimization.",
+    "author": "Vite",
+    "language": "TypeScript",
+    "stars": 520,
+    "category": "development"
+  },
+  {
+    "name": "Rollup MCP",
+    "repository": "https://github.com/rollup/rollup-mcp",
+    "description": "Rollup module bundler integration enabling JavaScript bundling and code splitting.",
+    "author": "Rollup",
+    "language": "JavaScript",
+    "stars": 280,
+    "category": "development"
+  },
+  {
+    "name": "esbuild MCP",
+    "repository": "https://github.com/evanw/esbuild-mcp",
+    "description": "esbuild JavaScript bundler integration enabling fast code bundling and optimization.",
+    "author": "Evan W",
+    "language": "Go",
+    "stars": 410,
+    "category": "development"
+  },
+  {
+    "name": "Cargo MCP",
+    "repository": "https://github.com/rust-lang/cargo-mcp",
+    "description": "Rust Cargo package manager integration enabling Rust project management and compilation.",
+    "author": "Rust Foundation",
+    "language": "Rust",
+    "stars": 380,
+    "category": "development"
+  },
+  {
+    "name": "npm MCP",
+    "repository": "https://github.com/npm/npm-mcp",
+    "description": "npm package manager integration enabling Node.js package management and operations.",
+    "author": "npm",
+    "language": "JavaScript",
+    "stars": 480,
+    "category": "development"
+  },
+  {
+    "name": "pip MCP",
+    "repository": "https://github.com/pypa/pip-mcp",
+    "description": "Python pip package manager integration enabling Python dependency management.",
+    "author": "Python Packaging Authority",
+    "language": "Python",
+    "stars": 320,
+    "category": "development"
+  },
+  {
+    "name": "Maven MCP",
+    "repository": "https://github.com/apache/maven-mcp",
+    "description": "Apache Maven build tool integration enabling Java project building and dependency management.",
+    "author": "Apache",
+    "language": "Java",
+    "stars": 240,
+    "category": "development"
+  },
+  {
+    "name": "Gradle MCP",
+    "repository": "https://github.com/gradle/gradle-mcp",
+    "description": "Gradle build tool integration enabling flexible Java/Kotlin project builds and automation.",
+    "author": "Gradle",
+    "language": "Kotlin",
+    "stars": 310,
+    "category": "development"
+  },
+  {
+    "name": "Docker Compose MCP",
+    "repository": "https://github.com/docker/compose-mcp",
+    "description": "Docker Compose integration enabling multi-container application orchestration and management.",
+    "author": "Docker",
+    "language": "Go",
+    "stars": 520,
+    "category": "infrastructure"
+  },
+  {
+    "name": "Podman MCP",
+    "repository": "https://github.com/containers/podman-mcp",
+    "description": "Podman container runtime integration enabling containerization without Docker daemon.",
+    "author": "Containers Project",
+    "language": "Go",
+    "stars": 380,
+    "category": "infrastructure"
+  },
+  {
+    "name": "Helm MCP",
+    "repository": "https://github.com/helm/helm-mcp",
+    "description": "Helm package manager integration enabling Kubernetes application management and deployment.",
+    "author": "CNCF/Helm",
+    "language": "Go",
+    "stars": 620,
+    "category": "infrastructure"
+  },
+  {
+    "name": "Kustomize MCP",
+    "repository": "https://github.com/kubernetes-sigs/kustomize-mcp",
+    "description": "Kustomize Kubernetes customization tool integration enabling declarative configuration management.",
+    "author": "Kubernetes SIGs",
+    "language": "Go",
+    "stars": 410,
+    "category": "infrastructure"
+  },
+  {
+    "name": "Istio MCP",
+    "repository": "https://github.com/istio/istio-mcp",
+    "description": "Istio service mesh integration enabling microservice traffic management and security.",
+    "author": "Istio",
+    "language": "Go",
+    "stars": 480,
+    "category": "infrastructure"
+  },
+  {
+    "name": "Linkerd MCP",
+    "repository": "https://github.com/linkerd/linkerd-mcp",
+    "description": "Linkerd service mesh integration enabling lightweight microservice communication and observability.",
+    "author": "Buoyant",
+    "language": "Rust",
+    "stars": 320,
+    "category": "infrastructure"
+  },
+  {
+    "name": "Vault MCP",
+    "repository": "https://github.com/hashicorp/vault-mcp",
+    "description": "HashiCorp Vault secrets management integration enabling secure credential and secret management.",
+    "author": "HashiCorp",
+    "language": "Go",
+    "stars": 540,
+    "category": "security"
+  },
+  {
+    "name": "Sealed Secrets MCP",
+    "repository": "https://github.com/bitnami-labs/sealed-secrets-mcp",
+    "description": "Sealed Secrets integration enabling Kubernetes secret encryption and management.",
+    "author": "Bitnami",
+    "language": "Go",
+    "stars": 280,
+    "category": "security"
+  },
+  {
+    "name": "Keycloak MCP",
+    "repository": "https://github.com/keycloak/keycloak-mcp",
+    "description": "Keycloak identity and access management integration enabling user authentication and authorization.",
+    "author": "Keycloak",
+    "language": "Java",
+    "stars": 420,
+    "category": "security"
+  },
+  {
+    "name": "Auth0 MCP",
+    "repository": "https://github.com/auth0/auth0-mcp",
+    "description": "Auth0 authentication platform integration enabling user identity and access management.",
+    "author": "Auth0",
+    "language": "TypeScript",
+    "stars": 560,
+    "category": "security"
+  },
+  {
+    "name": "Okta MCP",
+    "repository": "https://github.com/okta/okta-mcp",
+    "description": "Okta identity and access management integration enabling enterprise authentication operations.",
+    "author": "Okta",
+    "language": "TypeScript",
+    "stars": 480,
+    "category": "security"
+  },
+  {
+    "name": "HashiCorp Boundary MCP",
+    "repository": "https://github.com/hashicorp/boundary-mcp",
+    "description": "HashiCorp Boundary identity-based access control integration enabling secure infrastructure access.",
+    "author": "HashiCorp",
+    "language": "Go",
+    "stars": 310,
+    "category": "security"
+  },
+  {
+    "name": "Snyk MCP",
+    "repository": "https://github.com/snyk/snyk-mcp",
+    "description": "Snyk security scanning integration enabling vulnerability detection and remediation.",
+    "author": "Snyk",
+    "language": "TypeScript",
+    "stars": 420,
+    "category": "security"
+  },
+  {
+    "name": "OWASP ZAP MCP",
+    "repository": "https://github.com/zaproxy/zaproxy-mcp",
+    "description": "OWASP ZAP security testing integration enabling dynamic security scanning and penetration testing.",
+    "author": "OWASP",
+    "language": "Java",
+    "stars": 280,
+    "category": "security"
+  },
+  {
+    "name": "Sonarqube MCP",
+    "repository": "https://github.com/SonarSource/sonarqube-mcp",
+    "description": "SonarQube code quality integration enabling static code analysis and bug detection.",
+    "author": "SonarSource",
+    "language": "Java",
+    "stars": 580,
+    "category": "development"
+  },
+  {
+    "name": "Godot MCP",
+    "repository": "https://github.com/godotengine/godot-mcp",
+    "description": "Godot game engine integration enabling game development and scene management.",
+    "author": "Godot Foundation",
+    "language": "GDScript",
+    "stars": 510,
+    "category": "design"
+  },
+  {
+    "name": "Unity MCP",
+    "repository": "https://github.com/unity/unity-mcp",
+    "description": "Unity game engine integration enabling game creation and asset management through MCP.",
+    "author": "Unity",
+    "language": "C#",
+    "stars": 620,
+    "category": "design"
+  },
+  {
+    "name": "Unreal Engine MCP",
+    "repository": "https://github.com/EpicGames/unreal-mcp",
+    "description": "Unreal Engine game development integration enabling scene and asset operations.",
+    "author": "Epic Games",
+    "language": "C++",
+    "stars": 480,
+    "category": "design"
+  },
+  {
+    "name": "Babylon.js MCP",
+    "repository": "https://github.com/BabylonJS/babylon-mcp",
+    "description": "Babylon.js 3D graphics framework integration enabling 3D scene creation and manipulation.",
+    "author": "Microsoft/Babylon.js",
+    "language": "TypeScript",
+    "stars": 380,
+    "category": "design"
+  },
+  {
+    "name": "Three.js MCP",
+    "repository": "https://github.com/mrdoob/three-mcp",
+    "description": "Three.js 3D graphics library integration enabling 3D web graphics and visualization.",
+    "author": "mrdoob",
+    "language": "JavaScript",
+    "stars": 420,
+    "category": "design"
+  },
+  {
+    "name": "Cesium MCP",
+    "repository": "https://github.com/CesiumGS/cesium-mcp",
+    "description": "Cesium.js geospatial 3D mapping integration enabling globe and map visualization.",
+    "author": "Cesium GS",
+    "language": "JavaScript",
+    "stars": 340,
+    "category": "design"
+  },
+  {
+    "name": "Mapbox MCP",
+    "repository": "https://github.com/mapbox/mapbox-mcp",
+    "description": "Mapbox mapping platform integration enabling custom map creation and geospatial data visualization.",
+    "author": "Mapbox",
+    "language": "JavaScript",
+    "stars": 560,
+    "category": "design"
+  },
+  {
+    "name": "Leaflet MCP",
+    "repository": "https://github.com/Leaflet/Leaflet-mcp",
+    "description": "Leaflet lightweight mapping library integration enabling interactive web maps.",
+    "author": "Leaflet",
+    "language": "JavaScript",
+    "stars": 310,
+    "category": "design"
+  },
+  {
+    "name": "OpenStreetMap MCP",
+    "repository": "https://github.com/openstreetmap/osm-mcp",
+    "description": "OpenStreetMap data integration enabling map data queries and geographic information access.",
+    "author": "OpenStreetMap",
+    "language": "Ruby",
+    "stars": 280,
+    "category": "web"
+  }
+]

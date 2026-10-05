@@ -1,0 +1,36 @@
+---
+import { Link } from '@heroui/react';
+import Layout from '../../layouts/Layout.astro';
+import MarkdownContent from '../../components/MarkdownContent';
+import Contents from '../../components/Contents';
+import Icon from '../../components/Icon';
+import { getEntries, repositoryUrl } from '../../lib/content';
+import { renderMarkdown } from '../../lib/markdown';
+
+export async function getStaticPaths() {
+  const entries = await getEntries('guide');
+  return entries.map(entry => ({
+    params: { slug: entry.slug },
+    props: {
+      entry,
+      related: entries
+        .filter(item => item.slug !== entry.slug)
+        .sort((a, b) => {
+          const score = (item: typeof a) => Number(item.category === entry.category) * 3 + item.tags.filter(tag => entry.tags.includes(tag)).length;
+          return score(b) - score(a) || (b.date || '').localeCompare(a.date || '');
+        })
+        .slice(0, 3),
+    },
+  }));
+}
+const { entry, related } = Astro.props;
+const content = renderMarkdown(entry.body);
+---
+<Layout title={entry.title} description={entry.description} active="guides" kind="guide" seo={entry.seo} entry={entry} updated={entry.updated || entry.date}>
+  <main id="main" class="article-page" data-pagefind-body>
+    <span hidden data-pagefind-filter="kind:guide" data-pagefind-meta={`slug:${entry.slug}`} /><span hidden data-pagefind-filter={`category:${entry.category}`} />
+    <nav class="breadcrumbs" aria-label="Breadcrumb" data-pagefind-ignore><Link href="/guides/">Guides</Link><span>/</span><span>{entry.category}</span></nav>
+    <header class="article-header"><span class="eyebrow">{entry.category}</span><h1 data-pagefind-meta="title">{entry.title}</h1><p class="article-lead" data-pagefind-meta="description">{entry.description}</p><p class="article-byline">{entry.author}<span>·</span><time datetime={entry.date}>{new Date(`${entry.date}T12:00:00Z`).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric', timeZone: 'UTC' })}</time><span>·</span>{entry.readingTime} min read</p></header>
+    <div class="article-grid"><aside class="article-toc" data-pagefind-ignore><Contents headings={content.headings} client:load /></aside><article class="article-body"><MarkdownContent html={content.html} client:visible /><footer class="article-bottom" data-pagefind-ignore><h2>Keep exploring</h2>{related.map(guide => <Link href={guide.href}>{guide.title}<Icon name="arrow" size={17} /></Link>)}{repositoryUrl && <Link className="edit-link" href={`${repositoryUrl}/edit/main/data/guides/${entry.slug}.md`} target="_blank" rel="noopener noreferrer">Suggest an edit on GitHub <Icon name="external" size={13} /></Link>}</footer></article></div>
+  </main>
+</Layout>

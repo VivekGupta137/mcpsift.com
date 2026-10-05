@@ -1,0 +1,30 @@
+---
+import { Link } from '@heroui/react';
+import Layout from '../../layouts/Layout.astro';
+import Icon from '../../components/Icon';
+import { getEntries } from '../../lib/content';
+import { categoryDescription, categorySlug, categoryTitle } from '../../lib/landing';
+
+const servers = await getEntries('server');
+const categories = [...servers.reduce((groups, server) => {
+  const existing = groups.get(server.category) || [];
+  existing.push(server);
+  groups.set(server.category, existing);
+  return groups;
+}, new Map<string, typeof servers>())]
+  .map(([name, entries]) => ({ name, entries }))
+  .sort((a, b) => b.entries.length - a.entries.length || a.name.localeCompare(b.name));
+const description = 'Browse MCP server categories for developer tools, databases, research, browser automation, infrastructure, productivity, and creative workflows.';
+---
+<Layout title="MCP Server Categories" description={description} active="directory" kind="about">
+  <main id="main" class="guides-page">
+    <nav class="breadcrumbs" aria-label="Breadcrumb"><Link href="/">Directory</Link><span>/</span><span aria-current="page">Categories</span></nav>
+    <section class="hero guides-hero"><span class="eyebrow">EXPLORE THE DIRECTORY</span><h1>Browse MCP server categories</h1><p class="hero-description">{description}</p></section>
+    <section class="resource-roadmap" aria-labelledby="all-categories-title">
+      <div class="section-heading"><span class="section-kicker">{categories.length} CATEGORIES</span><h2 id="all-categories-title">Find servers by workflow</h2><p>Each category includes source links and practical connection details.</p></div>
+      <div class="resource-grid">
+        {categories.map(category => <Link href={`/categories/${categorySlug(category.name)}/`}><Icon name="folder" /><span><b>{categoryTitle(category.name)}</b><small>{categoryDescription(category.name)} · {category.entries.length} servers</small></span><Icon name="arrow" /></Link>)}
+      </div>
+    </section>
+  </main>
+</Layout>
