@@ -198,6 +198,49 @@ main {
   flex-wrap: wrap;
   gap: 12px;
 }
+.llm-dropdown-wrap {
+  position: relative;
+  display: inline-block;
+}
+.llm-trigger {
+  cursor: pointer;
+  border: none;
+  font-family: inherit;
+}
+.llm-menu {
+  position: absolute;
+  top: calc(100% + 6px);
+  left: 0;
+  background: var(--surface-secondary);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 160px;
+  z-index: 50;
+  box-shadow: 0 8px 24px rgb(0 0 0 / 20%);
+}
+.llm-menu-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 9px 12px;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--foreground);
+  text-decoration: none;
+  transition: background 120ms;
+}
+.llm-menu-item:hover {
+  background: var(--surface-tertiary);
+}
+.llm-menu-item img {
+  border-radius: 3px;
+  flex-shrink: 0;
+}
 .hero {
   padding-top: 50px;
 }

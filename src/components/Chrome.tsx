@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { Button, Link } from '@heroui/react';
 import Icon from './Icon';
 
@@ -34,4 +34,58 @@ export function Footer({ repository = '' }: { repository?: string }) {
 export function ActionLink({ href, children, icon, primary = false }: { href: string; children: React.ReactNode; icon?: string; primary?: boolean }) {
   const external = /^https?:/.test(href);
   return <Link href={href} className={`action-link ${primary ? 'primary' : 'secondary'}`} {...(external ? { target: '_blank', rel: 'noopener noreferrer' } : {})}>{icon && <Icon name={icon} size={18} />}{children}{external && <Icon name="external" size={14} />}</Link>;
+}
+
+const llmTargets = [
+  {
+    name: 'Claude',
+    className: 'llm-btn llm-claude',
+    url: (prompt: string) => `https://claude.ai/new?q=${encodeURIComponent(prompt)}`,
+    icon: 'https://www.google.com/s2/favicons?domain=claude.ai&sz=32',
+  },
+  {
+    name: 'ChatGPT',
+    className: 'llm-btn llm-chatgpt',
+    url: (prompt: string) => `https://chatgpt.com/?q=${encodeURIComponent(prompt)}`,
+    icon: 'https://www.google.com/s2/favicons?domain=chatgpt.com&sz=32',
+  },
+  {
+    name: 'Gemini',
+    className: 'llm-btn llm-gemini',
+    url: (prompt: string) => `https://gemini.google.com/app?q=${encodeURIComponent(prompt)}`,
+    icon: 'https://www.google.com/s2/favicons?domain=gemini.google.com&sz=32',
+  },
+];
+
+export function LLMButtons({ title, slug }: { title: string; slug: string }) {
+  const [open, setOpen] = useState(false);
+  const pageUrl = `https://mcpsift.com/servers/${slug}/`;
+  const prompt = `Help me set up the "${title}" MCP server. Installation instructions: ${pageUrl}`;
+
+  useEffect(() => {
+    if (!open) return;
+    const close = (e: MouseEvent) => { if (!(e.target as Element).closest('.llm-dropdown-wrap')) setOpen(false); };
+    document.addEventListener('mousedown', close);
+    return () => document.removeEventListener('mousedown', close);
+  }, [open]);
+
+  return (
+    <div className="llm-dropdown-wrap" data-pagefind-ignore>
+      <button className="action-link secondary llm-trigger" onClick={() => setOpen(o => !o)} aria-expanded={open} aria-haspopup="true">
+        <Icon name="layers" size={16} />
+        Setup with AI
+        <Icon name="chevron" size={14} />
+      </button>
+      {open && (
+        <div className="llm-menu" role="menu">
+          {llmTargets.map(llm => (
+            <a key={llm.name} href={llm.url(prompt)} target="_blank" rel="noopener noreferrer" className="llm-menu-item" role="menuitem" onClick={() => setOpen(false)}>
+              <img src={llm.icon} alt="" width={16} height={16} />
+              {llm.name}
+            </a>
+          ))}
+        </div>
+      )}
+    </div>
+  );
 }

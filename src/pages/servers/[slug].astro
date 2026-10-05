@@ -1,7 +1,7 @@
 ---
 import { Chip, Link } from '@heroui/react';
 import Layout from '../../layouts/Layout.astro';
-import { ActionLink } from '../../components/Chrome';
+import { ActionLink, LLMButtons } from '../../components/Chrome';
 import Icon from '../../components/Icon';
 import RepositoryStats from '../../components/RepositoryStats';
 import MarkdownContent from '../../components/MarkdownContent';
@@ -42,7 +42,7 @@ const renderedReadme = readme?.markdown ? renderMarkdown(readme.markdown, 'readm
       <div class="chips"><Chip className="category-chip">{entry.category}</Chip><Chip className="category-chip">{entry.transport}</Chip><Chip className="category-chip">{entry.source}</Chip></div>
       <RepositoryStats stats={entry.repositoryStats} detailed />
       {entry.githubUrl && !entry.repositoryStats && <p class="repository-stats" data-pagefind-ignore>Repository statistics are temporarily unavailable.</p>}
-      <div class="server-actions actions" data-pagefind-ignore>{entry.githubUrl && <ActionLink href={entry.githubUrl} icon="github" primary>View on GitHub</ActionLink>}<ActionLink href="#repository-readme" icon="arrow">Check installation steps</ActionLink>{entry.documentationUrl && <ActionLink href={entry.documentationUrl}>Documentation</ActionLink>}</div>
+      <div class="server-actions actions" data-pagefind-ignore>{entry.githubUrl && <ActionLink href={entry.githubUrl} icon="github" primary>View on GitHub</ActionLink>}<ActionLink href="#repository-readme" icon="arrow">Check installation steps</ActionLink>{entry.documentationUrl && <ActionLink href={entry.documentationUrl}>Documentation</ActionLink>}<LLMButtons title={entry.title} slug={entry.slug} client:load /></div>
     </header>
     <div class="detail-grid">
       <article class="server-content">

@@ -332,7 +332,6 @@ export default function Catalog({
           <label className="catalog-sort">
             <span>Sort servers</span>
             <select value={sort} onChange={(event) => setSort(event.target.value as SortOption)}>
-              <option value="default">Default order</option>
               <option value="stars">Most stars</option>
               <option value="forks">Most forks</option>
               <option value="name-asc">Name A–Z</option>
