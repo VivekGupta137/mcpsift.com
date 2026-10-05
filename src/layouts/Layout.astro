@@ -20,6 +20,16 @@ const { title, description, active = '', noindex = false, kind, seo, entry, entr
     <meta name="theme-color" content="#09090b" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <Seo title={title} description={description} kind={kind} seo={seo} entry={entry} entries={entries} updated={updated} noindex={noindex} repository={repositoryUrl} />
+
+    <!-- Google tag (gtag.js) -->
+    <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-8GMRCHJV6E"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-8GMRCHJV6E');
+    </script>
   </head>
   <body>
     <a class="skip-link" href="#main">Skip to content</a>
