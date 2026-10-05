@@ -624,9 +624,8 @@ main {
   flex-wrap: wrap;
 }
 .server-actions {
-  position: absolute;
-  right: 0;
-  top: 50px;
+  position: static;
+  margin-top: 28px;
 }
 .detail-grid {
   margin-top: 54px;
@@ -2270,9 +2269,7 @@ body {
   color: var(--muted);
   font-size: 20px;
 }
-.server-actions {
-  top: 58px;
-}
+
 .detail-grid {
   margin-top: 32px;
   grid-template-columns: minmax(0, 1fr) 330px;

@@ -105,20 +105,40 @@ def main():
     import glob
     files_to_process = glob.glob(os.path.join(scraper_dir, "pages_*.json"))
     
-    count = 0
+    all_items = []
+    
     for filepath in files_to_process:
         filename = os.path.basename(filepath)
-        print(f"Processing {filename}...")
+        print(f"Reading {filename}...")
         with open(filepath, "r", encoding="utf-8") as f:
             try:
                 items = json.load(f)
+                all_items.extend(items)
             except json.JSONDecodeError:
                 print(f"Error parsing JSON in {filename}")
-                continue
                 
-        for item in items:
-            if generate_markdown(item, output_dir):
-                count += 1
+    print(f"Total items found: {len(all_items)}")
+    
+    # Sort globally by stars descending
+    all_items.sort(key=lambda x: x.get("githubStars", 0) or 0, reverse=True)
+    
+    # Keep only top 2500
+    top_items = all_items[:2500]
+    print(f"Keeping top {len(top_items)} starred servers.")
+    
+    # Clear existing markdown files in data/servers
+    print("Clearing existing markdown files...")
+    existing_mds = glob.glob(os.path.join(output_dir, "*.md"))
+    for md_file in existing_mds:
+        try:
+            os.remove(md_file)
+        except OSError:
+            pass
+            
+    count = 0
+    for item in top_items:
+        if generate_markdown(item, output_dir):
+            count += 1
                 
     print(f"Successfully generated {count} markdown files in {output_dir}")
 

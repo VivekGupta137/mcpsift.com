@@ -1,6 +1,6 @@
 ---
 title: "Qwen Max MCP Server"
-description: "Implementation of the Model Context Protocol (MCP) server for the Qwen Max language model. Requires configuring the Dashscope API key via the DASHSCOPE_API_KEY environment variable in the .env file."
+description: "A Model Context Protocol (MCP) server implementation for the Qwen Max language model. Requires a Dashscope API key configured via the DASHSCOPE_API_KEY environment variable in a .env file."
 category: "Developer tools"
 tags:
   - "mcp"
@@ -13,7 +13,7 @@ githubUrl: "https://github.com/66julienmartin/MCP-server-Qwen_Max"
 readmeUrl: "https://github.com/66julienmartin/MCP-server-Qwen_Max/blob/main/README.md"
 githubStars: 24
 githubForks: 0
-githubStatsFetchedAt: "2026-03-07T00:01:02.956Z"
+githubStatsFetchedAt: "2026-03-08T00:00:46.235Z"
 icon: "https://github.com/66julienmartin.png"
 ---
 ## Overview

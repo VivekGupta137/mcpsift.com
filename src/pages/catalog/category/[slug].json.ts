@@ -4,6 +4,7 @@ import { categorySlug } from '../../../lib/landing';
 
 export async function getStaticPaths() {
   const entries = await getEntries('server');
+  entries.sort((a, b) => (b.repositoryStats?.stars || 0) - (a.repositoryStats?.stars || 0));
   const categories = [...new Set(entries.map(entry => entry.category))];
   return categories.map(category => ({
     params: { slug: categorySlug(category) },

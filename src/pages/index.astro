@@ -4,6 +4,10 @@ import Catalog from '../components/Catalog';
 import Icon from '../components/Icon';
 import { getEntries, cardData, getPage } from '../lib/content';
 const [servers, page] = await Promise.all([getEntries('server'), getPage('home')]);
+
+// Sort globally by stars descending for the initial render
+servers.sort((a, b) => (b.repositoryStats?.stars || 0) - (a.repositoryStats?.stars || 0));
+
 const categories = new Set(servers.map(server => server.category)).size;
 const totalStars = servers.reduce((sum, server) => sum + (server.repositoryStats?.stars || 0), 0);
 const categoryOptions = [...servers.reduce((counts, server) => counts.set(server.category, (counts.get(server.category) || 0) + 1), new Map<string, number>())]

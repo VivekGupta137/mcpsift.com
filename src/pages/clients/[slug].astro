@@ -7,6 +7,7 @@ import { clientLanding, clientMatches, type ClientSlug } from '../../lib/landing
 
 export async function getStaticPaths() {
   const entries = await getEntries('server');
+  entries.sort((a, b) => (b.repositoryStats?.stars || 0) - (a.repositoryStats?.stars || 0));
   return Object.entries(clientLanding).map(([slug, landing]) => ({ params: { slug }, props: { clientSlug: slug, landing, entries: entries.filter(entry => clientMatches(entry, landing.terms)) } }));
 }
 const { clientSlug, landing, entries } = Astro.props as { clientSlug: ClientSlug; landing: typeof clientLanding[ClientSlug]; entries: Awaited<ReturnType<typeof getEntries>> };

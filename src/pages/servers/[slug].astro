@@ -37,12 +37,12 @@ const renderedReadme = readme?.markdown ? renderMarkdown(readme.markdown, 'readm
     <span hidden data-pagefind-filter={`category:${entry.category}`} />
     <nav class="breadcrumbs" aria-label="Breadcrumb" data-pagefind-ignore><Link href="/">Directory</Link><span>/</span><Link href={`/categories/${categorySlug(entry.category)}/`}>{entry.category}</Link><span>/</span><span aria-current="page">{entry.title}</span></nav>
     <header class="server-heading">
-      <div class="server-identity"><div class="server-avatar large"><img src={`/avatars/${entry.slug}.svg`} alt="" width="72" height="72" decoding="async" /></div><div><h1 data-pagefind-meta="title">{entry.title}</h1><p>by {entry.owner}</p></div></div>
+      <div class="server-identity"><div class="server-avatar large"><img src={entry.icon && entry.icon !== 'code' ? entry.icon : `/avatars/${entry.slug}.svg`} alt="" width="72" height="72" decoding="async" /></div><div><h1 data-pagefind-meta="title">{entry.title}</h1><p>by {entry.owner}</p></div></div>
       <p class="server-summary" data-pagefind-meta="description">{entry.description}</p>
       <div class="chips"><Chip className="category-chip">{entry.category}</Chip><Chip className="category-chip">{entry.transport}</Chip><Chip className="category-chip">{entry.source}</Chip></div>
       <RepositoryStats stats={entry.repositoryStats} detailed />
       {entry.githubUrl && !entry.repositoryStats && <p class="repository-stats" data-pagefind-ignore>Repository statistics are temporarily unavailable.</p>}
-      <div class="server-actions actions" data-pagefind-ignore>{entry.githubUrl && <ActionLink href={entry.githubUrl} icon="github" primary>View on GitHub</ActionLink>}{entry.documentationUrl && <ActionLink href={entry.documentationUrl}>Documentation</ActionLink>}</div>
+      <div class="server-actions actions" data-pagefind-ignore>{entry.githubUrl && <ActionLink href={entry.githubUrl} icon="github" primary>View on GitHub</ActionLink>}<ActionLink href="#repository-readme" icon="arrow">Check installation steps</ActionLink>{entry.documentationUrl && <ActionLink href={entry.documentationUrl}>Documentation</ActionLink>}</div>
     </header>
     <div class="detail-grid">
       <article class="server-content">

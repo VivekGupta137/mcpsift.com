@@ -6,6 +6,31 @@ const cacheDirectory = path.resolve('.cache/readmes');
 const maxBytes = 2 * 1024 * 1024;
 const pending = new Map();
 
+// Simple semaphore to limit concurrent fetches
+class Semaphore {
+  constructor(max) {
+    this.max = max;
+    this.count = 0;
+    this.queue = [];
+  }
+  async acquire() {
+    if (this.count < this.max) {
+      this.count++;
+      return;
+    }
+    return new Promise(resolve => this.queue.push(resolve));
+  }
+  release() {
+    if (this.queue.length > 0) {
+      const resolve = this.queue.shift();
+      resolve();
+    } else {
+      this.count--;
+    }
+  }
+}
+const fetchLimiter = new Semaphore(20);
+
 export function rawReadmeUrl(input) {
   const url = new URL(input);
   if (url.protocol !== 'https:' || url.username || url.password || url.port) throw new Error('README URLs must use public HTTPS GitHub URLs.');
@@ -22,7 +47,16 @@ export function rawReadmeUrl(input) {
 export async function fetchReadme(input, force = false) {
   const url = rawReadmeUrl(input);
   if (!force && pending.has(url)) return pending.get(url);
-  const operation = load(url, force);
+  
+  const operation = (async () => {
+    await fetchLimiter.acquire();
+    try {
+      return await load(url, force);
+    } finally {
+      fetchLimiter.release();
+    }
+  })();
+  
   pending.set(url, operation);
   return operation;
 }

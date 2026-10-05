@@ -4,6 +4,7 @@ import { clientLanding, clientMatches } from '../../../lib/landing';
 
 export async function getStaticPaths() {
   const entries = await getEntries('server');
+  entries.sort((a, b) => (b.repositoryStats?.stars || 0) - (a.repositoryStats?.stars || 0));
   return Object.entries(clientLanding).map(([slug, landing]) => ({
     params: { slug },
     props: { entries: entries.filter(entry => clientMatches(entry, landing.terms)).map(cardData) },

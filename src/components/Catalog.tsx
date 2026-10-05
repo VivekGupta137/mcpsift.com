@@ -52,7 +52,7 @@ export function EntryCard({ entry }: { entry: CatalogEntry }) {
           <>
             <div className="server-avatar">
               <img
-                src={`/avatars/${entry.slug}.svg`}
+                src={entry.icon && entry.icon !== 'code' ? entry.icon : `/avatars/${entry.slug}.svg`}
                 alt=""
                 width={42}
                 height={42}
@@ -118,7 +118,7 @@ export default function Catalog({
   const [catalogEntries, setCatalogEntries] = useState(entries);
   const [query, setQuery] = useState("");
   const [category, setCategory] = useState("");
-  const [sort, setSort] = useState<SortOption>("default");
+  const [sort, setSort] = useState<SortOption>("stars");
   const [results, setResults] = useState(entries);
   const [state, setState] = useState<"ready" | "loading" | "error">("ready");
   const [retry, setRetry] = useState(0);

@@ -6,6 +6,7 @@ import { cardData, getEntries } from '../../../lib/content';
 export async function getStaticPaths() {
   const pageSize = 24;
   const servers = await getEntries('server');
+  servers.sort((a, b) => (b.repositoryStats?.stars || 0) - (a.repositoryStats?.stars || 0));
   const pageCount = Math.max(1, Math.ceil(servers.length / pageSize));
   return Array.from({ length: pageCount - 1 }, (_, index) => ({
     params: { page: String(index + 2) },

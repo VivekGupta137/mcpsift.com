@@ -10,7 +10,7 @@ owner: "upstash"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/upstash/context7"
-readmeUrl: "https://github.com/upstash/context7/blob/main/README.md"
+readmeUrl: "https://github.com/upstash/context7/blob/master/README.md"
 githubStars: 57741
 githubForks: 0
 githubStatsFetchedAt: "2026-06-20T13:34:58.166Z"
