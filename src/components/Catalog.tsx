@@ -160,7 +160,7 @@ export default function Catalog({
       setSort(
         kind === "server" && sortValue && sortOptions.has(sortValue)
           ? sortValue
-          : "default",
+          : "stars",
       );
     };
     sync();
