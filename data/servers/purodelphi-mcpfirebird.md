@@ -10,7 +10,7 @@ owner: "PuroDelphi"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/PuroDelphi/mcpFirebird"
-readmeUrl: "https://github.com/PuroDelphi/mcpFirebird/blob/main/README.md"
+readmeUrl: "https://github.com/PuroDelphi/mcpFirebird/blob/HEAD/README.md"
 githubStars: 53
 githubForks: 0
 githubStatsFetchedAt: "2026-05-27T12:50:15.513Z"

@@ -10,7 +10,7 @@ owner: "neondatabase"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/neondatabase-labs/mcp-server-neon"
-readmeUrl: "https://github.com/neondatabase-labs/mcp-server-neon/blob/main/README.md"
+readmeUrl: "https://github.com/neondatabase-labs/mcp-server-neon/blob/HEAD/README.md"
 githubStars: 287
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:08.467Z"

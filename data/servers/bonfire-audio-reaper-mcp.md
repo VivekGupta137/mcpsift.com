@@ -10,7 +10,7 @@ owner: "bonfire-audio"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/bonfire-audio/reaper-mcp"
-readmeUrl: "https://github.com/bonfire-audio/reaper-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/bonfire-audio/reaper-mcp/blob/HEAD/README.md"
 githubStars: 44
 githubForks: 0
 githubStatsFetchedAt: "2026-03-27T22:31:24.955Z"

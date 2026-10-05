@@ -10,7 +10,7 @@ owner: "andybrandt"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/andybrandt/mcp-simple-openai-assistant"
-readmeUrl: "https://github.com/andybrandt/mcp-simple-openai-assistant/blob/main/README.md"
+readmeUrl: "https://github.com/andybrandt/mcp-simple-openai-assistant/blob/HEAD/README.md"
 githubStars: 37
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:51.760Z"

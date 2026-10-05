@@ -10,7 +10,7 @@ owner: "mattv8"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mattv8/ragtime"
-readmeUrl: "https://github.com/mattv8/ragtime/blob/main/README.md"
+readmeUrl: "https://github.com/mattv8/ragtime/blob/HEAD/README.md"
 githubStars: 33
 githubForks: 0
 githubStatsFetchedAt: "2026-08-04T21:30:35.935Z"

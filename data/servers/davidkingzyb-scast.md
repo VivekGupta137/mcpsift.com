@@ -10,7 +10,7 @@ owner: "davidkingzyb"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/davidkingzyb/SCAST"
-readmeUrl: "https://github.com/davidkingzyb/SCAST/blob/main/README.md"
+readmeUrl: "https://github.com/davidkingzyb/SCAST/blob/HEAD/README.md"
 githubStars: 35
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:58.035Z"

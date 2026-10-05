@@ -10,7 +10,7 @@ owner: "alejandroqh"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/alejandroqh/browser39"
-readmeUrl: "https://github.com/alejandroqh/browser39/blob/main/README.md"
+readmeUrl: "https://github.com/alejandroqh/browser39/blob/HEAD/README.md"
 githubStars: 39
 githubForks: 0
 githubStatsFetchedAt: "2026-04-20T14:24:49.502Z"

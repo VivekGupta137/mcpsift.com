@@ -10,7 +10,7 @@ owner: "bartholomej"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/bartholomej/node-csfd-api"
-readmeUrl: "https://github.com/bartholomej/node-csfd-api/blob/main/README.md"
+readmeUrl: "https://github.com/bartholomej/node-csfd-api/blob/HEAD/README.md"
 githubStars: 40
 githubForks: 0
 githubStatsFetchedAt: "2026-02-14T10:30:38.740Z"

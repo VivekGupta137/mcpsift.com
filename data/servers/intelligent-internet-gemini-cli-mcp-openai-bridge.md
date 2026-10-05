@@ -10,7 +10,7 @@ owner: "Intelligent-Internet"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Intelligent-Internet/gemini-cli-mcp-openai-bridge"
-readmeUrl: "https://github.com/Intelligent-Internet/gemini-cli-mcp-openai-bridge/blob/main/README.md"
+readmeUrl: "https://github.com/Intelligent-Internet/gemini-cli-mcp-openai-bridge/blob/HEAD/README.md"
 githubStars: 132
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:12.571Z"

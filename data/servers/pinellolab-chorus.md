@@ -10,7 +10,7 @@ owner: "pinellolab"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/pinellolab/chorus"
-readmeUrl: "https://github.com/pinellolab/chorus/blob/main/README.md"
+readmeUrl: "https://github.com/pinellolab/chorus/blob/HEAD/README.md"
 githubStars: 60
 githubForks: 0
 githubStatsFetchedAt: "2026-08-14T19:00:37.778Z"

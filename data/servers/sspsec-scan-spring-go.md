@@ -10,7 +10,7 @@ owner: "sspsec"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/sspsec/Scan-Spring-GO"
-readmeUrl: "https://github.com/sspsec/Scan-Spring-GO/blob/main/README.md"
+readmeUrl: "https://github.com/sspsec/Scan-Spring-GO/blob/HEAD/README.md"
 githubStars: 296
 githubForks: 0
 githubStatsFetchedAt: "2026-08-29T10:00:45.420Z"

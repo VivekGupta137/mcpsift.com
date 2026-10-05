@@ -10,7 +10,7 @@ owner: "ContextStream"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/contextstream/mcp-server"
-readmeUrl: "https://github.com/contextstream/mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/contextstream/mcp-server/blob/HEAD/README.md"
 githubStars: 30
 githubForks: 0
 githubStatsFetchedAt: "2026-03-31T19:32:17.027Z"

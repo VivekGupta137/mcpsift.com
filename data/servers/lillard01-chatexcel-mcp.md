@@ -10,7 +10,7 @@ owner: "Lillard01"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Lillard01/chatExcel-mcp"
-readmeUrl: "https://github.com/Lillard01/chatExcel-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/Lillard01/chatExcel-mcp/blob/HEAD/README.md"
 githubStars: 184
 githubForks: 0
 githubStatsFetchedAt: "2026-03-16T00:00:35.484Z"

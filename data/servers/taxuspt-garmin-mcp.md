@@ -10,7 +10,7 @@ owner: "Taxuspt"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Taxuspt/garmin_mcp"
-readmeUrl: "https://github.com/Taxuspt/garmin_mcp/blob/main/README.md"
+readmeUrl: "https://github.com/Taxuspt/garmin_mcp/blob/HEAD/README.md"
 githubStars: 248
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:00.142Z"

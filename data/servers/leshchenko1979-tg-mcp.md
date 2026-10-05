@@ -10,7 +10,7 @@ owner: "leshchenko1979"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/leshchenko1979/tg_mcp"
-readmeUrl: "https://github.com/leshchenko1979/tg_mcp/blob/main/README.md"
+readmeUrl: "https://github.com/leshchenko1979/tg_mcp/blob/HEAD/README.md"
 githubStars: 29
 githubForks: 0
 githubStatsFetchedAt: "2026-03-09T00:00:42.140Z"

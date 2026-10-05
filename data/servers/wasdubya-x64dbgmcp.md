@@ -10,7 +10,7 @@ owner: "Wasdubya"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Wasdubya/x64dbgMCP"
-readmeUrl: "https://github.com/Wasdubya/x64dbgMCP/blob/main/README.md"
+readmeUrl: "https://github.com/Wasdubya/x64dbgMCP/blob/HEAD/README.md"
 githubStars: 136
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:20.528Z"

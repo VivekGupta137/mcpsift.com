@@ -10,7 +10,7 @@ owner: "yoshiko-pg"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/yoshiko-pg/o3-search-mcp"
-readmeUrl: "https://github.com/yoshiko-pg/o3-search-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/yoshiko-pg/o3-search-mcp/blob/HEAD/README.md"
 githubStars: 286
 githubForks: 0
 githubStatsFetchedAt: "2026-03-10T00:00:51.030Z"

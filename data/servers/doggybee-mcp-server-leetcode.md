@@ -10,7 +10,7 @@ owner: "doggybee"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/doggybee/mcp-server-leetcode"
-readmeUrl: "https://github.com/doggybee/mcp-server-leetcode/blob/main/README.md"
+readmeUrl: "https://github.com/doggybee/mcp-server-leetcode/blob/HEAD/README.md"
 githubStars: 40
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:45.732Z"

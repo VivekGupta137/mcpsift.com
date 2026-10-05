@@ -10,7 +10,7 @@ owner: "jm-lab"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/JM-Lab/spring-ai-playground/tree/0.2.0-M2"
-readmeUrl: "https://github.com/JM-Lab/spring-ai-playground/blob/main/README.md"
+readmeUrl: "https://github.com/JM-Lab/spring-ai-playground/blob/HEAD/README.md"
 githubStars: 180
 githubForks: 0
 githubStatsFetchedAt: "2026-04-08T05:31:09.543Z"

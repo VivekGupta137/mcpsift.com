@@ -10,7 +10,7 @@ owner: "hdresearch"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/hdresearch/mcp-python"
-readmeUrl: "https://github.com/hdresearch/mcp-python/blob/main/README.md"
+readmeUrl: "https://github.com/hdresearch/mcp-python/blob/HEAD/README.md"
 githubStars: 39
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:53.217Z"

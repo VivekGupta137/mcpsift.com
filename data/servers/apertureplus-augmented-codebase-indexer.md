@@ -10,7 +10,7 @@ owner: "apertureplus"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/AperturePlus/augmented-codebase-indexer"
-readmeUrl: "https://github.com/AperturePlus/augmented-codebase-indexer/blob/main/README.md"
+readmeUrl: "https://github.com/AperturePlus/augmented-codebase-indexer/blob/HEAD/README.md"
 githubStars: 61
 githubForks: 0
 githubStatsFetchedAt: "2025-12-19T15:30:53.626Z"

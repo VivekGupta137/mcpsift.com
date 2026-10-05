@@ -10,7 +10,7 @@ owner: "t8y2"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/t8y2/dbx"
-readmeUrl: "https://github.com/t8y2/dbx/blob/main/README.md"
+readmeUrl: "https://github.com/t8y2/dbx/blob/HEAD/README.md"
 githubStars: 10995
 githubForks: 0
 githubStatsFetchedAt: "2026-07-22T06:00:36.243Z"

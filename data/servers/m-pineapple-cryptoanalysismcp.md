@@ -10,7 +10,7 @@ owner: "M-Pineapple"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/M-Pineapple/CryptoAnalysisMCP"
-readmeUrl: "https://github.com/M-Pineapple/CryptoAnalysisMCP/blob/main/README.md"
+readmeUrl: "https://github.com/M-Pineapple/CryptoAnalysisMCP/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2026-03-09T00:00:41.359Z"

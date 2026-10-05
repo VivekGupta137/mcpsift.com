@@ -10,7 +10,7 @@ owner: "RaphaelRegnier"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/RaphaelRegnier/vibe-annotations"
-readmeUrl: "https://github.com/RaphaelRegnier/vibe-annotations/blob/main/README.md"
+readmeUrl: "https://github.com/RaphaelRegnier/vibe-annotations/blob/HEAD/README.md"
 githubStars: 57
 githubForks: 0
 githubStatsFetchedAt: "2026-03-25T11:02:16.065Z"

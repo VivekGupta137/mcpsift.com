@@ -10,7 +10,7 @@ owner: "breezepaunveil"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Breezepaunveil/line-oa-mcp-ultimate-974"
-readmeUrl: "https://github.com/Breezepaunveil/line-oa-mcp-ultimate-974/blob/main/README.md"
+readmeUrl: "https://github.com/Breezepaunveil/line-oa-mcp-ultimate-974/blob/HEAD/README.md"
 githubStars: 29
 githubForks: 0
 githubStatsFetchedAt: "2026-06-04T19:31:01.181Z"

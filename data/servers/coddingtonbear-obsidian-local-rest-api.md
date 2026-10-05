@@ -10,7 +10,7 @@ owner: "coddingtonbear"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/coddingtonbear/obsidian-local-rest-api"
-readmeUrl: "https://github.com/coddingtonbear/obsidian-local-rest-api/blob/main/README.md"
+readmeUrl: "https://github.com/coddingtonbear/obsidian-local-rest-api/blob/HEAD/README.md"
 githubStars: 2235
 githubForks: 0
 githubStatsFetchedAt: "2026-05-15T19:30:52.806Z"

@@ -10,7 +10,7 @@ owner: "ZephyrDeng"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ZephyrDeng/pprof-analyzer-mcp"
-readmeUrl: "https://github.com/ZephyrDeng/pprof-analyzer-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/ZephyrDeng/pprof-analyzer-mcp/blob/HEAD/README.md"
 githubStars: 38
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:05.789Z"

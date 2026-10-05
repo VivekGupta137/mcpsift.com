@@ -10,7 +10,7 @@ owner: "OctagonAI"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/OctagonAI/octagon-deep-research-mcp"
-readmeUrl: "https://github.com/OctagonAI/octagon-deep-research-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/OctagonAI/octagon-deep-research-mcp/blob/HEAD/README.md"
 githubStars: 83
 githubForks: 0
 githubStatsFetchedAt: "2026-02-09T22:01:06.423Z"

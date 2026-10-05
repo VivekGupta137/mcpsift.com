@@ -10,7 +10,7 @@ owner: "wise-vision"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/wise-vision/ros2_mcp"
-readmeUrl: "https://github.com/wise-vision/ros2_mcp/blob/main/README.md"
+readmeUrl: "https://github.com/wise-vision/ros2_mcp/blob/HEAD/README.md"
 githubStars: 83
 githubForks: 0
 githubStatsFetchedAt: "2026-07-16T12:30:53.576Z"

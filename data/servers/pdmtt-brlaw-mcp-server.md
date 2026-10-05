@@ -10,7 +10,7 @@ owner: "pdmtt"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/pdmtt/brlaw_mcp_server"
-readmeUrl: "https://github.com/pdmtt/brlaw_mcp_server/blob/main/README.md"
+readmeUrl: "https://github.com/pdmtt/brlaw_mcp_server/blob/HEAD/README.md"
 githubStars: 27
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:44.957Z"

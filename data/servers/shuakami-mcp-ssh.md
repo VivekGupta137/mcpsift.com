@@ -10,7 +10,7 @@ owner: "shuakami"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/shuakami/mcp-ssh"
-readmeUrl: "https://github.com/shuakami/mcp-ssh/blob/main/README.md"
+readmeUrl: "https://github.com/shuakami/mcp-ssh/blob/HEAD/README.md"
 githubStars: 57
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:44.222Z"

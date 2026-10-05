@@ -10,7 +10,7 @@ owner: "hect0x7"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/hect0x7/jmcomic-ai"
-readmeUrl: "https://github.com/hect0x7/jmcomic-ai/blob/main/README.md"
+readmeUrl: "https://github.com/hect0x7/jmcomic-ai/blob/HEAD/README.md"
 githubStars: 58
 githubForks: 0
 githubStatsFetchedAt: "2026-06-17T17:31:20.401Z"

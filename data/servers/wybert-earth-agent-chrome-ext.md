@@ -10,7 +10,7 @@ owner: "wybert"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/wybert/earth-agent-chrome-ext"
-readmeUrl: "https://github.com/wybert/earth-agent-chrome-ext/blob/main/README.md"
+readmeUrl: "https://github.com/wybert/earth-agent-chrome-ext/blob/HEAD/README.md"
 githubStars: 100
 githubForks: 0
 githubStatsFetchedAt: "2026-04-10T02:31:03.154Z"

@@ -10,7 +10,7 @@ owner: "kaifcodec"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/kaifcodec/user-scanner"
-readmeUrl: "https://github.com/kaifcodec/user-scanner/blob/main/README.md"
+readmeUrl: "https://github.com/kaifcodec/user-scanner/blob/HEAD/README.md"
 githubStars: 4683
 githubForks: 0
 githubStatsFetchedAt: "2026-09-06T03:30:45.615Z"

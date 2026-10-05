@@ -10,7 +10,7 @@ owner: "CartographAI"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/CartographAI/atlas-docs-mcp"
-readmeUrl: "https://github.com/CartographAI/atlas-docs-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/CartographAI/atlas-docs-mcp/blob/HEAD/README.md"
 githubStars: 32
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:11.015Z"

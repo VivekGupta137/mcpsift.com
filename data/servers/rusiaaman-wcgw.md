@@ -10,7 +10,7 @@ owner: "rusiaaman"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/rusiaaman/wcgw"
-readmeUrl: "https://github.com/rusiaaman/wcgw/blob/main/README.md"
+readmeUrl: "https://github.com/rusiaaman/wcgw/blob/HEAD/README.md"
 githubStars: 633
 githubForks: 0
 githubStatsFetchedAt: "2026-01-23T08:30:39.232Z"

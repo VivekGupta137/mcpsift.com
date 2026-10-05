@@ -10,7 +10,7 @@ owner: "jeremyruppel"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jeremyruppel/claude-collider"
-readmeUrl: "https://github.com/jeremyruppel/claude-collider/blob/main/README.md"
+readmeUrl: "https://github.com/jeremyruppel/claude-collider/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2026-04-05T02:01:30.801Z"

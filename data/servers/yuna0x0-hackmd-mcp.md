@@ -10,7 +10,7 @@ owner: "yuna0x0"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/yuna0x0/hackmd-mcp"
-readmeUrl: "https://github.com/yuna0x0/hackmd-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/yuna0x0/hackmd-mcp/blob/HEAD/README.md"
 githubStars: 51
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:13.272Z"

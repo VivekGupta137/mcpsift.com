@@ -10,7 +10,7 @@ owner: "cgize"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/cgize/claude-mcp-think-tool"
-readmeUrl: "https://github.com/cgize/claude-mcp-think-tool/blob/main/README.md"
+readmeUrl: "https://github.com/cgize/claude-mcp-think-tool/blob/HEAD/README.md"
 githubStars: 35
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:13.382Z"

@@ -10,7 +10,7 @@ owner: "boshyxd"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/boshyxd/robloxstudio-mcp"
-readmeUrl: "https://github.com/boshyxd/robloxstudio-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/boshyxd/robloxstudio-mcp/blob/HEAD/README.md"
 githubStars: 485
 githubForks: 0
 githubStatsFetchedAt: "2026-07-20T20:37:57.133Z"

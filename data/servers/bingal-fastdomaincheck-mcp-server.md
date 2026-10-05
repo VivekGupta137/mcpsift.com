@@ -10,7 +10,7 @@ owner: "bingal"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/bingal/FastDomainCheck-MCP-Server"
-readmeUrl: "https://github.com/bingal/FastDomainCheck-MCP-Server/blob/main/README.md"
+readmeUrl: "https://github.com/bingal/FastDomainCheck-MCP-Server/blob/HEAD/README.md"
 githubStars: 36
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:08.528Z"

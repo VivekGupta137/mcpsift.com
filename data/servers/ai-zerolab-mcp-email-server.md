@@ -10,7 +10,7 @@ owner: "ai-zerolab"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ai-zerolab/mcp-email-server"
-readmeUrl: "https://github.com/ai-zerolab/mcp-email-server/blob/main/README.md"
+readmeUrl: "https://github.com/ai-zerolab/mcp-email-server/blob/HEAD/README.md"
 githubStars: 184
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:56.194Z"

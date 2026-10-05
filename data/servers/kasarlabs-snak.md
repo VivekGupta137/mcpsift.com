@@ -10,7 +10,7 @@ owner: "kasarlabs"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/KasarLabs/snak"
-readmeUrl: "https://github.com/KasarLabs/snak/blob/main/README.md"
+readmeUrl: "https://github.com/KasarLabs/snak/blob/HEAD/README.md"
 githubStars: 93
 githubForks: 0
 githubStatsFetchedAt: "2025-01-01T00:00:00.000Z"

@@ -10,7 +10,7 @@ owner: "tririver"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/tririver/arc"
-readmeUrl: "https://github.com/tririver/arc/blob/main/README.md"
+readmeUrl: "https://github.com/tririver/arc/blob/HEAD/README.md"
 githubStars: 25
 githubForks: 0
 githubStatsFetchedAt: "2026-06-19T02:30:53.824Z"

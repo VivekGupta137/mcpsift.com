@@ -10,7 +10,7 @@ owner: "springvoiceswell"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/springvoiceswell/semrush-ai-tool"
-readmeUrl: "https://github.com/springvoiceswell/semrush-ai-tool/blob/main/README.md"
+readmeUrl: "https://github.com/springvoiceswell/semrush-ai-tool/blob/HEAD/README.md"
 githubStars: 43
 githubForks: 0
 githubStatsFetchedAt: "2026-09-26T08:30:53.670Z"

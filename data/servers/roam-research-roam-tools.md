@@ -10,7 +10,7 @@ owner: "Roam-Research"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Roam-Research/roam-tools"
-readmeUrl: "https://github.com/Roam-Research/roam-tools/blob/main/README.md"
+readmeUrl: "https://github.com/Roam-Research/roam-tools/blob/HEAD/README.md"
 githubStars: 30
 githubForks: 0
 githubStatsFetchedAt: "2026-04-11T14:31:57.574Z"

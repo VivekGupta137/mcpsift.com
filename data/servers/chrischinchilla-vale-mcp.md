@@ -10,7 +10,7 @@ owner: "chrischinchilla"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ChrisChinchilla/Vale-MCP"
-readmeUrl: "https://github.com/ChrisChinchilla/Vale-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/ChrisChinchilla/Vale-MCP/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2026-09-01T15:02:09.598Z"

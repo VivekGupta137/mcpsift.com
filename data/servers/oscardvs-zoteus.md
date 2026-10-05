@@ -10,7 +10,7 @@ owner: "Oscar Devos"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/oscardvs/zoteus"
-readmeUrl: "https://github.com/oscardvs/zoteus/blob/main/README.md"
+readmeUrl: "https://github.com/oscardvs/zoteus/blob/HEAD/README.md"
 githubStars: 29
 githubForks: 0
 githubStatsFetchedAt: "2026-09-07T07:57:18.935Z"

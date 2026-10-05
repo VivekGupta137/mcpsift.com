@@ -10,7 +10,7 @@ owner: "qiniu"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/qiniu/qiniu-mcp-server"
-readmeUrl: "https://github.com/qiniu/qiniu-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/qiniu/qiniu-mcp-server/blob/HEAD/README.md"
 githubStars: 30
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:37:20.428Z"

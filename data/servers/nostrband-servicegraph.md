@@ -10,7 +10,7 @@ owner: "nostrband"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/nostrband/ServiceGraph"
-readmeUrl: "https://github.com/nostrband/ServiceGraph/blob/main/README.md"
+readmeUrl: "https://github.com/nostrband/ServiceGraph/blob/HEAD/README.md"
 githubStars: 140
 githubForks: 0
 githubStatsFetchedAt: "2026-05-29T13:14:17.840Z"

@@ -10,7 +10,7 @@ owner: "tacticocc"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/tacticocc/Jevbridge"
-readmeUrl: "https://github.com/tacticocc/Jevbridge/blob/main/README.md"
+readmeUrl: "https://github.com/tacticocc/Jevbridge/blob/HEAD/README.md"
 githubStars: 33
 githubForks: 0
 githubStatsFetchedAt: "2026-09-21T09:01:00.843Z"

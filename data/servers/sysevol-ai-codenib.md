@@ -10,7 +10,7 @@ owner: "sysevol-ai"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/sysevol-ai/CodeNib"
-readmeUrl: "https://github.com/sysevol-ai/CodeNib/blob/main/README.md"
+readmeUrl: "https://github.com/sysevol-ai/CodeNib/blob/HEAD/README.md"
 githubStars: 84
 githubForks: 0
 githubStatsFetchedAt: "2026-09-26T15:30:41.701Z"

@@ -10,7 +10,7 @@ owner: "AxWise-GmbH"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/AxWise-GmbH/axwise-flow"
-readmeUrl: "https://github.com/AxWise-GmbH/axwise-flow/blob/main/README.md"
+readmeUrl: "https://github.com/AxWise-GmbH/axwise-flow/blob/HEAD/README.md"
 githubStars: 61
 githubForks: 0
 githubStatsFetchedAt: "2026-09-28T11:30:49.995Z"

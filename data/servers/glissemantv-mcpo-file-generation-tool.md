@@ -10,7 +10,7 @@ owner: "GlisseManTV"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/GlisseManTV/MCPO-File-Generation-Tool"
-readmeUrl: "https://github.com/GlisseManTV/MCPO-File-Generation-Tool/blob/main/README.md"
+readmeUrl: "https://github.com/GlisseManTV/MCPO-File-Generation-Tool/blob/HEAD/README.md"
 githubStars: 105
 githubForks: 0
 githubStatsFetchedAt: "2025-11-03T00:00:46.467Z"

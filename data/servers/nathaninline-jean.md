@@ -10,7 +10,7 @@ owner: "nathaninline"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/nathaninline/jean"
-readmeUrl: "https://github.com/nathaninline/jean/blob/main/README.md"
+readmeUrl: "https://github.com/nathaninline/jean/blob/HEAD/README.md"
 githubStars: 25
 githubForks: 0
 githubStatsFetchedAt: "2026-08-03T16:01:58.232Z"

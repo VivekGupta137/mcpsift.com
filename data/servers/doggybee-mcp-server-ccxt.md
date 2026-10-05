@@ -10,7 +10,7 @@ owner: "doggybee"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/doggybee/mcp-server-ccxt"
-readmeUrl: "https://github.com/doggybee/mcp-server-ccxt/blob/main/README.md"
+readmeUrl: "https://github.com/doggybee/mcp-server-ccxt/blob/HEAD/README.md"
 githubStars: 129
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:54.880Z"

@@ -10,7 +10,7 @@ owner: "mcp-use"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mcp-use/mcp-use-ts"
-readmeUrl: "https://github.com/mcp-use/mcp-use-ts/blob/main/README.md"
+readmeUrl: "https://github.com/mcp-use/mcp-use-ts/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2026-03-19T00:00:59.719Z"

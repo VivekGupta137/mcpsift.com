@@ -10,7 +10,7 @@ owner: "fusedio"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/fusedio/fused-mcp"
-readmeUrl: "https://github.com/fusedio/fused-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/fusedio/fused-mcp/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:07.951Z"

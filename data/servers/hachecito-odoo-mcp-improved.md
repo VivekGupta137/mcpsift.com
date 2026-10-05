@@ -10,7 +10,7 @@ owner: "hachecito"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/hachecito/odoo-mcp-improved"
-readmeUrl: "https://github.com/hachecito/odoo-mcp-improved/blob/main/README.md"
+readmeUrl: "https://github.com/hachecito/odoo-mcp-improved/blob/HEAD/README.md"
 githubStars: 36
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:34.411Z"

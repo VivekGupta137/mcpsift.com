@@ -10,7 +10,7 @@ owner: "pokutuna"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/pokutuna/mcp-chrome-tabs"
-readmeUrl: "https://github.com/pokutuna/mcp-chrome-tabs/blob/main/README.md"
+readmeUrl: "https://github.com/pokutuna/mcp-chrome-tabs/blob/HEAD/README.md"
 githubStars: 32
 githubForks: 0
 githubStatsFetchedAt: "2026-04-09T09:01:15.545Z"

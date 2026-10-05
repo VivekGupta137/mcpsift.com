@@ -10,7 +10,7 @@ owner: "Glade-tool"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Glade-tool/glade-mcp"
-readmeUrl: "https://github.com/Glade-tool/glade-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/Glade-tool/glade-mcp/blob/HEAD/README.md"
 githubStars: 138
 githubForks: 0
 githubStatsFetchedAt: "2026-05-29T19:31:06.626Z"

@@ -10,7 +10,7 @@ owner: "Epistates"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Epistates/turbomcp"
-readmeUrl: "https://github.com/Epistates/turbomcp/blob/main/README.md"
+readmeUrl: "https://github.com/Epistates/turbomcp/blob/HEAD/README.md"
 githubStars: 75
 githubForks: 0
 githubStatsFetchedAt: "2026-03-24T15:32:39.806Z"

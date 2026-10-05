@@ -10,7 +10,7 @@ owner: "kucherenko"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/kucherenko/jscpd"
-readmeUrl: "https://github.com/kucherenko/jscpd/blob/main/README.md"
+readmeUrl: "https://github.com/kucherenko/jscpd/blob/HEAD/README.md"
 githubStars: 5629
 githubForks: 0
 githubStatsFetchedAt: "2026-05-14T10:00:58.587Z"

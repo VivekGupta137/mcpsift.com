@@ -10,7 +10,7 @@ owner: "cl-ai-project"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/cl-ai-project/cl-mcp"
-readmeUrl: "https://github.com/cl-ai-project/cl-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/cl-ai-project/cl-mcp/blob/HEAD/README.md"
 githubStars: 49
 githubForks: 0
 githubStatsFetchedAt: "2026-04-05T12:30:51.520Z"

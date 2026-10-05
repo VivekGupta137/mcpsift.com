@@ -10,7 +10,7 @@ owner: "ckreiling"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ckreiling/mcp-server-docker"
-readmeUrl: "https://github.com/ckreiling/mcp-server-docker/blob/main/README.md"
+readmeUrl: "https://github.com/ckreiling/mcp-server-docker/blob/HEAD/README.md"
 githubStars: 683
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:40.260Z"

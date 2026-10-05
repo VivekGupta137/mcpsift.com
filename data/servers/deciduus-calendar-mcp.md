@@ -10,7 +10,7 @@ owner: "deciduus"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/deciduus/calendar-mcp"
-readmeUrl: "https://github.com/deciduus/calendar-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/deciduus/calendar-mcp/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2026-09-05T11:00:45.842Z"

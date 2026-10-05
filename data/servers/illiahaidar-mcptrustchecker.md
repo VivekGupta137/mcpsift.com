@@ -10,7 +10,7 @@ owner: "illiahaidar"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/illiahaidar/mcptrustchecker"
-readmeUrl: "https://github.com/illiahaidar/mcptrustchecker/blob/main/README.md"
+readmeUrl: "https://github.com/illiahaidar/mcptrustchecker/blob/HEAD/README.md"
 githubStars: 79
 githubForks: 0
 githubStatsFetchedAt: "2026-07-20T22:00:54.667Z"

@@ -10,7 +10,7 @@ owner: "wxhzhwxhzh"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/wxhzhwxhzh/DrssionPageMCP"
-readmeUrl: "https://github.com/wxhzhwxhzh/DrssionPageMCP/blob/main/README.md"
+readmeUrl: "https://github.com/wxhzhwxhzh/DrssionPageMCP/blob/HEAD/README.md"
 githubStars: 175
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:43.036Z"

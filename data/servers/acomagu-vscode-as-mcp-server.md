@@ -10,7 +10,7 @@ owner: "acomagu"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/acomagu/vscode-as-mcp-server"
-readmeUrl: "https://github.com/acomagu/vscode-as-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/acomagu/vscode-as-mcp-server/blob/HEAD/README.md"
 githubStars: 103
 githubForks: 0
 githubStatsFetchedAt: "2025-10-29T10:55:50.770Z"

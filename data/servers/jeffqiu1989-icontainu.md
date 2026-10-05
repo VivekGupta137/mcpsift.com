@@ -10,7 +10,7 @@ owner: "jeffqiu1989"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jeffqiu1989/IcontainU"
-readmeUrl: "https://github.com/jeffqiu1989/IcontainU/blob/main/README.md"
+readmeUrl: "https://github.com/jeffqiu1989/IcontainU/blob/HEAD/README.md"
 githubStars: 77
 githubForks: 0
 githubStatsFetchedAt: "2026-08-26T09:01:08.147Z"

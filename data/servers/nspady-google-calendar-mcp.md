@@ -10,7 +10,7 @@ owner: "nspady"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/nspady/google-calendar-mcp"
-readmeUrl: "https://github.com/nspady/google-calendar-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/nspady/google-calendar-mcp/blob/HEAD/README.md"
 githubStars: 1032
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:23.251Z"

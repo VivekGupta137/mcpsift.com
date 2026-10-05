@@ -10,7 +10,7 @@ owner: "mksglu"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mksglu/context-mode"
-readmeUrl: "https://github.com/mksglu/context-mode/blob/main/README.md"
+readmeUrl: "https://github.com/mksglu/context-mode/blob/HEAD/README.md"
 githubStars: 2581
 githubForks: 0
 githubStatsFetchedAt: "2026-03-05T19:00:56.386Z"

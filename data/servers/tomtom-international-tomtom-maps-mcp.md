@@ -10,7 +10,7 @@ owner: "tomtom-international"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/tomtom-international/tomtom-maps-mcp"
-readmeUrl: "https://github.com/tomtom-international/tomtom-maps-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/tomtom-international/tomtom-maps-mcp/blob/HEAD/README.md"
 githubStars: 46
 githubForks: 0
 githubStatsFetchedAt: "2026-04-24T15:02:00.758Z"

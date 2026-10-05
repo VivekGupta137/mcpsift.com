@@ -10,7 +10,7 @@ owner: "RafaelCartenet"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/RafaelCartenet/mcp-databricks-server"
-readmeUrl: "https://github.com/RafaelCartenet/mcp-databricks-server/blob/main/README.md"
+readmeUrl: "https://github.com/RafaelCartenet/mcp-databricks-server/blob/HEAD/README.md"
 githubStars: 36
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:53.012Z"

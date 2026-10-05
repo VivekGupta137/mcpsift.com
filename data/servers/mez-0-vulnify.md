@@ -10,7 +10,7 @@ owner: "mez-0"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mez-0/vulnify"
-readmeUrl: "https://github.com/mez-0/vulnify/blob/main/README.md"
+readmeUrl: "https://github.com/mez-0/vulnify/blob/HEAD/README.md"
 githubStars: 28
 githubForks: 0
 githubStatsFetchedAt: "2026-08-20T08:31:00.059Z"

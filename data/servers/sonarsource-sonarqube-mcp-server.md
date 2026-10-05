@@ -10,7 +10,7 @@ owner: "SonarSource"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/SonarSource/sonarqube-mcp-server"
-readmeUrl: "https://github.com/SonarSource/sonarqube-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/SonarSource/sonarqube-mcp-server/blob/HEAD/README.md"
 githubStars: 443
 githubForks: 0
 githubStatsFetchedAt: "2026-03-25T19:01:19.068Z"

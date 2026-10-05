@@ -10,7 +10,7 @@ owner: "M4F-S"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/M4F-S/gomaa"
-readmeUrl: "https://github.com/M4F-S/gomaa/blob/main/README.md"
+readmeUrl: "https://github.com/M4F-S/gomaa/blob/HEAD/README.md"
 githubStars: 28
 githubForks: 0
 githubStatsFetchedAt: "2026-08-28T21:00:41.667Z"

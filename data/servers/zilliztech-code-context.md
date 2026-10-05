@@ -10,7 +10,7 @@ owner: "zilliztech"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/zilliztech/code-context"
-readmeUrl: "https://github.com/zilliztech/code-context/blob/main/README.md"
+readmeUrl: "https://github.com/zilliztech/code-context/blob/HEAD/README.md"
 githubStars: 5561
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:18.917Z"

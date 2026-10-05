@@ -10,7 +10,7 @@ owner: "datastax"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/datastax/astra-db-mcp"
-readmeUrl: "https://github.com/datastax/astra-db-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/datastax/astra-db-mcp/blob/HEAD/README.md"
 githubStars: 35
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:44:59.552Z"

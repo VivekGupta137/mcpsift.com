@@ -10,7 +10,7 @@ owner: "raine"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/raine/consult-llm"
-readmeUrl: "https://github.com/raine/consult-llm/blob/main/README.md"
+readmeUrl: "https://github.com/raine/consult-llm/blob/HEAD/README.md"
 githubStars: 70
 githubForks: 0
 githubStatsFetchedAt: "2026-04-26T06:01:04.338Z"

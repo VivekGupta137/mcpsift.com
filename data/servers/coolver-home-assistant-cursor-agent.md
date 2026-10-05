@@ -10,7 +10,7 @@ owner: "Coolver"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Coolver/home-assistant-cursor-agent"
-readmeUrl: "https://github.com/Coolver/home-assistant-cursor-agent/blob/main/README.md"
+readmeUrl: "https://github.com/Coolver/home-assistant-cursor-agent/blob/HEAD/README.md"
 githubStars: 218
 githubForks: 0
 githubStatsFetchedAt: "2025-12-05T23:30:35.042Z"

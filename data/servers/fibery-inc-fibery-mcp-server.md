@@ -10,7 +10,7 @@ owner: "Fibery-inc"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Fibery-inc/fibery-mcp-server"
-readmeUrl: "https://github.com/Fibery-inc/fibery-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/Fibery-inc/fibery-mcp-server/blob/HEAD/README.md"
 githubStars: 28
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:17.515Z"

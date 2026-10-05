@@ -10,7 +10,7 @@ owner: "JinHo-von-Choi"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/JinHo-von-Choi/anchormind"
-readmeUrl: "https://github.com/JinHo-von-Choi/anchormind/blob/main/README.md"
+readmeUrl: "https://github.com/JinHo-von-Choi/anchormind/blob/HEAD/README.md"
 githubStars: 126
 githubForks: 0
 githubStatsFetchedAt: "2026-07-15T14:30:48.103Z"

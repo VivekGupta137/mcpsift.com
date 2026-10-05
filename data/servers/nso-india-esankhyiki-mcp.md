@@ -10,7 +10,7 @@ owner: "nso-india"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/nso-india/esankhyiki-mcp"
-readmeUrl: "https://github.com/nso-india/esankhyiki-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/nso-india/esankhyiki-mcp/blob/HEAD/README.md"
 githubStars: 114
 githubForks: 0
 githubStatsFetchedAt: "2026-03-25T05:31:53.885Z"

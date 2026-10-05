@@ -10,7 +10,7 @@ owner: "nubo-db"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/nubo-db/dynoxide"
-readmeUrl: "https://github.com/nubo-db/dynoxide/blob/main/README.md"
+readmeUrl: "https://github.com/nubo-db/dynoxide/blob/HEAD/README.md"
 githubStars: 83
 githubForks: 0
 githubStatsFetchedAt: "2026-08-25T20:01:56.216Z"

@@ -10,7 +10,7 @@ owner: "agent-room-alkl"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/agent-room-alkl/agent-room"
-readmeUrl: "https://github.com/agent-room-alkl/agent-room/blob/main/README.md"
+readmeUrl: "https://github.com/agent-room-alkl/agent-room/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2026-07-20T10:30:39.113Z"

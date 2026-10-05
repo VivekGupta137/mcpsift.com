@@ -10,7 +10,7 @@ owner: "him0"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/him0/freee-mcp"
-readmeUrl: "https://github.com/him0/freee-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/him0/freee-mcp/blob/HEAD/README.md"
 githubStars: 288
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:21.251Z"

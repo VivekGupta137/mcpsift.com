@@ -10,7 +10,7 @@ owner: "apvlv"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/apvlv/davinci-resolve-mcp"
-readmeUrl: "https://github.com/apvlv/davinci-resolve-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/apvlv/davinci-resolve-mcp/blob/HEAD/README.md"
 githubStars: 55
 githubForks: 0
 githubStatsFetchedAt: "2026-04-07T03:01:25.588Z"

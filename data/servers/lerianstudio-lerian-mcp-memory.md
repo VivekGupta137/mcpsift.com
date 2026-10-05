@@ -10,7 +10,7 @@ owner: "LerianStudio"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/LerianStudio/lerian-mcp-memory"
-readmeUrl: "https://github.com/LerianStudio/lerian-mcp-memory/blob/main/README.md"
+readmeUrl: "https://github.com/LerianStudio/lerian-mcp-memory/blob/HEAD/README.md"
 githubStars: 29
 githubForks: 0
 githubStatsFetchedAt: "2025-01-01T00:00:00.000Z"

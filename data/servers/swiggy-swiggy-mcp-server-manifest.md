@@ -10,7 +10,7 @@ owner: "Swiggy"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Swiggy/swiggy-mcp-server-manifest"
-readmeUrl: "https://github.com/Swiggy/swiggy-mcp-server-manifest/blob/main/README.md"
+readmeUrl: "https://github.com/Swiggy/swiggy-mcp-server-manifest/blob/HEAD/README.md"
 githubStars: 104
 githubForks: 0
 githubStatsFetchedAt: "2026-04-24T06:02:28.649Z"

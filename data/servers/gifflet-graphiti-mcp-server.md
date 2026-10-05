@@ -10,7 +10,7 @@ owner: "gifflet"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/gifflet/graphiti-mcp-server"
-readmeUrl: "https://github.com/gifflet/graphiti-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/gifflet/graphiti-mcp-server/blob/HEAD/README.md"
 githubStars: 140
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:14.065Z"

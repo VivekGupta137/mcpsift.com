@@ -10,7 +10,7 @@ owner: "fradser"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/FradSer/mcp-server-apple-reminders"
-readmeUrl: "https://github.com/FradSer/mcp-server-apple-reminders/blob/main/README.md"
+readmeUrl: "https://github.com/FradSer/mcp-server-apple-reminders/blob/HEAD/README.md"
 githubStars: 46
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:23.486Z"

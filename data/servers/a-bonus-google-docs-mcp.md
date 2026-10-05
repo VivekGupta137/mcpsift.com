@@ -10,7 +10,7 @@ owner: "a-bonus"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/a-bonus/google-docs-mcp"
-readmeUrl: "https://github.com/a-bonus/google-docs-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/a-bonus/google-docs-mcp/blob/HEAD/README.md"
 githubStars: 353
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:12.764Z"

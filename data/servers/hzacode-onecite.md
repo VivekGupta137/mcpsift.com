@@ -10,7 +10,7 @@ owner: "HzaCode"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/HzaCode/OneCite"
-readmeUrl: "https://github.com/HzaCode/OneCite/blob/main/README.md"
+readmeUrl: "https://github.com/HzaCode/OneCite/blob/HEAD/README.md"
 githubStars: 32
 githubForks: 0
 githubStatsFetchedAt: "2025-11-06T00:00:52.693Z"

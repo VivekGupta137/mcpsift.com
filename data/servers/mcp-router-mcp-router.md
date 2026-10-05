@@ -10,7 +10,7 @@ owner: "mcp-router"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mcp-router/mcp-router"
-readmeUrl: "https://github.com/mcp-router/mcp-router/blob/main/README.md"
+readmeUrl: "https://github.com/mcp-router/mcp-router/blob/HEAD/README.md"
 githubStars: 75
 githubForks: 0
 githubStatsFetchedAt: "2026-03-19T00:00:58.827Z"

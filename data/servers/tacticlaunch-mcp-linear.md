@@ -10,7 +10,7 @@ owner: "tacticlaunch"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/tacticlaunch/mcp-linear"
-readmeUrl: "https://github.com/tacticlaunch/mcp-linear/blob/main/README.md"
+readmeUrl: "https://github.com/tacticlaunch/mcp-linear/blob/HEAD/README.md"
 githubStars: 130
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:12.416Z"

@@ -10,7 +10,7 @@ owner: "robertheadley"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/robertheadley/chrome-debug-mcp"
-readmeUrl: "https://github.com/robertheadley/chrome-debug-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/robertheadley/chrome-debug-mcp/blob/HEAD/README.md"
 githubStars: 44
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:46.600Z"

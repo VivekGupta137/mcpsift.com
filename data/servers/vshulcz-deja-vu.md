@@ -10,7 +10,7 @@ owner: "vshulcz"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/vshulcz/deja-vu"
-readmeUrl: "https://github.com/vshulcz/deja-vu/blob/main/README.md"
+readmeUrl: "https://github.com/vshulcz/deja-vu/blob/HEAD/README.md"
 githubStars: 239
 githubForks: 0
 githubStatsFetchedAt: "2026-07-16T08:40:55.845Z"

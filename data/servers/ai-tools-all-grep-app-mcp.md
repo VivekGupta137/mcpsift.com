@@ -10,7 +10,7 @@ owner: "ai-tools-all"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ai-tools-all/grep_app_mcp"
-readmeUrl: "https://github.com/ai-tools-all/grep_app_mcp/blob/main/README.md"
+readmeUrl: "https://github.com/ai-tools-all/grep_app_mcp/blob/HEAD/README.md"
 githubStars: 46
 githubForks: 0
 githubStatsFetchedAt: "2026-03-12T00:00:41.355Z"

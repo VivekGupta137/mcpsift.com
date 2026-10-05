@@ -10,7 +10,7 @@ owner: "efforthye"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/efforthye/fast-filesystem-mcp"
-readmeUrl: "https://github.com/efforthye/fast-filesystem-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/efforthye/fast-filesystem-mcp/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2025-11-07T00:01:18.846Z"

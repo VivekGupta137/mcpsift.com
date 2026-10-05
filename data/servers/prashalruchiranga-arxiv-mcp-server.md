@@ -10,7 +10,7 @@ owner: "prashalruchiranga"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/prashalruchiranga/arxiv-mcp-server"
-readmeUrl: "https://github.com/prashalruchiranga/arxiv-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/prashalruchiranga/arxiv-mcp-server/blob/HEAD/README.md"
 githubStars: 36
 githubForks: 0
 githubStatsFetchedAt: "2026-01-01T00:00:54.905Z"

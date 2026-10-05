@@ -10,7 +10,7 @@ owner: "mattt"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mattt/emcee"
-readmeUrl: "https://github.com/mattt/emcee/blob/main/README.md"
+readmeUrl: "https://github.com/mattt/emcee/blob/HEAD/README.md"
 githubStars: 317
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:46.307Z"

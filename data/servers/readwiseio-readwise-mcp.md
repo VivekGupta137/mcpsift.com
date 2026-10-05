@@ -10,7 +10,7 @@ owner: "readwiseio"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/readwiseio/readwise-mcp"
-readmeUrl: "https://github.com/readwiseio/readwise-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/readwiseio/readwise-mcp/blob/HEAD/README.md"
 githubStars: 112
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:37:25.768Z"

@@ -10,7 +10,7 @@ owner: "wong2"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/wong2/mcp-cli"
-readmeUrl: "https://github.com/wong2/mcp-cli/blob/main/README.md"
+readmeUrl: "https://github.com/wong2/mcp-cli/blob/HEAD/README.md"
 githubStars: 437
 githubForks: 0
 githubStatsFetchedAt: "2026-06-06T04:01:00.759Z"

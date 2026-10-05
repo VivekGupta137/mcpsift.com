@@ -10,7 +10,7 @@ owner: "timescale"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/timescale/tiger-docs-mcp-server"
-readmeUrl: "https://github.com/timescale/tiger-docs-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/timescale/tiger-docs-mcp-server/blob/HEAD/README.md"
 githubStars: 27
 githubForks: 0
 githubStatsFetchedAt: "2025-11-02T00:00:33.826Z"

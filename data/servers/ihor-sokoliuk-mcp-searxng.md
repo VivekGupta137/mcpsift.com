@@ -10,7 +10,7 @@ owner: "ihor-sokoliuk"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ihor-sokoliuk/mcp-searxng"
-readmeUrl: "https://github.com/ihor-sokoliuk/mcp-searxng/blob/main/README.md"
+readmeUrl: "https://github.com/ihor-sokoliuk/mcp-searxng/blob/HEAD/README.md"
 githubStars: 1026
 githubForks: 0
 githubStatsFetchedAt: "2026-07-09T17:01:56.152Z"

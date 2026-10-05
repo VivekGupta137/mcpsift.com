@@ -10,7 +10,7 @@ owner: "pietrozullo"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mcp-use/mcp-use"
-readmeUrl: "https://github.com/mcp-use/mcp-use/blob/main/README.md"
+readmeUrl: "https://github.com/mcp-use/mcp-use/blob/HEAD/README.md"
 githubStars: 9382
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:21.735Z"

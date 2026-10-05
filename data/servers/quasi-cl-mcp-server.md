@@ -10,7 +10,7 @@ owner: "quasi"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/quasi/cl-mcp-server"
-readmeUrl: "https://github.com/quasi/cl-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/quasi/cl-mcp-server/blob/HEAD/README.md"
 githubStars: 32
 githubForks: 0
 githubStatsFetchedAt: "2026-07-27T19:31:48.632Z"

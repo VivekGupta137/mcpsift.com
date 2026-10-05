@@ -10,7 +10,7 @@ owner: "anaisbetts"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/anaisbetts/mcp-installer"
-readmeUrl: "https://github.com/anaisbetts/mcp-installer/blob/main/README.md"
+readmeUrl: "https://github.com/anaisbetts/mcp-installer/blob/HEAD/README.md"
 githubStars: 1450
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:12.550Z"

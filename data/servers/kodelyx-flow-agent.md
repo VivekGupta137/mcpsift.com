@@ -10,7 +10,7 @@ owner: "kodelyx"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/kodelyx/flow-agent"
-readmeUrl: "https://github.com/kodelyx/flow-agent/blob/main/README.md"
+readmeUrl: "https://github.com/kodelyx/flow-agent/blob/HEAD/README.md"
 githubStars: 43
 githubForks: 0
 githubStatsFetchedAt: "2026-07-27T05:00:39.419Z"

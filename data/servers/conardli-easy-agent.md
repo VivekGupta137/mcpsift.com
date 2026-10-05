@@ -10,7 +10,7 @@ owner: "ConardLi"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ConardLi/easy-agent"
-readmeUrl: "https://github.com/ConardLi/easy-agent/blob/main/README.md"
+readmeUrl: "https://github.com/ConardLi/easy-agent/blob/HEAD/README.md"
 githubStars: 1006
 githubForks: 0
 githubStatsFetchedAt: "2026-10-03T11:30:43.274Z"

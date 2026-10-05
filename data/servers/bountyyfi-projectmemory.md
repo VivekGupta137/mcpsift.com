@@ -10,7 +10,7 @@ owner: "bountyyfi"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/bountyyfi/ProjectMemory"
-readmeUrl: "https://github.com/bountyyfi/ProjectMemory/blob/main/README.md"
+readmeUrl: "https://github.com/bountyyfi/ProjectMemory/blob/HEAD/README.md"
 githubStars: 45
 githubForks: 0
 githubStatsFetchedAt: "2026-02-20T07:30:50.488Z"

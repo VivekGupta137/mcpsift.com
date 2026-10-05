@@ -10,7 +10,7 @@ owner: "yangkyeongmo"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/yangkyeongmo/mcp-server-apache-airflow"
-readmeUrl: "https://github.com/yangkyeongmo/mcp-server-apache-airflow/blob/main/README.md"
+readmeUrl: "https://github.com/yangkyeongmo/mcp-server-apache-airflow/blob/HEAD/README.md"
 githubStars: 144
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:42.534Z"

@@ -10,7 +10,7 @@ owner: "mrphrazer"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mrphrazer/ghidra-headless-mcp"
-readmeUrl: "https://github.com/mrphrazer/ghidra-headless-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/mrphrazer/ghidra-headless-mcp/blob/HEAD/README.md"
 githubStars: 79
 githubForks: 0
 githubStatsFetchedAt: "2026-05-20T11:00:59.821Z"

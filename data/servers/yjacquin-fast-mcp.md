@@ -10,7 +10,7 @@ owner: "yjacquin"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/yjacquin/fast-mcp"
-readmeUrl: "https://github.com/yjacquin/fast-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/yjacquin/fast-mcp/blob/HEAD/README.md"
 githubStars: 1146
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:45.238Z"

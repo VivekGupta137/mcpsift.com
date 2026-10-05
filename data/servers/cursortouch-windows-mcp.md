@@ -10,7 +10,7 @@ owner: "CursorTouch"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/CursorTouch/Windows-MCP"
-readmeUrl: "https://github.com/CursorTouch/Windows-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/CursorTouch/Windows-MCP/blob/HEAD/README.md"
 githubStars: 5865
 githubForks: 0
 githubStatsFetchedAt: "2026-06-04T16:12:39.068Z"

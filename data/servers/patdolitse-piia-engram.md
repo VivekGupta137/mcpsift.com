@@ -10,7 +10,7 @@ owner: "Patdolitse"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Patdolitse/piia-engram"
-readmeUrl: "https://github.com/Patdolitse/piia-engram/blob/main/README.md"
+readmeUrl: "https://github.com/Patdolitse/piia-engram/blob/HEAD/README.md"
 githubStars: 164
 githubForks: 0
 githubStatsFetchedAt: "2026-06-15T14:02:32.578Z"

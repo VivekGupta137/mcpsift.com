@@ -10,7 +10,7 @@ owner: "hannesj"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/hannesj/mcp-graphql-schema"
-readmeUrl: "https://github.com/hannesj/mcp-graphql-schema/blob/main/README.md"
+readmeUrl: "https://github.com/hannesj/mcp-graphql-schema/blob/HEAD/README.md"
 githubStars: 43
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:57.761Z"

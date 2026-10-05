@@ -10,7 +10,7 @@ owner: "Ayushmaniar"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Ayushmaniar/powerpoint-mcp"
-readmeUrl: "https://github.com/Ayushmaniar/powerpoint-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/Ayushmaniar/powerpoint-mcp/blob/HEAD/README.md"
 githubStars: 48
 githubForks: 0
 githubStatsFetchedAt: "2026-04-02T08:31:14.894Z"

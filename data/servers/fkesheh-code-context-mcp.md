@@ -10,7 +10,7 @@ owner: "fkesheh"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/fkesheh/code-context-mcp"
-readmeUrl: "https://github.com/fkesheh/code-context-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/fkesheh/code-context-mcp/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:44.673Z"

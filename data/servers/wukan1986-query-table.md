@@ -10,7 +10,7 @@ owner: "wukan1986"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/wukan1986/query_table"
-readmeUrl: "https://github.com/wukan1986/query_table/blob/main/README.md"
+readmeUrl: "https://github.com/wukan1986/query_table/blob/HEAD/README.md"
 githubStars: 46
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:55.075Z"

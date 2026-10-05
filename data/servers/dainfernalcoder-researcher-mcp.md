@@ -10,7 +10,7 @@ owner: "DaInfernalCoder"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/DaInfernalCoder/researcher-mcp"
-readmeUrl: "https://github.com/DaInfernalCoder/researcher-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/DaInfernalCoder/researcher-mcp/blob/HEAD/README.md"
 githubStars: 284
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:41.630Z"

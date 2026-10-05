@@ -10,7 +10,7 @@ owner: "motherduckdb"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/motherduckdb/mcp-server-motherduck"
-readmeUrl: "https://github.com/motherduckdb/mcp-server-motherduck/blob/main/README.md"
+readmeUrl: "https://github.com/motherduckdb/mcp-server-motherduck/blob/HEAD/README.md"
 githubStars: 433
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:46.998Z"

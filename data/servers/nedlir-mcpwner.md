@@ -10,7 +10,7 @@ owner: "nedlir"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Pigyon/MCPwner"
-readmeUrl: "https://github.com/Pigyon/MCPwner/blob/main/README.md"
+readmeUrl: "https://github.com/Pigyon/MCPwner/blob/HEAD/README.md"
 githubStars: 43
 githubForks: 0
 githubStatsFetchedAt: "2026-03-28T19:01:28.627Z"

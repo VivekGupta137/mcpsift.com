@@ -10,7 +10,7 @@ owner: "ComPDFKit"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ComPDFKit/compdf-mcp"
-readmeUrl: "https://github.com/ComPDFKit/compdf-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/ComPDFKit/compdf-mcp/blob/HEAD/README.md"
 githubStars: 99
 githubForks: 0
 githubStatsFetchedAt: "2026-08-06T02:00:47.071Z"

@@ -10,7 +10,7 @@ owner: "AnEntrypoint"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/AnEntrypoint/mcp-glootie"
-readmeUrl: "https://github.com/AnEntrypoint/mcp-glootie/blob/main/README.md"
+readmeUrl: "https://github.com/AnEntrypoint/mcp-glootie/blob/HEAD/README.md"
 githubStars: 109
 githubForks: 0
 githubStatsFetchedAt: "2025-11-02T00:00:43.283Z"

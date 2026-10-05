@@ -10,7 +10,7 @@ owner: "xberg-io"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/xberg-io/xberg"
-readmeUrl: "https://github.com/xberg-io/xberg/blob/main/README.md"
+readmeUrl: "https://github.com/xberg-io/xberg/blob/HEAD/README.md"
 githubStars: 8548
 githubForks: 0
 githubStatsFetchedAt: "2026-06-25T12:30:55.796Z"

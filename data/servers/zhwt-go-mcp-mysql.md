@@ -10,7 +10,7 @@ owner: "Zhwt"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Zhwt/go-mcp-mysql"
-readmeUrl: "https://github.com/Zhwt/go-mcp-mysql/blob/main/README.md"
+readmeUrl: "https://github.com/Zhwt/go-mcp-mysql/blob/HEAD/README.md"
 githubStars: 46
 githubForks: 0
 githubStatsFetchedAt: "2025-11-07T00:00:44.807Z"

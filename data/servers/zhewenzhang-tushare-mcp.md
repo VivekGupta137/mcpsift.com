@@ -10,7 +10,7 @@ owner: "zhewenzhang"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/zhewenzhang/tushare_MCP"
-readmeUrl: "https://github.com/zhewenzhang/tushare_MCP/blob/main/README.md"
+readmeUrl: "https://github.com/zhewenzhang/tushare_MCP/blob/HEAD/README.md"
 githubStars: 33
 githubForks: 0
 githubStatsFetchedAt: "2025-12-30T07:30:44.025Z"

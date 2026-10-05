@@ -10,7 +10,7 @@ owner: "ttcc666"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ttcc666/DatabaseMcpServer"
-readmeUrl: "https://github.com/ttcc666/DatabaseMcpServer/blob/main/README.md"
+readmeUrl: "https://github.com/ttcc666/DatabaseMcpServer/blob/HEAD/README.md"
 githubStars: 27
 githubForks: 0
 githubStatsFetchedAt: "2026-05-18T09:42:33.599Z"

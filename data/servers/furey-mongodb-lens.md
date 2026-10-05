@@ -10,7 +10,7 @@ owner: "furey"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/furey/mongodb-lens"
-readmeUrl: "https://github.com/furey/mongodb-lens/blob/main/README.md"
+readmeUrl: "https://github.com/furey/mongodb-lens/blob/HEAD/README.md"
 githubStars: 199
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:39.195Z"

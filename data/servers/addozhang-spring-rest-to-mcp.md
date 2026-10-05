@@ -10,7 +10,7 @@ owner: "addozhang"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/addozhang/spring-rest-to-mcp"
-readmeUrl: "https://github.com/addozhang/spring-rest-to-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/addozhang/spring-rest-to-mcp/blob/HEAD/README.md"
 githubStars: 35
 githubForks: 0
 githubStatsFetchedAt: "2025-11-17T01:00:31.901Z"

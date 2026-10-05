@@ -10,7 +10,7 @@ owner: "reolink"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/reolink/reolink-cli"
-readmeUrl: "https://github.com/reolink/reolink-cli/blob/main/README.md"
+readmeUrl: "https://github.com/reolink/reolink-cli/blob/HEAD/README.md"
 githubStars: 81
 githubForks: 0
 githubStatsFetchedAt: "2026-08-06T09:31:21.747Z"

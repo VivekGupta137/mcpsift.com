@@ -10,7 +10,7 @@ owner: "Ashish-Bansal"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Ashish-Bansal/playwright-mcp"
-readmeUrl: "https://github.com/Ashish-Bansal/playwright-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/Ashish-Bansal/playwright-mcp/blob/HEAD/README.md"
 githubStars: 29
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:21.722Z"

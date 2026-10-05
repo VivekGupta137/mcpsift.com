@@ -10,7 +10,7 @@ owner: "aliyun"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/aliyun/alibabacloud-devops-mcp-server"
-readmeUrl: "https://github.com/aliyun/alibabacloud-devops-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/aliyun/alibabacloud-devops-mcp-server/blob/HEAD/README.md"
 githubStars: 65
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:16.633Z"

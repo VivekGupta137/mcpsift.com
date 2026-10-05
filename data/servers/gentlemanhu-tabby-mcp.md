@@ -10,7 +10,7 @@ owner: "GentlemanHu"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/GentlemanHu/Tabby-MCP"
-readmeUrl: "https://github.com/GentlemanHu/Tabby-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/GentlemanHu/Tabby-MCP/blob/HEAD/README.md"
 githubStars: 32
 githubForks: 0
 githubStatsFetchedAt: "2026-05-18T03:00:38.900Z"

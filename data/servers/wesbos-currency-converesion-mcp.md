@@ -10,7 +10,7 @@ owner: "wesbos"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/wesbos/currency-converesion-mcp"
-readmeUrl: "https://github.com/wesbos/currency-converesion-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/wesbos/currency-converesion-mcp/blob/HEAD/README.md"
 githubStars: 31
 githubForks: 0
 githubStatsFetchedAt: "2026-03-12T00:00:36.487Z"

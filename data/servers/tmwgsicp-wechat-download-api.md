@@ -10,7 +10,7 @@ owner: "tmwgsicp"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/tmwgsicp/wechat-download-api"
-readmeUrl: "https://github.com/tmwgsicp/wechat-download-api/blob/main/README.md"
+readmeUrl: "https://github.com/tmwgsicp/wechat-download-api/blob/HEAD/README.md"
 githubStars: 805
 githubForks: 0
 githubStatsFetchedAt: "2026-07-14T05:30:49.590Z"

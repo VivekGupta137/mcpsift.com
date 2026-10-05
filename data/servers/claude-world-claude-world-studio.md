@@ -10,7 +10,7 @@ owner: "claude-world"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/claude-world/claude-world-studio"
-readmeUrl: "https://github.com/claude-world/claude-world-studio/blob/main/README.md"
+readmeUrl: "https://github.com/claude-world/claude-world-studio/blob/HEAD/README.md"
 githubStars: 51
 githubForks: 0
 githubStatsFetchedAt: "2026-03-29T03:30:49.475Z"

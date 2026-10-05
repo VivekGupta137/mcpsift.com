@@ -10,7 +10,7 @@ owner: "Lyellr88"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Lyellr88/MARM-Systems/tree/MARM-main"
-readmeUrl: "https://github.com/Lyellr88/MARM-Systems/blob/main/README.md"
+readmeUrl: "https://github.com/Lyellr88/MARM-Systems/blob/HEAD/README.md"
 githubStars: 251
 githubForks: 0
 githubStatsFetchedAt: "2026-03-28T08:01:17.875Z"

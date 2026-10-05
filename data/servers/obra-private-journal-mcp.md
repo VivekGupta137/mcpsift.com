@@ -10,7 +10,7 @@ owner: "obra"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/obra/private-journal-mcp"
-readmeUrl: "https://github.com/obra/private-journal-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/obra/private-journal-mcp/blob/HEAD/README.md"
 githubStars: 153
 githubForks: 0
 githubStatsFetchedAt: "2025-10-29T10:55:46.120Z"

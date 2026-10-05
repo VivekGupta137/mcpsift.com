@@ -10,7 +10,7 @@ owner: "joshuadavidthomas"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/joshuadavidthomas/mcp-django"
-readmeUrl: "https://github.com/joshuadavidthomas/mcp-django/blob/main/README.md"
+readmeUrl: "https://github.com/joshuadavidthomas/mcp-django/blob/HEAD/README.md"
 githubStars: 28
 githubForks: 0
 githubStatsFetchedAt: "2025-11-05T00:00:44.476Z"

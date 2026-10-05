@@ -10,7 +10,7 @@ owner: "Bankless"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Bankless/onchain-mcp"
-readmeUrl: "https://github.com/Bankless/onchain-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/Bankless/onchain-mcp/blob/HEAD/README.md"
 githubStars: 68
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:08.106Z"

@@ -10,7 +10,7 @@ owner: "gosset-ai"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/gosset-ai/other-public-mcps"
-readmeUrl: "https://github.com/gosset-ai/other-public-mcps/blob/main/README.md"
+readmeUrl: "https://github.com/gosset-ai/other-public-mcps/blob/HEAD/README.md"
 githubStars: 57
 githubForks: 0
 githubStatsFetchedAt: "2025-11-03T00:00:35.165Z"

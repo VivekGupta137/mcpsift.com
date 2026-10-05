@@ -10,7 +10,7 @@ owner: "GongRzhe"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/GongRzhe/APIWeaver"
-readmeUrl: "https://github.com/GongRzhe/APIWeaver/blob/main/README.md"
+readmeUrl: "https://github.com/GongRzhe/APIWeaver/blob/HEAD/README.md"
 githubStars: 48
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:17.127Z"

@@ -10,7 +10,7 @@ owner: "Soul-Brews-Studio"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Soul-Brews-Studio/arra-oracle-v3"
-readmeUrl: "https://github.com/Soul-Brews-Studio/arra-oracle-v3/blob/main/README.md"
+readmeUrl: "https://github.com/Soul-Brews-Studio/arra-oracle-v3/blob/HEAD/README.md"
 githubStars: 43
 githubForks: 0
 githubStatsFetchedAt: "2026-03-25T07:01:37.682Z"

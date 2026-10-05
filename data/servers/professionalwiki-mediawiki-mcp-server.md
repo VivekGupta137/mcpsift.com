@@ -10,7 +10,7 @@ owner: "Professional Wiki"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ProfessionalWiki/MediaWiki-MCP-Server"
-readmeUrl: "https://github.com/ProfessionalWiki/MediaWiki-MCP-Server/blob/main/README.md"
+readmeUrl: "https://github.com/ProfessionalWiki/MediaWiki-MCP-Server/blob/HEAD/README.md"
 githubStars: 35
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:17.348Z"

@@ -10,7 +10,7 @@ owner: "krVatsal"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/krVatsal/illustrator-mcp"
-readmeUrl: "https://github.com/krVatsal/illustrator-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/krVatsal/illustrator-mcp/blob/HEAD/README.md"
 githubStars: 54
 githubForks: 0
 githubStatsFetchedAt: "2026-04-07T17:31:38.840Z"

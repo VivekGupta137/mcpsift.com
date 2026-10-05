@@ -10,7 +10,7 @@ owner: "ricocf"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/akalaric/mcp-wolframalpha"
-readmeUrl: "https://github.com/akalaric/mcp-wolframalpha/blob/main/README.md"
+readmeUrl: "https://github.com/akalaric/mcp-wolframalpha/blob/HEAD/README.md"
 githubStars: 70
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:49.954Z"

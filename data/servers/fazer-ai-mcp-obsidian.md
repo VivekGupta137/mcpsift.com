@@ -10,7 +10,7 @@ owner: "fazer-ai"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/fazer-ai/mcp-obsidian"
-readmeUrl: "https://github.com/fazer-ai/mcp-obsidian/blob/main/README.md"
+readmeUrl: "https://github.com/fazer-ai/mcp-obsidian/blob/HEAD/README.md"
 githubStars: 41
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:01.375Z"

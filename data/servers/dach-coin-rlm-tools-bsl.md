@@ -10,7 +10,7 @@ owner: "Dach-Coin"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Dach-Coin/rlm-tools-bsl"
-readmeUrl: "https://github.com/Dach-Coin/rlm-tools-bsl/blob/main/README.md"
+readmeUrl: "https://github.com/Dach-Coin/rlm-tools-bsl/blob/HEAD/README.md"
 githubStars: 74
 githubForks: 0
 githubStatsFetchedAt: "2026-04-19T14:30:43.968Z"

@@ -10,7 +10,7 @@ owner: "yuna0x0"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/yuna0x0/anilist-mcp"
-readmeUrl: "https://github.com/yuna0x0/anilist-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/yuna0x0/anilist-mcp/blob/HEAD/README.md"
 githubStars: 58
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:06.381Z"

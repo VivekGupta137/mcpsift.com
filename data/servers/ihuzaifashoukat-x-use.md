@@ -10,7 +10,7 @@ owner: "ihuzaifashoukat"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ihuzaifashoukat/x-use"
-readmeUrl: "https://github.com/ihuzaifashoukat/x-use/blob/main/README.md"
+readmeUrl: "https://github.com/ihuzaifashoukat/x-use/blob/HEAD/README.md"
 githubStars: 148
 githubForks: 0
 githubStatsFetchedAt: "2026-07-26T10:35:07.510Z"

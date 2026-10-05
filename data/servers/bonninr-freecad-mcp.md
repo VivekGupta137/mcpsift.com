@@ -10,7 +10,7 @@ owner: "bonninr"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/bonninr/freecad_mcp"
-readmeUrl: "https://github.com/bonninr/freecad_mcp/blob/main/README.md"
+readmeUrl: "https://github.com/bonninr/freecad_mcp/blob/HEAD/README.md"
 githubStars: 150
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:52.610Z"

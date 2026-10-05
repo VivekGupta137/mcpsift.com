@@ -10,7 +10,7 @@ owner: "rafaljanicki"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/rafaljanicki/x-twitter-mcp-server"
-readmeUrl: "https://github.com/rafaljanicki/x-twitter-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/rafaljanicki/x-twitter-mcp-server/blob/HEAD/README.md"
 githubStars: 27
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:49.632Z"

@@ -10,7 +10,7 @@ owner: "user-attachments"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/shanejonas/openrpc-mpc-server"
-readmeUrl: "https://github.com/shanejonas/openrpc-mpc-server/blob/main/README.md"
+readmeUrl: "https://github.com/shanejonas/openrpc-mpc-server/blob/HEAD/README.md"
 githubStars: 41
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:11.535Z"

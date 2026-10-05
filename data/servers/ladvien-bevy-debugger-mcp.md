@@ -10,7 +10,7 @@ owner: "ladvien"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Ladvien/bevy_debugger_mcp"
-readmeUrl: "https://github.com/Ladvien/bevy_debugger_mcp/blob/main/README.md"
+readmeUrl: "https://github.com/Ladvien/bevy_debugger_mcp/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2026-08-08T13:30:50.735Z"

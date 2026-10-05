@@ -10,7 +10,7 @@ owner: "rootlyhq"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/rootlyhq/rootly-mcp-server"
-readmeUrl: "https://github.com/rootlyhq/rootly-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/rootlyhq/rootly-mcp-server/blob/HEAD/README.md"
 githubStars: 42
 githubForks: 0
 githubStatsFetchedAt: "2026-06-23T21:30:56.446Z"

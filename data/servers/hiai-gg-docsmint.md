@@ -10,7 +10,7 @@ owner: "HiAi-gg"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/hiai-gg/docsmint"
-readmeUrl: "https://github.com/hiai-gg/docsmint/blob/main/README.md"
+readmeUrl: "https://github.com/hiai-gg/docsmint/blob/HEAD/README.md"
 githubStars: 58
 githubForks: 0
 githubStatsFetchedAt: "2026-08-30T20:20:33.703Z"

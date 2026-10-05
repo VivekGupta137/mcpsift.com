@@ -10,7 +10,7 @@ owner: "maxellis"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/maxellis/orcaslicer-mcp"
-readmeUrl: "https://github.com/maxellis/orcaslicer-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/maxellis/orcaslicer-mcp/blob/HEAD/README.md"
 githubStars: 58
 githubForks: 0
 githubStatsFetchedAt: "2026-10-01T22:32:38.896Z"

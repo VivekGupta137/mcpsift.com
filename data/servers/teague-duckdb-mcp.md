@@ -10,7 +10,7 @@ owner: "teague"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/teaguesterling/duckdb_mcp"
-readmeUrl: "https://github.com/teaguesterling/duckdb_mcp/blob/main/README.md"
+readmeUrl: "https://github.com/teaguesterling/duckdb_mcp/blob/HEAD/README.md"
 githubStars: 42
 githubForks: 0
 githubStatsFetchedAt: "2026-03-28T22:01:11.034Z"

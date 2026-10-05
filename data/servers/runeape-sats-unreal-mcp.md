@@ -10,7 +10,7 @@ owner: "runeape-sats"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/runeape-sats/unreal-mcp"
-readmeUrl: "https://github.com/runeape-sats/unreal-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/runeape-sats/unreal-mcp/blob/HEAD/README.md"
 githubStars: 45
 githubForks: 0
 githubStatsFetchedAt: "2026-03-31T02:01:23.594Z"

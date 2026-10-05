@@ -10,7 +10,7 @@ owner: "docsagent"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/docsagent/docsagent"
-readmeUrl: "https://github.com/docsagent/docsagent/blob/main/README.md"
+readmeUrl: "https://github.com/docsagent/docsagent/blob/HEAD/README.md"
 githubStars: 616
 githubForks: 0
 githubStatsFetchedAt: "2026-09-21T05:00:48.721Z"

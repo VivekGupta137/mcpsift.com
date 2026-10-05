@@ -10,7 +10,7 @@ owner: "kiliczsh"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/kiliczsh/mcp-mongo-server"
-readmeUrl: "https://github.com/kiliczsh/mcp-mongo-server/blob/main/README.md"
+readmeUrl: "https://github.com/kiliczsh/mcp-mongo-server/blob/HEAD/README.md"
 githubStars: 222
 githubForks: 0
 githubStatsFetchedAt: "2026-03-19T00:00:59.540Z"

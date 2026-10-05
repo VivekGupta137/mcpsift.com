@@ -10,7 +10,7 @@ owner: "maxim-saplin"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/maxim-saplin/mcp_safe_local_python_executor"
-readmeUrl: "https://github.com/maxim-saplin/mcp_safe_local_python_executor/blob/main/README.md"
+readmeUrl: "https://github.com/maxim-saplin/mcp_safe_local_python_executor/blob/HEAD/README.md"
 githubStars: 44
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:00.644Z"

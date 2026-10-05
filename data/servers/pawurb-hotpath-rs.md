@@ -10,7 +10,7 @@ owner: "pawurb"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/pawurb/hotpath-rs"
-readmeUrl: "https://github.com/pawurb/hotpath-rs/blob/main/README.md"
+readmeUrl: "https://github.com/pawurb/hotpath-rs/blob/HEAD/README.md"
 githubStars: 1307
 githubForks: 0
 githubStatsFetchedAt: "2026-02-08T14:00:45.687Z"

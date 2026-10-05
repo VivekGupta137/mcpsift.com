@@ -10,7 +10,7 @@ owner: "call518"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/call518/MCP-PostgreSQL-Ops"
-readmeUrl: "https://github.com/call518/MCP-PostgreSQL-Ops/blob/main/README.md"
+readmeUrl: "https://github.com/call518/MCP-PostgreSQL-Ops/blob/HEAD/README.md"
 githubStars: 123
 githubForks: 0
 githubStatsFetchedAt: "2025-11-07T00:00:41.609Z"

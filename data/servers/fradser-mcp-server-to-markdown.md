@@ -10,7 +10,7 @@ owner: "FradSer"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/FradSer/mcp-server-to-markdown"
-readmeUrl: "https://github.com/FradSer/mcp-server-to-markdown/blob/main/README.md"
+readmeUrl: "https://github.com/FradSer/mcp-server-to-markdown/blob/HEAD/README.md"
 githubStars: 35
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:02.289Z"

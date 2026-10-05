@@ -10,7 +10,7 @@ owner: "Scott Spence"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/spences10/mcp-n8n-builder"
-readmeUrl: "https://github.com/spences10/mcp-n8n-builder/blob/main/README.md"
+readmeUrl: "https://github.com/spences10/mcp-n8n-builder/blob/HEAD/README.md"
 githubStars: 76
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:37:46.557Z"

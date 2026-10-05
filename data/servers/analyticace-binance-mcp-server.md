@@ -10,7 +10,7 @@ owner: "AnalyticAce"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/AnalyticAce/binance-mcp-server"
-readmeUrl: "https://github.com/AnalyticAce/binance-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/AnalyticAce/binance-mcp-server/blob/HEAD/README.md"
 githubStars: 35
 githubForks: 0
 githubStatsFetchedAt: "2025-12-27T13:00:24.877Z"

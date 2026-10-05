@@ -10,7 +10,7 @@ owner: "TocharianOU"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/TocharianOU/mcp-server-kibana"
-readmeUrl: "https://github.com/TocharianOU/mcp-server-kibana/blob/main/README.md"
+readmeUrl: "https://github.com/TocharianOU/mcp-server-kibana/blob/HEAD/README.md"
 githubStars: 73
 githubForks: 0
 githubStatsFetchedAt: "2026-07-19T18:31:00.814Z"

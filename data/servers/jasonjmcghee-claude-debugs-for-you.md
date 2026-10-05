@@ -10,7 +10,7 @@ owner: "jasonjmcghee"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jasonjmcghee/claude-debugs-for-you"
-readmeUrl: "https://github.com/jasonjmcghee/claude-debugs-for-you/blob/main/README.md"
+readmeUrl: "https://github.com/jasonjmcghee/claude-debugs-for-you/blob/HEAD/README.md"
 githubStars: 463
 githubForks: 0
 githubStatsFetchedAt: "2025-11-13T00:00:43.047Z"

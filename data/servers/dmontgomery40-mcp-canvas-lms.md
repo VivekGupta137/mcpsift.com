@@ -10,7 +10,7 @@ owner: "DMontgomery40"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/DMontgomery40/mcp-canvas-lms"
-readmeUrl: "https://github.com/DMontgomery40/mcp-canvas-lms/blob/main/README.md"
+readmeUrl: "https://github.com/DMontgomery40/mcp-canvas-lms/blob/HEAD/README.md"
 githubStars: 84
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:09.695Z"

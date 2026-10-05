@@ -10,7 +10,7 @@ owner: "heilingbrunner"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/heilingbrunner/tiaportal-mcp"
-readmeUrl: "https://github.com/heilingbrunner/tiaportal-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/heilingbrunner/tiaportal-mcp/blob/HEAD/README.md"
 githubStars: 95
 githubForks: 0
 githubStatsFetchedAt: "2026-09-08T15:00:43.471Z"

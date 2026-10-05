@@ -10,7 +10,7 @@ owner: "domdomegg"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/domdomegg/computer-use-mcp"
-readmeUrl: "https://github.com/domdomegg/computer-use-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/domdomegg/computer-use-mcp/blob/HEAD/README.md"
 githubStars: 145
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:09.531Z"

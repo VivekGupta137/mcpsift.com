@@ -10,7 +10,7 @@ owner: "figma"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/figma/mcp-server-guide"
-readmeUrl: "https://github.com/figma/mcp-server-guide/blob/main/README.md"
+readmeUrl: "https://github.com/figma/mcp-server-guide/blob/HEAD/README.md"
 githubStars: 36
 githubForks: 0
 githubStatsFetchedAt: "2025-10-30T00:00:37.179Z"

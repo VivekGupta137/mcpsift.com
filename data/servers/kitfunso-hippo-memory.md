@@ -10,7 +10,7 @@ owner: "kitfunso"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/kitfunso/hippo-memory"
-readmeUrl: "https://github.com/kitfunso/hippo-memory/blob/main/README.md"
+readmeUrl: "https://github.com/kitfunso/hippo-memory/blob/HEAD/README.md"
 githubStars: 750
 githubForks: 0
 githubStatsFetchedAt: "2026-09-21T13:00:50.469Z"

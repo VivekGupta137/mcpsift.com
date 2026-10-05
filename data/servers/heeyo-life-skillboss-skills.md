@@ -10,7 +10,7 @@ owner: "heeyo-life"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/heeyo-life/skillboss-skills"
-readmeUrl: "https://github.com/heeyo-life/skillboss-skills/blob/main/README.md"
+readmeUrl: "https://github.com/heeyo-life/skillboss-skills/blob/HEAD/README.md"
 githubStars: 42
 githubForks: 0
 githubStatsFetchedAt: "2026-03-04T09:30:58.437Z"

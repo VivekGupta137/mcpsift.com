@@ -10,7 +10,7 @@ owner: "googleapis"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/googleapis/mcp-toolbox"
-readmeUrl: "https://github.com/googleapis/mcp-toolbox/blob/main/README.md"
+readmeUrl: "https://github.com/googleapis/mcp-toolbox/blob/HEAD/README.md"
 githubStars: 13999
 githubForks: 0
 githubStatsFetchedAt: "2026-04-08T21:31:12.957Z"

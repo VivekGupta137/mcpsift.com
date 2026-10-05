@@ -10,7 +10,7 @@ owner: "rashidazarang"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/rashidazarang/airtable-mcp"
-readmeUrl: "https://github.com/rashidazarang/airtable-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/rashidazarang/airtable-mcp/blob/HEAD/README.md"
 githubStars: 44
 githubForks: 0
 githubStatsFetchedAt: "2025-11-09T00:01:02.652Z"

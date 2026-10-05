@@ -10,7 +10,7 @@ owner: "ApolloVM"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ApolloVM/apollovm_dart"
-readmeUrl: "https://github.com/ApolloVM/apollovm_dart/blob/main/README.md"
+readmeUrl: "https://github.com/ApolloVM/apollovm_dart/blob/HEAD/README.md"
 githubStars: 81
 githubForks: 0
 githubStatsFetchedAt: "2026-07-10T07:31:01.095Z"

@@ -10,7 +10,7 @@ owner: "openbnb-org"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/openbnb-org/mcp-server-airbnb"
-readmeUrl: "https://github.com/openbnb-org/mcp-server-airbnb/blob/main/README.md"
+readmeUrl: "https://github.com/openbnb-org/mcp-server-airbnb/blob/HEAD/README.md"
 githubStars: 481
 githubForks: 0
 githubStatsFetchedAt: "2026-06-28T10:47:49.891Z"

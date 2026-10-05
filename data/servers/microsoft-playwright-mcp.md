@@ -10,7 +10,7 @@ owner: "Microsoft Corporation"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/microsoft/playwright-mcp"
-readmeUrl: "https://github.com/microsoft/playwright-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/microsoft/playwright-mcp/blob/HEAD/README.md"
 githubStars: 35532
 githubForks: 0
 githubStatsFetchedAt: "2026-07-27T14:08:36.376Z"

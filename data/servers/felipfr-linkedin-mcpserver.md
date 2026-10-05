@@ -10,7 +10,7 @@ owner: "felipfr"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/felipfr/linkedin-mcpserver"
-readmeUrl: "https://github.com/felipfr/linkedin-mcpserver/blob/main/README.md"
+readmeUrl: "https://github.com/felipfr/linkedin-mcpserver/blob/HEAD/README.md"
 githubStars: 51
 githubForks: 0
 githubStatsFetchedAt: "2026-03-12T00:00:28.642Z"

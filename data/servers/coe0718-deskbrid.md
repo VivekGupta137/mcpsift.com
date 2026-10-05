@@ -10,7 +10,7 @@ owner: "coe0718"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/coe0718/deskbrid"
-readmeUrl: "https://github.com/coe0718/deskbrid/blob/main/README.md"
+readmeUrl: "https://github.com/coe0718/deskbrid/blob/HEAD/README.md"
 githubStars: 28
 githubForks: 0
 githubStatsFetchedAt: "2026-06-25T13:35:39.724Z"

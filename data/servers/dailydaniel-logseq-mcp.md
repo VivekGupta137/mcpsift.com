@@ -10,7 +10,7 @@ owner: "dailydaniel"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/dailydaniel/logseq-mcp"
-readmeUrl: "https://github.com/dailydaniel/logseq-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/dailydaniel/logseq-mcp/blob/HEAD/README.md"
 githubStars: 32
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:57.816Z"

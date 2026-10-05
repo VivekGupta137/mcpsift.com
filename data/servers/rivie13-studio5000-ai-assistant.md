@@ -10,7 +10,7 @@ owner: "rivie13"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/rivie13/studio5000-AI-Assistant"
-readmeUrl: "https://github.com/rivie13/studio5000-AI-Assistant/blob/main/README.md"
+readmeUrl: "https://github.com/rivie13/studio5000-AI-Assistant/blob/HEAD/README.md"
 githubStars: 27
 githubForks: 0
 githubStatsFetchedAt: "2026-06-11T20:14:29.020Z"

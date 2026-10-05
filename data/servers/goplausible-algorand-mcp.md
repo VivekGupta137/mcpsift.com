@@ -10,7 +10,7 @@ owner: "GoPlausible"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/GoPlausible/algorand-mcp"
-readmeUrl: "https://github.com/GoPlausible/algorand-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/GoPlausible/algorand-mcp/blob/HEAD/README.md"
 githubStars: 40
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:14.194Z"

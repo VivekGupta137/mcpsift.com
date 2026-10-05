@@ -10,7 +10,7 @@ owner: "0xzr"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/0xzr/freellmpool"
-readmeUrl: "https://github.com/0xzr/freellmpool/blob/main/README.md"
+readmeUrl: "https://github.com/0xzr/freellmpool/blob/HEAD/README.md"
 githubStars: 39
 githubForks: 0
 githubStatsFetchedAt: "2026-07-17T06:00:36.313Z"

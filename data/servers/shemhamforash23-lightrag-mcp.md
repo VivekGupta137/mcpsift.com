@@ -10,7 +10,7 @@ owner: "shemhamforash23"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/shemhamforash23/lightrag-mcp"
-readmeUrl: "https://github.com/shemhamforash23/lightrag-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/shemhamforash23/lightrag-mcp/blob/HEAD/README.md"
 githubStars: 107
 githubForks: 0
 githubStatsFetchedAt: "2026-02-28T23:30:37.646Z"

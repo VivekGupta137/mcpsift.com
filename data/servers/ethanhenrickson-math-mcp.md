@@ -10,7 +10,7 @@ owner: "EthanHenrickson"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/EthanHenrickson/math-mcp"
-readmeUrl: "https://github.com/EthanHenrickson/math-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/EthanHenrickson/math-mcp/blob/HEAD/README.md"
 githubStars: 139
 githubForks: 0
 githubStatsFetchedAt: "2026-05-30T16:30:39.339Z"

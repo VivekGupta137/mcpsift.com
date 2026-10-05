@@ -10,7 +10,7 @@ owner: "Neil Pullman"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/neiltron/apple-health-mcp"
-readmeUrl: "https://github.com/neiltron/apple-health-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/neiltron/apple-health-mcp/blob/HEAD/README.md"
 githubStars: 564
 githubForks: 0
 githubStatsFetchedAt: "2026-08-17T05:01:30.597Z"

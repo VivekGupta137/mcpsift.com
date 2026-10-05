@@ -10,7 +10,7 @@ owner: "your-username"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/zaizaizhao/mcp-swagger-server"
-readmeUrl: "https://github.com/zaizaizhao/mcp-swagger-server/blob/main/README.md"
+readmeUrl: "https://github.com/zaizaizhao/mcp-swagger-server/blob/HEAD/README.md"
 githubStars: 58
 githubForks: 0
 githubStatsFetchedAt: "2026-03-09T00:00:41.657Z"

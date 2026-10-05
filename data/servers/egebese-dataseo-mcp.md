@@ -10,7 +10,7 @@ owner: "egebese"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/egebese/dataseo-mcp"
-readmeUrl: "https://github.com/egebese/dataseo-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/egebese/dataseo-mcp/blob/HEAD/README.md"
 githubStars: 185
 githubForks: 0
 githubStatsFetchedAt: "2026-07-06T21:01:08.406Z"

@@ -10,7 +10,7 @@ owner: "R-lz"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/R-lz/mcp-video-digest"
-readmeUrl: "https://github.com/R-lz/mcp-video-digest/blob/main/README.md"
+readmeUrl: "https://github.com/R-lz/mcp-video-digest/blob/HEAD/README.md"
 githubStars: 25
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:13.526Z"

@@ -10,7 +10,7 @@ owner: "IvanMurzak"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/IvanMurzak/Unity-MCP"
-readmeUrl: "https://github.com/IvanMurzak/Unity-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/IvanMurzak/Unity-MCP/blob/HEAD/README.md"
 githubStars: 938
 githubForks: 0
 githubStatsFetchedAt: "2026-02-10T00:38:53.056Z"

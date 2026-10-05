@@ -10,7 +10,7 @@ owner: "hanweg"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/hanweg/mcp-pdf-tools"
-readmeUrl: "https://github.com/hanweg/mcp-pdf-tools/blob/main/README.md"
+readmeUrl: "https://github.com/hanweg/mcp-pdf-tools/blob/HEAD/README.md"
 githubStars: 75
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:46.100Z"

@@ -10,7 +10,7 @@ owner: "filliptm"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/filliptm/ComfyUI_FL-MCP"
-readmeUrl: "https://github.com/filliptm/ComfyUI_FL-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/filliptm/ComfyUI_FL-MCP/blob/HEAD/README.md"
 githubStars: 109
 githubForks: 0
 githubStatsFetchedAt: "2026-07-23T05:30:42.125Z"

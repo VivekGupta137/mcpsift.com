@@ -10,7 +10,7 @@ owner: "istefox"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/istefox/obsidian-mcp-connector"
-readmeUrl: "https://github.com/istefox/obsidian-mcp-connector/blob/main/README.md"
+readmeUrl: "https://github.com/istefox/obsidian-mcp-connector/blob/HEAD/README.md"
 githubStars: 43
 githubForks: 0
 githubStatsFetchedAt: "2026-08-18T18:30:37.086Z"

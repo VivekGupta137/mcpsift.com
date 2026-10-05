@@ -10,7 +10,7 @@ owner: "onkernel"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/kernel/kernel-mcp-server"
-readmeUrl: "https://github.com/kernel/kernel-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/kernel/kernel-mcp-server/blob/HEAD/README.md"
 githubStars: 25
 githubForks: 0
 githubStatsFetchedAt: "2026-02-05T23:00:38.816Z"

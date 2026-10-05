@@ -10,7 +10,7 @@ owner: "gongrzhe"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/GongRzhe/opencv-mcp-server"
-readmeUrl: "https://github.com/GongRzhe/opencv-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/GongRzhe/opencv-mcp-server/blob/HEAD/README.md"
 githubStars: 87
 githubForks: 0
 githubStatsFetchedAt: "2025-12-31T00:00:48.415Z"

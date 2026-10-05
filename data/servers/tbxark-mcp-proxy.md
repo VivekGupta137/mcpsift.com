@@ -10,7 +10,7 @@ owner: "TBXark"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/TBXark/mcp-proxy"
-readmeUrl: "https://github.com/TBXark/mcp-proxy/blob/main/README.md"
+readmeUrl: "https://github.com/TBXark/mcp-proxy/blob/HEAD/README.md"
 githubStars: 312
 githubForks: 0
 githubStatsFetchedAt: "2025-01-01T00:00:00.000Z"

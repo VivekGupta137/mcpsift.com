@@ -10,7 +10,7 @@ owner: "JackKuo666"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/JackKuo666/PubMed-MCP-Server"
-readmeUrl: "https://github.com/JackKuo666/PubMed-MCP-Server/blob/main/README.md"
+readmeUrl: "https://github.com/JackKuo666/PubMed-MCP-Server/blob/HEAD/README.md"
 githubStars: 103
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:44.986Z"

@@ -10,7 +10,7 @@ owner: "doublej"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/doublej/consult-user-mcp"
-readmeUrl: "https://github.com/doublej/consult-user-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/doublej/consult-user-mcp/blob/HEAD/README.md"
 githubStars: 40
 githubForks: 0
 githubStatsFetchedAt: "2026-04-11T17:03:33.772Z"

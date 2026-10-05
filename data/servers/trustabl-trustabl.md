@@ -10,7 +10,7 @@ owner: "trustabl"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/trustabl/trustabl"
-readmeUrl: "https://github.com/trustabl/trustabl/blob/main/README.md"
+readmeUrl: "https://github.com/trustabl/trustabl/blob/HEAD/README.md"
 githubStars: 38
 githubForks: 0
 githubStatsFetchedAt: "2026-08-20T05:30:39.790Z"

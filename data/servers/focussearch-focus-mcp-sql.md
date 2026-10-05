@@ -10,7 +10,7 @@ owner: "FocusSearch"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/FocusSearch/focus_mcp_sql"
-readmeUrl: "https://github.com/FocusSearch/focus_mcp_sql/blob/main/README.md"
+readmeUrl: "https://github.com/FocusSearch/focus_mcp_sql/blob/HEAD/README.md"
 githubStars: 38
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:05.034Z"

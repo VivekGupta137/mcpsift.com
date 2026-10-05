@@ -10,7 +10,7 @@ owner: "thedaviddias"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/thedaviddias/mcp-llms-txt-explorer"
-readmeUrl: "https://github.com/thedaviddias/mcp-llms-txt-explorer/blob/main/README.md"
+readmeUrl: "https://github.com/thedaviddias/mcp-llms-txt-explorer/blob/HEAD/README.md"
 githubStars: 46
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:44:53.230Z"

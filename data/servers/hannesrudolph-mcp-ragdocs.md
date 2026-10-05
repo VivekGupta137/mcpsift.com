@@ -10,7 +10,7 @@ owner: "hannesrudolph"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/hannesrudolph/mcp-ragdocs"
-readmeUrl: "https://github.com/hannesrudolph/mcp-ragdocs/blob/main/README.md"
+readmeUrl: "https://github.com/hannesrudolph/mcp-ragdocs/blob/HEAD/README.md"
 githubStars: 254
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:10.598Z"

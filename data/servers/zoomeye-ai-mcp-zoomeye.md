@@ -10,7 +10,7 @@ owner: "zoomeye-ai"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/zoomeye-ai/mcp_zoomeye"
-readmeUrl: "https://github.com/zoomeye-ai/mcp_zoomeye/blob/main/README.md"
+readmeUrl: "https://github.com/zoomeye-ai/mcp_zoomeye/blob/HEAD/README.md"
 githubStars: 65
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:54.091Z"

@@ -10,7 +10,7 @@ owner: "HoldMyBeer-gg"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/HoldMyBeer-gg/blenderwright"
-readmeUrl: "https://github.com/HoldMyBeer-gg/blenderwright/blob/main/README.md"
+readmeUrl: "https://github.com/HoldMyBeer-gg/blenderwright/blob/HEAD/README.md"
 githubStars: 151
 githubForks: 0
 githubStatsFetchedAt: "2026-10-01T17:00:46.540Z"

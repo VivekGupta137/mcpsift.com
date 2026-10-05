@@ -10,7 +10,7 @@ owner: "LunkiBR"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/LunkiBR/n8n-mcp-lite"
-readmeUrl: "https://github.com/LunkiBR/n8n-mcp-lite/blob/main/README.md"
+readmeUrl: "https://github.com/LunkiBR/n8n-mcp-lite/blob/HEAD/README.md"
 githubStars: 28
 githubForks: 0
 githubStatsFetchedAt: "2026-05-26T01:20:14.240Z"

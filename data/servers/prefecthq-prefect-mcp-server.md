@@ -10,7 +10,7 @@ owner: "PrefectHQ"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/PrefectHQ/prefect-mcp-server"
-readmeUrl: "https://github.com/PrefectHQ/prefect-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/PrefectHQ/prefect-mcp-server/blob/HEAD/README.md"
 githubStars: 33
 githubForks: 0
 githubStatsFetchedAt: "2026-04-07T19:31:21.363Z"

@@ -10,7 +10,7 @@ owner: "your-username"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/intuit/quickbooks-online-mcp-server"
-readmeUrl: "https://github.com/intuit/quickbooks-online-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/intuit/quickbooks-online-mcp-server/blob/HEAD/README.md"
 githubStars: 181
 githubForks: 0
 githubStatsFetchedAt: "2026-04-27T20:01:10.106Z"

@@ -10,7 +10,7 @@ owner: "pvliesdonk"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/pvliesdonk/markdown-vault-mcp"
-readmeUrl: "https://github.com/pvliesdonk/markdown-vault-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/pvliesdonk/markdown-vault-mcp/blob/HEAD/README.md"
 githubStars: 33
 githubForks: 0
 githubStatsFetchedAt: "2026-09-25T13:30:51.430Z"

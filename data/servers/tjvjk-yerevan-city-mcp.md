@@ -10,7 +10,7 @@ owner: "tjvjk"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/tjvjk/yerevan-city-mcp"
-readmeUrl: "https://github.com/tjvjk/yerevan-city-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/tjvjk/yerevan-city-mcp/blob/HEAD/README.md"
 githubStars: 34
 githubForks: 0
 githubStatsFetchedAt: "2026-08-18T08:01:13.873Z"

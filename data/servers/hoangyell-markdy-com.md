@@ -10,7 +10,7 @@ owner: "HoangYell"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/HoangYell/markdy-com"
-readmeUrl: "https://github.com/HoangYell/markdy-com/blob/main/README.md"
+readmeUrl: "https://github.com/HoangYell/markdy-com/blob/HEAD/README.md"
 githubStars: 84
 githubForks: 0
 githubStatsFetchedAt: "2026-08-25T21:30:46.776Z"

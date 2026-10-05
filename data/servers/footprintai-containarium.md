@@ -10,7 +10,7 @@ owner: "FootprintAI"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/FootprintAI/Containarium"
-readmeUrl: "https://github.com/FootprintAI/Containarium/blob/main/README.md"
+readmeUrl: "https://github.com/FootprintAI/Containarium/blob/HEAD/README.md"
 githubStars: 216
 githubForks: 0
 githubStatsFetchedAt: "2026-06-27T15:30:48.993Z"

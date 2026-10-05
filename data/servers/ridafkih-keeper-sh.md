@@ -10,7 +10,7 @@ owner: "ridafkih"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ridafkih/keeper.sh"
-readmeUrl: "https://github.com/ridafkih/keeper.sh/blob/main/README.md"
+readmeUrl: "https://github.com/ridafkih/keeper.sh/blob/HEAD/README.md"
 githubStars: 466
 githubForks: 0
 githubStatsFetchedAt: "2026-03-16T02:30:56.006Z"

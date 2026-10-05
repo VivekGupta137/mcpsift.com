@@ -10,7 +10,7 @@ owner: "aaronjmars"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/aaronjmars/opendia"
-readmeUrl: "https://github.com/aaronjmars/opendia/blob/main/README.md"
+readmeUrl: "https://github.com/aaronjmars/opendia/blob/HEAD/README.md"
 githubStars: 1725
 githubForks: 0
 githubStatsFetchedAt: "2025-11-19T00:00:39.473Z"

@@ -10,7 +10,7 @@ owner: "arcaputo3"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/arcaputo3/mcp-server-whisper"
-readmeUrl: "https://github.com/arcaputo3/mcp-server-whisper/blob/main/README.md"
+readmeUrl: "https://github.com/arcaputo3/mcp-server-whisper/blob/HEAD/README.md"
 githubStars: 47
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:52.248Z"

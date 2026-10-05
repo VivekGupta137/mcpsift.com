@@ -10,7 +10,7 @@ owner: "rishijatia"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/rishijatia/fantasy-pl-mcp"
-readmeUrl: "https://github.com/rishijatia/fantasy-pl-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/rishijatia/fantasy-pl-mcp/blob/HEAD/README.md"
 githubStars: 69
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:01.713Z"

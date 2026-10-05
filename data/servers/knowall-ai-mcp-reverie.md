@@ -10,7 +10,7 @@ owner: "knowall-ai"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/knowall-ai/mcp-reverie"
-readmeUrl: "https://github.com/knowall-ai/mcp-reverie/blob/main/README.md"
+readmeUrl: "https://github.com/knowall-ai/mcp-reverie/blob/HEAD/README.md"
 githubStars: 69
 githubForks: 0
 githubStatsFetchedAt: "2026-09-05T00:30:38.571Z"

@@ -10,7 +10,7 @@ owner: "xpn"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/xpn/mythic_mcp"
-readmeUrl: "https://github.com/xpn/mythic_mcp/blob/main/README.md"
+readmeUrl: "https://github.com/xpn/mythic_mcp/blob/HEAD/README.md"
 githubStars: 73
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:41.329Z"

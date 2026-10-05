@@ -10,7 +10,7 @@ owner: "dragon1086"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/dragon1086/kospi-kosdaq-stock-server"
-readmeUrl: "https://github.com/dragon1086/kospi-kosdaq-stock-server/blob/main/README.md"
+readmeUrl: "https://github.com/dragon1086/kospi-kosdaq-stock-server/blob/HEAD/README.md"
 githubStars: 63
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:55.587Z"

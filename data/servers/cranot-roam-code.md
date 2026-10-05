@@ -10,7 +10,7 @@ owner: "Cranot"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Cranot/roam-code"
-readmeUrl: "https://github.com/Cranot/roam-code/blob/main/README.md"
+readmeUrl: "https://github.com/Cranot/roam-code/blob/HEAD/README.md"
 githubStars: 346
 githubForks: 0
 githubStatsFetchedAt: "2026-02-27T10:30:44.569Z"

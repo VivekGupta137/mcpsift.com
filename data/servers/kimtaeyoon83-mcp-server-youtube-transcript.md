@@ -10,7 +10,7 @@ owner: "kimtaeyoon83"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/kimtaeyoon83/mcp-server-youtube-transcript"
-readmeUrl: "https://github.com/kimtaeyoon83/mcp-server-youtube-transcript/blob/main/README.md"
+readmeUrl: "https://github.com/kimtaeyoon83/mcp-server-youtube-transcript/blob/HEAD/README.md"
 githubStars: 335
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:37:14.421Z"

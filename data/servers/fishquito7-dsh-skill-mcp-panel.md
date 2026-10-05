@@ -10,7 +10,7 @@ owner: "Fishquito7"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Fishquito7/dsh-skill-mcp-panel"
-readmeUrl: "https://github.com/Fishquito7/dsh-skill-mcp-panel/blob/main/README.md"
+readmeUrl: "https://github.com/Fishquito7/dsh-skill-mcp-panel/blob/HEAD/README.md"
 githubStars: 59
 githubForks: 0
 githubStatsFetchedAt: "2026-08-17T19:00:38.636Z"

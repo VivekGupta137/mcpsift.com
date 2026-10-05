@@ -10,7 +10,7 @@ owner: "awslabs"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/awslabs/iam-policy-autopilot"
-readmeUrl: "https://github.com/awslabs/iam-policy-autopilot/blob/main/README.md"
+readmeUrl: "https://github.com/awslabs/iam-policy-autopilot/blob/HEAD/README.md"
 githubStars: 84
 githubForks: 0
 githubStatsFetchedAt: "2025-12-02T19:00:55.945Z"

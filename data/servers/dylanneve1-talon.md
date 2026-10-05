@@ -10,7 +10,7 @@ owner: "dylanneve1"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/dylanneve1/talon"
-readmeUrl: "https://github.com/dylanneve1/talon/blob/main/README.md"
+readmeUrl: "https://github.com/dylanneve1/talon/blob/HEAD/README.md"
 githubStars: 56
 githubForks: 0
 githubStatsFetchedAt: "2026-06-25T19:01:53.266Z"

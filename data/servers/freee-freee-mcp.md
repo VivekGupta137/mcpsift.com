@@ -10,7 +10,7 @@ owner: "freee"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/freee/freee-mcp"
-readmeUrl: "https://github.com/freee/freee-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/freee/freee-mcp/blob/HEAD/README.md"
 githubStars: 136
 githubForks: 0
 githubStatsFetchedAt: "2026-02-24T09:01:04.395Z"

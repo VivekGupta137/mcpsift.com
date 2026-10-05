@@ -10,7 +10,7 @@ owner: "Reim-developer"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Reim-developer/Sephera"
-readmeUrl: "https://github.com/Reim-developer/Sephera/blob/main/README.md"
+readmeUrl: "https://github.com/Reim-developer/Sephera/blob/HEAD/README.md"
 githubStars: 72
 githubForks: 0
 githubStatsFetchedAt: "2026-04-04T10:01:22.362Z"

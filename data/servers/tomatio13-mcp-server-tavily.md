@@ -10,7 +10,7 @@ owner: "Tomatio13"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Tomatio13/mcp-server-tavily"
-readmeUrl: "https://github.com/Tomatio13/mcp-server-tavily/blob/main/README.md"
+readmeUrl: "https://github.com/Tomatio13/mcp-server-tavily/blob/HEAD/README.md"
 githubStars: 47
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:53.740Z"

@@ -10,7 +10,7 @@ owner: "github-hewei"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/github-hewei/mcp-android-adb-server"
-readmeUrl: "https://github.com/github-hewei/mcp-android-adb-server/blob/main/README.md"
+readmeUrl: "https://github.com/github-hewei/mcp-android-adb-server/blob/HEAD/README.md"
 githubStars: 25
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:51.249Z"

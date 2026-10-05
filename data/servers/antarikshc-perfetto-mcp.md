@@ -10,7 +10,7 @@ owner: "antarikshc"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/antarikshc/perfetto-mcp"
-readmeUrl: "https://github.com/antarikshc/perfetto-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/antarikshc/perfetto-mcp/blob/HEAD/README.md"
 githubStars: 131
 githubForks: 0
 githubStatsFetchedAt: "2026-04-10T20:02:14.641Z"

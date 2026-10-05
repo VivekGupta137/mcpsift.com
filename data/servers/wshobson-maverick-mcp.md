@@ -10,7 +10,7 @@ owner: "wshobson"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/wshobson/maverick-mcp"
-readmeUrl: "https://github.com/wshobson/maverick-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/wshobson/maverick-mcp/blob/HEAD/README.md"
 githubStars: 204
 githubForks: 0
 githubStatsFetchedAt: "2025-11-05T00:00:48.658Z"

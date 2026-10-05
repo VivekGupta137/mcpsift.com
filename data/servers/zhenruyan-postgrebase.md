@@ -10,7 +10,7 @@ owner: "zhenruyan"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/zhenruyan/postgrebase"
-readmeUrl: "https://github.com/zhenruyan/postgrebase/blob/main/README.md"
+readmeUrl: "https://github.com/zhenruyan/postgrebase/blob/HEAD/README.md"
 githubStars: 85
 githubForks: 0
 githubStatsFetchedAt: "2026-07-08T16:01:02.420Z"

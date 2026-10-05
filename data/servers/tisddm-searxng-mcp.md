@@ -10,7 +10,7 @@ owner: "tisDDM"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/tisDDM/searxng-mcp"
-readmeUrl: "https://github.com/tisDDM/searxng-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/tisDDM/searxng-mcp/blob/HEAD/README.md"
 githubStars: 35
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:01.138Z"

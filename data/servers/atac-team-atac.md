@@ -10,7 +10,7 @@ owner: "ATaC-team"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ATaC-team/ATaC"
-readmeUrl: "https://github.com/ATaC-team/ATaC/blob/main/README.md"
+readmeUrl: "https://github.com/ATaC-team/ATaC/blob/HEAD/README.md"
 githubStars: 42
 githubForks: 0
 githubStatsFetchedAt: "2026-02-22T16:00:51.599Z"

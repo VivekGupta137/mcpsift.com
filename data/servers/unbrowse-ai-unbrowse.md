@@ -10,7 +10,7 @@ owner: "unbrowse-ai"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/unbrowse-ai/unbrowse/tree/stable"
-readmeUrl: "https://github.com/unbrowse-ai/unbrowse/blob/main/README.md"
+readmeUrl: "https://github.com/unbrowse-ai/unbrowse/blob/HEAD/README.md"
 githubStars: 650
 githubForks: 0
 githubStatsFetchedAt: "2026-05-16T05:01:12.583Z"

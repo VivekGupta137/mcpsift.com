@@ -10,7 +10,7 @@ owner: "yourusername"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/nesquikm/mcp-rubber-duck"
-readmeUrl: "https://github.com/nesquikm/mcp-rubber-duck/blob/main/README.md"
+readmeUrl: "https://github.com/nesquikm/mcp-rubber-duck/blob/HEAD/README.md"
 githubStars: 55
 githubForks: 0
 githubStatsFetchedAt: "2025-11-05T00:00:40.274Z"

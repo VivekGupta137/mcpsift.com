@@ -10,7 +10,7 @@ owner: "raymondchins"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/raymondchins/agentmap"
-readmeUrl: "https://github.com/raymondchins/agentmap/blob/main/README.md"
+readmeUrl: "https://github.com/raymondchins/agentmap/blob/HEAD/README.md"
 githubStars: 45
 githubForks: 0
 githubStatsFetchedAt: "2026-07-26T06:00:39.761Z"

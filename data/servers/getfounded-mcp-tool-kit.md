@@ -10,7 +10,7 @@ owner: "getfounded"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/getfounded/mcp-tool-kit"
-readmeUrl: "https://github.com/getfounded/mcp-tool-kit/blob/main/README.md"
+readmeUrl: "https://github.com/getfounded/mcp-tool-kit/blob/HEAD/README.md"
 githubStars: 107
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:51.034Z"

@@ -10,7 +10,7 @@ owner: "tidewave-ai"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/tidewave-ai/mcp_proxy_rust"
-readmeUrl: "https://github.com/tidewave-ai/mcp_proxy_rust/blob/main/README.md"
+readmeUrl: "https://github.com/tidewave-ai/mcp_proxy_rust/blob/HEAD/README.md"
 githubStars: 117
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:51.878Z"

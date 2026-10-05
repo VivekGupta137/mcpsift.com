@@ -10,7 +10,7 @@ owner: "lightsifter"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/lightsifter/siftlight"
-readmeUrl: "https://github.com/lightsifter/siftlight/blob/main/README.md"
+readmeUrl: "https://github.com/lightsifter/siftlight/blob/HEAD/README.md"
 githubStars: 82
 githubForks: 0
 githubStatsFetchedAt: "2026-09-22T12:00:42.844Z"

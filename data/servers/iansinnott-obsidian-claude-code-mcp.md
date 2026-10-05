@@ -10,7 +10,7 @@ owner: "iansinnott"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/iansinnott/obsidian-claude-code-mcp"
-readmeUrl: "https://github.com/iansinnott/obsidian-claude-code-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/iansinnott/obsidian-claude-code-mcp/blob/HEAD/README.md"
 githubStars: 288
 githubForks: 0
 githubStatsFetchedAt: "2026-05-23T04:38:58.929Z"

@@ -10,7 +10,7 @@ owner: "AgentiLoop"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/AgentiLoop/Agent"
-readmeUrl: "https://github.com/AgentiLoop/Agent/blob/main/README.md"
+readmeUrl: "https://github.com/AgentiLoop/Agent/blob/HEAD/README.md"
 githubStars: 631
 githubForks: 0
 githubStatsFetchedAt: "2026-09-25T02:00:59.341Z"

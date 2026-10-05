@@ -10,7 +10,7 @@ owner: "whchien"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/whchien/ai-trader"
-readmeUrl: "https://github.com/whchien/ai-trader/blob/main/README.md"
+readmeUrl: "https://github.com/whchien/ai-trader/blob/HEAD/README.md"
 githubStars: 278
 githubForks: 0
 githubStatsFetchedAt: "2025-12-18T21:30:43.753Z"

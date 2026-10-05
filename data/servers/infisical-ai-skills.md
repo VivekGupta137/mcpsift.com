@@ -10,7 +10,7 @@ owner: "Infisical"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Infisical/ai-skills"
-readmeUrl: "https://github.com/Infisical/ai-skills/blob/main/README.md"
+readmeUrl: "https://github.com/Infisical/ai-skills/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2026-08-26T22:00:37.593Z"

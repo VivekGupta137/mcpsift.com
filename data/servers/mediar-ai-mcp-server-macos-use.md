@@ -10,7 +10,7 @@ owner: "mediar-ai"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mediar-ai/mcp-server-macos-use"
-readmeUrl: "https://github.com/mediar-ai/mcp-server-macos-use/blob/main/README.md"
+readmeUrl: "https://github.com/mediar-ai/mcp-server-macos-use/blob/HEAD/README.md"
 githubStars: 257
 githubForks: 0
 githubStatsFetchedAt: "2026-03-31T23:00:46.918Z"

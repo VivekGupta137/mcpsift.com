@@ -10,7 +10,7 @@ owner: "Im-Hal-9K"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jem-computer/capacities-mcp"
-readmeUrl: "https://github.com/jem-computer/capacities-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/jem-computer/capacities-mcp/blob/HEAD/README.md"
 githubStars: 38
 githubForks: 0
 githubStatsFetchedAt: "2026-04-21T18:02:10.507Z"

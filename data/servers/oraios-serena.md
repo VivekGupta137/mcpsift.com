@@ -10,7 +10,7 @@ owner: "oraios"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/oraios/serena"
-readmeUrl: "https://github.com/oraios/serena/blob/main/README.md"
+readmeUrl: "https://github.com/oraios/serena/blob/HEAD/README.md"
 githubStars: 1155
 githubForks: 0
 githubStatsFetchedAt: "2026-03-19T00:00:58.619Z"

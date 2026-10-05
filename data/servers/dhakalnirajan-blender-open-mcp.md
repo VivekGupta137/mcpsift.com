@@ -10,7 +10,7 @@ owner: "dhakalnirajan"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/dhakalnirajan/blender-open-mcp"
-readmeUrl: "https://github.com/dhakalnirajan/blender-open-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/dhakalnirajan/blender-open-mcp/blob/HEAD/README.md"
 githubStars: 91
 githubForks: 0
 githubStatsFetchedAt: "2026-04-21T13:32:05.100Z"

@@ -10,7 +10,7 @@ owner: "dinoki-ai"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/dinoki-ai/osaurus"
-readmeUrl: "https://github.com/dinoki-ai/osaurus/blob/main/README.md"
+readmeUrl: "https://github.com/dinoki-ai/osaurus/blob/HEAD/README.md"
 githubStars: 1598
 githubForks: 0
 githubStatsFetchedAt: "2025-11-30T13:30:40.480Z"

@@ -10,7 +10,7 @@ owner: "mattt"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mattt/iMCP"
-readmeUrl: "https://github.com/mattt/iMCP/blob/main/README.md"
+readmeUrl: "https://github.com/mattt/iMCP/blob/HEAD/README.md"
 githubStars: 1183
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:37.193Z"

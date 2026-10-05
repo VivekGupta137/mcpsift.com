@@ -10,7 +10,7 @@ owner: "mrbuslov"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mrbuslov/capcut-ai-editor"
-readmeUrl: "https://github.com/mrbuslov/capcut-ai-editor/blob/main/README.md"
+readmeUrl: "https://github.com/mrbuslov/capcut-ai-editor/blob/HEAD/README.md"
 githubStars: 33
 githubForks: 0
 githubStatsFetchedAt: "2026-05-22T13:47:23.399Z"

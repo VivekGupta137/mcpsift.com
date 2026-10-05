@@ -10,7 +10,7 @@ owner: "manusa"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/manusa/kubernetes-mcp-server"
-readmeUrl: "https://github.com/manusa/kubernetes-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/manusa/kubernetes-mcp-server/blob/HEAD/README.md"
 githubStars: 1237
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:55.958Z"

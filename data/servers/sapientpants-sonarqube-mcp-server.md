@@ -10,7 +10,7 @@ owner: "sapientpants"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/sapientpants/sonarqube-mcp-server"
-readmeUrl: "https://github.com/sapientpants/sonarqube-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/sapientpants/sonarqube-mcp-server/blob/HEAD/README.md"
 githubStars: 51
 githubForks: 0
 githubStatsFetchedAt: "2026-03-19T00:00:57.623Z"

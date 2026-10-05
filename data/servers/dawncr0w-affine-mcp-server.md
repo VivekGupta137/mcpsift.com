@@ -10,7 +10,7 @@ owner: "DAWNCR0W"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/DAWNCR0W/affine-mcp-server"
-readmeUrl: "https://github.com/DAWNCR0W/affine-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/DAWNCR0W/affine-mcp-server/blob/HEAD/README.md"
 githubStars: 31
 githubForks: 0
 githubStatsFetchedAt: "2025-11-14T00:00:46.610Z"

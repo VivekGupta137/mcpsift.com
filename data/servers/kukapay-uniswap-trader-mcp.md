@@ -10,7 +10,7 @@ owner: "kukapay"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/kukapay/uniswap-trader-mcp"
-readmeUrl: "https://github.com/kukapay/uniswap-trader-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/kukapay/uniswap-trader-mcp/blob/HEAD/README.md"
 githubStars: 34
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:06.603Z"

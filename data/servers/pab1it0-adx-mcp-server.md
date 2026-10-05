@@ -10,7 +10,7 @@ owner: "pab1it0"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/pab1it0/adx-mcp-server"
-readmeUrl: "https://github.com/pab1it0/adx-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/pab1it0/adx-mcp-server/blob/HEAD/README.md"
 githubStars: 52
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:01.401Z"

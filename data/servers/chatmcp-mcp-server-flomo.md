@@ -10,7 +10,7 @@ owner: "chatmcp"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/chatmcp/mcp-server-flomo"
-readmeUrl: "https://github.com/chatmcp/mcp-server-flomo/blob/main/README.md"
+readmeUrl: "https://github.com/chatmcp/mcp-server-flomo/blob/HEAD/README.md"
 githubStars: 54
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:44:55.988Z"

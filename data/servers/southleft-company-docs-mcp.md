@@ -10,7 +10,7 @@ owner: "southleft"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/southleft/company-docs-mcp"
-readmeUrl: "https://github.com/southleft/company-docs-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/southleft/company-docs-mcp/blob/HEAD/README.md"
 githubStars: 43
 githubForks: 0
 githubStatsFetchedAt: "2026-06-19T03:31:04.044Z"

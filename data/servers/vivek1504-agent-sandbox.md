@@ -10,7 +10,7 @@ owner: "vivek1504"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/vivek1504/agent-sandbox"
-readmeUrl: "https://github.com/vivek1504/agent-sandbox/blob/main/README.md"
+readmeUrl: "https://github.com/vivek1504/agent-sandbox/blob/HEAD/README.md"
 githubStars: 30
 githubForks: 0
 githubStatsFetchedAt: "2026-08-09T23:30:25.279Z"

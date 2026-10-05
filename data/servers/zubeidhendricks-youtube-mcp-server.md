@@ -10,7 +10,7 @@ owner: "ZubeidHendricks"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ZubeidHendricks/youtube-mcp-server"
-readmeUrl: "https://github.com/ZubeidHendricks/youtube-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/ZubeidHendricks/youtube-mcp-server/blob/HEAD/README.md"
 githubStars: 545
 githubForks: 0
 githubStatsFetchedAt: "2026-07-09T15:09:15.578Z"

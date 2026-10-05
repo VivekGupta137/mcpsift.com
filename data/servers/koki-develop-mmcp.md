@@ -10,7 +10,7 @@ owner: "koki-develop"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/koki-develop/mmcp"
-readmeUrl: "https://github.com/koki-develop/mmcp/blob/main/README.md"
+readmeUrl: "https://github.com/koki-develop/mmcp/blob/HEAD/README.md"
 githubStars: 32
 githubForks: 0
 githubStatsFetchedAt: "2025-11-03T00:00:33.605Z"

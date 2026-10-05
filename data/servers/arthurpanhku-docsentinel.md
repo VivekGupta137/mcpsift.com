@@ -10,7 +10,7 @@ owner: "arthurpanhku"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/arthurpanhku/DocSentinel"
-readmeUrl: "https://github.com/arthurpanhku/DocSentinel/blob/main/README.md"
+readmeUrl: "https://github.com/arthurpanhku/DocSentinel/blob/HEAD/README.md"
 githubStars: 65
 githubForks: 0
 githubStatsFetchedAt: "2026-03-12T13:30:50.859Z"

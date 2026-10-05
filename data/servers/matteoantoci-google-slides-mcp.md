@@ -10,7 +10,7 @@ owner: "matteoantoci"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/matteoantoci/google-slides-mcp"
-readmeUrl: "https://github.com/matteoantoci/google-slides-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/matteoantoci/google-slides-mcp/blob/HEAD/README.md"
 githubStars: 184
 githubForks: 0
 githubStatsFetchedAt: "2026-08-15T14:30:41.157Z"

@@ -10,7 +10,7 @@ owner: "stefanoamorelli"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/stefanoamorelli/sec-edgar-mcp"
-readmeUrl: "https://github.com/stefanoamorelli/sec-edgar-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/stefanoamorelli/sec-edgar-mcp/blob/HEAD/README.md"
 githubStars: 242
 githubForks: 0
 githubStatsFetchedAt: "2026-03-26T02:01:33.022Z"

@@ -10,7 +10,7 @@ owner: "builtwith"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/builtwith/builtwith-mcp"
-readmeUrl: "https://github.com/builtwith/builtwith-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/builtwith/builtwith-mcp/blob/HEAD/README.md"
 githubStars: 37
 githubForks: 0
 githubStatsFetchedAt: "2026-04-01T11:31:26.987Z"

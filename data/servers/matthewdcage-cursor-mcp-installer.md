@@ -10,7 +10,7 @@ owner: "matthewdcage"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/matthewdcage/cursor-mcp-installer"
-readmeUrl: "https://github.com/matthewdcage/cursor-mcp-installer/blob/main/README.md"
+readmeUrl: "https://github.com/matthewdcage/cursor-mcp-installer/blob/HEAD/README.md"
 githubStars: 75
 githubForks: 0
 githubStatsFetchedAt: "2026-04-11T14:31:40.207Z"

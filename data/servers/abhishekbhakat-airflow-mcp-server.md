@@ -10,7 +10,7 @@ owner: "abhishekbhakat"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/abhishekbhakat/airflow-mcp-server"
-readmeUrl: "https://github.com/abhishekbhakat/airflow-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/abhishekbhakat/airflow-mcp-server/blob/HEAD/README.md"
 githubStars: 31
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:14.734Z"

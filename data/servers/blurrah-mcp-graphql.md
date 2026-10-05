@@ -10,7 +10,7 @@ owner: "blurrah"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/blurrah/mcp-graphql"
-readmeUrl: "https://github.com/blurrah/mcp-graphql/blob/main/README.md"
+readmeUrl: "https://github.com/blurrah/mcp-graphql/blob/HEAD/README.md"
 githubStars: 309
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:44:56.292Z"

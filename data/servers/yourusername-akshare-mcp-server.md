@@ -10,7 +10,7 @@ owner: "yourusername"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ttjslbz001/akshare_mcp_server"
-readmeUrl: "https://github.com/ttjslbz001/akshare_mcp_server/blob/main/README.md"
+readmeUrl: "https://github.com/ttjslbz001/akshare_mcp_server/blob/HEAD/README.md"
 githubStars: 51
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:55.711Z"

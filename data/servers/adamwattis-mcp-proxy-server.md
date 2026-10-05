@@ -10,7 +10,7 @@ owner: "Adam Wattis"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/adamwattis/mcp-proxy-server"
-readmeUrl: "https://github.com/adamwattis/mcp-proxy-server/blob/main/README.md"
+readmeUrl: "https://github.com/adamwattis/mcp-proxy-server/blob/HEAD/README.md"
 githubStars: 172
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:13.612Z"

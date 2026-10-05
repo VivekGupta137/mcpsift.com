@@ -10,7 +10,7 @@ owner: "Automata-Labs-team"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Automata-Labs-team/code-sandbox-mcp"
-readmeUrl: "https://github.com/Automata-Labs-team/code-sandbox-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/Automata-Labs-team/code-sandbox-mcp/blob/HEAD/README.md"
 githubStars: 315
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:39.153Z"

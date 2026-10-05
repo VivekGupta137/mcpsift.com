@@ -10,7 +10,7 @@ owner: "subnetmarco"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/subnetmarco/pgmcp"
-readmeUrl: "https://github.com/subnetmarco/pgmcp/blob/main/README.md"
+readmeUrl: "https://github.com/subnetmarco/pgmcp/blob/HEAD/README.md"
 githubStars: 529
 githubForks: 0
 githubStatsFetchedAt: "2026-05-26T18:31:26.215Z"

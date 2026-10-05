@@ -10,7 +10,7 @@ owner: "xxxbrian"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/xxxbrian/mcp-rquest"
-readmeUrl: "https://github.com/xxxbrian/mcp-rquest/blob/main/README.md"
+readmeUrl: "https://github.com/xxxbrian/mcp-rquest/blob/HEAD/README.md"
 githubStars: 43
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:05.293Z"

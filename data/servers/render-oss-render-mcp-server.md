@@ -10,7 +10,7 @@ owner: "render-oss"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/render-oss/render-mcp-server"
-readmeUrl: "https://github.com/render-oss/render-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/render-oss/render-mcp-server/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2026-03-19T00:00:59.007Z"

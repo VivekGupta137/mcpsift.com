@@ -10,7 +10,7 @@ owner: "Sam-AEC"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Sam-AEC/aec-model-bridge"
-readmeUrl: "https://github.com/Sam-AEC/aec-model-bridge/blob/main/README.md"
+readmeUrl: "https://github.com/Sam-AEC/aec-model-bridge/blob/HEAD/README.md"
 githubStars: 32
 githubForks: 0
 githubStatsFetchedAt: "2026-06-11T18:01:05.866Z"

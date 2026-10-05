@@ -10,7 +10,7 @@ owner: "zcaceres"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/zcaceres/fetch-mcp"
-readmeUrl: "https://github.com/zcaceres/fetch-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/zcaceres/fetch-mcp/blob/HEAD/README.md"
 githubStars: 705
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:52.969Z"

@@ -10,7 +10,7 @@ owner: "atom2ueki"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/atom2ueki/mcp-server-ios-simulator"
-readmeUrl: "https://github.com/atom2ueki/mcp-server-ios-simulator/blob/main/README.md"
+readmeUrl: "https://github.com/atom2ueki/mcp-server-ios-simulator/blob/HEAD/README.md"
 githubStars: 42
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:54.938Z"

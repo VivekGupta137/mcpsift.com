@@ -10,7 +10,7 @@ owner: "rocketship-ai"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/rocketship-ai/rocketship"
-readmeUrl: "https://github.com/rocketship-ai/rocketship/blob/main/README.md"
+readmeUrl: "https://github.com/rocketship-ai/rocketship/blob/HEAD/README.md"
 githubStars: 42
 githubForks: 0
 githubStatsFetchedAt: "2026-03-19T00:01:00.258Z"

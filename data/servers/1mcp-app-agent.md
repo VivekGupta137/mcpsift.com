@@ -10,7 +10,7 @@ owner: "1mcp-app"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/1mcp-app/agent"
-readmeUrl: "https://github.com/1mcp-app/agent/blob/main/README.md"
+readmeUrl: "https://github.com/1mcp-app/agent/blob/HEAD/README.md"
 githubStars: 390
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:41.192Z"

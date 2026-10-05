@@ -10,7 +10,7 @@ owner: "alexcong"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/alexcong/gemini-deepsearch-mcp"
-readmeUrl: "https://github.com/alexcong/gemini-deepsearch-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/alexcong/gemini-deepsearch-mcp/blob/HEAD/README.md"
 githubStars: 25
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:04.472Z"

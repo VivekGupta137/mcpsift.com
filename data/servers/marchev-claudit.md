@@ -10,7 +10,7 @@ owner: "marchev"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/marchev/claudit"
-readmeUrl: "https://github.com/marchev/claudit/blob/main/README.md"
+readmeUrl: "https://github.com/marchev/claudit/blob/HEAD/README.md"
 githubStars: 141
 githubForks: 0
 githubStatsFetchedAt: "2026-04-23T11:31:29.511Z"

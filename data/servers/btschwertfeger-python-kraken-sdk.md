@@ -10,7 +10,7 @@ owner: "btschwertfeger"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/btschwertfeger/python-kraken-sdk"
-readmeUrl: "https://github.com/btschwertfeger/python-kraken-sdk/blob/main/README.md"
+readmeUrl: "https://github.com/btschwertfeger/python-kraken-sdk/blob/HEAD/README.md"
 githubStars: 83
 githubForks: 0
 githubStatsFetchedAt: "2026-09-18T14:01:10.568Z"

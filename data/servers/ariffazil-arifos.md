@@ -10,7 +10,7 @@ owner: "ariffazil"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ariffazil/arifOS"
-readmeUrl: "https://github.com/ariffazil/arifOS/blob/main/README.md"
+readmeUrl: "https://github.com/ariffazil/arifOS/blob/HEAD/README.md"
 githubStars: 27
 githubForks: 0
 githubStatsFetchedAt: "2026-02-10T10:30:52.625Z"

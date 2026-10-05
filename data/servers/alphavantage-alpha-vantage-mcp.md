@@ -10,7 +10,7 @@ owner: "alphavantage"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/alphavantage/alpha_vantage_mcp"
-readmeUrl: "https://github.com/alphavantage/alpha_vantage_mcp/blob/main/README.md"
+readmeUrl: "https://github.com/alphavantage/alpha_vantage_mcp/blob/HEAD/README.md"
 githubStars: 106
 githubForks: 0
 githubStatsFetchedAt: "2026-03-25T04:01:47.747Z"

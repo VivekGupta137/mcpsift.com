@@ -10,7 +10,7 @@ owner: "jpicklyk"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jpicklyk/task-orchestrator"
-readmeUrl: "https://github.com/jpicklyk/task-orchestrator/blob/main/README.md"
+readmeUrl: "https://github.com/jpicklyk/task-orchestrator/blob/HEAD/README.md"
 githubStars: 167
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:42.015Z"

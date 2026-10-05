@@ -10,7 +10,7 @@ owner: "Selenium39"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Selenium39/mcp-server-weibo"
-readmeUrl: "https://github.com/Selenium39/mcp-server-weibo/blob/main/README.md"
+readmeUrl: "https://github.com/Selenium39/mcp-server-weibo/blob/HEAD/README.md"
 githubStars: 31
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:11.218Z"

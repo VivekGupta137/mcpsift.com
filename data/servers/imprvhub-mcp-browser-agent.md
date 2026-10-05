@@ -10,7 +10,7 @@ owner: "imprvhub"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/imprvhub/mcp-browser-agent"
-readmeUrl: "https://github.com/imprvhub/mcp-browser-agent/blob/main/README.md"
+readmeUrl: "https://github.com/imprvhub/mcp-browser-agent/blob/HEAD/README.md"
 githubStars: 35
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:12.977Z"

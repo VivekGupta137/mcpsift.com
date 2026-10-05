@@ -10,7 +10,7 @@ owner: "stape-io"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/stape-io/google-tag-manager-mcp-server"
-readmeUrl: "https://github.com/stape-io/google-tag-manager-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/stape-io/google-tag-manager-mcp-server/blob/HEAD/README.md"
 githubStars: 115
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:02:02.396Z"

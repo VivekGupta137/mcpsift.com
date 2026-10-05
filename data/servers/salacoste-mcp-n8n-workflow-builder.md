@@ -10,7 +10,7 @@ owner: "salacoste"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/salacoste/mcp-n8n-workflow-builder"
-readmeUrl: "https://github.com/salacoste/mcp-n8n-workflow-builder/blob/main/README.md"
+readmeUrl: "https://github.com/salacoste/mcp-n8n-workflow-builder/blob/HEAD/README.md"
 githubStars: 215
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:52.348Z"

@@ -10,7 +10,7 @@ owner: "video-creator"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/video-creator/ffmpeg-mcp"
-readmeUrl: "https://github.com/video-creator/ffmpeg-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/video-creator/ffmpeg-mcp/blob/HEAD/README.md"
 githubStars: 123
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:41.538Z"

@@ -10,7 +10,7 @@ owner: "mzxrai"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mzxrai/mcp-webresearch"
-readmeUrl: "https://github.com/mzxrai/mcp-webresearch/blob/main/README.md"
+readmeUrl: "https://github.com/mzxrai/mcp-webresearch/blob/HEAD/README.md"
 githubStars: 258
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:44:55.458Z"

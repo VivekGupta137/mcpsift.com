@@ -10,7 +10,7 @@ owner: "localrivet"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/localrivet/gomcp"
-readmeUrl: "https://github.com/localrivet/gomcp/blob/main/README.md"
+readmeUrl: "https://github.com/localrivet/gomcp/blob/HEAD/README.md"
 githubStars: 51
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:47.745Z"

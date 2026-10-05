@@ -10,7 +10,7 @@ owner: "shuruheel"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/shuruheel/mcp-neo4j-shan"
-readmeUrl: "https://github.com/shuruheel/mcp-neo4j-shan/blob/main/README.md"
+readmeUrl: "https://github.com/shuruheel/mcp-neo4j-shan/blob/HEAD/README.md"
 githubStars: 25
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:44:46.127Z"

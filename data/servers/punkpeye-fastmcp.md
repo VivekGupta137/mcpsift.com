@@ -10,7 +10,7 @@ owner: "punkpeye"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/punkpeye/fastmcp"
-readmeUrl: "https://github.com/punkpeye/fastmcp/blob/main/README.md"
+readmeUrl: "https://github.com/punkpeye/fastmcp/blob/HEAD/README.md"
 githubStars: 2979
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:33.369Z"

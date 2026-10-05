@@ -10,7 +10,7 @@ owner: "jeff-nasseri"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jeff-nasseri/mikrotik-mcp"
-readmeUrl: "https://github.com/jeff-nasseri/mikrotik-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/jeff-nasseri/mikrotik-mcp/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2025-01-01T00:00:00.000Z"

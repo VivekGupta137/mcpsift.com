@@ -10,7 +10,7 @@ owner: "bvisible"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/bvisible/mcp-ssh-manager"
-readmeUrl: "https://github.com/bvisible/mcp-ssh-manager/blob/main/README.md"
+readmeUrl: "https://github.com/bvisible/mcp-ssh-manager/blob/HEAD/README.md"
 githubStars: 134
 githubForks: 0
 githubStatsFetchedAt: "2026-04-07T07:31:37.161Z"

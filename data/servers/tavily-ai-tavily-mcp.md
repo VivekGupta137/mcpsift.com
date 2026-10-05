@@ -10,7 +10,7 @@ owner: "tavily-ai"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/tavily-ai/tavily-mcp"
-readmeUrl: "https://github.com/tavily-ai/tavily-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/tavily-ai/tavily-mcp/blob/HEAD/README.md"
 githubStars: 2002
 githubForks: 0
 githubStatsFetchedAt: "2026-05-23T19:50:41.220Z"

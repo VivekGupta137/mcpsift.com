@@ -10,7 +10,7 @@ owner: "shinpr"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/shinpr/mcp-local-rag"
-readmeUrl: "https://github.com/shinpr/mcp-local-rag/blob/main/README.md"
+readmeUrl: "https://github.com/shinpr/mcp-local-rag/blob/HEAD/README.md"
 githubStars: 176
 githubForks: 0
 githubStatsFetchedAt: "2026-03-25T03:01:35.534Z"

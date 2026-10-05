@@ -10,7 +10,7 @@ owner: "MiniMax-AI"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/MiniMax-AI/MiniMax-MCP-JS"
-readmeUrl: "https://github.com/MiniMax-AI/MiniMax-MCP-JS/blob/main/README.md"
+readmeUrl: "https://github.com/MiniMax-AI/MiniMax-MCP-JS/blob/HEAD/README.md"
 githubStars: 42
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:37:09.112Z"

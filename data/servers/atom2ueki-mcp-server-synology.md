@@ -10,7 +10,7 @@ owner: "atom2ueki"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/atom2ueki/mcp-server-synology"
-readmeUrl: "https://github.com/atom2ueki/mcp-server-synology/blob/main/README.md"
+readmeUrl: "https://github.com/atom2ueki/mcp-server-synology/blob/HEAD/README.md"
 githubStars: 62
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:09.170Z"

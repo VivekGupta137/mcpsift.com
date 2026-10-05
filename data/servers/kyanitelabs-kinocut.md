@@ -10,7 +10,7 @@ owner: "KyaniteLabs"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/KyaniteLabs/kinocut"
-readmeUrl: "https://github.com/KyaniteLabs/kinocut/blob/main/README.md"
+readmeUrl: "https://github.com/KyaniteLabs/kinocut/blob/HEAD/README.md"
 githubStars: 73
 githubForks: 0
 githubStatsFetchedAt: "2026-07-10T21:31:06.858Z"

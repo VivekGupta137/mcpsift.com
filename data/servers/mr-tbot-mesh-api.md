@@ -10,7 +10,7 @@ owner: "mr-tbot"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mr-tbot/mesh-api"
-readmeUrl: "https://github.com/mr-tbot/mesh-api/blob/main/README.md"
+readmeUrl: "https://github.com/mr-tbot/mesh-api/blob/HEAD/README.md"
 githubStars: 153
 githubForks: 0
 githubStatsFetchedAt: "2026-06-10T23:01:22.142Z"

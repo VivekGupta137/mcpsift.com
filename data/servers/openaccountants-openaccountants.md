@@ -10,7 +10,7 @@ owner: "openaccountants"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/openaccountants/openaccountants"
-readmeUrl: "https://github.com/openaccountants/openaccountants/blob/main/README.md"
+readmeUrl: "https://github.com/openaccountants/openaccountants/blob/HEAD/README.md"
 githubStars: 66
 githubForks: 0
 githubStatsFetchedAt: "2026-05-20T17:37:57.692Z"

@@ -10,7 +10,7 @@ owner: "da-okazaki"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/da-okazaki/mcp-neo4j-server"
-readmeUrl: "https://github.com/da-okazaki/mcp-neo4j-server/blob/main/README.md"
+readmeUrl: "https://github.com/da-okazaki/mcp-neo4j-server/blob/HEAD/README.md"
 githubStars: 57
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:02.156Z"

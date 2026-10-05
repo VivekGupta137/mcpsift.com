@@ -10,7 +10,7 @@ owner: "yzfly"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/yzfly/mcp-excel-server"
-readmeUrl: "https://github.com/yzfly/mcp-excel-server/blob/main/README.md"
+readmeUrl: "https://github.com/yzfly/mcp-excel-server/blob/HEAD/README.md"
 githubStars: 83
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:35.215Z"

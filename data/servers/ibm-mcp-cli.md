@@ -10,7 +10,7 @@ owner: "ibm"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/IBM/mcp-cli"
-readmeUrl: "https://github.com/IBM/mcp-cli/blob/main/README.md"
+readmeUrl: "https://github.com/IBM/mcp-cli/blob/HEAD/README.md"
 githubStars: 1891
 githubForks: 0
 githubStatsFetchedAt: "2026-02-25T00:00:49.081Z"

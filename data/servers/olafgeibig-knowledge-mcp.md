@@ -10,7 +10,7 @@ owner: "olafgeibig"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/olafgeibig/knowledge-mcp"
-readmeUrl: "https://github.com/olafgeibig/knowledge-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/olafgeibig/knowledge-mcp/blob/HEAD/README.md"
 githubStars: 38
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:16.481Z"

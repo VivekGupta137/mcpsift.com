@@ -10,7 +10,7 @@ owner: "mpsm"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mpsm/mcp-cpp"
-readmeUrl: "https://github.com/mpsm/mcp-cpp/blob/main/README.md"
+readmeUrl: "https://github.com/mpsm/mcp-cpp/blob/HEAD/README.md"
 githubStars: 64
 githubForks: 0
 githubStatsFetchedAt: "2026-03-11T00:01:19.342Z"

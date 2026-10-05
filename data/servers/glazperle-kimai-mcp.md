@@ -10,7 +10,7 @@ owner: "glazperle"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/glazperle/kimai_mcp"
-readmeUrl: "https://github.com/glazperle/kimai_mcp/blob/main/README.md"
+readmeUrl: "https://github.com/glazperle/kimai_mcp/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2026-06-12T21:01:03.613Z"

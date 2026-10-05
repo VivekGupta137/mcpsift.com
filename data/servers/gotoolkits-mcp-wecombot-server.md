@@ -10,7 +10,7 @@ owner: "gotoolkits"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/gotoolkits/mcp-wecombot-server"
-readmeUrl: "https://github.com/gotoolkits/mcp-wecombot-server/blob/main/README.md"
+readmeUrl: "https://github.com/gotoolkits/mcp-wecombot-server/blob/HEAD/README.md"
 githubStars: 35
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:03.667Z"

@@ -10,7 +10,7 @@ owner: "yokingma"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/yokingma/time-mcp"
-readmeUrl: "https://github.com/yokingma/time-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/yokingma/time-mcp/blob/HEAD/README.md"
 githubStars: 51
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:13.754Z"

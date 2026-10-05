@@ -10,7 +10,7 @@ owner: "btouchard"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/kOlapsis/herald"
-readmeUrl: "https://github.com/kOlapsis/herald/blob/main/README.md"
+readmeUrl: "https://github.com/kOlapsis/herald/blob/HEAD/README.md"
 githubStars: 43
 githubForks: 0
 githubStatsFetchedAt: "2026-06-09T12:01:27.086Z"

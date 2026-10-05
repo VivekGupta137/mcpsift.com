@@ -10,7 +10,7 @@ owner: "StartTheEvolution"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Dataojitori/nocturne_memory"
-readmeUrl: "https://github.com/Dataojitori/nocturne_memory/blob/main/README.md"
+readmeUrl: "https://github.com/Dataojitori/nocturne_memory/blob/HEAD/README.md"
 githubStars: 41
 githubForks: 0
 githubStatsFetchedAt: "2026-02-14T20:00:49.877Z"

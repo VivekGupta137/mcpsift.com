@@ -10,7 +10,7 @@ owner: "gregorydickson"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/memory-graph/memory-graph"
-readmeUrl: "https://github.com/memory-graph/memory-graph/blob/main/README.md"
+readmeUrl: "https://github.com/memory-graph/memory-graph/blob/HEAD/README.md"
 githubStars: 121
 githubForks: 0
 githubStatsFetchedAt: "2025-12-23T14:00:56.331Z"

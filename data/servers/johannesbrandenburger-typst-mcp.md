@@ -10,7 +10,7 @@ owner: "johannesbrandenburger"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/johannesbrandenburger/typst-mcp"
-readmeUrl: "https://github.com/johannesbrandenburger/typst-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/johannesbrandenburger/typst-mcp/blob/HEAD/README.md"
 githubStars: 143
 githubForks: 0
 githubStatsFetchedAt: "2026-04-18T07:01:13.097Z"

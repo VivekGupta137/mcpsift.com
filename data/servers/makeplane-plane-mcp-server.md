@@ -10,7 +10,7 @@ owner: "makeplane"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/makeplane/plane-mcp-server/tree/canary"
-readmeUrl: "https://github.com/makeplane/plane-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/makeplane/plane-mcp-server/blob/HEAD/README.md"
 githubStars: 163
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:08.341Z"

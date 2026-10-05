@@ -10,7 +10,7 @@ owner: "wonderwhy-er"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/wonderwhy-er/DesktopCommanderMCP"
-readmeUrl: "https://github.com/wonderwhy-er/DesktopCommanderMCP/blob/main/README.md"
+readmeUrl: "https://github.com/wonderwhy-er/DesktopCommanderMCP/blob/HEAD/README.md"
 githubStars: 3448
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:37:28.658Z"

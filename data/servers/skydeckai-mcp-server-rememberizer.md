@@ -10,7 +10,7 @@ owner: "skydeckai"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/skydeckai/mcp-server-rememberizer"
-readmeUrl: "https://github.com/skydeckai/mcp-server-rememberizer/blob/main/README.md"
+readmeUrl: "https://github.com/skydeckai/mcp-server-rememberizer/blob/HEAD/README.md"
 githubStars: 36
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:01.204Z"

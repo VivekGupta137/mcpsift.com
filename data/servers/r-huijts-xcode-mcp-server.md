@@ -10,7 +10,7 @@ owner: "r-huijts"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/r-huijts/xcode-mcp-server"
-readmeUrl: "https://github.com/r-huijts/xcode-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/r-huijts/xcode-mcp-server/blob/HEAD/README.md"
 githubStars: 327
 githubForks: 0
 githubStatsFetchedAt: "2025-11-05T00:00:42.628Z"

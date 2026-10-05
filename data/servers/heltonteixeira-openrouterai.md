@@ -10,7 +10,7 @@ owner: "heltonteixeira"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/heltonteixeira/openrouterai"
-readmeUrl: "https://github.com/heltonteixeira/openrouterai/blob/main/README.md"
+readmeUrl: "https://github.com/heltonteixeira/openrouterai/blob/HEAD/README.md"
 githubStars: 60
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:02.512Z"

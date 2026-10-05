@@ -10,7 +10,7 @@ owner: "Noveum"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/noveum/orbit"
-readmeUrl: "https://github.com/noveum/orbit/blob/main/README.md"
+readmeUrl: "https://github.com/noveum/orbit/blob/HEAD/README.md"
 githubStars: 44
 githubForks: 0
 githubStatsFetchedAt: "2026-09-23T06:46:45.580Z"

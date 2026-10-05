@@ -10,7 +10,7 @@ owner: "drfccv"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/drfccv/mcp-server-12306"
-readmeUrl: "https://github.com/drfccv/mcp-server-12306/blob/main/README.md"
+readmeUrl: "https://github.com/drfccv/mcp-server-12306/blob/HEAD/README.md"
 githubStars: 289
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:01.456Z"

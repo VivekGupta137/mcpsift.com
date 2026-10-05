@@ -10,7 +10,7 @@ owner: "vanderheijden86"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/vanderheijden86/moneybird-mcp-server"
-readmeUrl: "https://github.com/vanderheijden86/moneybird-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/vanderheijden86/moneybird-mcp-server/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:28.013Z"

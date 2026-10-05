@@ -10,7 +10,7 @@ owner: "djyde"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/djyde/browser-mcp"
-readmeUrl: "https://github.com/djyde/browser-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/djyde/browser-mcp/blob/HEAD/README.md"
 githubStars: 83
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:01.267Z"

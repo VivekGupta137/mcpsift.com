@@ -10,7 +10,7 @@ owner: "Sompote"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Sompote/tiger_cowork"
-readmeUrl: "https://github.com/Sompote/tiger_cowork/blob/main/README.md"
+readmeUrl: "https://github.com/Sompote/tiger_cowork/blob/HEAD/README.md"
 githubStars: 44
 githubForks: 0
 githubStatsFetchedAt: "2026-04-01T23:31:17.764Z"

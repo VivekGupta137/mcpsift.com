@@ -10,7 +10,7 @@ owner: "MasihMoafi"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/MasihMoafi/A-Modular-Kingdom"
-readmeUrl: "https://github.com/MasihMoafi/A-Modular-Kingdom/blob/main/README.md"
+readmeUrl: "https://github.com/MasihMoafi/A-Modular-Kingdom/blob/HEAD/README.md"
 githubStars: 28
 githubForks: 0
 githubStatsFetchedAt: "2026-06-15T11:31:10.371Z"

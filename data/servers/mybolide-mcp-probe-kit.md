@@ -10,7 +10,7 @@ owner: "mybolide"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mybolide/mcp-probe-kit"
-readmeUrl: "https://github.com/mybolide/mcp-probe-kit/blob/main/README.md"
+readmeUrl: "https://github.com/mybolide/mcp-probe-kit/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2026-02-04T03:32:05.131Z"

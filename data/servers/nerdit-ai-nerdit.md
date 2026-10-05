@@ -10,7 +10,7 @@ owner: "nerdit-ai"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/nerdit-ai/nerdit"
-readmeUrl: "https://github.com/nerdit-ai/nerdit/blob/main/README.md"
+readmeUrl: "https://github.com/nerdit-ai/nerdit/blob/HEAD/README.md"
 githubStars: 86
 githubForks: 0
 githubStatsFetchedAt: "2026-10-04T19:30:45.293Z"

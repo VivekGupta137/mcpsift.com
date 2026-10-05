@@ -10,7 +10,7 @@ owner: "thekeunpie-hash"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/thekeunpie-hash/mcpvault"
-readmeUrl: "https://github.com/thekeunpie-hash/mcpvault/blob/main/README.md"
+readmeUrl: "https://github.com/thekeunpie-hash/mcpvault/blob/HEAD/README.md"
 githubStars: 39
 githubForks: 0
 githubStatsFetchedAt: "2026-04-01T05:31:07.545Z"

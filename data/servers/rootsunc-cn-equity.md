@@ -10,7 +10,7 @@ owner: "rootSunc"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/rootSunc/CNEquity"
-readmeUrl: "https://github.com/rootSunc/CNEquity/blob/main/README.md"
+readmeUrl: "https://github.com/rootSunc/CNEquity/blob/HEAD/README.md"
 githubStars: 125
 githubForks: 0
 githubStatsFetchedAt: "2026-08-15T11:30:41.597Z"

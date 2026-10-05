@@ -10,7 +10,7 @@ owner: "lamemind"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/lamemind/mcp-server-multiverse"
-readmeUrl: "https://github.com/lamemind/mcp-server-multiverse/blob/main/README.md"
+readmeUrl: "https://github.com/lamemind/mcp-server-multiverse/blob/HEAD/README.md"
 githubStars: 77
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:51.325Z"

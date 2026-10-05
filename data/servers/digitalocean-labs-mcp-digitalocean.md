@@ -10,7 +10,7 @@ owner: "digitalocean-labs"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/digitalocean-labs/mcp-digitalocean"
-readmeUrl: "https://github.com/digitalocean-labs/mcp-digitalocean/blob/main/README.md"
+readmeUrl: "https://github.com/digitalocean-labs/mcp-digitalocean/blob/HEAD/README.md"
 githubStars: 90
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:19.044Z"

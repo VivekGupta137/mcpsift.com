@@ -10,7 +10,7 @@ owner: "Bradley Golden"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/bradleygolden/hexdocs-mcp"
-readmeUrl: "https://github.com/bradleygolden/hexdocs-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/bradleygolden/hexdocs-mcp/blob/HEAD/README.md"
 githubStars: 59
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:15.307Z"

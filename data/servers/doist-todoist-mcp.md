@@ -10,7 +10,7 @@ owner: "Doist"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Doist/todoist-mcp"
-readmeUrl: "https://github.com/Doist/todoist-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/Doist/todoist-mcp/blob/HEAD/README.md"
 githubStars: 171
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:41.853Z"

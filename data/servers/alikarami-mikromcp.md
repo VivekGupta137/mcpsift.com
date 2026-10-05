@@ -10,7 +10,7 @@ owner: "Ali Karami"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/AliKarami/MikroMCP"
-readmeUrl: "https://github.com/AliKarami/MikroMCP/blob/main/README.md"
+readmeUrl: "https://github.com/AliKarami/MikroMCP/blob/HEAD/README.md"
 githubStars: 28
 githubForks: 0
 githubStatsFetchedAt: "2026-06-01T21:07:26.381Z"

@@ -10,7 +10,7 @@ owner: "swiftlens"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/swiftlens/swiftlens"
-readmeUrl: "https://github.com/swiftlens/swiftlens/blob/main/README.md"
+readmeUrl: "https://github.com/swiftlens/swiftlens/blob/HEAD/README.md"
 githubStars: 119
 githubForks: 0
 githubStatsFetchedAt: "2026-03-11T00:01:17.101Z"

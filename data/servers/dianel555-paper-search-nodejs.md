@@ -10,7 +10,7 @@ owner: "dianel555"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Dianel555/paper-search-nodejs"
-readmeUrl: "https://github.com/Dianel555/paper-search-nodejs/blob/main/README.md"
+readmeUrl: "https://github.com/Dianel555/paper-search-nodejs/blob/HEAD/README.md"
 githubStars: 31
 githubForks: 0
 githubStatsFetchedAt: "2025-12-08T00:00:55.158Z"

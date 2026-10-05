@@ -10,7 +10,7 @@ owner: "KunihiroS"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/KunihiroS/claude-code-mcp"
-readmeUrl: "https://github.com/KunihiroS/claude-code-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/KunihiroS/claude-code-mcp/blob/HEAD/README.md"
 githubStars: 34
 githubForks: 0
 githubStatsFetchedAt: "2026-08-25T07:31:13.002Z"

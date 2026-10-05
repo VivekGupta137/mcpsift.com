@@ -10,7 +10,7 @@ owner: "kimtth"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/kimtth/mcp-aoai-web-browsing"
-readmeUrl: "https://github.com/kimtth/mcp-aoai-web-browsing/blob/main/README.md"
+readmeUrl: "https://github.com/kimtth/mcp-aoai-web-browsing/blob/HEAD/README.md"
 githubStars: 31
 githubForks: 0
 githubStatsFetchedAt: "2026-04-03T03:00:55.265Z"

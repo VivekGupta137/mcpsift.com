@@ -10,7 +10,7 @@ owner: "IDEA-Research"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/IDEA-Research/DINO-X-MCP"
-readmeUrl: "https://github.com/IDEA-Research/DINO-X-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/IDEA-Research/DINO-X-MCP/blob/HEAD/README.md"
 githubStars: 76
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:15.279Z"

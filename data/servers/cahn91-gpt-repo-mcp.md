@@ -10,7 +10,7 @@ owner: "CAHN91"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/CAHN91/gpt-repo-mcp"
-readmeUrl: "https://github.com/CAHN91/gpt-repo-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/CAHN91/gpt-repo-mcp/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2026-06-06T18:00:57.596Z"

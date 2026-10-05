@@ -10,7 +10,7 @@ owner: "skanga"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/skanga/dbchat"
-readmeUrl: "https://github.com/skanga/dbchat/blob/main/README.md"
+readmeUrl: "https://github.com/skanga/dbchat/blob/HEAD/README.md"
 githubStars: 90
 githubForks: 0
 githubStatsFetchedAt: "2026-03-09T00:00:43.037Z"

@@ -10,7 +10,7 @@ owner: "user"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/lobu-ai/lobu"
-readmeUrl: "https://github.com/lobu-ai/lobu/blob/main/README.md"
+readmeUrl: "https://github.com/lobu-ai/lobu/blob/HEAD/README.md"
 githubStars: 197
 githubForks: 0
 githubStatsFetchedAt: "2026-08-04T23:37:43.483Z"

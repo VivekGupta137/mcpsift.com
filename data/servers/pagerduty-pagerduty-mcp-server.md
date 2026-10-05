@@ -10,7 +10,7 @@ owner: "PagerDuty"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/PagerDuty/pagerduty-mcp-server"
-readmeUrl: "https://github.com/PagerDuty/pagerduty-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/PagerDuty/pagerduty-mcp-server/blob/HEAD/README.md"
 githubStars: 54
 githubForks: 0
 githubStatsFetchedAt: "2026-03-09T00:00:38.895Z"

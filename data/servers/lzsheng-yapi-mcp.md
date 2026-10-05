@@ -10,7 +10,7 @@ owner: "lzsheng"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/lzsheng/Yapi-MCP"
-readmeUrl: "https://github.com/lzsheng/Yapi-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/lzsheng/Yapi-MCP/blob/HEAD/README.md"
 githubStars: 62
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:43.612Z"

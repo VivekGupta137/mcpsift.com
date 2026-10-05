@@ -10,7 +10,7 @@ owner: "Exorust"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Exorust/TorchLeet"
-readmeUrl: "https://github.com/Exorust/TorchLeet/blob/main/README.md"
+readmeUrl: "https://github.com/Exorust/TorchLeet/blob/HEAD/README.md"
 githubStars: 2486
 githubForks: 0
 githubStatsFetchedAt: "2026-09-15T17:31:07.550Z"

@@ -10,7 +10,7 @@ owner: "dbt-labs"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/dbt-labs/dbt-mcp"
-readmeUrl: "https://github.com/dbt-labs/dbt-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/dbt-labs/dbt-mcp/blob/HEAD/README.md"
 githubStars: 252
 githubForks: 0
 githubStatsFetchedAt: "2026-03-19T00:00:55.367Z"

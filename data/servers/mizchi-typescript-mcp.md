@@ -10,7 +10,7 @@ owner: "mizchi"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mizchi/typescript-mcp"
-readmeUrl: "https://github.com/mizchi/typescript-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/mizchi/typescript-mcp/blob/HEAD/README.md"
 githubStars: 63
 githubForks: 0
 githubStatsFetchedAt: "2026-03-19T00:00:59.001Z"

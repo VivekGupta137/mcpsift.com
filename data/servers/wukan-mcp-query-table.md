@@ -10,7 +10,7 @@ owner: "wukan"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/wukan1986/mcp_query_table"
-readmeUrl: "https://github.com/wukan1986/mcp_query_table/blob/main/README.md"
+readmeUrl: "https://github.com/wukan1986/mcp_query_table/blob/HEAD/README.md"
 githubStars: 52
 githubForks: 0
 githubStatsFetchedAt: "2026-07-03T08:00:50.626Z"

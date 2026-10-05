@@ -10,7 +10,7 @@ owner: "healthymind-tech"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/healthymind-tech/Taiwan-Health-MCP"
-readmeUrl: "https://github.com/healthymind-tech/Taiwan-Health-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/healthymind-tech/Taiwan-Health-MCP/blob/HEAD/README.md"
 githubStars: 122
 githubForks: 0
 githubStatsFetchedAt: "2026-04-08T14:31:29.724Z"

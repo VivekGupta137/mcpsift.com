@@ -10,7 +10,7 @@ owner: "TonybotNi"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/TonybotNi/ZotLink"
-readmeUrl: "https://github.com/TonybotNi/ZotLink/blob/main/README.md"
+readmeUrl: "https://github.com/TonybotNi/ZotLink/blob/HEAD/README.md"
 githubStars: 117
 githubForks: 0
 githubStatsFetchedAt: "2025-11-01T00:00:41.360Z"

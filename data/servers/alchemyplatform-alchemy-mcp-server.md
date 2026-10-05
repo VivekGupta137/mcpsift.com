@@ -10,7 +10,7 @@ owner: "alchemyplatform"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/alchemyplatform/alchemy-mcp-server"
-readmeUrl: "https://github.com/alchemyplatform/alchemy-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/alchemyplatform/alchemy-mcp-server/blob/HEAD/README.md"
 githubStars: 79
 githubForks: 0
 githubStatsFetchedAt: "2026-03-26T19:31:33.812Z"

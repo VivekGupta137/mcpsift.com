@@ -10,7 +10,7 @@ owner: "jenstangen1"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jenstangen1/pptx-xlsx-mcp"
-readmeUrl: "https://github.com/jenstangen1/pptx-xlsx-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/jenstangen1/pptx-xlsx-mcp/blob/HEAD/README.md"
 githubStars: 27
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:36.090Z"

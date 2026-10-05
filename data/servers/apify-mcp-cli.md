@@ -10,7 +10,7 @@ owner: "apify"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/apify/mcp-cli"
-readmeUrl: "https://github.com/apify/mcp-cli/blob/main/README.md"
+readmeUrl: "https://github.com/apify/mcp-cli/blob/HEAD/README.md"
 githubStars: 406
 githubForks: 0
 githubStatsFetchedAt: "2026-03-24T17:01:30.413Z"

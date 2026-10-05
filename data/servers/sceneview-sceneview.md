@@ -10,7 +10,7 @@ owner: "sceneview"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/sceneview/sceneview"
-readmeUrl: "https://github.com/sceneview/sceneview/blob/main/README.md"
+readmeUrl: "https://github.com/sceneview/sceneview/blob/HEAD/README.md"
 githubStars: 1157
 githubForks: 0
 githubStatsFetchedAt: "2026-04-13T00:01:12.420Z"

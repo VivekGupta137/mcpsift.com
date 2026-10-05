@@ -10,7 +10,7 @@ owner: "glommer"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/glommer/cachebro"
-readmeUrl: "https://github.com/glommer/cachebro/blob/main/README.md"
+readmeUrl: "https://github.com/glommer/cachebro/blob/HEAD/README.md"
 githubStars: 186
 githubForks: 0
 githubStatsFetchedAt: "2026-05-20T13:31:32.640Z"

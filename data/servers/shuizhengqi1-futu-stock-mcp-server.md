@@ -10,7 +10,7 @@ owner: "shuizhengqi1"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/shuizhengqi1/futu-stock-mcp-server"
-readmeUrl: "https://github.com/shuizhengqi1/futu-stock-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/shuizhengqi1/futu-stock-mcp-server/blob/HEAD/README.md"
 githubStars: 59
 githubForks: 0
 githubStatsFetchedAt: "2026-03-28T11:31:00.905Z"

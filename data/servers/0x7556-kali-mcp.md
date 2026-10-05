@@ -10,7 +10,7 @@ owner: "0x7556"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/0x7556/kali_mcp"
-readmeUrl: "https://github.com/0x7556/kali_mcp/blob/main/README.md"
+readmeUrl: "https://github.com/0x7556/kali_mcp/blob/HEAD/README.md"
 githubStars: 44
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:54.060Z"

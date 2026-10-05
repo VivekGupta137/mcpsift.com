@@ -10,7 +10,7 @@ owner: "salesforcecli"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/salesforcecli/mcp"
-readmeUrl: "https://github.com/salesforcecli/mcp/blob/main/README.md"
+readmeUrl: "https://github.com/salesforcecli/mcp/blob/HEAD/README.md"
 githubStars: 304
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:56.630Z"

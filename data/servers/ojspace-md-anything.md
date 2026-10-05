@@ -10,7 +10,7 @@ owner: "ojspace"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ojspace/md-anything"
-readmeUrl: "https://github.com/ojspace/md-anything/blob/main/README.md"
+readmeUrl: "https://github.com/ojspace/md-anything/blob/HEAD/README.md"
 githubStars: 49
 githubForks: 0
 githubStatsFetchedAt: "2026-09-14T02:01:06.116Z"

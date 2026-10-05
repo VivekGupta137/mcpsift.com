@@ -10,7 +10,7 @@ owner: "keli-wen"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/keli-wen/mcp_chatbot"
-readmeUrl: "https://github.com/keli-wen/mcp_chatbot/blob/main/README.md"
+readmeUrl: "https://github.com/keli-wen/mcp_chatbot/blob/HEAD/README.md"
 githubStars: 237
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:52.572Z"

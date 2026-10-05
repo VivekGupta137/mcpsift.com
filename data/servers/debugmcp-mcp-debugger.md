@@ -10,7 +10,7 @@ owner: "debugmcp"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/debugmcpdev/mcp-debugger"
-readmeUrl: "https://github.com/debugmcpdev/mcp-debugger/blob/main/README.md"
+readmeUrl: "https://github.com/debugmcpdev/mcp-debugger/blob/HEAD/README.md"
 githubStars: 79
 githubForks: 0
 githubStatsFetchedAt: "2026-03-10T00:00:38.084Z"

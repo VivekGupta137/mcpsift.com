@@ -10,7 +10,7 @@ owner: "iwe-org"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/iwe-org/iwe"
-readmeUrl: "https://github.com/iwe-org/iwe/blob/main/README.md"
+readmeUrl: "https://github.com/iwe-org/iwe/blob/HEAD/README.md"
 githubStars: 1313
 githubForks: 0
 githubStatsFetchedAt: "2026-07-26T02:00:59.046Z"

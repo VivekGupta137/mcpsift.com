@@ -10,7 +10,7 @@ owner: "dryeab"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/dryeab/mcp-telegram"
-readmeUrl: "https://github.com/dryeab/mcp-telegram/blob/main/README.md"
+readmeUrl: "https://github.com/dryeab/mcp-telegram/blob/HEAD/README.md"
 githubStars: 236
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:42.567Z"

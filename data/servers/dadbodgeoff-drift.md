@@ -10,7 +10,7 @@ owner: "dadbodgeoff"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/dadbodgeoff/drift"
-readmeUrl: "https://github.com/dadbodgeoff/drift/blob/main/README.md"
+readmeUrl: "https://github.com/dadbodgeoff/drift/blob/HEAD/README.md"
 githubStars: 148
 githubForks: 0
 githubStatsFetchedAt: "2026-01-24T09:01:01.029Z"

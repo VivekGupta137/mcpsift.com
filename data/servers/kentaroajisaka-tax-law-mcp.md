@@ -10,7 +10,7 @@ owner: "kentaroajisaka"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/kentaroajisaka/tax-law-mcp"
-readmeUrl: "https://github.com/kentaroajisaka/tax-law-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/kentaroajisaka/tax-law-mcp/blob/HEAD/README.md"
 githubStars: 96
 githubForks: 0
 githubStatsFetchedAt: "2026-09-14T05:00:38.147Z"

@@ -10,7 +10,7 @@ owner: "quazaai"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/quazaai/UnityMCPIntegration"
-readmeUrl: "https://github.com/quazaai/UnityMCPIntegration/blob/main/README.md"
+readmeUrl: "https://github.com/quazaai/UnityMCPIntegration/blob/HEAD/README.md"
 githubStars: 134
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:43.464Z"

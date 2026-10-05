@@ -10,7 +10,7 @@ owner: "king-of-the-grackles"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/king-of-the-grackles/reddit-research-mcp"
-readmeUrl: "https://github.com/king-of-the-grackles/reddit-research-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/king-of-the-grackles/reddit-research-mcp/blob/HEAD/README.md"
 githubStars: 187
 githubForks: 0
 githubStatsFetchedAt: "2026-07-02T09:35:05.168Z"

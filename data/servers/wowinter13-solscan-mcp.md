@@ -10,7 +10,7 @@ owner: "wowinter13"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/wowinter13/solscan-mcp"
-readmeUrl: "https://github.com/wowinter13/solscan-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/wowinter13/solscan-mcp/blob/HEAD/README.md"
 githubStars: 32
 githubForks: 0
 githubStatsFetchedAt: "2025-11-09T00:00:33.914Z"

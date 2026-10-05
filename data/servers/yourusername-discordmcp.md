@@ -10,7 +10,7 @@ owner: "yourusername"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/v-3/discordmcp"
-readmeUrl: "https://github.com/v-3/discordmcp/blob/main/README.md"
+readmeUrl: "https://github.com/v-3/discordmcp/blob/HEAD/README.md"
 githubStars: 179
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:43.716Z"

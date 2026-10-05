@@ -10,7 +10,7 @@ owner: "skillboss-ai"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/SkillBoss-AI/skillboss-skills"
-readmeUrl: "https://github.com/SkillBoss-AI/skillboss-skills/blob/main/README.md"
+readmeUrl: "https://github.com/SkillBoss-AI/skillboss-skills/blob/HEAD/README.md"
 githubStars: 51
 githubForks: 0
 githubStatsFetchedAt: "2026-03-26T06:01:16.159Z"

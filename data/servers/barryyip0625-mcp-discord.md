@@ -10,7 +10,7 @@ owner: "barryyip0625"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/barryyip0625/mcp-discord"
-readmeUrl: "https://github.com/barryyip0625/mcp-discord/blob/main/README.md"
+readmeUrl: "https://github.com/barryyip0625/mcp-discord/blob/HEAD/README.md"
 githubStars: 70
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:27.474Z"

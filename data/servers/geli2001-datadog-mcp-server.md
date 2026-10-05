@@ -10,7 +10,7 @@ owner: "GeLi2001"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/GeLi2001/datadog-mcp-server"
-readmeUrl: "https://github.com/GeLi2001/datadog-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/GeLi2001/datadog-mcp-server/blob/HEAD/README.md"
 githubStars: 55
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:08.374Z"

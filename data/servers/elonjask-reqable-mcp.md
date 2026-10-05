@@ -10,7 +10,7 @@ owner: "ElonJask"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ElonJask/reqable-mcp"
-readmeUrl: "https://github.com/ElonJask/reqable-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/ElonJask/reqable-mcp/blob/HEAD/README.md"
 githubStars: 93
 githubForks: 0
 githubStatsFetchedAt: "2026-06-01T03:50:34.078Z"

@@ -10,7 +10,7 @@ owner: "angiejones"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/angiejones/mcp-selenium"
-readmeUrl: "https://github.com/angiejones/mcp-selenium/blob/main/README.md"
+readmeUrl: "https://github.com/angiejones/mcp-selenium/blob/HEAD/README.md"
 githubStars: 278
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:44:59.596Z"

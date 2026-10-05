@@ -10,7 +10,7 @@ owner: "hungryrobot1"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/hungryrobot1/MCP-PIF"
-readmeUrl: "https://github.com/hungryrobot1/MCP-PIF/blob/main/README.md"
+readmeUrl: "https://github.com/hungryrobot1/MCP-PIF/blob/HEAD/README.md"
 githubStars: 40
 githubForks: 0
 githubStatsFetchedAt: "2025-01-01T00:00:00.000Z"

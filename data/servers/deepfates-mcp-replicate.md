@@ -10,7 +10,7 @@ owner: "deepfates"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/deepfates/mcp-replicate"
-readmeUrl: "https://github.com/deepfates/mcp-replicate/blob/main/README.md"
+readmeUrl: "https://github.com/deepfates/mcp-replicate/blob/HEAD/README.md"
 githubStars: 93
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:04.673Z"

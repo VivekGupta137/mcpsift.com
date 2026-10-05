@@ -10,7 +10,7 @@ owner: "jjsantos01"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jjsantos01/qgis_mcp"
-readmeUrl: "https://github.com/jjsantos01/qgis_mcp/blob/main/README.md"
+readmeUrl: "https://github.com/jjsantos01/qgis_mcp/blob/HEAD/README.md"
 githubStars: 818
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:36.742Z"

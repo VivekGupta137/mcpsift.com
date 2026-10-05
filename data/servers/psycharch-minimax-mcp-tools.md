@@ -10,7 +10,7 @@ owner: "PsychArch"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/PsychArch/minimax-mcp-tools"
-readmeUrl: "https://github.com/PsychArch/minimax-mcp-tools/blob/main/README.md"
+readmeUrl: "https://github.com/PsychArch/minimax-mcp-tools/blob/HEAD/README.md"
 githubStars: 49
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:37:19.224Z"

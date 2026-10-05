@@ -10,7 +10,7 @@ owner: "twtrubiks"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/twtrubiks/mcp-vscode-cline"
-readmeUrl: "https://github.com/twtrubiks/mcp-vscode-cline/blob/main/README.md"
+readmeUrl: "https://github.com/twtrubiks/mcp-vscode-cline/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:31.074Z"

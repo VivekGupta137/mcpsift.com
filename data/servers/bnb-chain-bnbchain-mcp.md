@@ -10,7 +10,7 @@ owner: "bnb-chain"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/bnb-chain/bnbchain-mcp"
-readmeUrl: "https://github.com/bnb-chain/bnbchain-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/bnb-chain/bnbchain-mcp/blob/HEAD/README.md"
 githubStars: 51
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:38.007Z"

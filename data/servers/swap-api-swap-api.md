@@ -10,7 +10,7 @@ owner: "swap-api"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/swap-api/swap-api"
-readmeUrl: "https://github.com/swap-api/swap-api/blob/main/README.md"
+readmeUrl: "https://github.com/swap-api/swap-api/blob/HEAD/README.md"
 githubStars: 51
 githubForks: 0
 githubStatsFetchedAt: "2026-04-03T08:35:25.647Z"

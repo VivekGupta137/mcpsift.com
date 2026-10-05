@@ -10,7 +10,7 @@ owner: "jango-blockchained"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jango-blockchained/advanced-homeassistant-mcp"
-readmeUrl: "https://github.com/jango-blockchained/advanced-homeassistant-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/jango-blockchained/advanced-homeassistant-mcp/blob/HEAD/README.md"
 githubStars: 34
 githubForks: 0
 githubStatsFetchedAt: "2025-11-01T00:00:50.285Z"

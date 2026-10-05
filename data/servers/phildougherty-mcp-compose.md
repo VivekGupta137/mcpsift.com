@@ -10,7 +10,7 @@ owner: "phildougherty"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/phildougherty/mcp-compose"
-readmeUrl: "https://github.com/phildougherty/mcp-compose/blob/main/README.md"
+readmeUrl: "https://github.com/phildougherty/mcp-compose/blob/HEAD/README.md"
 githubStars: 35
 githubForks: 0
 githubStatsFetchedAt: "2026-03-19T00:00:58.644Z"

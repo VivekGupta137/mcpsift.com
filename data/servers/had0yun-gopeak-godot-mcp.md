@@ -10,7 +10,7 @@ owner: "HaD0Yun"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/HaD0Yun/Gopeak-godot-mcp"
-readmeUrl: "https://github.com/HaD0Yun/Gopeak-godot-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/HaD0Yun/Gopeak-godot-mcp/blob/HEAD/README.md"
 githubStars: 43
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T16:31:37.208Z"

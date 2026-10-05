@@ -10,7 +10,7 @@ owner: "sonirico"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/sonirico/mcp-shell"
-readmeUrl: "https://github.com/sonirico/mcp-shell/blob/main/README.md"
+readmeUrl: "https://github.com/sonirico/mcp-shell/blob/HEAD/README.md"
 githubStars: 61
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:18.547Z"

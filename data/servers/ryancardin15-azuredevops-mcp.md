@@ -10,7 +10,7 @@ owner: "RyanCardin15"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/RyanCardin15/AzureDevOps-MCP"
-readmeUrl: "https://github.com/RyanCardin15/AzureDevOps-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/RyanCardin15/AzureDevOps-MCP/blob/HEAD/README.md"
 githubStars: 53
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:32.509Z"

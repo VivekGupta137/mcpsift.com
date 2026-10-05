@@ -10,7 +10,7 @@ owner: "ivo-toby"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ivo-toby/contentful-mcp"
-readmeUrl: "https://github.com/ivo-toby/contentful-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/ivo-toby/contentful-mcp/blob/HEAD/README.md"
 githubStars: 61
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:09.111Z"

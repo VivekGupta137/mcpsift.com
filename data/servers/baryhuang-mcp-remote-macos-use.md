@@ -10,7 +10,7 @@ owner: "baryhuang"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/baryhuang/mcp-remote-macos-use"
-readmeUrl: "https://github.com/baryhuang/mcp-remote-macos-use/blob/main/README.md"
+readmeUrl: "https://github.com/baryhuang/mcp-remote-macos-use/blob/HEAD/README.md"
 githubStars: 466
 githubForks: 0
 githubStatsFetchedAt: "2026-03-11T00:01:13.530Z"

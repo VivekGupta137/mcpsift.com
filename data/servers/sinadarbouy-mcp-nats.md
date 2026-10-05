@@ -10,7 +10,7 @@ owner: "sinadarbouy"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/sinadarbouy/mcp-nats"
-readmeUrl: "https://github.com/sinadarbouy/mcp-nats/blob/main/README.md"
+readmeUrl: "https://github.com/sinadarbouy/mcp-nats/blob/HEAD/README.md"
 githubStars: 35
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:02.414Z"

@@ -10,7 +10,7 @@ owner: "BurtTheCoder"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/BurtTheCoder/mcp-shodan"
-readmeUrl: "https://github.com/BurtTheCoder/mcp-shodan/blob/main/README.md"
+readmeUrl: "https://github.com/BurtTheCoder/mcp-shodan/blob/HEAD/README.md"
 githubStars: 114
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:14.928Z"

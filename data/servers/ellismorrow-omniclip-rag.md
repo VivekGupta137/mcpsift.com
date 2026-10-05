@@ -10,7 +10,7 @@ owner: "EllisMorrow"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/EllisMorrow/OmniClip-RAG"
-readmeUrl: "https://github.com/EllisMorrow/OmniClip-RAG/blob/main/README.md"
+readmeUrl: "https://github.com/EllisMorrow/OmniClip-RAG/blob/HEAD/README.md"
 githubStars: 43
 githubForks: 0
 githubStatsFetchedAt: "2026-07-29T13:30:51.742Z"

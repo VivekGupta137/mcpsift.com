@@ -10,7 +10,7 @@ owner: "classfang"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/classfang/ssh-mcp-server"
-readmeUrl: "https://github.com/classfang/ssh-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/classfang/ssh-mcp-server/blob/HEAD/README.md"
 githubStars: 214
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:17.541Z"

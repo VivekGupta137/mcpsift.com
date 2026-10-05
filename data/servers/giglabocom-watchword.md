@@ -10,7 +10,7 @@ owner: "GigLaboCom"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/GigLaboCom/watchword"
-readmeUrl: "https://github.com/GigLaboCom/watchword/blob/main/README.md"
+readmeUrl: "https://github.com/GigLaboCom/watchword/blob/HEAD/README.md"
 githubStars: 27
 githubForks: 0
 githubStatsFetchedAt: "2026-08-03T08:30:43.448Z"

@@ -10,7 +10,7 @@ owner: "M5Shark"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/M5Shark/M5Shark"
-readmeUrl: "https://github.com/M5Shark/M5Shark/blob/main/README.md"
+readmeUrl: "https://github.com/M5Shark/M5Shark/blob/HEAD/README.md"
 githubStars: 36
 githubForks: 0
 githubStatsFetchedAt: "2026-09-18T21:30:39.478Z"

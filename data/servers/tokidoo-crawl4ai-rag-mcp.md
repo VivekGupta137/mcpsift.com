@@ -10,7 +10,7 @@ owner: "tokidoo"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ToKiDoO/crawl4ai-rag-mcp"
-readmeUrl: "https://github.com/ToKiDoO/crawl4ai-rag-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/ToKiDoO/crawl4ai-rag-mcp/blob/HEAD/README.md"
 githubStars: 32
 githubForks: 0
 githubStatsFetchedAt: "2026-03-12T00:00:43.542Z"

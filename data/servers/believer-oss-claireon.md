@@ -10,7 +10,7 @@ owner: "believer-oss"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/believer-oss/Claireon"
-readmeUrl: "https://github.com/believer-oss/Claireon/blob/main/README.md"
+readmeUrl: "https://github.com/believer-oss/Claireon/blob/HEAD/README.md"
 githubStars: 86
 githubForks: 0
 githubStatsFetchedAt: "2026-06-17T22:31:02.709Z"

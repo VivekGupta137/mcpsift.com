@@ -10,7 +10,7 @@ owner: "n1byn1kt"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/n1byn1kt/apitap"
-readmeUrl: "https://github.com/n1byn1kt/apitap/blob/main/README.md"
+readmeUrl: "https://github.com/n1byn1kt/apitap/blob/HEAD/README.md"
 githubStars: 79
 githubForks: 0
 githubStatsFetchedAt: "2026-04-02T13:31:14.286Z"

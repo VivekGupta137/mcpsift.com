@@ -10,7 +10,7 @@ owner: "geropl"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/geropl/git-mcp-go"
-readmeUrl: "https://github.com/geropl/git-mcp-go/blob/main/README.md"
+readmeUrl: "https://github.com/geropl/git-mcp-go/blob/HEAD/README.md"
 githubStars: 34
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:03.366Z"

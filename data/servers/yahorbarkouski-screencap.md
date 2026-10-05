@@ -10,7 +10,7 @@ owner: "yahorbarkouski"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/yahorbarkouski/screencap"
-readmeUrl: "https://github.com/yahorbarkouski/screencap/blob/main/README.md"
+readmeUrl: "https://github.com/yahorbarkouski/screencap/blob/HEAD/README.md"
 githubStars: 59
 githubForks: 0
 githubStatsFetchedAt: "2026-01-14T17:00:43.340Z"

@@ -10,7 +10,7 @@ owner: "workos"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/workos/mcp.shop"
-readmeUrl: "https://github.com/workos/mcp.shop/blob/main/README.md"
+readmeUrl: "https://github.com/workos/mcp.shop/blob/HEAD/README.md"
 githubStars: 99
 githubForks: 0
 githubStatsFetchedAt: "2026-03-10T00:00:31.794Z"

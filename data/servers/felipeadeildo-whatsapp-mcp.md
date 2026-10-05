@@ -10,7 +10,7 @@ owner: "felipeadeildo"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/felipeadeildo/whatsapp-mcp"
-readmeUrl: "https://github.com/felipeadeildo/whatsapp-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/felipeadeildo/whatsapp-mcp/blob/HEAD/README.md"
 githubStars: 75
 githubForks: 0
 githubStatsFetchedAt: "2026-06-14T17:30:48.859Z"

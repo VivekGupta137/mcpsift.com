@@ -10,7 +10,7 @@ owner: "cyberkaida"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/cyberkaida/reverse-engineering-assistant"
-readmeUrl: "https://github.com/cyberkaida/reverse-engineering-assistant/blob/main/README.md"
+readmeUrl: "https://github.com/cyberkaida/reverse-engineering-assistant/blob/HEAD/README.md"
 githubStars: 378
 githubForks: 0
 githubStatsFetchedAt: "2026-03-19T00:01:20.586Z"

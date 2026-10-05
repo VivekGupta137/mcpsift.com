@@ -10,7 +10,7 @@ owner: "9Ninety"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/9Ninety/MCPNotes"
-readmeUrl: "https://github.com/9Ninety/MCPNotes/blob/main/README.md"
+readmeUrl: "https://github.com/9Ninety/MCPNotes/blob/HEAD/README.md"
 githubStars: 37
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:24.808Z"

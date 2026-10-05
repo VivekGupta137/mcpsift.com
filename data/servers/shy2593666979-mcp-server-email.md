@@ -10,7 +10,7 @@ owner: "shy2593666979"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Shy2593666979/mcp-server-email"
-readmeUrl: "https://github.com/Shy2593666979/mcp-server-email/blob/main/README.md"
+readmeUrl: "https://github.com/Shy2593666979/mcp-server-email/blob/HEAD/README.md"
 githubStars: 78
 githubForks: 0
 githubStatsFetchedAt: "2026-07-03T05:22:31.760Z"

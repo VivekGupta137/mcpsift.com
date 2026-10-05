@@ -10,7 +10,7 @@ owner: "Omar-V2"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Omar-V2/mcp-ical"
-readmeUrl: "https://github.com/Omar-V2/mcp-ical/blob/main/README.md"
+readmeUrl: "https://github.com/Omar-V2/mcp-ical/blob/HEAD/README.md"
 githubStars: 275
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:44.389Z"

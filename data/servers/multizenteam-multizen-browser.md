@@ -10,7 +10,7 @@ owner: "multizenteam"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/multizenteam/multizen-browser"
-readmeUrl: "https://github.com/multizenteam/multizen-browser/blob/main/README.md"
+readmeUrl: "https://github.com/multizenteam/multizen-browser/blob/HEAD/README.md"
 githubStars: 149
 githubForks: 0
 githubStatsFetchedAt: "2026-09-17T05:00:59.210Z"

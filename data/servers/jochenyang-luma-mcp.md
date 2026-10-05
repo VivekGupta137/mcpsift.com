@@ -10,7 +10,7 @@ owner: "JochenYang"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/JochenYang/luma-mcp"
-readmeUrl: "https://github.com/JochenYang/luma-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/JochenYang/luma-mcp/blob/HEAD/README.md"
 githubStars: 52
 githubForks: 0
 githubStatsFetchedAt: "2026-04-28T16:02:13.004Z"

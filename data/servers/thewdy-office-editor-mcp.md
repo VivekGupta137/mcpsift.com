@@ -10,7 +10,7 @@ owner: "theWDY"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/theWDY/office-editor-mcp"
-readmeUrl: "https://github.com/theWDY/office-editor-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/theWDY/office-editor-mcp/blob/HEAD/README.md"
 githubStars: 91
 githubForks: 0
 githubStatsFetchedAt: "2026-08-13T14:00:49.944Z"

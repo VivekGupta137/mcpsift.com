@@ -10,7 +10,7 @@ owner: "samefarrar"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/samefarrar/mcp-pdb"
-readmeUrl: "https://github.com/samefarrar/mcp-pdb/blob/main/README.md"
+readmeUrl: "https://github.com/samefarrar/mcp-pdb/blob/HEAD/README.md"
 githubStars: 38
 githubForks: 0
 githubStatsFetchedAt: "2026-01-09T16:00:31.209Z"

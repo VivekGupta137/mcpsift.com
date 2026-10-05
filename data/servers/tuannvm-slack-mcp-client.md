@@ -10,7 +10,7 @@ owner: "tuannvm"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/tuannvm/slack-mcp-client"
-readmeUrl: "https://github.com/tuannvm/slack-mcp-client/blob/main/README.md"
+readmeUrl: "https://github.com/tuannvm/slack-mcp-client/blob/HEAD/README.md"
 githubStars: 163
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:02.421Z"

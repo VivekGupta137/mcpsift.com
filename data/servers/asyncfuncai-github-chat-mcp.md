@@ -10,7 +10,7 @@ owner: "AsyncFuncAI"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/AsyncFuncAI/github-chat-mcp"
-readmeUrl: "https://github.com/AsyncFuncAI/github-chat-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/AsyncFuncAI/github-chat-mcp/blob/HEAD/README.md"
 githubStars: 84
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:49.750Z"

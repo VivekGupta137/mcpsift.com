@@ -10,7 +10,7 @@ owner: "yourusername"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/SeaC-25/Kali-Security-MCP"
-readmeUrl: "https://github.com/SeaC-25/Kali-Security-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/SeaC-25/Kali-Security-MCP/blob/HEAD/README.md"
 githubStars: 29
 githubForks: 0
 githubStatsFetchedAt: "2026-03-25T03:32:13.620Z"

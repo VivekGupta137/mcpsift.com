@@ -10,7 +10,7 @@ owner: "remotebrowser"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/remotebrowser/mcp-getgather"
-readmeUrl: "https://github.com/remotebrowser/mcp-getgather/blob/main/README.md"
+readmeUrl: "https://github.com/remotebrowser/mcp-getgather/blob/HEAD/README.md"
 githubStars: 49
 githubForks: 0
 githubStatsFetchedAt: "2025-12-15T16:01:35.664Z"

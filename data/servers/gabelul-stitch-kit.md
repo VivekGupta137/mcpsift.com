@@ -10,7 +10,7 @@ owner: "gabelul"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/gabelul/stitch-kit"
-readmeUrl: "https://github.com/gabelul/stitch-kit/blob/main/README.md"
+readmeUrl: "https://github.com/gabelul/stitch-kit/blob/HEAD/README.md"
 githubStars: 32
 githubForks: 0
 githubStatsFetchedAt: "2026-06-09T08:31:32.798Z"

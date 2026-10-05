@@ -10,7 +10,7 @@ owner: "babelcloud"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/babelcloud/gbox"
-readmeUrl: "https://github.com/babelcloud/gbox/blob/main/README.md"
+readmeUrl: "https://github.com/babelcloud/gbox/blob/HEAD/README.md"
 githubStars: 176
 githubForks: 0
 githubStatsFetchedAt: "2026-07-16T02:00:48.442Z"

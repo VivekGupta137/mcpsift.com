@@ -10,7 +10,7 @@ owner: "yourusername"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/pvev/mattermost-mcp"
-readmeUrl: "https://github.com/pvev/mattermost-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/pvev/mattermost-mcp/blob/HEAD/README.md"
 githubStars: 42
 githubForks: 0
 githubStatsFetchedAt: "2026-09-22T16:00:41.868Z"

@@ -10,7 +10,7 @@ owner: "Cobrowser"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/co-browser/browser-use-mcp-server"
-readmeUrl: "https://github.com/co-browser/browser-use-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/co-browser/browser-use-mcp-server/blob/HEAD/README.md"
 githubStars: 812
 githubForks: 0
 githubStatsFetchedAt: "2026-03-14T00:00:37.075Z"

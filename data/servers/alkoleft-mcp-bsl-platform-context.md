@@ -10,7 +10,7 @@ owner: "alkoleft"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/alkoleft/mcp-bsl-platform-context/tree/develop"
-readmeUrl: "https://github.com/alkoleft/mcp-bsl-platform-context/blob/main/README.md"
+readmeUrl: "https://github.com/alkoleft/mcp-bsl-platform-context/blob/HEAD/README.md"
 githubStars: 134
 githubForks: 0
 githubStatsFetchedAt: "2026-03-10T22:00:53.904Z"

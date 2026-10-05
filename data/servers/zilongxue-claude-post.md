@@ -10,7 +10,7 @@ owner: "ZilongXue"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ZilongXue/claude-post"
-readmeUrl: "https://github.com/ZilongXue/claude-post/blob/main/README.md"
+readmeUrl: "https://github.com/ZilongXue/claude-post/blob/HEAD/README.md"
 githubStars: 111
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:55.709Z"

@@ -10,7 +10,7 @@ owner: "enola-labs"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/enola-labs/enola"
-readmeUrl: "https://github.com/enola-labs/enola/blob/main/README.md"
+readmeUrl: "https://github.com/enola-labs/enola/blob/HEAD/README.md"
 githubStars: 33
 githubForks: 0
 githubStatsFetchedAt: "2026-06-08T11:31:20.716Z"

@@ -10,7 +10,7 @@ owner: "mario-andreschak"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mario-andreschak/mcp-abap-adt"
-readmeUrl: "https://github.com/mario-andreschak/mcp-abap-adt/blob/main/README.md"
+readmeUrl: "https://github.com/mario-andreschak/mcp-abap-adt/blob/HEAD/README.md"
 githubStars: 89
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:11.860Z"

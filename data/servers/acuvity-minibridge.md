@@ -10,7 +10,7 @@ owner: "acuvity"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/acuvity/minibridge"
-readmeUrl: "https://github.com/acuvity/minibridge/blob/main/README.md"
+readmeUrl: "https://github.com/acuvity/minibridge/blob/HEAD/README.md"
 githubStars: 54
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:01.388Z"

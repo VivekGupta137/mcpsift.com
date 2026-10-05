@@ -10,7 +10,7 @@ owner: "PixVerseAI"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/PixVerseAI/PixVerse-MCP"
-readmeUrl: "https://github.com/PixVerseAI/PixVerse-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/PixVerseAI/PixVerse-MCP/blob/HEAD/README.md"
 githubStars: 29
 githubForks: 0
 githubStatsFetchedAt: "2025-10-29T10:55:39.440Z"

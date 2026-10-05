@@ -10,7 +10,7 @@ owner: "feder-cr"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk"
-readmeUrl: "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk/blob/main/README.md"
+readmeUrl: "https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk/blob/HEAD/README.md"
 githubStars: 30294
 githubForks: 0
 githubStatsFetchedAt: "2026-09-01T17:30:41.027Z"

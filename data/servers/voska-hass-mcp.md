@@ -10,7 +10,7 @@ owner: "voska"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/voska/hass-mcp"
-readmeUrl: "https://github.com/voska/hass-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/voska/hass-mcp/blob/HEAD/README.md"
 githubStars: 281
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:44.997Z"

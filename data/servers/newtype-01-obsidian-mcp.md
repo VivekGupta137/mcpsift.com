@@ -10,7 +10,7 @@ owner: "newtype-01"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/newtype-01/obsidian-mcp"
-readmeUrl: "https://github.com/newtype-01/obsidian-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/newtype-01/obsidian-mcp/blob/HEAD/README.md"
 githubStars: 29
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:37:42.428Z"

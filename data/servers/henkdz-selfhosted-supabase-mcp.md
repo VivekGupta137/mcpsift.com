@@ -10,7 +10,7 @@ owner: "HenkDz"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/HenkDz/selfhosted-supabase-mcp"
-readmeUrl: "https://github.com/HenkDz/selfhosted-supabase-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/HenkDz/selfhosted-supabase-mcp/blob/HEAD/README.md"
 githubStars: 117
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:51.241Z"

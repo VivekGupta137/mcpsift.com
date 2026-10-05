@@ -10,7 +10,7 @@ owner: "docfork"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/docfork/mcp"
-readmeUrl: "https://github.com/docfork/mcp/blob/main/README.md"
+readmeUrl: "https://github.com/docfork/mcp/blob/HEAD/README.md"
 githubStars: 174
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:23.409Z"

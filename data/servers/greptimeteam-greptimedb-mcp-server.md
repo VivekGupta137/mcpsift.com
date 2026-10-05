@@ -10,7 +10,7 @@ owner: "GreptimeTeam"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/GreptimeTeam/greptimedb-mcp-server"
-readmeUrl: "https://github.com/GreptimeTeam/greptimedb-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/GreptimeTeam/greptimedb-mcp-server/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:33.041Z"

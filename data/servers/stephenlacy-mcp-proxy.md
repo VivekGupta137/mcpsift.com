@@ -10,7 +10,7 @@ owner: "stephenlacy"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/stephenlacy/mcp-proxy"
-readmeUrl: "https://github.com/stephenlacy/mcp-proxy/blob/main/README.md"
+readmeUrl: "https://github.com/stephenlacy/mcp-proxy/blob/HEAD/README.md"
 githubStars: 28
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:43.554Z"

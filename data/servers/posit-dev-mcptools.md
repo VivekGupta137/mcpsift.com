@@ -10,7 +10,7 @@ owner: "posit-dev"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/posit-dev/mcptools"
-readmeUrl: "https://github.com/posit-dev/mcptools/blob/main/README.md"
+readmeUrl: "https://github.com/posit-dev/mcptools/blob/HEAD/README.md"
 githubStars: 159
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:50.370Z"

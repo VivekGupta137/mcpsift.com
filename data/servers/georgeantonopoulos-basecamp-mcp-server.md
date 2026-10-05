@@ -10,7 +10,7 @@ owner: "georgeantonopoulos"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/georgeantonopoulos/Basecamp-MCP-Server"
-readmeUrl: "https://github.com/georgeantonopoulos/Basecamp-MCP-Server/blob/main/README.md"
+readmeUrl: "https://github.com/georgeantonopoulos/Basecamp-MCP-Server/blob/HEAD/README.md"
 githubStars: 79
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:21.704Z"

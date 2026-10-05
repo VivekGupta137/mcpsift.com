@@ -10,7 +10,7 @@ owner: "alexmeckes"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/alexmeckes/godot-mcp"
-readmeUrl: "https://github.com/alexmeckes/godot-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/alexmeckes/godot-mcp/blob/HEAD/README.md"
 githubStars: 28
 githubForks: 0
 githubStatsFetchedAt: "2026-08-14T01:30:33.410Z"

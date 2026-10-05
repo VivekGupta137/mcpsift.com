@@ -10,7 +10,7 @@ owner: "waldo-van-der-code"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/waldo-van-der-code/deutsches-recht-mit-claude"
-readmeUrl: "https://github.com/waldo-van-der-code/deutsches-recht-mit-claude/blob/main/README.md"
+readmeUrl: "https://github.com/waldo-van-der-code/deutsches-recht-mit-claude/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2026-06-17T20:01:05.772Z"

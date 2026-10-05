@@ -10,7 +10,7 @@ owner: "flankerhqd"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/flankerhqd/jebmcp"
-readmeUrl: "https://github.com/flankerhqd/jebmcp/blob/main/README.md"
+readmeUrl: "https://github.com/flankerhqd/jebmcp/blob/HEAD/README.md"
 githubStars: 229
 githubForks: 0
 githubStatsFetchedAt: "2026-04-26T22:30:37.586Z"

@@ -10,7 +10,7 @@ owner: "your-org"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/amurshak/congressMCP"
-readmeUrl: "https://github.com/amurshak/congressMCP/blob/main/README.md"
+readmeUrl: "https://github.com/amurshak/congressMCP/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:14.442Z"

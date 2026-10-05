@@ -10,7 +10,7 @@ owner: "blacktop"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/blacktop/ida-mcp-rs"
-readmeUrl: "https://github.com/blacktop/ida-mcp-rs/blob/main/README.md"
+readmeUrl: "https://github.com/blacktop/ida-mcp-rs/blob/HEAD/README.md"
 githubStars: 254
 githubForks: 0
 githubStatsFetchedAt: "2026-04-04T21:00:45.009Z"

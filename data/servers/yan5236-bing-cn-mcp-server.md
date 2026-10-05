@@ -10,7 +10,7 @@ owner: "yan5236"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/yan5236/bing-cn-mcp-server"
-readmeUrl: "https://github.com/yan5236/bing-cn-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/yan5236/bing-cn-mcp-server/blob/HEAD/README.md"
 githubStars: 46
 githubForks: 0
 githubStatsFetchedAt: "2026-01-07T04:00:44.069Z"

@@ -10,7 +10,7 @@ owner: "i-dot-ai"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/i-dot-ai/parliament-mcp"
-readmeUrl: "https://github.com/i-dot-ai/parliament-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/i-dot-ai/parliament-mcp/blob/HEAD/README.md"
 githubStars: 27
 githubForks: 0
 githubStatsFetchedAt: "2026-06-18T12:31:03.183Z"

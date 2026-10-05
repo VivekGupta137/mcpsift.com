@@ -10,7 +10,7 @@ owner: "Jos\u00e9 Airosa"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/joseairosa/recall"
-readmeUrl: "https://github.com/joseairosa/recall/blob/main/README.md"
+readmeUrl: "https://github.com/joseairosa/recall/blob/HEAD/README.md"
 githubStars: 158
 githubForks: 0
 githubStatsFetchedAt: "2026-02-19T02:00:59.461Z"

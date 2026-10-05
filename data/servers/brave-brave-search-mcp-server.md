@@ -10,7 +10,7 @@ owner: "brave"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/brave/brave-search-mcp-server"
-readmeUrl: "https://github.com/brave/brave-search-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/brave/brave-search-mcp-server/blob/HEAD/README.md"
 githubStars: 524
 githubForks: 0
 githubStatsFetchedAt: "2026-01-19T00:00:53.171Z"

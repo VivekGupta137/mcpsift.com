@@ -10,7 +10,7 @@ owner: "8beeeaaat"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/8beeeaaat/touchdesigner-mcp"
-readmeUrl: "https://github.com/8beeeaaat/touchdesigner-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/8beeeaaat/touchdesigner-mcp/blob/HEAD/README.md"
 githubStars: 42
 githubForks: 0
 githubStatsFetchedAt: "2026-03-19T00:00:58.041Z"

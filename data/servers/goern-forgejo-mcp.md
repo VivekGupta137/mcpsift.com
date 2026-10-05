@@ -10,7 +10,7 @@ owner: "goern"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/goern/forgejo-mcp"
-readmeUrl: "https://github.com/goern/forgejo-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/goern/forgejo-mcp/blob/HEAD/README.md"
 githubStars: 35
 githubForks: 0
 githubStatsFetchedAt: "2026-10-04T00:00:14.028Z"

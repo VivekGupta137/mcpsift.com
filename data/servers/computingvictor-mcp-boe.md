@@ -10,7 +10,7 @@ owner: "ComputingVictor"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ComputingVictor/MCP-BOE"
-readmeUrl: "https://github.com/ComputingVictor/MCP-BOE/blob/main/README.md"
+readmeUrl: "https://github.com/ComputingVictor/MCP-BOE/blob/HEAD/README.md"
 githubStars: 32
 githubForks: 0
 githubStatsFetchedAt: "2026-04-02T08:02:12.908Z"

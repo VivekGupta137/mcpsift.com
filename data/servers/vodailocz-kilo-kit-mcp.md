@@ -10,7 +10,7 @@ owner: "VoDaiLocz"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/VoDaiLocz/kilo-kit-mcp"
-readmeUrl: "https://github.com/VoDaiLocz/kilo-kit-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/VoDaiLocz/kilo-kit-mcp/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2026-08-20T13:00:54.025Z"

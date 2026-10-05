@@ -10,7 +10,7 @@ owner: "CheatEngineNet"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/CheatEngineNet/CheatEngine.Mcp"
-readmeUrl: "https://github.com/CheatEngineNet/CheatEngine.Mcp/blob/main/README.md"
+readmeUrl: "https://github.com/CheatEngineNet/CheatEngine.Mcp/blob/HEAD/README.md"
 githubStars: 75
 githubForks: 0
 githubStatsFetchedAt: "2026-09-26T15:01:01.431Z"

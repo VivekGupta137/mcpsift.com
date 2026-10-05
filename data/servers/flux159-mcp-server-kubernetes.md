@@ -10,7 +10,7 @@ owner: "Flux159"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Flux159/mcp-server-kubernetes"
-readmeUrl: "https://github.com/Flux159/mcp-server-kubernetes/blob/main/README.md"
+readmeUrl: "https://github.com/Flux159/mcp-server-kubernetes/blob/HEAD/README.md"
 githubStars: 1162
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:08.392Z"

@@ -10,7 +10,7 @@ owner: "guillehr2"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/guillehr2/Excel-MCP-Server-Master"
-readmeUrl: "https://github.com/guillehr2/Excel-MCP-Server-Master/blob/main/README.md"
+readmeUrl: "https://github.com/guillehr2/Excel-MCP-Server-Master/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:44.709Z"

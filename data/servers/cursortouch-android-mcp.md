@@ -10,7 +10,7 @@ owner: "cursortouch"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/CursorTouch/Android-MCP"
-readmeUrl: "https://github.com/CursorTouch/Android-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/CursorTouch/Android-MCP/blob/HEAD/README.md"
 githubStars: 436
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:54.802Z"

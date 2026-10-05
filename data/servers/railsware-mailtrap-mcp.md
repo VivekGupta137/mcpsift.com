@@ -10,7 +10,7 @@ owner: "railsware"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/railsware/mailtrap-mcp"
-readmeUrl: "https://github.com/railsware/mailtrap-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/railsware/mailtrap-mcp/blob/HEAD/README.md"
 githubStars: 56
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:25.653Z"

@@ -10,7 +10,7 @@ owner: "conorluddy"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/conorluddy/xc-mcp"
-readmeUrl: "https://github.com/conorluddy/xc-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/conorluddy/xc-mcp/blob/HEAD/README.md"
 githubStars: 88
 githubForks: 0
 githubStatsFetchedAt: "2026-06-13T20:01:01.110Z"

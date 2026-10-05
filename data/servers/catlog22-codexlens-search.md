@@ -10,7 +10,7 @@ owner: "catlog22"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/catlog22/codexlens-search"
-readmeUrl: "https://github.com/catlog22/codexlens-search/blob/main/README.md"
+readmeUrl: "https://github.com/catlog22/codexlens-search/blob/HEAD/README.md"
 githubStars: 43
 githubForks: 0
 githubStatsFetchedAt: "2026-04-11T16:02:22.144Z"

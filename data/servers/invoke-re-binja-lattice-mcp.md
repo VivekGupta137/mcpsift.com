@@ -10,7 +10,7 @@ owner: "Invoke-RE"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Invoke-RE/binja-lattice-mcp"
-readmeUrl: "https://github.com/Invoke-RE/binja-lattice-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/Invoke-RE/binja-lattice-mcp/blob/HEAD/README.md"
 githubStars: 56
 githubForks: 0
 githubStatsFetchedAt: "2026-02-18T03:00:34.609Z"

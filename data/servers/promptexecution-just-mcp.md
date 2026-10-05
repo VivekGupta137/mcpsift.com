@@ -10,7 +10,7 @@ owner: "PromptExecution"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/PromptExecution/just-mcp"
-readmeUrl: "https://github.com/PromptExecution/just-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/PromptExecution/just-mcp/blob/HEAD/README.md"
 githubStars: 45
 githubForks: 0
 githubStatsFetchedAt: "2026-03-10T00:00:44.223Z"

@@ -10,7 +10,7 @@ owner: "browser-use"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/browser-use/vibetest-use"
-readmeUrl: "https://github.com/browser-use/vibetest-use/blob/main/README.md"
+readmeUrl: "https://github.com/browser-use/vibetest-use/blob/HEAD/README.md"
 githubStars: 772
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:42.732Z"

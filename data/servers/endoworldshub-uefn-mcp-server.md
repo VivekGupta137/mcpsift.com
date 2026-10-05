@@ -10,7 +10,7 @@ owner: "EndoWorldsHub"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/KirChuvakov/uefn-mcp-server"
-readmeUrl: "https://github.com/KirChuvakov/uefn-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/KirChuvakov/uefn-mcp-server/blob/HEAD/README.md"
 githubStars: 69
 githubForks: 0
 githubStatsFetchedAt: "2026-10-01T13:31:12.203Z"

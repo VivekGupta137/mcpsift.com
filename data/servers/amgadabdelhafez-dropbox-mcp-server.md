@@ -10,7 +10,7 @@ owner: "amgadabdelhafez"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/amgadabdelhafez/Dropbox-MCP-Server"
-readmeUrl: "https://github.com/amgadabdelhafez/Dropbox-MCP-Server/blob/main/README.md"
+readmeUrl: "https://github.com/amgadabdelhafez/Dropbox-MCP-Server/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:23.343Z"

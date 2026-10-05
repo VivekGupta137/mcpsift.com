@@ -10,7 +10,7 @@ owner: "thebriangao"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/thebriangao/totem"
-readmeUrl: "https://github.com/thebriangao/totem/blob/main/README.md"
+readmeUrl: "https://github.com/thebriangao/totem/blob/HEAD/README.md"
 githubStars: 94
 githubForks: 0
 githubStatsFetchedAt: "2026-07-13T21:00:42.215Z"

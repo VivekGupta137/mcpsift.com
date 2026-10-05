@@ -10,7 +10,7 @@ owner: "scottlepp"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/scottlepp/loki-mcp"
-readmeUrl: "https://github.com/scottlepp/loki-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/scottlepp/loki-mcp/blob/HEAD/README.md"
 githubStars: 95
 githubForks: 0
 githubStatsFetchedAt: "2026-03-09T00:00:38.391Z"

@@ -10,7 +10,7 @@ owner: "stvlynn"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/stvlynn/quote0-mcp"
-readmeUrl: "https://github.com/stvlynn/quote0-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/stvlynn/quote0-mcp/blob/HEAD/README.md"
 githubStars: 35
 githubForks: 0
 githubStatsFetchedAt: "2025-11-16T00:00:40.186Z"

@@ -10,7 +10,7 @@ owner: "j4c0bs"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/j4c0bs/mcp-server-sql-analyzer"
-readmeUrl: "https://github.com/j4c0bs/mcp-server-sql-analyzer/blob/main/README.md"
+readmeUrl: "https://github.com/j4c0bs/mcp-server-sql-analyzer/blob/HEAD/README.md"
 githubStars: 27
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:28.917Z"

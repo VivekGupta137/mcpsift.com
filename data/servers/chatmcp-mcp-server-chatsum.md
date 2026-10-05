@@ -10,7 +10,7 @@ owner: "chatmcp"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/chatmcp/mcp-server-chatsum"
-readmeUrl: "https://github.com/chatmcp/mcp-server-chatsum/blob/main/README.md"
+readmeUrl: "https://github.com/chatmcp/mcp-server-chatsum/blob/HEAD/README.md"
 githubStars: 1033
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:38.914Z"

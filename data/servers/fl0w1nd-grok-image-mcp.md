@@ -10,7 +10,7 @@ owner: "fl0w1nd"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/fl0w1nd/grok-image-mcp"
-readmeUrl: "https://github.com/fl0w1nd/grok-image-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/fl0w1nd/grok-image-mcp/blob/HEAD/README.md"
 githubStars: 29
 githubForks: 0
 githubStatsFetchedAt: "2026-03-03T11:30:59.465Z"

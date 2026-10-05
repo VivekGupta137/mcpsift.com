@@ -10,7 +10,7 @@ owner: "QwenLM"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/QwenLM/open-computer-use"
-readmeUrl: "https://github.com/QwenLM/open-computer-use/blob/main/README.md"
+readmeUrl: "https://github.com/QwenLM/open-computer-use/blob/HEAD/README.md"
 githubStars: 47
 githubForks: 0
 githubStatsFetchedAt: "2026-06-10T16:30:55.620Z"

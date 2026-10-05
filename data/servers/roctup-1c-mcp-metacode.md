@@ -10,7 +10,7 @@ owner: "ROCTUP"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ROCTUP/1c-mcp-metacode"
-readmeUrl: "https://github.com/ROCTUP/1c-mcp-metacode/blob/main/README.md"
+readmeUrl: "https://github.com/ROCTUP/1c-mcp-metacode/blob/HEAD/README.md"
 githubStars: 31
 githubForks: 0
 githubStatsFetchedAt: "2025-10-31T00:00:49.294Z"

@@ -10,7 +10,7 @@ owner: "zueai"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/zueai/frontend-review-mcp"
-readmeUrl: "https://github.com/zueai/frontend-review-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/zueai/frontend-review-mcp/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:37:17.060Z"

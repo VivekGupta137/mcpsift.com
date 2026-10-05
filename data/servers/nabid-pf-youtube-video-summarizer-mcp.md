@@ -10,7 +10,7 @@ owner: "nabid-pf"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/nabid-pf/youtube-video-summarizer-mcp"
-readmeUrl: "https://github.com/nabid-pf/youtube-video-summarizer-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/nabid-pf/youtube-video-summarizer-mcp/blob/HEAD/README.md"
 githubStars: 60
 githubForks: 0
 githubStatsFetchedAt: "2026-06-13T19:17:12.518Z"

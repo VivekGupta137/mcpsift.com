@@ -10,7 +10,7 @@ owner: "Abdul Qoyyuum"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Qoyyuum/mcp-metatrader5-server"
-readmeUrl: "https://github.com/Qoyyuum/mcp-metatrader5-server/blob/main/README.md"
+readmeUrl: "https://github.com/Qoyyuum/mcp-metatrader5-server/blob/HEAD/README.md"
 githubStars: 55
 githubForks: 0
 githubStatsFetchedAt: "2025-10-31T00:00:44.903Z"

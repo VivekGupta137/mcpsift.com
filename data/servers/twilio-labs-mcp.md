@@ -10,7 +10,7 @@ owner: "twilio-labs"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/twilio-labs/mcp"
-readmeUrl: "https://github.com/twilio-labs/mcp/blob/main/README.md"
+readmeUrl: "https://github.com/twilio-labs/mcp/blob/HEAD/README.md"
 githubStars: 92
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:30.307Z"

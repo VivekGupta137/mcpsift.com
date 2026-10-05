@@ -10,7 +10,7 @@ owner: "yjl9903"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/yjl9903/AnimeGarden"
-readmeUrl: "https://github.com/yjl9903/AnimeGarden/blob/main/README.md"
+readmeUrl: "https://github.com/yjl9903/AnimeGarden/blob/HEAD/README.md"
 githubStars: 1240
 githubForks: 0
 githubStatsFetchedAt: "2026-07-08T19:28:42.993Z"

@@ -10,7 +10,7 @@ owner: "snowflake-labs"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Snowflake-Labs/mcp"
-readmeUrl: "https://github.com/Snowflake-Labs/mcp/blob/main/README.md"
+readmeUrl: "https://github.com/Snowflake-Labs/mcp/blob/HEAD/README.md"
 githubStars: 248
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:08.281Z"

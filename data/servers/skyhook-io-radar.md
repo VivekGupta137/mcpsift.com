@@ -10,7 +10,7 @@ owner: "skyhook-io"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/skyhook-io/radar"
-readmeUrl: "https://github.com/skyhook-io/radar/blob/main/README.md"
+readmeUrl: "https://github.com/skyhook-io/radar/blob/HEAD/README.md"
 githubStars: 2714
 githubForks: 0
 githubStatsFetchedAt: "2026-08-03T14:30:57.329Z"

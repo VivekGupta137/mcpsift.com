@@ -10,7 +10,7 @@ owner: "aki66938"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/aki66938/xhs-toolkit"
-readmeUrl: "https://github.com/aki66938/xhs-toolkit/blob/main/README.md"
+readmeUrl: "https://github.com/aki66938/xhs-toolkit/blob/HEAD/README.md"
 githubStars: 1173
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:53.659Z"

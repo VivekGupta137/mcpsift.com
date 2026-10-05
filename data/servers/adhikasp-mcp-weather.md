@@ -10,7 +10,7 @@ owner: "adhikasp"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/adhikasp/mcp-weather"
-readmeUrl: "https://github.com/adhikasp/mcp-weather/blob/main/README.md"
+readmeUrl: "https://github.com/adhikasp/mcp-weather/blob/HEAD/README.md"
 githubStars: 29
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:40.666Z"

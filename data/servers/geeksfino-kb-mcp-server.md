@@ -10,7 +10,7 @@ owner: "geeksfino"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Geeksfino/kb-mcp-server"
-readmeUrl: "https://github.com/Geeksfino/kb-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/Geeksfino/kb-mcp-server/blob/HEAD/README.md"
 githubStars: 66
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:07.208Z"

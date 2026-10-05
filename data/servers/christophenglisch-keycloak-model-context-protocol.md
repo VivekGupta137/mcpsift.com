@@ -10,7 +10,7 @@ owner: "ChristophEnglisch"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ChristophEnglisch/keycloak-model-context-protocol"
-readmeUrl: "https://github.com/ChristophEnglisch/keycloak-model-context-protocol/blob/main/README.md"
+readmeUrl: "https://github.com/ChristophEnglisch/keycloak-model-context-protocol/blob/HEAD/README.md"
 githubStars: 38
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:02.537Z"

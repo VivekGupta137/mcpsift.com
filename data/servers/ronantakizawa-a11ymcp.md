@@ -10,7 +10,7 @@ owner: "ronantakizawa"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ronantakizawa/a11ymcp"
-readmeUrl: "https://github.com/ronantakizawa/a11ymcp/blob/main/README.md"
+readmeUrl: "https://github.com/ronantakizawa/a11ymcp/blob/HEAD/README.md"
 githubStars: 78
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:43.656Z"

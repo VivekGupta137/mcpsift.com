@@ -10,7 +10,7 @@ owner: "mastanley13"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mastanley13/GoHighLevel-MCP"
-readmeUrl: "https://github.com/mastanley13/GoHighLevel-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/mastanley13/GoHighLevel-MCP/blob/HEAD/README.md"
 githubStars: 120
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:50.874Z"

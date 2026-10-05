@@ -10,7 +10,7 @@ owner: "jau123"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jau123/MeiGen-AI-Design-MCP"
-readmeUrl: "https://github.com/jau123/MeiGen-AI-Design-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/jau123/MeiGen-AI-Design-MCP/blob/HEAD/README.md"
 githubStars: 1007
 githubForks: 0
 githubStatsFetchedAt: "2026-05-13T14:38:10.173Z"

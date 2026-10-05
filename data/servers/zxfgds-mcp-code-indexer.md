@@ -10,7 +10,7 @@ owner: "zxfgds"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/zxfgds/mcp-code-indexer"
-readmeUrl: "https://github.com/zxfgds/mcp-code-indexer/blob/main/README.md"
+readmeUrl: "https://github.com/zxfgds/mcp-code-indexer/blob/HEAD/README.md"
 githubStars: 36
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:00.853Z"

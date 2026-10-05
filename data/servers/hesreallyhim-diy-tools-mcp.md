@@ -10,7 +10,7 @@ owner: "hesreallyhim"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/hesreallyhim/diy-tools-mcp"
-readmeUrl: "https://github.com/hesreallyhim/diy-tools-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/hesreallyhim/diy-tools-mcp/blob/HEAD/README.md"
 githubStars: 41
 githubForks: 0
 githubStatsFetchedAt: "2026-06-26T16:01:47.436Z"

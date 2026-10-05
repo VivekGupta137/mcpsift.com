@@ -10,7 +10,7 @@ owner: "MarkusPfundstein"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/MarkusPfundstein/mcp-gsuite"
-readmeUrl: "https://github.com/MarkusPfundstein/mcp-gsuite/blob/main/README.md"
+readmeUrl: "https://github.com/MarkusPfundstein/mcp-gsuite/blob/HEAD/README.md"
 githubStars: 479
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:00.902Z"

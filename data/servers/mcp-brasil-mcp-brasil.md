@@ -10,7 +10,7 @@ owner: "mcp-brasil"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Mcp-Brasil/mcp-brasil"
-readmeUrl: "https://github.com/Mcp-Brasil/mcp-brasil/blob/main/README.md"
+readmeUrl: "https://github.com/Mcp-Brasil/mcp-brasil/blob/HEAD/README.md"
 githubStars: 1492
 githubForks: 0
 githubStatsFetchedAt: "2026-04-26T18:30:49.519Z"

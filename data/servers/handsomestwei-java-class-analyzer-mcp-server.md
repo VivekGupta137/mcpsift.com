@@ -10,7 +10,7 @@ owner: "handsomestWei"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/handsomestWei/java-class-analyzer-mcp-server"
-readmeUrl: "https://github.com/handsomestWei/java-class-analyzer-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/handsomestWei/java-class-analyzer-mcp-server/blob/HEAD/README.md"
 githubStars: 39
 githubForks: 0
 githubStatsFetchedAt: "2026-06-28T16:00:43.436Z"

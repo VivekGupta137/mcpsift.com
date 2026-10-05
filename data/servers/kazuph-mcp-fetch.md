@@ -10,7 +10,7 @@ owner: "kazuph"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/kazuph/mcp-fetch"
-readmeUrl: "https://github.com/kazuph/mcp-fetch/blob/main/README.md"
+readmeUrl: "https://github.com/kazuph/mcp-fetch/blob/HEAD/README.md"
 githubStars: 40
 githubForks: 0
 githubStatsFetchedAt: "2026-06-12T08:31:13.531Z"

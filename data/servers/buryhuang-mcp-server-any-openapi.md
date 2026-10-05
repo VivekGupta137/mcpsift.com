@@ -10,7 +10,7 @@ owner: "buryhuang"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/baryhuang/mcp-server-any-openapi"
-readmeUrl: "https://github.com/baryhuang/mcp-server-any-openapi/blob/main/README.md"
+readmeUrl: "https://github.com/baryhuang/mcp-server-any-openapi/blob/HEAD/README.md"
 githubStars: 80
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:50.435Z"

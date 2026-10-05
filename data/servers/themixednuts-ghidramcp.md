@@ -10,7 +10,7 @@ owner: "themixednuts"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/themixednuts/GhidraMCP"
-readmeUrl: "https://github.com/themixednuts/GhidraMCP/blob/main/README.md"
+readmeUrl: "https://github.com/themixednuts/GhidraMCP/blob/HEAD/README.md"
 githubStars: 41
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:15.178Z"

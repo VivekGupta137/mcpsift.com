@@ -10,7 +10,7 @@ owner: "1Panel-dev"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/1Panel-dev/mcp-1panel/tree/dev-v2"
-readmeUrl: "https://github.com/1Panel-dev/mcp-1panel/blob/main/README.md"
+readmeUrl: "https://github.com/1Panel-dev/mcp-1panel/blob/HEAD/README.md"
 githubStars: 142
 githubForks: 0
 githubStatsFetchedAt: "2026-03-15T00:00:46.681Z"

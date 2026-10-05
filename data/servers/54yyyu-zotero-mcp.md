@@ -10,7 +10,7 @@ owner: "54yyyu"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/54yyyu/zotero-mcp"
-readmeUrl: "https://github.com/54yyyu/zotero-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/54yyyu/zotero-mcp/blob/HEAD/README.md"
 githubStars: 1681
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:58.704Z"

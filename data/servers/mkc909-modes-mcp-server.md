@@ -10,7 +10,7 @@ owner: "mkc909"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ccc0168/modes-mcp-server"
-readmeUrl: "https://github.com/ccc0168/modes-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/ccc0168/modes-mcp-server/blob/HEAD/README.md"
 githubStars: 30
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:50.107Z"

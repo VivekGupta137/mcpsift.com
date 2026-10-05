@@ -10,7 +10,7 @@ owner: "JustasMonkev"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/JustasMonkev/mcp-accessibility-scanner"
-readmeUrl: "https://github.com/JustasMonkev/mcp-accessibility-scanner/blob/main/README.md"
+readmeUrl: "https://github.com/JustasMonkev/mcp-accessibility-scanner/blob/HEAD/README.md"
 githubStars: 44
 githubForks: 0
 githubStatsFetchedAt: "2026-03-26T11:01:33.869Z"

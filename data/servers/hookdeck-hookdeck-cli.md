@@ -10,7 +10,7 @@ owner: "hookdeck"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/hookdeck/hookdeck-cli"
-readmeUrl: "https://github.com/hookdeck/hookdeck-cli/blob/main/README.md"
+readmeUrl: "https://github.com/hookdeck/hookdeck-cli/blob/HEAD/README.md"
 githubStars: 352
 githubForks: 0
 githubStatsFetchedAt: "2026-03-27T13:02:08.332Z"

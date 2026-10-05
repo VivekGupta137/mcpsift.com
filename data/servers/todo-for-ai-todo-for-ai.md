@@ -10,7 +10,7 @@ owner: "todo-for-ai"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/todo-for-ai/todo-for-ai"
-readmeUrl: "https://github.com/todo-for-ai/todo-for-ai/blob/main/README.md"
+readmeUrl: "https://github.com/todo-for-ai/todo-for-ai/blob/HEAD/README.md"
 githubStars: 1177
 githubForks: 0
 githubStatsFetchedAt: "2026-09-01T01:30:38.109Z"

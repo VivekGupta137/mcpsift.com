@@ -10,7 +10,7 @@ owner: "SamurAIGPT"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/SamurAIGPT/muapi-cli"
-readmeUrl: "https://github.com/SamurAIGPT/muapi-cli/blob/main/README.md"
+readmeUrl: "https://github.com/SamurAIGPT/muapi-cli/blob/HEAD/README.md"
 githubStars: 978
 githubForks: 0
 githubStatsFetchedAt: "2026-04-12T20:31:07.529Z"

@@ -10,7 +10,7 @@ owner: "EllisMorrow"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/EllisMorrow/Caelune"
-readmeUrl: "https://github.com/EllisMorrow/Caelune/blob/main/README.md"
+readmeUrl: "https://github.com/EllisMorrow/Caelune/blob/HEAD/README.md"
 githubStars: 43
 githubForks: 0
 githubStatsFetchedAt: "2026-08-01T15:00:54.248Z"

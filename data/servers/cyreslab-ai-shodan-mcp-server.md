@@ -10,7 +10,7 @@ owner: "Cyreslab-AI"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Cyreslab-AI/shodan-mcp-server"
-readmeUrl: "https://github.com/Cyreslab-AI/shodan-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/Cyreslab-AI/shodan-mcp-server/blob/HEAD/README.md"
 githubStars: 41
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:00.796Z"

@@ -10,7 +10,7 @@ owner: "c-rick"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/c-rick/jimeng-mcp"
-readmeUrl: "https://github.com/c-rick/jimeng-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/c-rick/jimeng-mcp/blob/HEAD/README.md"
 githubStars: 44
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:56.075Z"

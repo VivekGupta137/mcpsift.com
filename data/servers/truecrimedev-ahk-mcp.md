@@ -10,7 +10,7 @@ owner: "truecrimedev"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/TrueCrimeDev/ahk-mcp"
-readmeUrl: "https://github.com/TrueCrimeDev/ahk-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/TrueCrimeDev/ahk-mcp/blob/HEAD/README.md"
 githubStars: 34
 githubForks: 0
 githubStatsFetchedAt: "2026-06-28T02:00:41.924Z"

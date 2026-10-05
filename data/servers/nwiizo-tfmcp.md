@@ -10,7 +10,7 @@ owner: "nwiizo"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/nwiizo/tfmcp"
-readmeUrl: "https://github.com/nwiizo/tfmcp/blob/main/README.md"
+readmeUrl: "https://github.com/nwiizo/tfmcp/blob/HEAD/README.md"
 githubStars: 357
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:50.228Z"

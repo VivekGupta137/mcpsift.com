@@ -10,7 +10,7 @@ owner: "Camden Clark"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/CamdenClark/jira-mcp"
-readmeUrl: "https://github.com/CamdenClark/jira-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/CamdenClark/jira-mcp/blob/HEAD/README.md"
 githubStars: 29
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:19.201Z"

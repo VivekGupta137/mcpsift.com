@@ -10,7 +10,7 @@ owner: "eLyiN"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/eLyiN/gemini-bridge"
-readmeUrl: "https://github.com/eLyiN/gemini-bridge/blob/main/README.md"
+readmeUrl: "https://github.com/eLyiN/gemini-bridge/blob/HEAD/README.md"
 githubStars: 90
 githubForks: 0
 githubStatsFetchedAt: "2026-04-18T11:31:46.661Z"

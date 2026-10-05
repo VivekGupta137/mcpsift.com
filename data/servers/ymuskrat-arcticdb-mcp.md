@@ -10,7 +10,7 @@ owner: "YMuskrat"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/YMuskrat/arcticdb_mcp"
-readmeUrl: "https://github.com/YMuskrat/arcticdb_mcp/blob/main/README.md"
+readmeUrl: "https://github.com/YMuskrat/arcticdb_mcp/blob/HEAD/README.md"
 githubStars: 779
 githubForks: 0
 githubStatsFetchedAt: "2026-10-02T13:30:42.572Z"

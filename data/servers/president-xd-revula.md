@@ -10,7 +10,7 @@ owner: "president-xd"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/president-xd/revula"
-readmeUrl: "https://github.com/president-xd/revula/blob/main/README.md"
+readmeUrl: "https://github.com/president-xd/revula/blob/HEAD/README.md"
 githubStars: 30
 githubForks: 0
 githubStatsFetchedAt: "2026-04-01T20:31:23.134Z"

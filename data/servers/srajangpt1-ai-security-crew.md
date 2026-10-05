@@ -10,7 +10,7 @@ owner: "Srajangpt1"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Srajangpt1/ai_security_crew"
-readmeUrl: "https://github.com/Srajangpt1/ai_security_crew/blob/main/README.md"
+readmeUrl: "https://github.com/Srajangpt1/ai_security_crew/blob/HEAD/README.md"
 githubStars: 27
 githubForks: 0
 githubStatsFetchedAt: "2025-10-31T00:00:48.224Z"

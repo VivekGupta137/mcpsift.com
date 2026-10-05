@@ -10,7 +10,7 @@ owner: "Intina47"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Intina47/context-sync"
-readmeUrl: "https://github.com/Intina47/context-sync/blob/main/README.md"
+readmeUrl: "https://github.com/Intina47/context-sync/blob/HEAD/README.md"
 githubStars: 37
 githubForks: 0
 githubStatsFetchedAt: "2025-11-18T23:41:57.307Z"

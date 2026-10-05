@@ -10,7 +10,7 @@ owner: "bourhaouta"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/bourhaouta/vscode-tailwindshades"
-readmeUrl: "https://github.com/bourhaouta/vscode-tailwindshades/blob/main/README.md"
+readmeUrl: "https://github.com/bourhaouta/vscode-tailwindshades/blob/HEAD/README.md"
 githubStars: 77
 githubForks: 0
 githubStatsFetchedAt: "2026-10-02T23:00:49.907Z"

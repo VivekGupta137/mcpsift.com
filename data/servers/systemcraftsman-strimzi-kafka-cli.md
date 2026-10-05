@@ -10,7 +10,7 @@ owner: "systemcraftsman"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/SystemCraftsman/strimzi-kafka-cli"
-readmeUrl: "https://github.com/SystemCraftsman/strimzi-kafka-cli/blob/main/README.md"
+readmeUrl: "https://github.com/SystemCraftsman/strimzi-kafka-cli/blob/HEAD/README.md"
 githubStars: 91
 githubForks: 0
 githubStatsFetchedAt: "2026-08-13T15:00:57.820Z"

@@ -10,7 +10,7 @@ owner: "WYRE-AI"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/WYRE-AI/autotask-mcp"
-readmeUrl: "https://github.com/WYRE-AI/autotask-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/WYRE-AI/autotask-mcp/blob/HEAD/README.md"
 githubStars: 49
 githubForks: 0
 githubStatsFetchedAt: "2026-08-27T22:01:18.376Z"

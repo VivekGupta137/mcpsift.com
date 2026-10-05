@@ -10,7 +10,7 @@ owner: "alex-rimerman"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/alex-rimerman/statcast-mcp"
-readmeUrl: "https://github.com/alex-rimerman/statcast-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/alex-rimerman/statcast-mcp/blob/HEAD/README.md"
 githubStars: 32
 githubForks: 0
 githubStatsFetchedAt: "2026-04-13T21:31:31.763Z"

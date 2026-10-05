@@ -10,7 +10,7 @@ owner: "saidsurucu"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/saidsurucu/yokatlas-mcp"
-readmeUrl: "https://github.com/saidsurucu/yokatlas-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/saidsurucu/yokatlas-mcp/blob/HEAD/README.md"
 githubStars: 59
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:55.605Z"

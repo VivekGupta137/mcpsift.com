@@ -10,7 +10,7 @@ owner: "BeehiveInnovations"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/BeehiveInnovations/pal-mcp-server"
-readmeUrl: "https://github.com/BeehiveInnovations/pal-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/BeehiveInnovations/pal-mcp-server/blob/HEAD/README.md"
 githubStars: 9897
 githubForks: 0
 githubStatsFetchedAt: "2025-12-04T14:30:58.800Z"

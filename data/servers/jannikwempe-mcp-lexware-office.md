@@ -10,7 +10,7 @@ owner: "JannikWempe"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/JannikWempe/mcp-lexware-office"
-readmeUrl: "https://github.com/JannikWempe/mcp-lexware-office/blob/main/README.md"
+readmeUrl: "https://github.com/JannikWempe/mcp-lexware-office/blob/HEAD/README.md"
 githubStars: 37
 githubForks: 0
 githubStatsFetchedAt: "2026-06-11T14:31:21.813Z"

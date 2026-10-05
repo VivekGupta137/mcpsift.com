@@ -10,7 +10,7 @@ owner: "kdeps"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/kdeps/kdeps"
-readmeUrl: "https://github.com/kdeps/kdeps/blob/main/README.md"
+readmeUrl: "https://github.com/kdeps/kdeps/blob/HEAD/README.md"
 githubStars: 32
 githubForks: 0
 githubStatsFetchedAt: "2026-05-22T03:30:39.697Z"

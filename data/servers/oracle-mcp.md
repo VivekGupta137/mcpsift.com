@@ -10,7 +10,7 @@ owner: "oracle"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/oracle/mcp"
-readmeUrl: "https://github.com/oracle/mcp/blob/main/README.md"
+readmeUrl: "https://github.com/oracle/mcp/blob/HEAD/README.md"
 githubStars: 317
 githubForks: 0
 githubStatsFetchedAt: "2026-04-03T16:01:42.134Z"

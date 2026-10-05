@@ -10,7 +10,7 @@ owner: "hyperdrive-eng"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/hyperdrive-eng/mcp-nodejs-debugger"
-readmeUrl: "https://github.com/hyperdrive-eng/mcp-nodejs-debugger/blob/main/README.md"
+readmeUrl: "https://github.com/hyperdrive-eng/mcp-nodejs-debugger/blob/HEAD/README.md"
 githubStars: 285
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:09.283Z"

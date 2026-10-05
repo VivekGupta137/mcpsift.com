@@ -10,7 +10,7 @@ owner: "shuruheel"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/shuruheel/mcp-engram"
-readmeUrl: "https://github.com/shuruheel/mcp-engram/blob/main/README.md"
+readmeUrl: "https://github.com/shuruheel/mcp-engram/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2026-02-20T21:30:44.945Z"

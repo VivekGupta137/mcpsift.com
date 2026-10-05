@@ -10,7 +10,7 @@ owner: "githejie"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/githejie/mcp-server-calculator"
-readmeUrl: "https://github.com/githejie/mcp-server-calculator/blob/main/README.md"
+readmeUrl: "https://github.com/githejie/mcp-server-calculator/blob/HEAD/README.md"
 githubStars: 146
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:43.306Z"

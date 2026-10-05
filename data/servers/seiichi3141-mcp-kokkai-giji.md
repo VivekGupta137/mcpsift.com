@@ -10,7 +10,7 @@ owner: "seiichi3141"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/seiichi3141/mcp_kokkai_giji"
-readmeUrl: "https://github.com/seiichi3141/mcp_kokkai_giji/blob/main/README.md"
+readmeUrl: "https://github.com/seiichi3141/mcp_kokkai_giji/blob/HEAD/README.md"
 githubStars: 27
 githubForks: 0
 githubStatsFetchedAt: "2025-11-11T00:00:40.722Z"

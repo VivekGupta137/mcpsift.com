@@ -10,7 +10,7 @@ owner: "simonx1"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/simonx1/ruby-mcp-client"
-readmeUrl: "https://github.com/simonx1/ruby-mcp-client/blob/main/README.md"
+readmeUrl: "https://github.com/simonx1/ruby-mcp-client/blob/HEAD/README.md"
 githubStars: 95
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:50.903Z"

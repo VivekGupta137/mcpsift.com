@@ -10,7 +10,7 @@ owner: "gornskew"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/gornskew/cyborg-whisperer/tree/devo"
-readmeUrl: "https://github.com/gornskew/cyborg-whisperer/blob/main/README.md"
+readmeUrl: "https://github.com/gornskew/cyborg-whisperer/blob/HEAD/README.md"
 githubStars: 54
 githubForks: 0
 githubStatsFetchedAt: "2026-09-22T18:01:01.977Z"

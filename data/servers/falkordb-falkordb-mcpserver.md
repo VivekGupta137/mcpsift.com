@@ -10,7 +10,7 @@ owner: "falkordb"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/FalkorDB/FalkorDB-MCPServer"
-readmeUrl: "https://github.com/FalkorDB/FalkorDB-MCPServer/blob/main/README.md"
+readmeUrl: "https://github.com/FalkorDB/FalkorDB-MCPServer/blob/HEAD/README.md"
 githubStars: 31
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:02:20.683Z"

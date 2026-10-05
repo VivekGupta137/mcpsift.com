@@ -10,7 +10,7 @@ owner: "carterlasalle"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/carterlasalle/mac_messages_mcp"
-readmeUrl: "https://github.com/carterlasalle/mac_messages_mcp/blob/main/README.md"
+readmeUrl: "https://github.com/carterlasalle/mac_messages_mcp/blob/HEAD/README.md"
 githubStars: 245
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:01.436Z"

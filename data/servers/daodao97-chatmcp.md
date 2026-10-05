@@ -10,7 +10,7 @@ owner: "daodao97"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/daodao97/chatmcp"
-readmeUrl: "https://github.com/daodao97/chatmcp/blob/main/README.md"
+readmeUrl: "https://github.com/daodao97/chatmcp/blob/HEAD/README.md"
 githubStars: 2178
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:47.325Z"

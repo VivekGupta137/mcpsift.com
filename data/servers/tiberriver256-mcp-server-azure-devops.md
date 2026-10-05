@@ -10,7 +10,7 @@ owner: "tiberriver256"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Tiberriver256/mcp-server-azure-devops"
-readmeUrl: "https://github.com/Tiberriver256/mcp-server-azure-devops/blob/main/README.md"
+readmeUrl: "https://github.com/Tiberriver256/mcp-server-azure-devops/blob/HEAD/README.md"
 githubStars: 340
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:17.336Z"

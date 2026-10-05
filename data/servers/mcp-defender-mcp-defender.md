@@ -10,7 +10,7 @@ owner: "MCP Defender Team"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/MCP-Defender/MCP-Defender"
-readmeUrl: "https://github.com/MCP-Defender/MCP-Defender/blob/main/README.md"
+readmeUrl: "https://github.com/MCP-Defender/MCP-Defender/blob/HEAD/README.md"
 githubStars: 253
 githubForks: 0
 githubStatsFetchedAt: "2026-06-05T19:31:11.546Z"

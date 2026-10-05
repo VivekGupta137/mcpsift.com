@@ -10,7 +10,7 @@ owner: "suekou"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/suekou/mcp-notion-server"
-readmeUrl: "https://github.com/suekou/mcp-notion-server/blob/main/README.md"
+readmeUrl: "https://github.com/suekou/mcp-notion-server/blob/HEAD/README.md"
 githubStars: 863
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:19.064Z"

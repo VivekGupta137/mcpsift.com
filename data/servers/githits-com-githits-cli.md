@@ -10,7 +10,7 @@ owner: "githits-com"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/githits-com/githits-cli"
-readmeUrl: "https://github.com/githits-com/githits-cli/blob/main/README.md"
+readmeUrl: "https://github.com/githits-com/githits-cli/blob/HEAD/README.md"
 githubStars: 73
 githubForks: 0
 githubStatsFetchedAt: "2026-07-30T05:30:58.845Z"

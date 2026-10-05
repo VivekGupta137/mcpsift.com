@@ -10,7 +10,7 @@ owner: "hexastrike"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Hexastrike/EventWhisper"
-readmeUrl: "https://github.com/Hexastrike/EventWhisper/blob/main/README.md"
+readmeUrl: "https://github.com/Hexastrike/EventWhisper/blob/HEAD/README.md"
 githubStars: 37
 githubForks: 0
 githubStatsFetchedAt: "2025-11-05T00:00:40.459Z"

@@ -10,7 +10,7 @@ owner: "arrismo"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/arrismo/kaggle-mcp"
-readmeUrl: "https://github.com/arrismo/kaggle-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/arrismo/kaggle-mcp/blob/HEAD/README.md"
 githubStars: 33
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:46.421Z"

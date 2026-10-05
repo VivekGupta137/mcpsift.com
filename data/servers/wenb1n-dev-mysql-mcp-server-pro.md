@@ -10,7 +10,7 @@ owner: "wenb1n-dev"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/wenb1n-dev/mysql_mcp_server_pro"
-readmeUrl: "https://github.com/wenb1n-dev/mysql_mcp_server_pro/blob/main/README.md"
+readmeUrl: "https://github.com/wenb1n-dev/mysql_mcp_server_pro/blob/HEAD/README.md"
 githubStars: 289
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:52.083Z"

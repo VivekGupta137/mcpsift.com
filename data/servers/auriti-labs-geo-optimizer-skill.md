@@ -10,7 +10,7 @@ owner: "Auriti-Labs"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Auriti-Labs/geo-optimizer-skill"
-readmeUrl: "https://github.com/Auriti-Labs/geo-optimizer-skill/blob/main/README.md"
+readmeUrl: "https://github.com/Auriti-Labs/geo-optimizer-skill/blob/HEAD/README.md"
 githubStars: 463
 githubForks: 0
 githubStatsFetchedAt: "2026-06-11T20:01:33.631Z"

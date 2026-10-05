@@ -10,7 +10,7 @@ owner: "magicuidesign"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/magicuidesign/mcp"
-readmeUrl: "https://github.com/magicuidesign/mcp/blob/main/README.md"
+readmeUrl: "https://github.com/magicuidesign/mcp/blob/HEAD/README.md"
 githubStars: 159
 githubForks: 0
 githubStatsFetchedAt: "2026-01-11T05:30:56.178Z"

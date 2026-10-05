@@ -10,7 +10,7 @@ owner: "TimeCyber"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/TimeCyber/email-mcp"
-readmeUrl: "https://github.com/TimeCyber/email-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/TimeCyber/email-mcp/blob/HEAD/README.md"
 githubStars: 64
 githubForks: 0
 githubStatsFetchedAt: "2026-06-26T04:30:51.432Z"

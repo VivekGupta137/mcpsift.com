@@ -10,7 +10,7 @@ owner: "maxanatsko"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/maxanatsko/pbi-desktop-mcp-public"
-readmeUrl: "https://github.com/maxanatsko/pbi-desktop-mcp-public/blob/main/README.md"
+readmeUrl: "https://github.com/maxanatsko/pbi-desktop-mcp-public/blob/HEAD/README.md"
 githubStars: 169
 githubForks: 0
 githubStatsFetchedAt: "2025-12-12T11:30:33.081Z"

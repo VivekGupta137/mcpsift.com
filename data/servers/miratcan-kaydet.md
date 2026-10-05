@@ -10,7 +10,7 @@ owner: "miratcan"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/miratcan/kaydet"
-readmeUrl: "https://github.com/miratcan/kaydet/blob/main/README.md"
+readmeUrl: "https://github.com/miratcan/kaydet/blob/HEAD/README.md"
 githubStars: 29
 githubForks: 0
 githubStatsFetchedAt: "2026-07-26T19:00:38.430Z"

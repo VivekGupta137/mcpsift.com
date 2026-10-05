@@ -10,7 +10,7 @@ owner: "srbhptl39"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/srbhptl39/MCP-SuperAssistant"
-readmeUrl: "https://github.com/srbhptl39/MCP-SuperAssistant/blob/main/README.md"
+readmeUrl: "https://github.com/srbhptl39/MCP-SuperAssistant/blob/HEAD/README.md"
 githubStars: 2319
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:51.764Z"

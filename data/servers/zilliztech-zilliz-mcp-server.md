@@ -10,7 +10,7 @@ owner: "zilliztech"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/zilliztech/zilliz-mcp-server"
-readmeUrl: "https://github.com/zilliztech/zilliz-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/zilliztech/zilliz-mcp-server/blob/HEAD/README.md"
 githubStars: 32
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:44.402Z"

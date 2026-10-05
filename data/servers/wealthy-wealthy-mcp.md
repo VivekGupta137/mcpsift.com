@@ -10,7 +10,7 @@ owner: "wealthy"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/wealthy/wealthy-mcp"
-readmeUrl: "https://github.com/wealthy/wealthy-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/wealthy/wealthy-mcp/blob/HEAD/README.md"
 githubStars: 27
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:48.473Z"

@@ -10,7 +10,7 @@ owner: "xi-zhao"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/xi-zhao/OpenQuantum"
-readmeUrl: "https://github.com/xi-zhao/OpenQuantum/blob/main/README.md"
+readmeUrl: "https://github.com/xi-zhao/OpenQuantum/blob/HEAD/README.md"
 githubStars: 44
 githubForks: 0
 githubStatsFetchedAt: "2026-08-23T09:00:28.480Z"

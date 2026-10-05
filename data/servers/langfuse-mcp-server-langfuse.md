@@ -10,7 +10,7 @@ owner: "marcklingen"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/langfuse/mcp-server-langfuse"
-readmeUrl: "https://github.com/langfuse/mcp-server-langfuse/blob/main/README.md"
+readmeUrl: "https://github.com/langfuse/mcp-server-langfuse/blob/HEAD/README.md"
 githubStars: 158
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:45.480Z"

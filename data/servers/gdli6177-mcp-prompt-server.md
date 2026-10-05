@@ -10,7 +10,7 @@ owner: "gdli6177"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/gdli6177/mcp-prompt-server"
-readmeUrl: "https://github.com/gdli6177/mcp-prompt-server/blob/main/README.md"
+readmeUrl: "https://github.com/gdli6177/mcp-prompt-server/blob/HEAD/README.md"
 githubStars: 241
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:35.992Z"

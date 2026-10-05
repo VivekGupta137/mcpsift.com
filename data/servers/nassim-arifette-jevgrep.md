@@ -10,7 +10,7 @@ owner: "nassim-arifette"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/nassim-arifette/jevgrep"
-readmeUrl: "https://github.com/nassim-arifette/jevgrep/blob/main/README.md"
+readmeUrl: "https://github.com/nassim-arifette/jevgrep/blob/HEAD/README.md"
 githubStars: 51
 githubForks: 0
 githubStatsFetchedAt: "2026-09-22T19:30:45.753Z"

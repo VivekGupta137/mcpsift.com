@@ -10,7 +10,7 @@ owner: "TencentCloudBase"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/TencentCloudBase/CloudBase-AI-ToolKit"
-readmeUrl: "https://github.com/TencentCloudBase/CloudBase-AI-ToolKit/blob/main/README.md"
+readmeUrl: "https://github.com/TencentCloudBase/CloudBase-AI-ToolKit/blob/HEAD/README.md"
 githubStars: 879
 githubForks: 0
 githubStatsFetchedAt: "2025-12-02T07:01:08.033Z"

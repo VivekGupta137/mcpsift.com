@@ -10,7 +10,7 @@ owner: "hike-lab"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/hike-lab/public-data-lens"
-readmeUrl: "https://github.com/hike-lab/public-data-lens/blob/main/README.md"
+readmeUrl: "https://github.com/hike-lab/public-data-lens/blob/HEAD/README.md"
 githubStars: 81
 githubForks: 0
 githubStatsFetchedAt: "2026-08-24T11:00:49.285Z"

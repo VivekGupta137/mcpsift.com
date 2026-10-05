@@ -10,7 +10,7 @@ owner: "block"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/block/vscode-mcp"
-readmeUrl: "https://github.com/block/vscode-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/block/vscode-mcp/blob/HEAD/README.md"
 githubStars: 75
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:44:56.414Z"

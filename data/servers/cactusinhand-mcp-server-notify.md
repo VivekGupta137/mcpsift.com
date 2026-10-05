@@ -10,7 +10,7 @@ owner: "Cactusinhand"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Cactusinhand/mcp_server_notify"
-readmeUrl: "https://github.com/Cactusinhand/mcp_server_notify/blob/main/README.md"
+readmeUrl: "https://github.com/Cactusinhand/mcp_server_notify/blob/HEAD/README.md"
 githubStars: 50
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:01.617Z"

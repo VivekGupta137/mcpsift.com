@@ -10,7 +10,7 @@ owner: "kvick-games"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/kvick-games/UnrealMCP"
-readmeUrl: "https://github.com/kvick-games/UnrealMCP/blob/main/README.md"
+readmeUrl: "https://github.com/kvick-games/UnrealMCP/blob/HEAD/README.md"
 githubStars: 523
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:42.357Z"

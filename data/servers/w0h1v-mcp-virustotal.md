@@ -10,7 +10,7 @@ owner: "w0h1v"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/w0h1v/mcp-virustotal"
-readmeUrl: "https://github.com/w0h1v/mcp-virustotal/blob/main/README.md"
+readmeUrl: "https://github.com/w0h1v/mcp-virustotal/blob/HEAD/README.md"
 githubStars: 149
 githubForks: 0
 githubStatsFetchedAt: "2026-09-08T18:31:07.658Z"

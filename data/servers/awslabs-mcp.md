@@ -10,7 +10,7 @@ owner: "awslabs"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/awslabs/mcp"
-readmeUrl: "https://github.com/awslabs/mcp/blob/main/README.md"
+readmeUrl: "https://github.com/awslabs/mcp/blob/HEAD/README.md"
 githubStars: 8378
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:44.233Z"

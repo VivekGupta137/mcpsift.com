@@ -10,7 +10,7 @@ owner: "simonutd"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/SimonUTD/AI-Diagram-Prototype-Generator-MCP-Server-"
-readmeUrl: "https://github.com/SimonUTD/AI-Diagram-Prototype-Generator-MCP-Server-/blob/main/README.md"
+readmeUrl: "https://github.com/SimonUTD/AI-Diagram-Prototype-Generator-MCP-Server-/blob/HEAD/README.md"
 githubStars: 59
 githubForks: 0
 githubStatsFetchedAt: "2025-11-10T00:00:39.986Z"

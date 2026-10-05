@@ -10,7 +10,7 @@ owner: "daiemon12"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/daiemon12/catia-v5-mcp-server"
-readmeUrl: "https://github.com/daiemon12/catia-v5-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/daiemon12/catia-v5-mcp-server/blob/HEAD/README.md"
 githubStars: 47
 githubForks: 0
 githubStatsFetchedAt: "2026-07-24T01:52:22.525Z"

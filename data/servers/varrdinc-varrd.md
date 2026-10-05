@@ -10,7 +10,7 @@ owner: "varrdinc"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/varrdinc/varrd"
-readmeUrl: "https://github.com/varrdinc/varrd/blob/main/README.md"
+readmeUrl: "https://github.com/varrdinc/varrd/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2026-08-27T14:30:52.660Z"

@@ -10,7 +10,7 @@ owner: "xing5"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/xing5/mcp-google-sheets"
-readmeUrl: "https://github.com/xing5/mcp-google-sheets/blob/main/README.md"
+readmeUrl: "https://github.com/xing5/mcp-google-sheets/blob/HEAD/README.md"
 githubStars: 724
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:56.943Z"

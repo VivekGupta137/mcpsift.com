@@ -10,7 +10,7 @@ owner: "the-momentum"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/the-momentum/fhir-mcp-server"
-readmeUrl: "https://github.com/the-momentum/fhir-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/the-momentum/fhir-mcp-server/blob/HEAD/README.md"
 githubStars: 66
 githubForks: 0
 githubStatsFetchedAt: "2026-03-09T00:00:41.807Z"

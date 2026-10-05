@@ -10,7 +10,7 @@ owner: "chinawsb"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/chinawsb/daofy"
-readmeUrl: "https://github.com/chinawsb/daofy/blob/main/README.md"
+readmeUrl: "https://github.com/chinawsb/daofy/blob/HEAD/README.md"
 githubStars: 56
 githubForks: 0
 githubStatsFetchedAt: "2026-05-19T03:00:55.182Z"

@@ -10,7 +10,7 @@ owner: "gradusnikov"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/gradusnikov/eclipse-chatgpt-plugin"
-readmeUrl: "https://github.com/gradusnikov/eclipse-chatgpt-plugin/blob/main/README.md"
+readmeUrl: "https://github.com/gradusnikov/eclipse-chatgpt-plugin/blob/HEAD/README.md"
 githubStars: 143
 githubForks: 0
 githubStatsFetchedAt: "2026-04-20T11:01:15.905Z"

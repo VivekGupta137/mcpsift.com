@@ -10,7 +10,7 @@ owner: "samihalawa"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/samihalawa/visual-ui-debug-agent-mcp"
-readmeUrl: "https://github.com/samihalawa/visual-ui-debug-agent-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/samihalawa/visual-ui-debug-agent-mcp/blob/HEAD/README.md"
 githubStars: 80
 githubForks: 0
 githubStatsFetchedAt: "2026-08-10T22:00:57.729Z"

@@ -10,7 +10,7 @@ owner: "FirstOrder.AI"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/firstorderai/authenticator_mcp"
-readmeUrl: "https://github.com/firstorderai/authenticator_mcp/blob/main/README.md"
+readmeUrl: "https://github.com/firstorderai/authenticator_mcp/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:37:18.925Z"

@@ -10,7 +10,7 @@ owner: "doobidoo"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/doobidoo/MCP-Context-Provider"
-readmeUrl: "https://github.com/doobidoo/MCP-Context-Provider/blob/main/README.md"
+readmeUrl: "https://github.com/doobidoo/MCP-Context-Provider/blob/HEAD/README.md"
 githubStars: 28
 githubForks: 0
 githubStatsFetchedAt: "2026-03-26T19:31:32.094Z"

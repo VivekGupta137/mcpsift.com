@@ -10,7 +10,7 @@ owner: "aahl"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/aahl/mcp-aktools"
-readmeUrl: "https://github.com/aahl/mcp-aktools/blob/main/README.md"
+readmeUrl: "https://github.com/aahl/mcp-aktools/blob/HEAD/README.md"
 githubStars: 90
 githubForks: 0
 githubStatsFetchedAt: "2025-10-29T10:55:37.424Z"

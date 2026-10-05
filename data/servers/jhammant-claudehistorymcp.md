@@ -10,7 +10,7 @@ owner: "jhammant"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jhammant/ClaudeHistoryMCP"
-readmeUrl: "https://github.com/jhammant/ClaudeHistoryMCP/blob/main/README.md"
+readmeUrl: "https://github.com/jhammant/ClaudeHistoryMCP/blob/HEAD/README.md"
 githubStars: 66
 githubForks: 0
 githubStatsFetchedAt: "2026-09-20T21:30:45.206Z"

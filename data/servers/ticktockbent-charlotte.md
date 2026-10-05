@@ -10,7 +10,7 @@ owner: "ticktockbent"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/TickTockBent/charlotte"
-readmeUrl: "https://github.com/TickTockBent/charlotte/blob/main/README.md"
+readmeUrl: "https://github.com/TickTockBent/charlotte/blob/HEAD/README.md"
 githubStars: 73
 githubForks: 0
 githubStatsFetchedAt: "2026-03-02T00:30:40.577Z"

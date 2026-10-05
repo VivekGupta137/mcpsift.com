@@ -10,7 +10,7 @@ owner: "ClementRingot"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ClementRingot/ROSA"
-readmeUrl: "https://github.com/ClementRingot/ROSA/blob/main/README.md"
+readmeUrl: "https://github.com/ClementRingot/ROSA/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2026-07-06T08:01:03.795Z"

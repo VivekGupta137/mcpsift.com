@@ -10,7 +10,7 @@ owner: "kirschbaum-development"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/kirschbaum-development/laravel-loop"
-readmeUrl: "https://github.com/kirschbaum-development/laravel-loop/blob/main/README.md"
+readmeUrl: "https://github.com/kirschbaum-development/laravel-loop/blob/HEAD/README.md"
 githubStars: 127
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:01.679Z"

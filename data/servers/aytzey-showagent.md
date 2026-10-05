@@ -10,7 +10,7 @@ owner: "aytzey"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/aytzey/showagent"
-readmeUrl: "https://github.com/aytzey/showagent/blob/main/README.md"
+readmeUrl: "https://github.com/aytzey/showagent/blob/HEAD/README.md"
 githubStars: 48
 githubForks: 0
 githubStatsFetchedAt: "2026-09-07T23:00:45.148Z"

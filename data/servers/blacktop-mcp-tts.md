@@ -10,7 +10,7 @@ owner: "blacktop"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/blacktop/mcp-tts"
-readmeUrl: "https://github.com/blacktop/mcp-tts/blob/main/README.md"
+readmeUrl: "https://github.com/blacktop/mcp-tts/blob/HEAD/README.md"
 githubStars: 50
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:46.638Z"

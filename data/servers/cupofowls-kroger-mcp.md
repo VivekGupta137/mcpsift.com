@@ -10,7 +10,7 @@ owner: "CupOfOwls"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/CupOfOwls/kroger-mcp"
-readmeUrl: "https://github.com/CupOfOwls/kroger-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/CupOfOwls/kroger-mcp/blob/HEAD/README.md"
 githubStars: 47
 githubForks: 0
 githubStatsFetchedAt: "2026-01-10T15:32:14.033Z"

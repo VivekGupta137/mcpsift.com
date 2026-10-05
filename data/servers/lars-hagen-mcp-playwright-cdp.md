@@ -10,7 +10,7 @@ owner: "lars-hagen"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/lars-hagen/mcp-playwright-cdp"
-readmeUrl: "https://github.com/lars-hagen/mcp-playwright-cdp/blob/main/README.md"
+readmeUrl: "https://github.com/lars-hagen/mcp-playwright-cdp/blob/HEAD/README.md"
 githubStars: 51
 githubForks: 0
 githubStatsFetchedAt: "2026-07-29T05:00:51.864Z"

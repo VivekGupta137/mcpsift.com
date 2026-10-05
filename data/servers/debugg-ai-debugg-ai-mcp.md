@@ -10,7 +10,7 @@ owner: "debugg-ai"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/debugg-ai/debugg-ai-mcp"
-readmeUrl: "https://github.com/debugg-ai/debugg-ai-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/debugg-ai/debugg-ai-mcp/blob/HEAD/README.md"
 githubStars: 41
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:09.598Z"

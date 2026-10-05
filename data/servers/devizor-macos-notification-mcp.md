@@ -10,7 +10,7 @@ owner: "devizor"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/devizor/macOS-Notification-MCP"
-readmeUrl: "https://github.com/devizor/macOS-Notification-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/devizor/macOS-Notification-MCP/blob/HEAD/README.md"
 githubStars: 34
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:20.811Z"

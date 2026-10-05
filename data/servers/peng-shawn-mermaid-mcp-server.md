@@ -10,7 +10,7 @@ owner: "peng-shawn"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/peng-shawn/mermaid-mcp-server"
-readmeUrl: "https://github.com/peng-shawn/mermaid-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/peng-shawn/mermaid-mcp-server/blob/HEAD/README.md"
 githubStars: 223
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:28.847Z"

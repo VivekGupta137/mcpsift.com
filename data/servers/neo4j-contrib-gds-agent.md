@@ -10,7 +10,7 @@ owner: "neo4j-contrib"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/neo4j-contrib/gds-agent"
-readmeUrl: "https://github.com/neo4j-contrib/gds-agent/blob/main/README.md"
+readmeUrl: "https://github.com/neo4j-contrib/gds-agent/blob/HEAD/README.md"
 githubStars: 77
 githubForks: 0
 githubStatsFetchedAt: "2026-04-14T13:31:28.972Z"

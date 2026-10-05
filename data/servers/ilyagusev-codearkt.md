@@ -10,7 +10,7 @@ owner: "IlyaGusev"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/IlyaGusev/codearkt"
-readmeUrl: "https://github.com/IlyaGusev/codearkt/blob/main/README.md"
+readmeUrl: "https://github.com/IlyaGusev/codearkt/blob/HEAD/README.md"
 githubStars: 39
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:21.700Z"

@@ -10,7 +10,7 @@ owner: "daekeun-ml"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/daekeun-ml/ppt-translator"
-readmeUrl: "https://github.com/daekeun-ml/ppt-translator/blob/main/README.md"
+readmeUrl: "https://github.com/daekeun-ml/ppt-translator/blob/HEAD/README.md"
 githubStars: 52
 githubForks: 0
 githubStatsFetchedAt: "2026-03-10T00:00:50.885Z"

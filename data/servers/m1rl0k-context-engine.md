@@ -10,7 +10,7 @@ owner: "m1rl0k"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Context-Engine-AI/Context-Engine/tree/test"
-readmeUrl: "https://github.com/Context-Engine-AI/Context-Engine/blob/main/README.md"
+readmeUrl: "https://github.com/Context-Engine-AI/Context-Engine/blob/HEAD/README.md"
 githubStars: 276
 githubForks: 0
 githubStatsFetchedAt: "2026-01-23T02:30:38.035Z"

@@ -10,7 +10,7 @@ owner: "mixelpixx"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mixelpixx/KiCAD-MCP-Server"
-readmeUrl: "https://github.com/mixelpixx/KiCAD-MCP-Server/blob/main/README.md"
+readmeUrl: "https://github.com/mixelpixx/KiCAD-MCP-Server/blob/HEAD/README.md"
 githubStars: 1109
 githubForks: 0
 githubStatsFetchedAt: "2026-05-30T13:41:54.153Z"

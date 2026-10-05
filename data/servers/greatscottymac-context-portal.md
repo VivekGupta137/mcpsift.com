@@ -10,7 +10,7 @@ owner: "GreatScottyMac"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/GreatScottyMac/context-portal"
-readmeUrl: "https://github.com/GreatScottyMac/context-portal/blob/main/README.md"
+readmeUrl: "https://github.com/GreatScottyMac/context-portal/blob/HEAD/README.md"
 githubStars: 752
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:51.376Z"

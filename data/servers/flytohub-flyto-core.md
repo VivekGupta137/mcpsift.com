@@ -10,7 +10,7 @@ owner: "flytohub"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/flytohub/flyto-core"
-readmeUrl: "https://github.com/flytohub/flyto-core/blob/main/README.md"
+readmeUrl: "https://github.com/flytohub/flyto-core/blob/HEAD/README.md"
 githubStars: 263
 githubForks: 0
 githubStatsFetchedAt: "2026-03-30T10:31:20.319Z"

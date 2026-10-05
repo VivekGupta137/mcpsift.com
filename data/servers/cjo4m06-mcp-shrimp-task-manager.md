@@ -10,7 +10,7 @@ owner: "cjo4m06"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/cjo4m06/mcp-shrimp-task-manager"
-readmeUrl: "https://github.com/cjo4m06/mcp-shrimp-task-manager/blob/main/README.md"
+readmeUrl: "https://github.com/cjo4m06/mcp-shrimp-task-manager/blob/HEAD/README.md"
 githubStars: 958
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:44:49.806Z"

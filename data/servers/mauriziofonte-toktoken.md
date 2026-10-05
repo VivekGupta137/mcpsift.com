@@ -10,7 +10,7 @@ owner: "mauriziofonte"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mauriziofonte/toktoken"
-readmeUrl: "https://github.com/mauriziofonte/toktoken/blob/main/README.md"
+readmeUrl: "https://github.com/mauriziofonte/toktoken/blob/HEAD/README.md"
 githubStars: 46
 githubForks: 0
 githubStatsFetchedAt: "2026-03-26T13:01:21.011Z"

@@ -10,7 +10,7 @@ owner: "JoeBuildsStuff"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/JoeBuildsStuff/mcp-jina-ai"
-readmeUrl: "https://github.com/JoeBuildsStuff/mcp-jina-ai/blob/main/README.md"
+readmeUrl: "https://github.com/JoeBuildsStuff/mcp-jina-ai/blob/HEAD/README.md"
 githubStars: 29
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:00.341Z"

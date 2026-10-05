@@ -10,7 +10,7 @@ owner: "squirrelscan"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/squirrelscan/squirrelscan"
-readmeUrl: "https://github.com/squirrelscan/squirrelscan/blob/main/README.md"
+readmeUrl: "https://github.com/squirrelscan/squirrelscan/blob/HEAD/README.md"
 githubStars: 244
 githubForks: 0
 githubStatsFetchedAt: "2026-07-20T05:24:07.188Z"

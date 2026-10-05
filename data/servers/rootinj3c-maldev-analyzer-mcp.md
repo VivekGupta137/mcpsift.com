@@ -10,7 +10,7 @@ owner: "RootInj3c"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/RootInj3c/MalDev-Analyzer-MCP"
-readmeUrl: "https://github.com/RootInj3c/MalDev-Analyzer-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/RootInj3c/MalDev-Analyzer-MCP/blob/HEAD/README.md"
 githubStars: 38
 githubForks: 0
 githubStatsFetchedAt: "2025-11-18T00:00:37.531Z"

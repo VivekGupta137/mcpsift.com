@@ -10,7 +10,7 @@ owner: "elevanaltd"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/elevanaltd/octave-mcp"
-readmeUrl: "https://github.com/elevanaltd/octave-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/elevanaltd/octave-mcp/blob/HEAD/README.md"
 githubStars: 44
 githubForks: 0
 githubStatsFetchedAt: "2026-03-26T08:31:12.527Z"

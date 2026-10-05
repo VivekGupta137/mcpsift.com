@@ -10,7 +10,7 @@ owner: "shinpr"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/shinpr/mcp-image"
-readmeUrl: "https://github.com/shinpr/mcp-image/blob/main/README.md"
+readmeUrl: "https://github.com/shinpr/mcp-image/blob/HEAD/README.md"
 githubStars: 92
 githubForks: 0
 githubStatsFetchedAt: "2026-03-26T14:03:02.256Z"

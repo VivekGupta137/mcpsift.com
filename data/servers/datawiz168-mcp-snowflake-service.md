@@ -10,7 +10,7 @@ owner: "datawiz168"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/datawiz168/mcp-snowflake-service"
-readmeUrl: "https://github.com/datawiz168/mcp-snowflake-service/blob/main/README.md"
+readmeUrl: "https://github.com/datawiz168/mcp-snowflake-service/blob/HEAD/README.md"
 githubStars: 44
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:54.126Z"

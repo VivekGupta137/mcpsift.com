@@ -10,7 +10,7 @@ owner: "JackKuo666"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/JackKuo666/semanticscholar-MCP-Server"
-readmeUrl: "https://github.com/JackKuo666/semanticscholar-MCP-Server/blob/main/README.md"
+readmeUrl: "https://github.com/JackKuo666/semanticscholar-MCP-Server/blob/HEAD/README.md"
 githubStars: 53
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:12.128Z"

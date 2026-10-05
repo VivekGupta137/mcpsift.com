@@ -10,7 +10,7 @@ owner: "CodeAlive-AI"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/CodeAlive-AI/codealive-mcp"
-readmeUrl: "https://github.com/CodeAlive-AI/codealive-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/CodeAlive-AI/codealive-mcp/blob/HEAD/README.md"
 githubStars: 75
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:51.800Z"

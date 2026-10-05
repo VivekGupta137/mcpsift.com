@@ -10,7 +10,7 @@ owner: "MorDavid"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/MorDavid/BloodHound-MCP-AI"
-readmeUrl: "https://github.com/MorDavid/BloodHound-MCP-AI/blob/main/README.md"
+readmeUrl: "https://github.com/MorDavid/BloodHound-MCP-AI/blob/HEAD/README.md"
 githubStars: 340
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:39.511Z"

@@ -10,7 +10,7 @@ owner: "context-hub"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/context-hub/generator"
-readmeUrl: "https://github.com/context-hub/generator/blob/main/README.md"
+readmeUrl: "https://github.com/context-hub/generator/blob/HEAD/README.md"
 githubStars: 304
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:41.808Z"

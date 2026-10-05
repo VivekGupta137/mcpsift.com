@@ -10,7 +10,7 @@ owner: "LancerComet"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/LancerComet/cities-skylines-2-mcp"
-readmeUrl: "https://github.com/LancerComet/cities-skylines-2-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/LancerComet/cities-skylines-2-mcp/blob/HEAD/README.md"
 githubStars: 32
 githubForks: 0
 githubStatsFetchedAt: "2026-09-27T19:00:37.252Z"

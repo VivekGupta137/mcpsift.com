@@ -10,7 +10,7 @@ owner: "PV-Bhat"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/PV-Bhat/vibe-check-mcp-server"
-readmeUrl: "https://github.com/PV-Bhat/vibe-check-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/PV-Bhat/vibe-check-mcp-server/blob/HEAD/README.md"
 githubStars: 480
 githubForks: 0
 githubStatsFetchedAt: "2026-03-30T17:31:20.614Z"

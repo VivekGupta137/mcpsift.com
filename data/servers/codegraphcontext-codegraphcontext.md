@@ -10,7 +10,7 @@ owner: "CodeGraphContext"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/CodeGraphContext/CodeGraphContext"
-readmeUrl: "https://github.com/CodeGraphContext/CodeGraphContext/blob/main/README.md"
+readmeUrl: "https://github.com/CodeGraphContext/CodeGraphContext/blob/HEAD/README.md"
 githubStars: 2594
 githubForks: 0
 githubStatsFetchedAt: "2026-03-24T21:02:15.839Z"

@@ -10,7 +10,7 @@ owner: "choihyunsus"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/choihyunsus/soul"
-readmeUrl: "https://github.com/choihyunsus/soul/blob/main/README.md"
+readmeUrl: "https://github.com/choihyunsus/soul/blob/HEAD/README.md"
 githubStars: 58
 githubForks: 0
 githubStatsFetchedAt: "2026-03-26T03:01:13.395Z"

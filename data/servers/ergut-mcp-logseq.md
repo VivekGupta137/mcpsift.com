@@ -10,7 +10,7 @@ owner: "ergut"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ergut/mcp-logseq"
-readmeUrl: "https://github.com/ergut/mcp-logseq/blob/main/README.md"
+readmeUrl: "https://github.com/ergut/mcp-logseq/blob/HEAD/README.md"
 githubStars: 138
 githubForks: 0
 githubStatsFetchedAt: "2025-11-07T00:00:35.339Z"

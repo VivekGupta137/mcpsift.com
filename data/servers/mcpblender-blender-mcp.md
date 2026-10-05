@@ -10,7 +10,7 @@ owner: "mcpblender"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/MCPBlender/blender-mcp"
-readmeUrl: "https://github.com/MCPBlender/blender-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/MCPBlender/blender-mcp/blob/HEAD/README.md"
 githubStars: 25623
 githubForks: 0
 githubStatsFetchedAt: "2026-08-08T12:30:32.833Z"

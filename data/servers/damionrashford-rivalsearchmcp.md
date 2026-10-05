@@ -10,7 +10,7 @@ owner: "damionrashford"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/damionrashford/RivalSearchMCP"
-readmeUrl: "https://github.com/damionrashford/RivalSearchMCP/blob/main/README.md"
+readmeUrl: "https://github.com/damionrashford/RivalSearchMCP/blob/HEAD/README.md"
 githubStars: 71
 githubForks: 0
 githubStatsFetchedAt: "2026-04-17T04:02:44.781Z"

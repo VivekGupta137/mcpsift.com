@@ -10,7 +10,7 @@ owner: "run-llama"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/run-llama/mcp-nextjs"
-readmeUrl: "https://github.com/run-llama/mcp-nextjs/blob/main/README.md"
+readmeUrl: "https://github.com/run-llama/mcp-nextjs/blob/HEAD/README.md"
 githubStars: 85
 githubForks: 0
 githubStatsFetchedAt: "2026-03-09T00:00:37.696Z"

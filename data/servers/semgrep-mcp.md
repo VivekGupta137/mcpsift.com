@@ -10,7 +10,7 @@ owner: "semgrep"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/semgrep/mcp"
-readmeUrl: "https://github.com/semgrep/mcp/blob/main/README.md"
+readmeUrl: "https://github.com/semgrep/mcp/blob/HEAD/README.md"
 githubStars: 637
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:42.593Z"

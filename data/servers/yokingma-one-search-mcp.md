@@ -10,7 +10,7 @@ owner: "yokingma"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/yokingma/one-search-mcp"
-readmeUrl: "https://github.com/yokingma/one-search-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/yokingma/one-search-mcp/blob/HEAD/README.md"
 githubStars: 33
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:37:17.026Z"

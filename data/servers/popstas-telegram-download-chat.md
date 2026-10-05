@@ -10,7 +10,7 @@ owner: "popstas"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/popstas/telegram-download-chat"
-readmeUrl: "https://github.com/popstas/telegram-download-chat/blob/main/README.md"
+readmeUrl: "https://github.com/popstas/telegram-download-chat/blob/HEAD/README.md"
 githubStars: 182
 githubForks: 0
 githubStatsFetchedAt: "2026-07-26T21:00:32.180Z"

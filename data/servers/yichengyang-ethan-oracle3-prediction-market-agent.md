@@ -10,7 +10,7 @@ owner: "YichengYang-Ethan"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/YichengYang-Ethan/oracle3-prediction-market-agent"
-readmeUrl: "https://github.com/YichengYang-Ethan/oracle3-prediction-market-agent/blob/main/README.md"
+readmeUrl: "https://github.com/YichengYang-Ethan/oracle3-prediction-market-agent/blob/HEAD/README.md"
 githubStars: 258
 githubForks: 0
 githubStatsFetchedAt: "2026-09-29T22:00:53.896Z"

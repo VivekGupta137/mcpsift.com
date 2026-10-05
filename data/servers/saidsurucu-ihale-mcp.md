@@ -10,7 +10,7 @@ owner: "saidsurucu"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/saidsurucu/ihale-mcp"
-readmeUrl: "https://github.com/saidsurucu/ihale-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/saidsurucu/ihale-mcp/blob/HEAD/README.md"
 githubStars: 49
 githubForks: 0
 githubStatsFetchedAt: "2025-11-18T00:00:41.377Z"

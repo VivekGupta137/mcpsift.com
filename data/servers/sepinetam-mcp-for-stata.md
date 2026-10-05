@@ -10,7 +10,7 @@ owner: "SepineTam"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/SepineTam/mcp-for-stata"
-readmeUrl: "https://github.com/SepineTam/mcp-for-stata/blob/main/README.md"
+readmeUrl: "https://github.com/SepineTam/mcp-for-stata/blob/HEAD/README.md"
 githubStars: 171
 githubForks: 0
 githubStatsFetchedAt: "2026-05-22T11:30:58.954Z"

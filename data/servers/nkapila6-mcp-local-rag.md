@@ -10,7 +10,7 @@ owner: "Nikhil Kapila"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/nkapila6/mcp-local-rag"
-readmeUrl: "https://github.com/nkapila6/mcp-local-rag/blob/main/README.md"
+readmeUrl: "https://github.com/nkapila6/mcp-local-rag/blob/HEAD/README.md"
 githubStars: 116
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:52.656Z"

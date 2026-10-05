@@ -10,7 +10,7 @@ owner: "0ximu"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/0ximu/mu/tree/develop"
-readmeUrl: "https://github.com/0ximu/mu/blob/main/README.md"
+readmeUrl: "https://github.com/0ximu/mu/blob/HEAD/README.md"
 githubStars: 63
 githubForks: 0
 githubStatsFetchedAt: "2026-07-09T12:00:57.247Z"

@@ -10,7 +10,7 @@ owner: "browsermcp"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/david-strejc/browsermcp-enhanced"
-readmeUrl: "https://github.com/david-strejc/browsermcp-enhanced/blob/main/README.md"
+readmeUrl: "https://github.com/david-strejc/browsermcp-enhanced/blob/HEAD/README.md"
 githubStars: 39
 githubForks: 0
 githubStatsFetchedAt: "2026-03-10T00:00:36.750Z"

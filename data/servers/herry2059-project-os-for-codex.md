@@ -10,7 +10,7 @@ owner: "herry2059"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/herry2059/project-os-for-codex"
-readmeUrl: "https://github.com/herry2059/project-os-for-codex/blob/main/README.md"
+readmeUrl: "https://github.com/herry2059/project-os-for-codex/blob/HEAD/README.md"
 githubStars: 83
 githubForks: 0
 githubStatsFetchedAt: "2026-07-13T19:01:12.672Z"

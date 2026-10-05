@@ -10,7 +10,7 @@ owner: "Enderfga"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Enderfga/claw-orchestrator"
-readmeUrl: "https://github.com/Enderfga/claw-orchestrator/blob/main/README.md"
+readmeUrl: "https://github.com/Enderfga/claw-orchestrator/blob/HEAD/README.md"
 githubStars: 548
 githubForks: 0
 githubStatsFetchedAt: "2026-08-18T04:30:48.752Z"

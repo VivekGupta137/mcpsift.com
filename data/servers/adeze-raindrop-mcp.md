@@ -10,7 +10,7 @@ owner: "adeze"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/adeze/raindrop-mcp"
-readmeUrl: "https://github.com/adeze/raindrop-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/adeze/raindrop-mcp/blob/HEAD/README.md"
 githubStars: 172
 githubForks: 0
 githubStatsFetchedAt: "2026-07-23T03:01:17.648Z"

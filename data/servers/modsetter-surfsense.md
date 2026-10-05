@@ -10,7 +10,7 @@ owner: "modsetter"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/MODSetter/SurfSense"
-readmeUrl: "https://github.com/MODSetter/SurfSense/blob/main/README.md"
+readmeUrl: "https://github.com/MODSetter/SurfSense/blob/HEAD/README.md"
 githubStars: 15272
 githubForks: 0
 githubStatsFetchedAt: "2026-07-18T03:00:41.107Z"

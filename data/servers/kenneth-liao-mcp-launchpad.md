@@ -10,7 +10,7 @@ owner: "kenneth-liao"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/kenneth-liao/mcp-launchpad"
-readmeUrl: "https://github.com/kenneth-liao/mcp-launchpad/blob/main/README.md"
+readmeUrl: "https://github.com/kenneth-liao/mcp-launchpad/blob/HEAD/README.md"
 githubStars: 208
 githubForks: 0
 githubStatsFetchedAt: "2026-06-14T03:30:30.048Z"

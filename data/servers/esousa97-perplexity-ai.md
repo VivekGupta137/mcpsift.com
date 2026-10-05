@@ -10,7 +10,7 @@ owner: "ESousa97"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/escapeWu/perplexity-ai"
-readmeUrl: "https://github.com/escapeWu/perplexity-ai/blob/main/README.md"
+readmeUrl: "https://github.com/escapeWu/perplexity-ai/blob/HEAD/README.md"
 githubStars: 143
 githubForks: 0
 githubStatsFetchedAt: "2026-07-29T01:30:51.289Z"

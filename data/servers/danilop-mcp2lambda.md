@@ -10,7 +10,7 @@ owner: "danilop"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/danilop/MCP2Lambda"
-readmeUrl: "https://github.com/danilop/MCP2Lambda/blob/main/README.md"
+readmeUrl: "https://github.com/danilop/MCP2Lambda/blob/HEAD/README.md"
 githubStars: 111
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:52.879Z"

@@ -10,7 +10,7 @@ owner: "sirkirby"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/sirkirby/unifi-mcp"
-readmeUrl: "https://github.com/sirkirby/unifi-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/sirkirby/unifi-mcp/blob/HEAD/README.md"
 githubStars: 213
 githubForks: 0
 githubStatsFetchedAt: "2026-03-24T18:32:22.446Z"

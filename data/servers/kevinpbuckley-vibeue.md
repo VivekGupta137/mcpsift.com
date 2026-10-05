@@ -10,7 +10,7 @@ owner: "kevinpbuckley"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/kevinpbuckley/VibeUE"
-readmeUrl: "https://github.com/kevinpbuckley/VibeUE/blob/main/README.md"
+readmeUrl: "https://github.com/kevinpbuckley/VibeUE/blob/HEAD/README.md"
 githubStars: 89
 githubForks: 0
 githubStatsFetchedAt: "2026-03-26T23:07:44.815Z"

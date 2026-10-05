@@ -10,7 +10,7 @@ owner: "hetaoBackend"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/hetaoBackend/mcp-github-trending"
-readmeUrl: "https://github.com/hetaoBackend/mcp-github-trending/blob/main/README.md"
+readmeUrl: "https://github.com/hetaoBackend/mcp-github-trending/blob/HEAD/README.md"
 githubStars: 44
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:46.123Z"

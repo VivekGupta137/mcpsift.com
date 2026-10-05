@@ -10,7 +10,7 @@ owner: "Suge8"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Suge8/bao"
-readmeUrl: "https://github.com/Suge8/bao/blob/main/README.md"
+readmeUrl: "https://github.com/Suge8/bao/blob/HEAD/README.md"
 githubStars: 37
 githubForks: 0
 githubStatsFetchedAt: "2026-03-02T00:00:40.304Z"

@@ -10,7 +10,7 @@ owner: "GalaxyXieyu"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/GalaxyXieyu/Api-Test-MCP"
-readmeUrl: "https://github.com/GalaxyXieyu/Api-Test-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/GalaxyXieyu/Api-Test-MCP/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2026-04-19T01:31:16.781Z"

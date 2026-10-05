@@ -10,7 +10,7 @@ owner: "marketcaper"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/marketcaper/mcp"
-readmeUrl: "https://github.com/marketcaper/mcp/blob/main/README.md"
+readmeUrl: "https://github.com/marketcaper/mcp/blob/HEAD/README.md"
 githubStars: 55
 githubForks: 0
 githubStatsFetchedAt: "2026-07-17T15:30:57.800Z"

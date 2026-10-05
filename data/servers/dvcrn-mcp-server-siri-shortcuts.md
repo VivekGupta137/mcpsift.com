@@ -10,7 +10,7 @@ owner: "dvcrn"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/dvcrn/mcp-server-siri-shortcuts"
-readmeUrl: "https://github.com/dvcrn/mcp-server-siri-shortcuts/blob/main/README.md"
+readmeUrl: "https://github.com/dvcrn/mcp-server-siri-shortcuts/blob/HEAD/README.md"
 githubStars: 161
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:11.453Z"

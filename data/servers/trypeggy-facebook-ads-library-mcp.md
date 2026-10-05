@@ -10,7 +10,7 @@ owner: "trypeggy"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/trypeggy/facebook-ads-library-mcp"
-readmeUrl: "https://github.com/trypeggy/facebook-ads-library-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/trypeggy/facebook-ads-library-mcp/blob/HEAD/README.md"
 githubStars: 189
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:50.498Z"

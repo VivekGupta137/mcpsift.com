@@ -10,7 +10,7 @@ owner: "naxg"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/NAXG/ThreatMCP"
-readmeUrl: "https://github.com/NAXG/ThreatMCP/blob/main/README.md"
+readmeUrl: "https://github.com/NAXG/ThreatMCP/blob/HEAD/README.md"
 githubStars: 34
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:51.450Z"

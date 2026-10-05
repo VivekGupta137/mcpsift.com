@@ -10,7 +10,7 @@ owner: "edwinbernadus"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/edwinbernadus/nocodb-mcp-server"
-readmeUrl: "https://github.com/edwinbernadus/nocodb-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/edwinbernadus/nocodb-mcp-server/blob/HEAD/README.md"
 githubStars: 70
 githubForks: 0
 githubStatsFetchedAt: "2026-05-25T11:19:13.488Z"

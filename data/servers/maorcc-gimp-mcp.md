@@ -10,7 +10,7 @@ owner: "maorcc"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/maorcc/gimp-mcp"
-readmeUrl: "https://github.com/maorcc/gimp-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/maorcc/gimp-mcp/blob/HEAD/README.md"
 githubStars: 72
 githubForks: 0
 githubStatsFetchedAt: "2026-04-16T12:31:37.705Z"

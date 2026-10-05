@@ -10,7 +10,7 @@ owner: "BIGPPWONG"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/BIGPPWONG/EdgeBox"
-readmeUrl: "https://github.com/BIGPPWONG/EdgeBox/blob/main/README.md"
+readmeUrl: "https://github.com/BIGPPWONG/EdgeBox/blob/HEAD/README.md"
 githubStars: 155
 githubForks: 0
 githubStatsFetchedAt: "2025-11-01T00:00:32.840Z"

@@ -10,7 +10,7 @@ owner: "Lyellr88"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Lyellr88/marm-memory/tree/MARM-main"
-readmeUrl: "https://github.com/Lyellr88/marm-memory/blob/main/README.md"
+readmeUrl: "https://github.com/Lyellr88/marm-memory/blob/HEAD/README.md"
 githubStars: 321
 githubForks: 0
 githubStatsFetchedAt: "2026-07-30T11:52:06.970Z"

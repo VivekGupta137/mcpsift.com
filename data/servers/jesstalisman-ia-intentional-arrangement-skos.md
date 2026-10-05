@@ -10,7 +10,7 @@ owner: "jesstalisman-ia"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jesstalisman-ia/intentional-arrangement-skos"
-readmeUrl: "https://github.com/jesstalisman-ia/intentional-arrangement-skos/blob/main/README.md"
+readmeUrl: "https://github.com/jesstalisman-ia/intentional-arrangement-skos/blob/HEAD/README.md"
 githubStars: 38
 githubForks: 0
 githubStatsFetchedAt: "2026-08-19T01:30:46.605Z"

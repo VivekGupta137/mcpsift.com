@@ -10,7 +10,7 @@ owner: "aiteks-ltda"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/aiteks-ltda/mcp-evolution-whatsapp-api"
-readmeUrl: "https://github.com/aiteks-ltda/mcp-evolution-whatsapp-api/blob/main/README.md"
+readmeUrl: "https://github.com/aiteks-ltda/mcp-evolution-whatsapp-api/blob/HEAD/README.md"
 githubStars: 25
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:09.681Z"

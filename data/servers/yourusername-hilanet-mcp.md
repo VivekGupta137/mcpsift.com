@@ -10,7 +10,7 @@ owner: "yourusername"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/AdirD/hilanet-mcp"
-readmeUrl: "https://github.com/AdirD/hilanet-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/AdirD/hilanet-mcp/blob/HEAD/README.md"
 githubStars: 36
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:07.534Z"

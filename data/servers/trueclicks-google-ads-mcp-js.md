@@ -10,7 +10,7 @@ owner: "TrueClicks"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/TrueClicks/google-ads-mcp-js"
-readmeUrl: "https://github.com/TrueClicks/google-ads-mcp-js/blob/main/README.md"
+readmeUrl: "https://github.com/TrueClicks/google-ads-mcp-js/blob/HEAD/README.md"
 githubStars: 39
 githubForks: 0
 githubStatsFetchedAt: "2026-01-07T09:30:46.635Z"

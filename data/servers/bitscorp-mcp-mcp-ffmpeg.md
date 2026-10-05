@@ -10,7 +10,7 @@ owner: "bitscorp-mcp"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/bitscorp-mcp/mcp-ffmpeg"
-readmeUrl: "https://github.com/bitscorp-mcp/mcp-ffmpeg/blob/main/README.md"
+readmeUrl: "https://github.com/bitscorp-mcp/mcp-ffmpeg/blob/HEAD/README.md"
 githubStars: 47
 githubForks: 0
 githubStatsFetchedAt: "2026-02-22T22:00:50.999Z"

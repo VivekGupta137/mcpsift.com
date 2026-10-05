@@ -10,7 +10,7 @@ owner: "mosif16"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mosif16/index-mcp/tree/Rust-rewrite"
-readmeUrl: "https://github.com/mosif16/index-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/mosif16/index-mcp/blob/HEAD/README.md"
 githubStars: 25
 githubForks: 0
 githubStatsFetchedAt: "2025-10-31T00:00:54.601Z"

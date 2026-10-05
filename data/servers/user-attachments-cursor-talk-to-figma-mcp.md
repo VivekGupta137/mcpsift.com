@@ -10,7 +10,7 @@ owner: "user-attachments"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp"
-readmeUrl: "https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp/blob/HEAD/README.md"
 githubStars: 6430
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:43.427Z"

@@ -10,7 +10,7 @@ owner: "EnesCinr"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/EnesCinr/twitter-mcp"
-readmeUrl: "https://github.com/EnesCinr/twitter-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/EnesCinr/twitter-mcp/blob/HEAD/README.md"
 githubStars: 367
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:13.951Z"

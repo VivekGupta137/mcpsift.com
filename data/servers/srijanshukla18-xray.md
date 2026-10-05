@@ -10,7 +10,7 @@ owner: "srijanshukla18"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/srijanshukla18/xray"
-readmeUrl: "https://github.com/srijanshukla18/xray/blob/main/README.md"
+readmeUrl: "https://github.com/srijanshukla18/xray/blob/HEAD/README.md"
 githubStars: 39
 githubForks: 0
 githubStatsFetchedAt: "2025-11-30T00:01:31.960Z"

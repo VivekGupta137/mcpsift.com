@@ -10,7 +10,7 @@ owner: "kill136"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/kill136/claude-code-open"
-readmeUrl: "https://github.com/kill136/claude-code-open/blob/main/README.md"
+readmeUrl: "https://github.com/kill136/claude-code-open/blob/HEAD/README.md"
 githubStars: 122
 githubForks: 0
 githubStatsFetchedAt: "2026-02-22T09:30:37.876Z"

@@ -10,7 +10,7 @@ owner: "shaike1"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/shaike1/mcp-server-ssh"
-readmeUrl: "https://github.com/shaike1/mcp-server-ssh/blob/main/README.md"
+readmeUrl: "https://github.com/shaike1/mcp-server-ssh/blob/HEAD/README.md"
 githubStars: 55
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:50.546Z"

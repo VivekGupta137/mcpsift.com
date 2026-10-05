@@ -10,7 +10,7 @@ owner: "mitulgarg"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mitulgarg/env-doctor"
-readmeUrl: "https://github.com/mitulgarg/env-doctor/blob/main/README.md"
+readmeUrl: "https://github.com/mitulgarg/env-doctor/blob/HEAD/README.md"
 githubStars: 104
 githubForks: 0
 githubStatsFetchedAt: "2026-02-17T19:00:38.697Z"

@@ -10,7 +10,7 @@ owner: "coinbase"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/coinbase/payments-mcp"
-readmeUrl: "https://github.com/coinbase/payments-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/coinbase/payments-mcp/blob/HEAD/README.md"
 githubStars: 28
 githubForks: 0
 githubStatsFetchedAt: "2025-10-31T00:01:03.721Z"

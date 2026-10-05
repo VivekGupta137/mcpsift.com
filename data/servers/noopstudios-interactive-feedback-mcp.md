@@ -10,7 +10,7 @@ owner: "noopstudios"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/noopstudios/interactive-feedback-mcp"
-readmeUrl: "https://github.com/noopstudios/interactive-feedback-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/noopstudios/interactive-feedback-mcp/blob/HEAD/README.md"
 githubStars: 1686
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:46.317Z"

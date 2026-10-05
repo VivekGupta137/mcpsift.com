@@ -10,7 +10,7 @@ owner: "BingoWon"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/BingoWon/apple-rag-mcp"
-readmeUrl: "https://github.com/BingoWon/apple-rag-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/BingoWon/apple-rag-mcp/blob/HEAD/README.md"
 githubStars: 112
 githubForks: 0
 githubStatsFetchedAt: "2026-03-25T03:01:34.721Z"

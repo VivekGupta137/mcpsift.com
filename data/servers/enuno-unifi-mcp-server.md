@@ -10,7 +10,7 @@ owner: "enuno"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/enuno/unifi-mcp-server"
-readmeUrl: "https://github.com/enuno/unifi-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/enuno/unifi-mcp-server/blob/HEAD/README.md"
 githubStars: 93
 githubForks: 0
 githubStatsFetchedAt: "2026-04-09T19:31:13.649Z"

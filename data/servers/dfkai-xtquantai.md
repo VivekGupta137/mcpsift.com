@@ -10,7 +10,7 @@ owner: "dfkai"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/dfkai/xtquantai"
-readmeUrl: "https://github.com/dfkai/xtquantai/blob/main/README.md"
+readmeUrl: "https://github.com/dfkai/xtquantai/blob/HEAD/README.md"
 githubStars: 118
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:46.118Z"

@@ -10,7 +10,7 @@ owner: "executeautomation"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/executeautomation/mcp-database-server"
-readmeUrl: "https://github.com/executeautomation/mcp-database-server/blob/main/README.md"
+readmeUrl: "https://github.com/executeautomation/mcp-database-server/blob/HEAD/README.md"
 githubStars: 315
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:24.306Z"

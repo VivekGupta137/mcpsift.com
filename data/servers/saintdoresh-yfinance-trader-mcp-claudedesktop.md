@@ -10,7 +10,7 @@ owner: "saintdoresh"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/SaintDoresh/YFinance-Trader-MCP-ClaudeDesktop"
-readmeUrl: "https://github.com/SaintDoresh/YFinance-Trader-MCP-ClaudeDesktop/blob/main/README.md"
+readmeUrl: "https://github.com/SaintDoresh/YFinance-Trader-MCP-ClaudeDesktop/blob/HEAD/README.md"
 githubStars: 28
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:43.141Z"

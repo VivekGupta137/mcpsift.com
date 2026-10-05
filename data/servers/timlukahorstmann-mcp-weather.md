@@ -10,7 +10,7 @@ owner: "TimLukaHorstmann"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/TimLukaHorstmann/mcp-weather"
-readmeUrl: "https://github.com/TimLukaHorstmann/mcp-weather/blob/main/README.md"
+readmeUrl: "https://github.com/TimLukaHorstmann/mcp-weather/blob/HEAD/README.md"
 githubStars: 31
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:41.196Z"

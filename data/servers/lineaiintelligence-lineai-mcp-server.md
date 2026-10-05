@@ -10,7 +10,7 @@ owner: "lineai-intelligence"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/lineai-intelligence/lineai-mcp-server"
-readmeUrl: "https://github.com/lineai-intelligence/lineai-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/lineai-intelligence/lineai-mcp-server/blob/HEAD/README.md"
 githubStars: 38
 githubForks: 0
 githubStatsFetchedAt: "2026-08-06T18:00:55.755Z"

@@ -10,7 +10,7 @@ owner: "arnaldo-delisio"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/arnaldo-delisio/readwise-mcp-enhanced"
-readmeUrl: "https://github.com/arnaldo-delisio/readwise-mcp-enhanced/blob/main/README.md"
+readmeUrl: "https://github.com/arnaldo-delisio/readwise-mcp-enhanced/blob/HEAD/README.md"
 githubStars: 31
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:37:07.354Z"

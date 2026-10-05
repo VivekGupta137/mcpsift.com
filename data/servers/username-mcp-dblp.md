@@ -10,7 +10,7 @@ owner: "username"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/szeider/mcp-dblp"
-readmeUrl: "https://github.com/szeider/mcp-dblp/blob/main/README.md"
+readmeUrl: "https://github.com/szeider/mcp-dblp/blob/HEAD/README.md"
 githubStars: 25
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:33.080Z"

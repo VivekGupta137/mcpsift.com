@@ -10,7 +10,7 @@ owner: "Goldziher"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Goldziher/spikard"
-readmeUrl: "https://github.com/Goldziher/spikard/blob/main/README.md"
+readmeUrl: "https://github.com/Goldziher/spikard/blob/HEAD/README.md"
 githubStars: 115
 githubForks: 0
 githubStatsFetchedAt: "2026-08-06T09:31:21.080Z"

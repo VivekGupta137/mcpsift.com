@@ -10,7 +10,7 @@ owner: "fradser"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/FradSer/mcp-server-apple-events"
-readmeUrl: "https://github.com/FradSer/mcp-server-apple-events/blob/main/README.md"
+readmeUrl: "https://github.com/FradSer/mcp-server-apple-events/blob/HEAD/README.md"
 githubStars: 129
 githubForks: 0
 githubStatsFetchedAt: "2025-11-14T18:00:59.582Z"

@@ -10,7 +10,7 @@ owner: "boyter"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/boyter/cs"
-readmeUrl: "https://github.com/boyter/cs/blob/main/README.md"
+readmeUrl: "https://github.com/boyter/cs/blob/HEAD/README.md"
 githubStars: 914
 githubForks: 0
 githubStatsFetchedAt: "2026-04-07T01:01:11.767Z"

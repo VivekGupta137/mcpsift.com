@@ -10,7 +10,7 @@ owner: "Xuanwo"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Xuanwo/mcp-server-opendal"
-readmeUrl: "https://github.com/Xuanwo/mcp-server-opendal/blob/main/README.md"
+readmeUrl: "https://github.com/Xuanwo/mcp-server-opendal/blob/HEAD/README.md"
 githubStars: 34
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:04.520Z"

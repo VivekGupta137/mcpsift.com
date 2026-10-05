@@ -10,7 +10,7 @@ owner: "vibheksoni"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/vibheksoni/stealth-browser-mcp"
-readmeUrl: "https://github.com/vibheksoni/stealth-browser-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/vibheksoni/stealth-browser-mcp/blob/HEAD/README.md"
 githubStars: 90
 githubForks: 0
 githubStatsFetchedAt: "2025-11-18T00:00:47.962Z"

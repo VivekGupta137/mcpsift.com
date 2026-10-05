@@ -10,7 +10,7 @@ owner: "stass"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/stass/exif-mcp"
-readmeUrl: "https://github.com/stass/exif-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/stass/exif-mcp/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2025-11-14T06:00:31.876Z"

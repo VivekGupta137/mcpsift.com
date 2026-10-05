@@ -10,7 +10,7 @@ owner: "locomotive-agency"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/locomotive-agency/mcp-anywhere"
-readmeUrl: "https://github.com/locomotive-agency/mcp-anywhere/blob/main/README.md"
+readmeUrl: "https://github.com/locomotive-agency/mcp-anywhere/blob/HEAD/README.md"
 githubStars: 40
 githubForks: 0
 githubStatsFetchedAt: "2026-04-17T12:02:39.032Z"

@@ -10,7 +10,7 @@ owner: "jlowin"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jlowin/fastmcp"
-readmeUrl: "https://github.com/jlowin/fastmcp/blob/main/README.md"
+readmeUrl: "https://github.com/jlowin/fastmcp/blob/HEAD/README.md"
 githubStars: 12553
 githubForks: 0
 githubStatsFetchedAt: "2026-03-19T00:01:03.119Z"

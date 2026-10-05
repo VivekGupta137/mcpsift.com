@@ -10,7 +10,7 @@ owner: "freema"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/freema/mcp-design-system-extractor"
-readmeUrl: "https://github.com/freema/mcp-design-system-extractor/blob/main/README.md"
+readmeUrl: "https://github.com/freema/mcp-design-system-extractor/blob/HEAD/README.md"
 githubStars: 69
 githubForks: 0
 githubStatsFetchedAt: "2026-07-27T16:00:41.738Z"

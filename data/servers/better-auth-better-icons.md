@@ -10,7 +10,7 @@ owner: "better-auth"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/better-auth/better-icons"
-readmeUrl: "https://github.com/better-auth/better-icons/blob/main/README.md"
+readmeUrl: "https://github.com/better-auth/better-icons/blob/HEAD/README.md"
 githubStars: 865
 githubForks: 0
 githubStatsFetchedAt: "2026-04-02T16:01:51.593Z"

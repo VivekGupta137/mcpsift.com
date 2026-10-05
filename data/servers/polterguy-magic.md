@@ -10,7 +10,7 @@ owner: "polterguy"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/polterguy/magic"
-readmeUrl: "https://github.com/polterguy/magic/blob/main/README.md"
+readmeUrl: "https://github.com/polterguy/magic/blob/HEAD/README.md"
 githubStars: 1158
 githubForks: 0
 githubStatsFetchedAt: "2026-08-01T14:01:11.514Z"

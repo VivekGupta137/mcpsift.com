@@ -10,7 +10,7 @@ owner: "twolven"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/twolven/mcp-stockscreen"
-readmeUrl: "https://github.com/twolven/mcp-stockscreen/blob/main/README.md"
+readmeUrl: "https://github.com/twolven/mcp-stockscreen/blob/HEAD/README.md"
 githubStars: 32
 githubForks: 0
 githubStatsFetchedAt: "2025-10-31T00:00:50.157Z"

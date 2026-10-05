@@ -10,7 +10,7 @@ owner: "aantti"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/aantti/mcp-netbird"
-readmeUrl: "https://github.com/aantti/mcp-netbird/blob/main/README.md"
+readmeUrl: "https://github.com/aantti/mcp-netbird/blob/HEAD/README.md"
 githubStars: 42
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:03.765Z"

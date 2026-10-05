@@ -10,7 +10,7 @@ owner: "jae-jae"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jae-jae/g-search-mcp"
-readmeUrl: "https://github.com/jae-jae/g-search-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/jae-jae/g-search-mcp/blob/HEAD/README.md"
 githubStars: 216
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:06.784Z"

@@ -10,7 +10,7 @@ owner: "LeandroPG19"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/LeandroPG19/Memorys"
-readmeUrl: "https://github.com/LeandroPG19/Memorys/blob/main/README.md"
+readmeUrl: "https://github.com/LeandroPG19/Memorys/blob/HEAD/README.md"
 githubStars: 28
 githubForks: 0
 githubStatsFetchedAt: "2026-09-11T16:00:53.537Z"

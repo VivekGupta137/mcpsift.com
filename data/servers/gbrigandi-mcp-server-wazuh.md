@@ -10,7 +10,7 @@ owner: "gbrigandi"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/gbrigandi/mcp-server-wazuh"
-readmeUrl: "https://github.com/gbrigandi/mcp-server-wazuh/blob/main/README.md"
+readmeUrl: "https://github.com/gbrigandi/mcp-server-wazuh/blob/HEAD/README.md"
 githubStars: 182
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:00.302Z"

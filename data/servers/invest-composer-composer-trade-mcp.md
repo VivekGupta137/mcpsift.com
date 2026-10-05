@@ -10,7 +10,7 @@ owner: "invest-composer"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/invest-composer/composer-trade-mcp"
-readmeUrl: "https://github.com/invest-composer/composer-trade-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/invest-composer/composer-trade-mcp/blob/HEAD/README.md"
 githubStars: 220
 githubForks: 0
 githubStatsFetchedAt: "2026-03-09T00:00:42.762Z"

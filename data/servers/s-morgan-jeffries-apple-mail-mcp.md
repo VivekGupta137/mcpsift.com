@@ -10,7 +10,7 @@ owner: "s-morgan-jeffries"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/s-morgan-jeffries/apple-mail-mcp"
-readmeUrl: "https://github.com/s-morgan-jeffries/apple-mail-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/s-morgan-jeffries/apple-mail-mcp/blob/HEAD/README.md"
 githubStars: 38
 githubForks: 0
 githubStatsFetchedAt: "2026-04-09T06:32:22.462Z"

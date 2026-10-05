@@ -10,7 +10,7 @@ owner: "ghchen99"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ghchen99/mcp-musescore"
-readmeUrl: "https://github.com/ghchen99/mcp-musescore/blob/main/README.md"
+readmeUrl: "https://github.com/ghchen99/mcp-musescore/blob/HEAD/README.md"
 githubStars: 40
 githubForks: 0
 githubStatsFetchedAt: "2026-04-23T19:32:18.180Z"

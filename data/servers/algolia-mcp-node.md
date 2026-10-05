@@ -10,7 +10,7 @@ owner: "algolia"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/algolia/mcp-node"
-readmeUrl: "https://github.com/algolia/mcp-node/blob/main/README.md"
+readmeUrl: "https://github.com/algolia/mcp-node/blob/HEAD/README.md"
 githubStars: 82
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:48.946Z"

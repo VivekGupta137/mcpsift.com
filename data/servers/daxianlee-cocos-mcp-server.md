@@ -10,7 +10,7 @@ owner: "daxianlee"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/DaxianLee/cocos-mcp-server"
-readmeUrl: "https://github.com/DaxianLee/cocos-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/DaxianLee/cocos-mcp-server/blob/HEAD/README.md"
 githubStars: 550
 githubForks: 0
 githubStatsFetchedAt: "2026-03-10T00:00:39.605Z"

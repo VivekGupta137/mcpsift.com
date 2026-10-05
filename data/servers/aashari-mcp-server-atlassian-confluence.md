@@ -10,7 +10,7 @@ owner: "aashari"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/aashari/mcp-server-atlassian-confluence"
-readmeUrl: "https://github.com/aashari/mcp-server-atlassian-confluence/blob/main/README.md"
+readmeUrl: "https://github.com/aashari/mcp-server-atlassian-confluence/blob/HEAD/README.md"
 githubStars: 36
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:44:56.983Z"

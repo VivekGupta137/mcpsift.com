@@ -10,7 +10,7 @@ owner: "punkpeye"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/punkpeye/mcp-remote"
-readmeUrl: "https://github.com/punkpeye/mcp-remote/blob/main/README.md"
+readmeUrl: "https://github.com/punkpeye/mcp-remote/blob/HEAD/README.md"
 githubStars: 1559
 githubForks: 0
 githubStatsFetchedAt: "2026-08-26T02:30:52.604Z"

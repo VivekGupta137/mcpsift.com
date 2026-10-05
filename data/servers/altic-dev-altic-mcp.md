@@ -10,7 +10,7 @@ owner: "altic-dev"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/altic-dev/altic-mcp"
-readmeUrl: "https://github.com/altic-dev/altic-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/altic-dev/altic-mcp/blob/HEAD/README.md"
 githubStars: 35
 githubForks: 0
 githubStatsFetchedAt: "2026-03-20T06:00:48.871Z"

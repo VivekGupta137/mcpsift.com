@@ -10,7 +10,7 @@ owner: "Shashankss1205"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Shashankss1205/CodeGraphContext"
-readmeUrl: "https://github.com/Shashankss1205/CodeGraphContext/blob/main/README.md"
+readmeUrl: "https://github.com/Shashankss1205/CodeGraphContext/blob/HEAD/README.md"
 githubStars: 193
 githubForks: 0
 githubStatsFetchedAt: "2025-10-30T00:00:47.026Z"

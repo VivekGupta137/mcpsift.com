@@ -10,7 +10,7 @@ owner: "cyanheads"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/cyanheads/clinicaltrialsgov-mcp-server"
-readmeUrl: "https://github.com/cyanheads/clinicaltrialsgov-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/cyanheads/clinicaltrialsgov-mcp-server/blob/HEAD/README.md"
 githubStars: 30
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:07.548Z"

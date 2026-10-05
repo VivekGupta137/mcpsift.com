@@ -10,7 +10,7 @@ owner: "youdotcom-oss"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/youdotcom-oss/mcp"
-readmeUrl: "https://github.com/youdotcom-oss/mcp/blob/main/README.md"
+readmeUrl: "https://github.com/youdotcom-oss/mcp/blob/HEAD/README.md"
 githubStars: 25
 githubForks: 0
 githubStatsFetchedAt: "2026-09-11T14:00:44.696Z"

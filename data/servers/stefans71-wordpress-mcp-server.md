@@ -10,7 +10,7 @@ owner: "stefans71"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/stefans71/wordpress-mcp-server"
-readmeUrl: "https://github.com/stefans71/wordpress-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/stefans71/wordpress-mcp-server/blob/HEAD/README.md"
 githubStars: 76
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:49.793Z"

@@ -10,7 +10,7 @@ owner: "MistEO"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/MaaXYZ/MaaMCP"
-readmeUrl: "https://github.com/MaaXYZ/MaaMCP/blob/main/README.md"
+readmeUrl: "https://github.com/MaaXYZ/MaaMCP/blob/HEAD/README.md"
 githubStars: 78
 githubForks: 0
 githubStatsFetchedAt: "2025-12-12T06:30:43.836Z"

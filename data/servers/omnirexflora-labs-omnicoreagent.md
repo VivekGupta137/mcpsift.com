@@ -10,7 +10,7 @@ owner: "omnirexflora-labs"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/omnirexflora-labs/omnicoreagent"
-readmeUrl: "https://github.com/omnirexflora-labs/omnicoreagent/blob/main/README.md"
+readmeUrl: "https://github.com/omnirexflora-labs/omnicoreagent/blob/HEAD/README.md"
 githubStars: 192
 githubForks: 0
 githubStatsFetchedAt: "2025-11-09T15:00:32.028Z"

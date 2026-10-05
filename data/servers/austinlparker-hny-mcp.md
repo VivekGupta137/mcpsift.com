@@ -10,7 +10,7 @@ owner: "austinlparker"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/austinlparker/hny-mcp"
-readmeUrl: "https://github.com/austinlparker/hny-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/austinlparker/hny-mcp/blob/HEAD/README.md"
 githubStars: 41
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:00.951Z"

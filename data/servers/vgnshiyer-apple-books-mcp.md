@@ -10,7 +10,7 @@ owner: "vgnshiyer"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/vgnshiyer/apple-books-mcp"
-readmeUrl: "https://github.com/vgnshiyer/apple-books-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/vgnshiyer/apple-books-mcp/blob/HEAD/README.md"
 githubStars: 40
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:40.041Z"

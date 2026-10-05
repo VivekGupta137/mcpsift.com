@@ -10,7 +10,7 @@ owner: "jaenster"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jaenster/puppeteer-mcp-claude"
-readmeUrl: "https://github.com/jaenster/puppeteer-mcp-claude/blob/main/README.md"
+readmeUrl: "https://github.com/jaenster/puppeteer-mcp-claude/blob/HEAD/README.md"
 githubStars: 31
 githubForks: 0
 githubStatsFetchedAt: "2026-03-10T00:01:01.104Z"

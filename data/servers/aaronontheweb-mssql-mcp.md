@@ -10,7 +10,7 @@ owner: "Aaronontheweb"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Aaronontheweb/mssql-mcp/tree/dev"
-readmeUrl: "https://github.com/Aaronontheweb/mssql-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/Aaronontheweb/mssql-mcp/blob/HEAD/README.md"
 githubStars: 142
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:44.560Z"

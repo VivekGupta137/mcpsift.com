@@ -10,7 +10,7 @@ owner: "Astrix-Labs"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Astrix-Labs/papez"
-readmeUrl: "https://github.com/Astrix-Labs/papez/blob/main/README.md"
+readmeUrl: "https://github.com/Astrix-Labs/papez/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2026-09-06T06:00:38.591Z"

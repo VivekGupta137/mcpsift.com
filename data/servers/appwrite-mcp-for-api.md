@@ -10,7 +10,7 @@ owner: "appwrite"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/appwrite/mcp-for-api"
-readmeUrl: "https://github.com/appwrite/mcp-for-api/blob/main/README.md"
+readmeUrl: "https://github.com/appwrite/mcp-for-api/blob/HEAD/README.md"
 githubStars: 58
 githubForks: 0
 githubStatsFetchedAt: "2025-10-31T00:00:53.972Z"

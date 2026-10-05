@@ -10,7 +10,7 @@ owner: "Zacarx"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Zacarx/JavaSinkTracer_MCP"
-readmeUrl: "https://github.com/Zacarx/JavaSinkTracer_MCP/blob/main/README.md"
+readmeUrl: "https://github.com/Zacarx/JavaSinkTracer_MCP/blob/HEAD/README.md"
 githubStars: 60
 githubForks: 0
 githubStatsFetchedAt: "2025-10-30T00:00:48.249Z"

@@ -10,7 +10,7 @@ owner: "ravenwits"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ravenwits/mcp-server-arangodb"
-readmeUrl: "https://github.com/ravenwits/mcp-server-arangodb/blob/main/README.md"
+readmeUrl: "https://github.com/ravenwits/mcp-server-arangodb/blob/HEAD/README.md"
 githubStars: 43
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:11.169Z"

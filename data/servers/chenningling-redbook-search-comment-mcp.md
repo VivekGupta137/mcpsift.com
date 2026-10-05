@@ -10,7 +10,7 @@ owner: "chenningling"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/chenningling/RedBook-Search-Comment-MCP"
-readmeUrl: "https://github.com/chenningling/RedBook-Search-Comment-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/chenningling/RedBook-Search-Comment-MCP/blob/HEAD/README.md"
 githubStars: 40
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:02.165Z"

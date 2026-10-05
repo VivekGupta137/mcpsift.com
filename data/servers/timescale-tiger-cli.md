@@ -10,7 +10,7 @@ owner: "timescale"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/timescale/tiger-cli"
-readmeUrl: "https://github.com/timescale/tiger-cli/blob/main/README.md"
+readmeUrl: "https://github.com/timescale/tiger-cli/blob/HEAD/README.md"
 githubStars: 28
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:44:53.351Z"

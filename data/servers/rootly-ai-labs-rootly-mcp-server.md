@@ -10,7 +10,7 @@ owner: "Rootly-AI-Labs"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Rootly-AI-Labs/Rootly-MCP-server"
-readmeUrl: "https://github.com/Rootly-AI-Labs/Rootly-MCP-server/blob/main/README.md"
+readmeUrl: "https://github.com/Rootly-AI-Labs/Rootly-MCP-server/blob/HEAD/README.md"
 githubStars: 40
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:04.715Z"

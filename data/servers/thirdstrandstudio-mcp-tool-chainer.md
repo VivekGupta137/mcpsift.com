@@ -10,7 +10,7 @@ owner: "thirdstrandstudio"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/thirdstrandstudio/mcp-tool-chainer"
-readmeUrl: "https://github.com/thirdstrandstudio/mcp-tool-chainer/blob/main/README.md"
+readmeUrl: "https://github.com/thirdstrandstudio/mcp-tool-chainer/blob/HEAD/README.md"
 githubStars: 56
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:07.588Z"

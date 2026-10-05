@@ -10,7 +10,7 @@ owner: "ttiimmaacc"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ttiimmaacc/cinema4d-mcp"
-readmeUrl: "https://github.com/ttiimmaacc/cinema4d-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/ttiimmaacc/cinema4d-mcp/blob/HEAD/README.md"
 githubStars: 50
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:53.906Z"

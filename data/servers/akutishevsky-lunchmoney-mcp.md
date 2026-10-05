@@ -10,7 +10,7 @@ owner: "akutishevsky"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/akutishevsky/lunchmoney-mcp"
-readmeUrl: "https://github.com/akutishevsky/lunchmoney-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/akutishevsky/lunchmoney-mcp/blob/HEAD/README.md"
 githubStars: 49
 githubForks: 0
 githubStatsFetchedAt: "2026-03-12T00:00:59.680Z"

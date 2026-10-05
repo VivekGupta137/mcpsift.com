@@ -10,7 +10,7 @@ owner: "swgee"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/swgee/BurpMCP"
-readmeUrl: "https://github.com/swgee/BurpMCP/blob/main/README.md"
+readmeUrl: "https://github.com/swgee/BurpMCP/blob/HEAD/README.md"
 githubStars: 25
 githubForks: 0
 githubStatsFetchedAt: "2025-11-06T00:01:00.043Z"

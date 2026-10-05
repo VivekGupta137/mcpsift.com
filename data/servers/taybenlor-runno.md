@@ -10,7 +10,7 @@ owner: "taybenlor"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/taybenlor/runno"
-readmeUrl: "https://github.com/taybenlor/runno/blob/main/README.md"
+readmeUrl: "https://github.com/taybenlor/runno/blob/HEAD/README.md"
 githubStars: 738
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:37:04.674Z"

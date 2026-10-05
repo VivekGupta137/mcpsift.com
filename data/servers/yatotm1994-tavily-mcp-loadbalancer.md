@@ -10,7 +10,7 @@ owner: "yatotm1994"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/yatotm/tavily-mcp-loadbalancer"
-readmeUrl: "https://github.com/yatotm/tavily-mcp-loadbalancer/blob/main/README.md"
+readmeUrl: "https://github.com/yatotm/tavily-mcp-loadbalancer/blob/HEAD/README.md"
 githubStars: 65
 githubForks: 0
 githubStatsFetchedAt: "2026-06-11T11:01:05.586Z"

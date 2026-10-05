@@ -10,7 +10,7 @@ owner: "drAbreu"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/drAbreu/alex-mcp"
-readmeUrl: "https://github.com/drAbreu/alex-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/drAbreu/alex-mcp/blob/HEAD/README.md"
 githubStars: 34
 githubForks: 0
 githubStatsFetchedAt: "2026-03-09T00:00:42.713Z"

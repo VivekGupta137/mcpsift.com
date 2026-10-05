@@ -10,7 +10,7 @@ owner: "GongRzhe"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/GongRzhe/MCP-Server-Creator"
-readmeUrl: "https://github.com/GongRzhe/MCP-Server-Creator/blob/main/README.md"
+readmeUrl: "https://github.com/GongRzhe/MCP-Server-Creator/blob/HEAD/README.md"
 githubStars: 39
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:11.769Z"

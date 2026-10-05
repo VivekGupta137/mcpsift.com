@@ -10,7 +10,7 @@ owner: "jfrog"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jfrog/mcp-jfrog"
-readmeUrl: "https://github.com/jfrog/mcp-jfrog/blob/main/README.md"
+readmeUrl: "https://github.com/jfrog/mcp-jfrog/blob/HEAD/README.md"
 githubStars: 112
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:53.121Z"

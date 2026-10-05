@@ -10,7 +10,7 @@ owner: "Google LLC"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/GoogleCloudPlatform/gemini-cloud-assist-mcp"
-readmeUrl: "https://github.com/GoogleCloudPlatform/gemini-cloud-assist-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/GoogleCloudPlatform/gemini-cloud-assist-mcp/blob/HEAD/README.md"
 githubStars: 27
 githubForks: 0
 githubStatsFetchedAt: "2025-11-02T00:00:58.893Z"

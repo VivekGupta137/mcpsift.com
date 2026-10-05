@@ -10,7 +10,7 @@ owner: "os-factory"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/os-factory/har"
-readmeUrl: "https://github.com/os-factory/har/blob/main/README.md"
+readmeUrl: "https://github.com/os-factory/har/blob/HEAD/README.md"
 githubStars: 76
 githubForks: 0
 githubStatsFetchedAt: "2026-08-21T12:30:50.840Z"

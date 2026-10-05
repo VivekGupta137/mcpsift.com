@@ -10,7 +10,7 @@ owner: "allvoicelab"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/allvoicelab/AllVoiceLab-MCP"
-readmeUrl: "https://github.com/allvoicelab/AllVoiceLab-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/allvoicelab/AllVoiceLab-MCP/blob/HEAD/README.md"
 githubStars: 56
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:43.915Z"

@@ -10,7 +10,7 @@ owner: "ocm-mcp-server"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ocm-mcp-server/ocm-mcp-server"
-readmeUrl: "https://github.com/ocm-mcp-server/ocm-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/ocm-mcp-server/ocm-mcp-server/blob/HEAD/README.md"
 githubStars: 44
 githubForks: 0
 githubStatsFetchedAt: "2026-08-29T07:00:34.438Z"

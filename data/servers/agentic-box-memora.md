@@ -10,7 +10,7 @@ owner: "agentic-box"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/agentic-box/memora"
-readmeUrl: "https://github.com/agentic-box/memora/blob/main/README.md"
+readmeUrl: "https://github.com/agentic-box/memora/blob/HEAD/README.md"
 githubStars: 322
 githubForks: 0
 githubStatsFetchedAt: "2026-03-18T10:31:17.061Z"

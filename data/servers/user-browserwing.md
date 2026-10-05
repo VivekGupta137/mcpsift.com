@@ -10,7 +10,7 @@ owner: "user"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/browserwing/browserwing"
-readmeUrl: "https://github.com/browserwing/browserwing/blob/main/README.md"
+readmeUrl: "https://github.com/browserwing/browserwing/blob/HEAD/README.md"
 githubStars: 1210
 githubForks: 0
 githubStatsFetchedAt: "2026-04-14T23:00:53.698Z"

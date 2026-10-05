@@ -10,7 +10,7 @@ owner: "Coff0xc"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Coff0xc/AutoRedTeam-Orchestrator"
-readmeUrl: "https://github.com/Coff0xc/AutoRedTeam-Orchestrator/blob/main/README.md"
+readmeUrl: "https://github.com/Coff0xc/AutoRedTeam-Orchestrator/blob/HEAD/README.md"
 githubStars: 27
 githubForks: 0
 githubStatsFetchedAt: "2026-01-05T18:31:07.749Z"

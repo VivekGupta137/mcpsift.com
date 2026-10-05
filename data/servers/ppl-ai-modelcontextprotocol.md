@@ -10,7 +10,7 @@ owner: "ppl-ai"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ppl-ai/modelcontextprotocol"
-readmeUrl: "https://github.com/ppl-ai/modelcontextprotocol/blob/main/README.md"
+readmeUrl: "https://github.com/ppl-ai/modelcontextprotocol/blob/HEAD/README.md"
 githubStars: 1186
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:02.161Z"

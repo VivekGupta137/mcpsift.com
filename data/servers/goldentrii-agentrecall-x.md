@@ -10,7 +10,7 @@ owner: "Goldentrii"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Goldentrii/AgentRecall-X"
-readmeUrl: "https://github.com/Goldentrii/AgentRecall-X/blob/main/README.md"
+readmeUrl: "https://github.com/Goldentrii/AgentRecall-X/blob/HEAD/README.md"
 githubStars: 312
 githubForks: 0
 githubStatsFetchedAt: "2026-07-27T06:30:52.055Z"

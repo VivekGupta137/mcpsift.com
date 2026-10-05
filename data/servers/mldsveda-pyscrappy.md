@@ -10,7 +10,7 @@ owner: "mldsveda"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mldsveda/PyScrappy"
-readmeUrl: "https://github.com/mldsveda/PyScrappy/blob/main/README.md"
+readmeUrl: "https://github.com/mldsveda/PyScrappy/blob/HEAD/README.md"
 githubStars: 90
 githubForks: 0
 githubStatsFetchedAt: "2026-07-26T16:30:51.166Z"

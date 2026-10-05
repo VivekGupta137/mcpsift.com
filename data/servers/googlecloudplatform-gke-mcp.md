@@ -10,7 +10,7 @@ owner: "GoogleCloudPlatform"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/GoogleCloudPlatform/gke-mcp"
-readmeUrl: "https://github.com/GoogleCloudPlatform/gke-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/GoogleCloudPlatform/gke-mcp/blob/HEAD/README.md"
 githubStars: 136
 githubForks: 0
 githubStatsFetchedAt: "2026-03-31T15:02:06.717Z"

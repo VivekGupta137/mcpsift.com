@@ -10,7 +10,7 @@ owner: "Michael-Obele"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Michael-Obele/shadcn-svelte-mcp"
-readmeUrl: "https://github.com/Michael-Obele/shadcn-svelte-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/Michael-Obele/shadcn-svelte-mcp/blob/HEAD/README.md"
 githubStars: 41
 githubForks: 0
 githubStatsFetchedAt: "2026-03-28T06:31:13.208Z"

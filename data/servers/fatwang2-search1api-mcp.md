@@ -10,7 +10,7 @@ owner: "Search1API"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/fatwang2/search1api-mcp"
-readmeUrl: "https://github.com/fatwang2/search1api-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/fatwang2/search1api-mcp/blob/HEAD/README.md"
 githubStars: 173
 githubForks: 0
 githubStatsFetchedAt: "2026-08-28T02:10:34.977Z"

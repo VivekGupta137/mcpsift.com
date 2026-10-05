@@ -10,7 +10,7 @@ owner: "nirholas"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/nirholas/XActions"
-readmeUrl: "https://github.com/nirholas/XActions/blob/main/README.md"
+readmeUrl: "https://github.com/nirholas/XActions/blob/HEAD/README.md"
 githubStars: 49
 githubForks: 0
 githubStatsFetchedAt: "2026-01-01T07:00:29.345Z"

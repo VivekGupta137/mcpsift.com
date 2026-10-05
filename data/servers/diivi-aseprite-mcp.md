@@ -10,7 +10,7 @@ owner: "diivi"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/diivi/aseprite-mcp"
-readmeUrl: "https://github.com/diivi/aseprite-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/diivi/aseprite-mcp/blob/HEAD/README.md"
 githubStars: 94
 githubForks: 0
 githubStatsFetchedAt: "2025-11-04T00:00:52.820Z"

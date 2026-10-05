@@ -10,7 +10,7 @@ owner: "swax"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/swax/UnityMCP-VRC"
-readmeUrl: "https://github.com/swax/UnityMCP-VRC/blob/main/README.md"
+readmeUrl: "https://github.com/swax/UnityMCP-VRC/blob/HEAD/README.md"
 githubStars: 44
 githubForks: 0
 githubStatsFetchedAt: "2026-05-29T07:00:46.574Z"

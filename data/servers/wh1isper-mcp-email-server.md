@@ -10,7 +10,7 @@ owner: "wh1isper"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Wh1isper/mcp-email-server"
-readmeUrl: "https://github.com/Wh1isper/mcp-email-server/blob/main/README.md"
+readmeUrl: "https://github.com/Wh1isper/mcp-email-server/blob/HEAD/README.md"
 githubStars: 282
 githubForks: 0
 githubStatsFetchedAt: "2026-07-16T06:01:23.813Z"

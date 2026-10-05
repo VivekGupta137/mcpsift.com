@@ -10,7 +10,7 @@ owner: "flexpa"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/flexpa/mcp-fhir"
-readmeUrl: "https://github.com/flexpa/mcp-fhir/blob/main/README.md"
+readmeUrl: "https://github.com/flexpa/mcp-fhir/blob/HEAD/README.md"
 githubStars: 65
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:54.069Z"

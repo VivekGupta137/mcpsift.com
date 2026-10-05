@@ -10,7 +10,7 @@ owner: "publora"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/publora/skills"
-readmeUrl: "https://github.com/publora/skills/blob/main/README.md"
+readmeUrl: "https://github.com/publora/skills/blob/HEAD/README.md"
 githubStars: 46
 githubForks: 0
 githubStatsFetchedAt: "2026-09-08T01:30:37.602Z"

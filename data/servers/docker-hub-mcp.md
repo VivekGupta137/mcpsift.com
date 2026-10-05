@@ -10,7 +10,7 @@ owner: "docker"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/docker/hub-mcp"
-readmeUrl: "https://github.com/docker/hub-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/docker/hub-mcp/blob/HEAD/README.md"
 githubStars: 129
 githubForks: 0
 githubStatsFetchedAt: "2026-03-09T00:00:43.410Z"

@@ -10,7 +10,7 @@ owner: "signerlabs"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/signerlabs/ShipSwift"
-readmeUrl: "https://github.com/signerlabs/ShipSwift/blob/main/README.md"
+readmeUrl: "https://github.com/signerlabs/ShipSwift/blob/HEAD/README.md"
 githubStars: 52
 githubForks: 0
 githubStatsFetchedAt: "2026-02-15T01:00:49.734Z"

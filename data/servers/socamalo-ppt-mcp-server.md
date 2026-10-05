@@ -10,7 +10,7 @@ owner: "socamalo"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/socamalo/PPT_MCP_Server"
-readmeUrl: "https://github.com/socamalo/PPT_MCP_Server/blob/main/README.md"
+readmeUrl: "https://github.com/socamalo/PPT_MCP_Server/blob/HEAD/README.md"
 githubStars: 35
 githubForks: 0
 githubStatsFetchedAt: "2025-11-01T00:00:38.817Z"

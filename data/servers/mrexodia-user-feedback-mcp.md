@@ -10,7 +10,7 @@ owner: "mrexodia"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mrexodia/user-feedback-mcp"
-readmeUrl: "https://github.com/mrexodia/user-feedback-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/mrexodia/user-feedback-mcp/blob/HEAD/README.md"
 githubStars: 53
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:00.328Z"

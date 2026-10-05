@@ -10,7 +10,7 @@ owner: "ojuschugh1"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ojuschugh1/sqz"
-readmeUrl: "https://github.com/ojuschugh1/sqz/blob/main/README.md"
+readmeUrl: "https://github.com/ojuschugh1/sqz/blob/HEAD/README.md"
 githubStars: 627
 githubForks: 0
 githubStatsFetchedAt: "2026-09-22T17:00:46.157Z"

@@ -10,7 +10,7 @@ owner: "Kyze-Labs"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Kyze-Labs/damn-vulnerable-MCP-Server"
-readmeUrl: "https://github.com/Kyze-Labs/damn-vulnerable-MCP-Server/blob/main/README.md"
+readmeUrl: "https://github.com/Kyze-Labs/damn-vulnerable-MCP-Server/blob/HEAD/README.md"
 githubStars: 65
 githubForks: 0
 githubStatsFetchedAt: "2026-04-01T18:02:01.415Z"

@@ -10,7 +10,7 @@ owner: "adsmcp"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/AdsMCP/tiktok-ads-mcp-server"
-readmeUrl: "https://github.com/AdsMCP/tiktok-ads-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/AdsMCP/tiktok-ads-mcp-server/blob/HEAD/README.md"
 githubStars: 37
 githubForks: 0
 githubStatsFetchedAt: "2026-06-21T02:00:49.643Z"

@@ -10,7 +10,7 @@ owner: "boxlite-labs"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/boxlite-ai/boxlite-mcp"
-readmeUrl: "https://github.com/boxlite-ai/boxlite-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/boxlite-ai/boxlite-mcp/blob/HEAD/README.md"
 githubStars: 35
 githubForks: 0
 githubStatsFetchedAt: "2026-02-09T08:00:38.327Z"

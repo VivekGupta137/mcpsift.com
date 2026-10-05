@@ -10,7 +10,7 @@ owner: "perplexityai"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/perplexityai/modelcontextprotocol"
-readmeUrl: "https://github.com/perplexityai/modelcontextprotocol/blob/main/README.md"
+readmeUrl: "https://github.com/perplexityai/modelcontextprotocol/blob/HEAD/README.md"
 githubStars: 1760
 githubForks: 0
 githubStatsFetchedAt: "2025-11-09T15:42:36.690Z"

@@ -10,7 +10,7 @@ owner: "Augmented Nature"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Augmented-Nature/AlphaFold-MCP-Server"
-readmeUrl: "https://github.com/Augmented-Nature/AlphaFold-MCP-Server/blob/main/README.md"
+readmeUrl: "https://github.com/Augmented-Nature/AlphaFold-MCP-Server/blob/HEAD/README.md"
 githubStars: 31
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:54.994Z"

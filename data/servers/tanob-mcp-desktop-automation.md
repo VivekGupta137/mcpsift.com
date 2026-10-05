@@ -10,7 +10,7 @@ owner: "tanob"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/tanob/mcp-desktop-automation"
-readmeUrl: "https://github.com/tanob/mcp-desktop-automation/blob/main/README.md"
+readmeUrl: "https://github.com/tanob/mcp-desktop-automation/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:25.220Z"

@@ -10,7 +10,7 @@ owner: "FundamentalLabs"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/FundamentalLabs/minecraft-mcp"
-readmeUrl: "https://github.com/FundamentalLabs/minecraft-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/FundamentalLabs/minecraft-mcp/blob/HEAD/README.md"
 githubStars: 69
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:42.150Z"

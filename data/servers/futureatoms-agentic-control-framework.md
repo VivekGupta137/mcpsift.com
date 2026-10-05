@@ -10,7 +10,7 @@ owner: "Abhilash Chadhar"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/FutureAtoms/agentic-control-framework"
-readmeUrl: "https://github.com/FutureAtoms/agentic-control-framework/blob/main/README.md"
+readmeUrl: "https://github.com/FutureAtoms/agentic-control-framework/blob/HEAD/README.md"
 githubStars: 28
 githubForks: 0
 githubStatsFetchedAt: "2026-03-09T00:00:37.373Z"

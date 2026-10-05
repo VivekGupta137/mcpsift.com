@@ -10,7 +10,7 @@ owner: "bmen25124"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/bmen25124/SillyTavern-MCP-Client"
-readmeUrl: "https://github.com/bmen25124/SillyTavern-MCP-Client/blob/main/README.md"
+readmeUrl: "https://github.com/bmen25124/SillyTavern-MCP-Client/blob/HEAD/README.md"
 githubStars: 86
 githubForks: 0
 githubStatsFetchedAt: "2026-06-09T02:01:36.187Z"

@@ -10,7 +10,7 @@ owner: "caspel26"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/caspel26/django-ninja-aio-crud"
-readmeUrl: "https://github.com/caspel26/django-ninja-aio-crud/blob/main/README.md"
+readmeUrl: "https://github.com/caspel26/django-ninja-aio-crud/blob/HEAD/README.md"
 githubStars: 50
 githubForks: 0
 githubStatsFetchedAt: "2026-08-11T20:30:43.681Z"

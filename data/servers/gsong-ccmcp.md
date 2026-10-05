@@ -10,7 +10,7 @@ owner: "gsong"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/gsong/ccmcp"
-readmeUrl: "https://github.com/gsong/ccmcp/blob/main/README.md"
+readmeUrl: "https://github.com/gsong/ccmcp/blob/HEAD/README.md"
 githubStars: 25
 githubForks: 0
 githubStatsFetchedAt: "2026-05-21T20:31:13.175Z"

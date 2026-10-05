@@ -10,7 +10,7 @@ owner: "shimayuz"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/shimayuz/note-com-mcp"
-readmeUrl: "https://github.com/shimayuz/note-com-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/shimayuz/note-com-mcp/blob/HEAD/README.md"
 githubStars: 27
 githubForks: 0
 githubStatsFetchedAt: "2026-06-15T06:00:48.536Z"

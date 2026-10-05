@@ -10,7 +10,7 @@ owner: "fkiene"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/fkiene/llmtrim"
-readmeUrl: "https://github.com/fkiene/llmtrim/blob/main/README.md"
+readmeUrl: "https://github.com/fkiene/llmtrim/blob/HEAD/README.md"
 githubStars: 144
 githubForks: 0
 githubStatsFetchedAt: "2026-07-06T14:00:58.439Z"

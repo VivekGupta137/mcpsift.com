@@ -10,7 +10,7 @@ owner: "teglon"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/bmorphism/anti-bullshit-mcp-server"
-readmeUrl: "https://github.com/bmorphism/anti-bullshit-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/bmorphism/anti-bullshit-mcp-server/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2026-01-16T09:00:49.906Z"

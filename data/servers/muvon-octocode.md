@@ -10,7 +10,7 @@ owner: "Muvon"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Muvon/octocode"
-readmeUrl: "https://github.com/Muvon/octocode/blob/main/README.md"
+readmeUrl: "https://github.com/Muvon/octocode/blob/HEAD/README.md"
 githubStars: 459
 githubForks: 0
 githubStatsFetchedAt: "2026-08-29T10:30:27.527Z"

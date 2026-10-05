@@ -10,7 +10,7 @@ owner: "your-repo"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/TermiX-official/binance-mcp"
-readmeUrl: "https://github.com/TermiX-official/binance-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/TermiX-official/binance-mcp/blob/HEAD/README.md"
 githubStars: 76
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:04.026Z"

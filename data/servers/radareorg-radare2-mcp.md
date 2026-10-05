@@ -10,7 +10,7 @@ owner: "radareorg"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/radareorg/radare2-mcp"
-readmeUrl: "https://github.com/radareorg/radare2-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/radareorg/radare2-mcp/blob/HEAD/README.md"
 githubStars: 157
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:55.912Z"

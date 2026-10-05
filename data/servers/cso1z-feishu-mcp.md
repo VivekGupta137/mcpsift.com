@@ -10,7 +10,7 @@ owner: "cso1z"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/cso1z/Feishu-MCP"
-readmeUrl: "https://github.com/cso1z/Feishu-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/cso1z/Feishu-MCP/blob/HEAD/README.md"
 githubStars: 86
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:37:17.631Z"

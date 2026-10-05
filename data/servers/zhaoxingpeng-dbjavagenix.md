@@ -10,7 +10,7 @@ owner: "ZhaoXingPeng"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ZhaoXingPeng/DBJavaGenix"
-readmeUrl: "https://github.com/ZhaoXingPeng/DBJavaGenix/blob/main/README.md"
+readmeUrl: "https://github.com/ZhaoXingPeng/DBJavaGenix/blob/HEAD/README.md"
 githubStars: 34
 githubForks: 0
 githubStatsFetchedAt: "2026-05-25T07:30:59.430Z"

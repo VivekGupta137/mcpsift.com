@@ -10,7 +10,7 @@ owner: "yzfly"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/yzfly/douyin-mcp-server"
-readmeUrl: "https://github.com/yzfly/douyin-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/yzfly/douyin-mcp-server/blob/HEAD/README.md"
 githubStars: 696
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:58.555Z"

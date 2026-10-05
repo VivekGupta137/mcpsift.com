@@ -10,7 +10,7 @@ owner: "playcanvas"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/playcanvas/editor-mcp-server"
-readmeUrl: "https://github.com/playcanvas/editor-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/playcanvas/editor-mcp-server/blob/HEAD/README.md"
 githubStars: 82
 githubForks: 0
 githubStatsFetchedAt: "2025-12-29T00:00:38.039Z"

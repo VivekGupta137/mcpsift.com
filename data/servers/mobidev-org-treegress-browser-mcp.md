@@ -10,7 +10,7 @@ owner: "mobidev-org"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/MobiDev-Org/treegress-browser-mcp/tree/develop"
-readmeUrl: "https://github.com/MobiDev-Org/treegress-browser-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/MobiDev-Org/treegress-browser-mcp/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2026-04-24T11:31:08.578Z"

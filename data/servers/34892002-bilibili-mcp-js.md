@@ -10,7 +10,7 @@ owner: "34892002"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/34892002/bilibili-mcp-js"
-readmeUrl: "https://github.com/34892002/bilibili-mcp-js/blob/main/README.md"
+readmeUrl: "https://github.com/34892002/bilibili-mcp-js/blob/HEAD/README.md"
 githubStars: 122
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:37:07.770Z"

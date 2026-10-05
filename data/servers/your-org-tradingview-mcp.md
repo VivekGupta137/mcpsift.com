@@ -10,7 +10,7 @@ owner: "your-org"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jaipreet15/tradingview-mcp"
-readmeUrl: "https://github.com/jaipreet15/tradingview-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/jaipreet15/tradingview-mcp/blob/HEAD/README.md"
 githubStars: 51
 githubForks: 0
 githubStatsFetchedAt: "2026-07-03T03:00:35.599Z"

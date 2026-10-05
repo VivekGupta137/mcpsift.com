@@ -10,7 +10,7 @@ owner: "williamzujkowski"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/williamzujkowski/live-coding-music-mcp"
-readmeUrl: "https://github.com/williamzujkowski/live-coding-music-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/williamzujkowski/live-coding-music-mcp/blob/HEAD/README.md"
 githubStars: 192
 githubForks: 0
 githubStatsFetchedAt: "2026-04-20T06:00:54.836Z"

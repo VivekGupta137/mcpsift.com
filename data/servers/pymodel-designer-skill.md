@@ -10,7 +10,7 @@ owner: "PyModel"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/PyModel/designer-skill"
-readmeUrl: "https://github.com/PyModel/designer-skill/blob/main/README.md"
+readmeUrl: "https://github.com/PyModel/designer-skill/blob/HEAD/README.md"
 githubStars: 27
 githubForks: 0
 githubStatsFetchedAt: "2026-08-18T05:01:00.301Z"

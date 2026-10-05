@@ -10,7 +10,7 @@ owner: "HexSleeves"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/HexSleeves/tailscale-mcp"
-readmeUrl: "https://github.com/HexSleeves/tailscale-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/HexSleeves/tailscale-mcp/blob/HEAD/README.md"
 githubStars: 48
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:37:22.895Z"

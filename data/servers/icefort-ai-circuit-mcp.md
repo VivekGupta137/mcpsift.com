@@ -10,7 +10,7 @@ owner: "icefort-ai"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/icefort-ai/circuit-mcp"
-readmeUrl: "https://github.com/icefort-ai/circuit-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/icefort-ai/circuit-mcp/blob/HEAD/README.md"
 githubStars: 49
 githubForks: 0
 githubStatsFetchedAt: "2026-01-01T01:30:41.262Z"

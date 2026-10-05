@@ -10,7 +10,7 @@ owner: "WebMCP-org"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/WebMCP-org/npm-packages"
-readmeUrl: "https://github.com/WebMCP-org/npm-packages/blob/main/README.md"
+readmeUrl: "https://github.com/WebMCP-org/npm-packages/blob/HEAD/README.md"
 githubStars: 44
 githubForks: 0
 githubStatsFetchedAt: "2026-03-24T16:31:57.593Z"

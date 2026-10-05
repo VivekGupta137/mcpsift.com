@@ -10,7 +10,7 @@ owner: "SimplyLiz"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/SimplyLiz/ckb"
-readmeUrl: "https://github.com/SimplyLiz/ckb/blob/main/README.md"
+readmeUrl: "https://github.com/SimplyLiz/ckb/blob/HEAD/README.md"
 githubStars: 105
 githubForks: 0
 githubStatsFetchedAt: "2026-07-13T11:30:43.747Z"

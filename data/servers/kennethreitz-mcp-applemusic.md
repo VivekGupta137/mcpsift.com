@@ -10,7 +10,7 @@ owner: "kennethreitz"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/kennethreitz/mcp-applemusic"
-readmeUrl: "https://github.com/kennethreitz/mcp-applemusic/blob/main/README.md"
+readmeUrl: "https://github.com/kennethreitz/mcp-applemusic/blob/HEAD/README.md"
 githubStars: 62
 githubForks: 0
 githubStatsFetchedAt: "2025-11-02T00:00:35.426Z"

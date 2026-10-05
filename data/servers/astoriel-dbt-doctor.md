@@ -10,7 +10,7 @@ owner: "Astoriel"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Astoriel/dbt-doctor"
-readmeUrl: "https://github.com/Astoriel/dbt-doctor/blob/main/README.md"
+readmeUrl: "https://github.com/Astoriel/dbt-doctor/blob/HEAD/README.md"
 githubStars: 36
 githubForks: 0
 githubStatsFetchedAt: "2026-03-11T16:30:55.277Z"

@@ -10,7 +10,7 @@ owner: "ruchernchong"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ruchernchong/mcp-server-google-analytics"
-readmeUrl: "https://github.com/ruchernchong/mcp-server-google-analytics/blob/main/README.md"
+readmeUrl: "https://github.com/ruchernchong/mcp-server-google-analytics/blob/HEAD/README.md"
 githubStars: 69
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:14.632Z"

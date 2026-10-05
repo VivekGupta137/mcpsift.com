@@ -10,7 +10,7 @@ owner: "finite-sample"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/finite-sample/rmcp"
-readmeUrl: "https://github.com/finite-sample/rmcp/blob/main/README.md"
+readmeUrl: "https://github.com/finite-sample/rmcp/blob/HEAD/README.md"
 githubStars: 205
 githubForks: 0
 githubStatsFetchedAt: "2026-07-20T06:01:00.737Z"

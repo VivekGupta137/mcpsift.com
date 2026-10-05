@@ -10,7 +10,7 @@ owner: "Pynesys"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/PyneSys/claude_autoapprove_mcp"
-readmeUrl: "https://github.com/PyneSys/claude_autoapprove_mcp/blob/main/README.md"
+readmeUrl: "https://github.com/PyneSys/claude_autoapprove_mcp/blob/HEAD/README.md"
 githubStars: 28
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:01.620Z"

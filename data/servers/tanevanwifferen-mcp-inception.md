@@ -10,7 +10,7 @@ owner: "tanevanwifferen"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/tanevanwifferen/mcp-inception"
-readmeUrl: "https://github.com/tanevanwifferen/mcp-inception/blob/main/README.md"
+readmeUrl: "https://github.com/tanevanwifferen/mcp-inception/blob/HEAD/README.md"
 githubStars: 30
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:55.508Z"

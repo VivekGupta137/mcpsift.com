@@ -10,7 +10,7 @@ owner: "djannot"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/djannot/puppeteer-vision-mcp"
-readmeUrl: "https://github.com/djannot/puppeteer-vision-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/djannot/puppeteer-vision-mcp/blob/HEAD/README.md"
 githubStars: 47
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:50.384Z"

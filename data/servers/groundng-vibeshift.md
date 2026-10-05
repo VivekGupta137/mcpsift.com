@@ -10,7 +10,7 @@ owner: "GroundNG"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Ilikepizza2/VibeCheck"
-readmeUrl: "https://github.com/Ilikepizza2/VibeCheck/blob/main/README.md"
+readmeUrl: "https://github.com/Ilikepizza2/VibeCheck/blob/HEAD/README.md"
 githubStars: 66
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:38.375Z"

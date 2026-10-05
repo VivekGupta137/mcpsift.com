@@ -10,7 +10,7 @@ owner: "ZeparHyfar"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ZeparHyfar/mcp-datetime"
-readmeUrl: "https://github.com/ZeparHyfar/mcp-datetime/blob/main/README.md"
+readmeUrl: "https://github.com/ZeparHyfar/mcp-datetime/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:06.085Z"

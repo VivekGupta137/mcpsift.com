@@ -10,7 +10,7 @@ owner: "guia-matthieu"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/guia-matthieu/clawfu-skills"
-readmeUrl: "https://github.com/guia-matthieu/clawfu-skills/blob/main/README.md"
+readmeUrl: "https://github.com/guia-matthieu/clawfu-skills/blob/HEAD/README.md"
 githubStars: 57
 githubForks: 0
 githubStatsFetchedAt: "2026-04-02T07:31:15.662Z"

@@ -10,7 +10,7 @@ owner: "heizaheiza"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/heizaheiza/Charles-mcp"
-readmeUrl: "https://github.com/heizaheiza/Charles-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/heizaheiza/Charles-mcp/blob/HEAD/README.md"
 githubStars: 123
 githubForks: 0
 githubStatsFetchedAt: "2026-03-26T17:01:37.244Z"

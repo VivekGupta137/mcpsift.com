@@ -10,7 +10,7 @@ owner: "santhoshravindran7"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/santhoshravindran7/Fabric-Analytics-MCP"
-readmeUrl: "https://github.com/santhoshravindran7/Fabric-Analytics-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/santhoshravindran7/Fabric-Analytics-MCP/blob/HEAD/README.md"
 githubStars: 106
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:50.362Z"

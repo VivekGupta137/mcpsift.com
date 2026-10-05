@@ -10,7 +10,7 @@ owner: "hhszzzz"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/hhszzzz/MingAI"
-readmeUrl: "https://github.com/hhszzzz/MingAI/blob/main/README.md"
+readmeUrl: "https://github.com/hhszzzz/MingAI/blob/HEAD/README.md"
 githubStars: 25
 githubForks: 0
 githubStatsFetchedAt: "2026-03-25T17:32:19.308Z"

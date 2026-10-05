@@ -10,7 +10,7 @@ owner: "jhacksman"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jhacksman/OpenSCAD-MCP-Server"
-readmeUrl: "https://github.com/jhacksman/OpenSCAD-MCP-Server/blob/main/README.md"
+readmeUrl: "https://github.com/jhacksman/OpenSCAD-MCP-Server/blob/HEAD/README.md"
 githubStars: 189
 githubForks: 0
 githubStatsFetchedAt: "2026-09-07T12:01:07.344Z"

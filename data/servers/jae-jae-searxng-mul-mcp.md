@@ -10,7 +10,7 @@ owner: "jae-jae"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jae-jae/searxng-mul-mcp"
-readmeUrl: "https://github.com/jae-jae/searxng-mul-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/jae-jae/searxng-mul-mcp/blob/HEAD/README.md"
 githubStars: 97
 githubForks: 0
 githubStatsFetchedAt: "2026-03-11T08:11:17.728Z"

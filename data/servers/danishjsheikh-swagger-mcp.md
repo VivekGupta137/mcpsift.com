@@ -10,7 +10,7 @@ owner: "danishjsheikh"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/danishjsheikh/swagger-mcp"
-readmeUrl: "https://github.com/danishjsheikh/swagger-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/danishjsheikh/swagger-mcp/blob/HEAD/README.md"
 githubStars: 80
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:36.754Z"

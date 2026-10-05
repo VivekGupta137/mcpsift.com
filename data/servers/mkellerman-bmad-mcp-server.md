@@ -10,7 +10,7 @@ owner: "mkellerman"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mkellerman/bmad-mcp-server"
-readmeUrl: "https://github.com/mkellerman/bmad-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/mkellerman/bmad-mcp-server/blob/HEAD/README.md"
 githubStars: 67
 githubForks: 0
 githubStatsFetchedAt: "2026-06-23T21:30:54.858Z"

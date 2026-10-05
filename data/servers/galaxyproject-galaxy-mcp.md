@@ -10,7 +10,7 @@ owner: "galaxyproject"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/galaxyproject/galaxy-mcp"
-readmeUrl: "https://github.com/galaxyproject/galaxy-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/galaxyproject/galaxy-mcp/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2026-04-14T23:31:23.688Z"

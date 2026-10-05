@@ -10,7 +10,7 @@ owner: "HelloGGX"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/HelloGGX/shadcn-vue-mcp/tree/fast-agent"
-readmeUrl: "https://github.com/HelloGGX/shadcn-vue-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/HelloGGX/shadcn-vue-mcp/blob/HEAD/README.md"
 githubStars: 33
 githubForks: 0
 githubStatsFetchedAt: "2025-01-01T00:00:00.000Z"

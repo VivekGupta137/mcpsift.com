@@ -10,7 +10,7 @@ owner: "dmayboroda"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/dmayboroda/minima"
-readmeUrl: "https://github.com/dmayboroda/minima/blob/main/README.md"
+readmeUrl: "https://github.com/dmayboroda/minima/blob/HEAD/README.md"
 githubStars: 1039
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:45.847Z"

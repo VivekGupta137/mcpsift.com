@@ -10,7 +10,7 @@ owner: "pskill9"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/pskill9/hn-server"
-readmeUrl: "https://github.com/pskill9/hn-server/blob/main/README.md"
+readmeUrl: "https://github.com/pskill9/hn-server/blob/HEAD/README.md"
 githubStars: 36
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:54.100Z"

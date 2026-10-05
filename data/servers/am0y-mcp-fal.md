@@ -10,7 +10,7 @@ owner: "am0y"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/am0y/mcp-fal"
-readmeUrl: "https://github.com/am0y/mcp-fal/blob/main/README.md"
+readmeUrl: "https://github.com/am0y/mcp-fal/blob/HEAD/README.md"
 githubStars: 73
 githubForks: 0
 githubStatsFetchedAt: "2026-02-15T05:30:46.198Z"

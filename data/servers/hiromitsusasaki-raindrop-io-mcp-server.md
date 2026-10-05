@@ -10,7 +10,7 @@ owner: "hiromitsusasaki"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/hiromitsusasaki/raindrop-io-mcp-server"
-readmeUrl: "https://github.com/hiromitsusasaki/raindrop-io-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/hiromitsusasaki/raindrop-io-mcp-server/blob/HEAD/README.md"
 githubStars: 72
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:53.080Z"

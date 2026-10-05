@@ -10,7 +10,7 @@ owner: "mgreen27"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mgreen27/mcp-velociraptor"
-readmeUrl: "https://github.com/mgreen27/mcp-velociraptor/blob/main/README.md"
+readmeUrl: "https://github.com/mgreen27/mcp-velociraptor/blob/HEAD/README.md"
 githubStars: 56
 githubForks: 0
 githubStatsFetchedAt: "2025-11-07T00:00:39.764Z"

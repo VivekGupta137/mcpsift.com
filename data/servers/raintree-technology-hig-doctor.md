@@ -10,7 +10,7 @@ owner: "raintree-technology"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/raintree-technology/hig-doctor"
-readmeUrl: "https://github.com/raintree-technology/hig-doctor/blob/main/README.md"
+readmeUrl: "https://github.com/raintree-technology/hig-doctor/blob/HEAD/README.md"
 githubStars: 85
 githubForks: 0
 githubStatsFetchedAt: "2026-07-20T04:30:46.128Z"

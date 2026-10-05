@@ -10,7 +10,7 @@ owner: "codewithMUHILAN"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/codewithMUHILAN/Lightswind-UI-Library/tree/Master"
-readmeUrl: "https://github.com/codewithMUHILAN/Lightswind-UI-Library/blob/main/README.md"
+readmeUrl: "https://github.com/codewithMUHILAN/Lightswind-UI-Library/blob/HEAD/README.md"
 githubStars: 784
 githubForks: 0
 githubStatsFetchedAt: "2026-07-16T03:31:07.940Z"

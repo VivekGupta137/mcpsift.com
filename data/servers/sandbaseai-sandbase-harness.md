@@ -10,7 +10,7 @@ owner: "sandbaseai"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/sandbaseai/sandbase-harness"
-readmeUrl: "https://github.com/sandbaseai/sandbase-harness/blob/main/README.md"
+readmeUrl: "https://github.com/sandbaseai/sandbase-harness/blob/HEAD/README.md"
 githubStars: 576
 githubForks: 0
 githubStatsFetchedAt: "2026-08-15T01:00:39.060Z"

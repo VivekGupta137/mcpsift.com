@@ -10,7 +10,7 @@ owner: "Mattbusel"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Mattbusel/tokio-prompt-orchestrator"
-readmeUrl: "https://github.com/Mattbusel/tokio-prompt-orchestrator/blob/main/README.md"
+readmeUrl: "https://github.com/Mattbusel/tokio-prompt-orchestrator/blob/HEAD/README.md"
 githubStars: 57
 githubForks: 0
 githubStatsFetchedAt: "2026-09-25T20:30:37.124Z"

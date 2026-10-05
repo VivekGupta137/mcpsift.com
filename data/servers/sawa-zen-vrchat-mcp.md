@@ -10,7 +10,7 @@ owner: "sawa-zen"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/sawa-zen/vrchat-mcp"
-readmeUrl: "https://github.com/sawa-zen/vrchat-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/sawa-zen/vrchat-mcp/blob/HEAD/README.md"
 githubStars: 52
 githubForks: 0
 githubStatsFetchedAt: "2026-02-03T07:00:56.665Z"

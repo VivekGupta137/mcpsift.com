@@ -10,7 +10,7 @@ owner: "benzsevern"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/benseverndev-oss/goldenmatch"
-readmeUrl: "https://github.com/benseverndev-oss/goldenmatch/blob/main/README.md"
+readmeUrl: "https://github.com/benseverndev-oss/goldenmatch/blob/HEAD/README.md"
 githubStars: 39
 githubForks: 0
 githubStatsFetchedAt: "2026-05-15T19:01:22.773Z"

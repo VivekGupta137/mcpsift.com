@@ -10,7 +10,7 @@ owner: "runesleo"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/runesleo/x-reader"
-readmeUrl: "https://github.com/runesleo/x-reader/blob/main/README.md"
+readmeUrl: "https://github.com/runesleo/x-reader/blob/HEAD/README.md"
 githubStars: 921
 githubForks: 0
 githubStatsFetchedAt: "2026-05-31T15:00:52.141Z"

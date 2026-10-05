@@ -10,7 +10,7 @@ owner: "hummingbot"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/hummingbot/mcp"
-readmeUrl: "https://github.com/hummingbot/mcp/blob/main/README.md"
+readmeUrl: "https://github.com/hummingbot/mcp/blob/HEAD/README.md"
 githubStars: 49
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:45.126Z"

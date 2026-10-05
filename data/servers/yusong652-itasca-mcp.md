@@ -10,7 +10,7 @@ owner: "yusong652"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/yusong652/itasca-mcp"
-readmeUrl: "https://github.com/yusong652/itasca-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/yusong652/itasca-mcp/blob/HEAD/README.md"
 githubStars: 104
 githubForks: 0
 githubStatsFetchedAt: "2026-06-27T10:31:08.519Z"

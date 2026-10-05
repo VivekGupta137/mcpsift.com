@@ -10,7 +10,7 @@ owner: "olaservo"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/olaservo/shannon-thinking"
-readmeUrl: "https://github.com/olaservo/shannon-thinking/blob/main/README.md"
+readmeUrl: "https://github.com/olaservo/shannon-thinking/blob/HEAD/README.md"
 githubStars: 45
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:06.023Z"

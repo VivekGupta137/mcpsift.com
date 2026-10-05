@@ -10,7 +10,7 @@ owner: "smat-dev"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/smat-dev/jinni"
-readmeUrl: "https://github.com/smat-dev/jinni/blob/main/README.md"
+readmeUrl: "https://github.com/smat-dev/jinni/blob/HEAD/README.md"
 githubStars: 270
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:40.416Z"

@@ -10,7 +10,7 @@ owner: "dmontgomery40"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/DMontgomery40/mcp-3D-printer-server"
-readmeUrl: "https://github.com/DMontgomery40/mcp-3D-printer-server/blob/main/README.md"
+readmeUrl: "https://github.com/DMontgomery40/mcp-3D-printer-server/blob/HEAD/README.md"
 githubStars: 159
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:52.199Z"

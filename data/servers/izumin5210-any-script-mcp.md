@@ -10,7 +10,7 @@ owner: "izumin5210"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/izumin5210/any-script-mcp"
-readmeUrl: "https://github.com/izumin5210/any-script-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/izumin5210/any-script-mcp/blob/HEAD/README.md"
 githubStars: 33
 githubForks: 0
 githubStatsFetchedAt: "2025-11-15T00:00:43.081Z"

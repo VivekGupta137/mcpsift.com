@@ -10,7 +10,7 @@ owner: "xysele"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/xysele/goask"
-readmeUrl: "https://github.com/xysele/goask/blob/main/README.md"
+readmeUrl: "https://github.com/xysele/goask/blob/HEAD/README.md"
 githubStars: 71
 githubForks: 0
 githubStatsFetchedAt: "2025-11-25T00:00:53.115Z"

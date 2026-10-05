@@ -10,7 +10,7 @@ owner: "vespo92"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/vespo92/OPNSenseMCP"
-readmeUrl: "https://github.com/vespo92/OPNSenseMCP/blob/main/README.md"
+readmeUrl: "https://github.com/vespo92/OPNSenseMCP/blob/HEAD/README.md"
 githubStars: 36
 githubForks: 0
 githubStatsFetchedAt: "2026-03-09T00:00:42.862Z"

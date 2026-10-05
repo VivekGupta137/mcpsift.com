@@ -10,7 +10,7 @@ owner: "DasBluEyedDevil"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/9thLevelSoftware/Daem0n-MCP"
-readmeUrl: "https://github.com/9thLevelSoftware/Daem0n-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/9thLevelSoftware/Daem0n-MCP/blob/HEAD/README.md"
 githubStars: 57
 githubForks: 0
 githubStatsFetchedAt: "2026-03-06T17:30:36.301Z"

@@ -10,7 +10,7 @@ owner: "pinkpixel-dev"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/pinkpixel-dev/deep-research-mcp"
-readmeUrl: "https://github.com/pinkpixel-dev/deep-research-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/pinkpixel-dev/deep-research-mcp/blob/HEAD/README.md"
 githubStars: 27
 githubForks: 0
 githubStatsFetchedAt: "2026-03-31T10:31:21.966Z"

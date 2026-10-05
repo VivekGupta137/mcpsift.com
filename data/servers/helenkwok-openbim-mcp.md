@@ -10,7 +10,7 @@ owner: "Helen Kwok"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/helenkwok/openbim-mcp"
-readmeUrl: "https://github.com/helenkwok/openbim-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/helenkwok/openbim-mcp/blob/HEAD/README.md"
 githubStars: 33
 githubForks: 0
 githubStatsFetchedAt: "2026-03-13T00:00:45.953Z"

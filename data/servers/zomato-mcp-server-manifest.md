@@ -10,7 +10,7 @@ owner: "Zomato"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Zomato/mcp-server-manifest"
-readmeUrl: "https://github.com/Zomato/mcp-server-manifest/blob/main/README.md"
+readmeUrl: "https://github.com/Zomato/mcp-server-manifest/blob/HEAD/README.md"
 githubStars: 159
 githubForks: 0
 githubStatsFetchedAt: "2026-05-01T12:01:12.482Z"

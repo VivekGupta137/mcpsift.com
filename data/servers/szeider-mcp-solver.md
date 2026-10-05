@@ -10,7 +10,7 @@ owner: "szeider"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/szeider/mcp-solver"
-readmeUrl: "https://github.com/szeider/mcp-solver/blob/main/README.md"
+readmeUrl: "https://github.com/szeider/mcp-solver/blob/HEAD/README.md"
 githubStars: 175
 githubForks: 0
 githubStatsFetchedAt: "2026-07-14T17:31:16.737Z"

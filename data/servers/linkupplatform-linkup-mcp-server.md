@@ -10,7 +10,7 @@ owner: "LinkupPlatform"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/LinkupPlatform/linkup-mcp-server"
-readmeUrl: "https://github.com/LinkupPlatform/linkup-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/LinkupPlatform/linkup-mcp-server/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2026-04-23T10:31:29.792Z"

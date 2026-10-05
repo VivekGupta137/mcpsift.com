@@ -10,7 +10,7 @@ owner: "tokencanopy"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/tokencanopy/e2a"
-readmeUrl: "https://github.com/tokencanopy/e2a/blob/main/README.md"
+readmeUrl: "https://github.com/tokencanopy/e2a/blob/HEAD/README.md"
 githubStars: 181
 githubForks: 0
 githubStatsFetchedAt: "2026-08-07T18:00:54.315Z"

@@ -10,7 +10,7 @@ owner: "pymupdf"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/pymupdf/pymupdf4llm-mcp"
-readmeUrl: "https://github.com/pymupdf/pymupdf4llm-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/pymupdf/pymupdf4llm-mcp/blob/HEAD/README.md"
 githubStars: 66
 githubForks: 0
 githubStatsFetchedAt: "2026-06-10T13:31:37.790Z"

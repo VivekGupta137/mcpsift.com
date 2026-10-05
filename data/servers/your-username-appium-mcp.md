@@ -10,7 +10,7 @@ owner: "your-username"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/1405942836/appium-mcp"
-readmeUrl: "https://github.com/1405942836/appium-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/1405942836/appium-mcp/blob/HEAD/README.md"
 githubStars: 33
 githubForks: 0
 githubStatsFetchedAt: "2026-02-05T00:00:53.050Z"

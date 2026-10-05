@@ -10,7 +10,7 @@ owner: "alijancb"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/alijancb/subio-mcp"
-readmeUrl: "https://github.com/alijancb/subio-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/alijancb/subio-mcp/blob/HEAD/README.md"
 githubStars: 34
 githubForks: 0
 githubStatsFetchedAt: "2026-08-24T07:00:47.664Z"

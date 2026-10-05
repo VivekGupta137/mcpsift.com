@@ -10,7 +10,7 @@ owner: "bonnard-data"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/bonnard-data/bonnard"
-readmeUrl: "https://github.com/bonnard-data/bonnard/blob/main/README.md"
+readmeUrl: "https://github.com/bonnard-data/bonnard/blob/HEAD/README.md"
 githubStars: 28
 githubForks: 0
 githubStatsFetchedAt: "2026-07-03T11:01:15.870Z"

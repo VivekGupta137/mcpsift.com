@@ -10,7 +10,7 @@ owner: "karaage0703"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/karaage0703/notion-mcp-light"
-readmeUrl: "https://github.com/karaage0703/notion-mcp-light/blob/main/README.md"
+readmeUrl: "https://github.com/karaage0703/notion-mcp-light/blob/HEAD/README.md"
 githubStars: 51
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:56.415Z"

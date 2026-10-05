@@ -10,7 +10,7 @@ owner: "tsuru0805"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/tsuru0805/engawa-mcp"
-readmeUrl: "https://github.com/tsuru0805/engawa-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/tsuru0805/engawa-mcp/blob/HEAD/README.md"
 githubStars: 32
 githubForks: 0
 githubStatsFetchedAt: "2026-10-01T17:30:58.521Z"

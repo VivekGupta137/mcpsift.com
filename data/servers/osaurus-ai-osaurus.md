@@ -10,7 +10,7 @@ owner: "osaurus-ai"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/osaurus-ai/osaurus"
-readmeUrl: "https://github.com/osaurus-ai/osaurus/blob/main/README.md"
+readmeUrl: "https://github.com/osaurus-ai/osaurus/blob/HEAD/README.md"
 githubStars: 3569
 githubForks: 0
 githubStatsFetchedAt: "2026-02-24T14:01:12.788Z"

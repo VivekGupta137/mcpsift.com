@@ -10,7 +10,7 @@ owner: "polygon-io"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/polygon-io/mcp_polygon"
-readmeUrl: "https://github.com/polygon-io/mcp_polygon/blob/main/README.md"
+readmeUrl: "https://github.com/polygon-io/mcp_polygon/blob/HEAD/README.md"
 githubStars: 261
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:21.809Z"

@@ -10,7 +10,7 @@ owner: "abracadabra50"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/abracadabra50/open-supermarkets"
-readmeUrl: "https://github.com/abracadabra50/open-supermarkets/blob/main/README.md"
+readmeUrl: "https://github.com/abracadabra50/open-supermarkets/blob/HEAD/README.md"
 githubStars: 79
 githubForks: 0
 githubStatsFetchedAt: "2026-08-09T12:30:30.634Z"

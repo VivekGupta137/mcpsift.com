@@ -10,7 +10,7 @@ owner: "aliyun"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/aliyun/alibabacloud-ack-mcp-server"
-readmeUrl: "https://github.com/aliyun/alibabacloud-ack-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/aliyun/alibabacloud-ack-mcp-server/blob/HEAD/README.md"
 githubStars: 109
 githubForks: 0
 githubStatsFetchedAt: "2026-04-29T09:01:26.580Z"

@@ -10,7 +10,7 @@ owner: "captain-ai-hub"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Captain-AI-Hub/IDA-MCP"
-readmeUrl: "https://github.com/Captain-AI-Hub/IDA-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/Captain-AI-Hub/IDA-MCP/blob/HEAD/README.md"
 githubStars: 78
 githubForks: 0
 githubStatsFetchedAt: "2025-11-17T06:00:34.117Z"

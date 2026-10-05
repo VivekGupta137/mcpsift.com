@@ -10,7 +10,7 @@ owner: "dcondrey"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/dcondrey/scrivener-mcp"
-readmeUrl: "https://github.com/dcondrey/scrivener-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/dcondrey/scrivener-mcp/blob/HEAD/README.md"
 githubStars: 25
 githubForks: 0
 githubStatsFetchedAt: "2026-06-03T08:31:13.748Z"

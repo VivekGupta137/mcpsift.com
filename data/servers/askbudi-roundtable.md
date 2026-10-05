@@ -10,7 +10,7 @@ owner: "askbudi"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/askbudi/roundtable"
-readmeUrl: "https://github.com/askbudi/roundtable/blob/main/README.md"
+readmeUrl: "https://github.com/askbudi/roundtable/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2025-11-01T00:00:36.135Z"

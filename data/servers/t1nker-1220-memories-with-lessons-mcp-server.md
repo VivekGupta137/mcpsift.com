@@ -10,7 +10,7 @@ owner: "T1nker-1220"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/T1nker-1220/memories-with-lessons-mcp-server"
-readmeUrl: "https://github.com/T1nker-1220/memories-with-lessons-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/T1nker-1220/memories-with-lessons-mcp-server/blob/HEAD/README.md"
 githubStars: 52
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:57.438Z"

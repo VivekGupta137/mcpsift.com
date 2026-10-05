@@ -10,7 +10,7 @@ owner: "yourusername"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/zh19980811/Easy-MCP-AutoCad"
-readmeUrl: "https://github.com/zh19980811/Easy-MCP-AutoCad/blob/main/README.md"
+readmeUrl: "https://github.com/zh19980811/Easy-MCP-AutoCad/blob/HEAD/README.md"
 githubStars: 127
 githubForks: 0
 githubStatsFetchedAt: "2026-03-16T00:00:37.092Z"

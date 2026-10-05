@@ -10,7 +10,7 @@ owner: "proofgeist"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/proofgeist/granola-mcp-server"
-readmeUrl: "https://github.com/proofgeist/granola-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/proofgeist/granola-mcp-server/blob/HEAD/README.md"
 githubStars: 70
 githubForks: 0
 githubStatsFetchedAt: "2026-03-03T11:30:58.641Z"

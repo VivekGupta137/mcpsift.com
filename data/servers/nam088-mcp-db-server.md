@@ -10,7 +10,7 @@ owner: "Nam088"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Nam088/mcp-db-server"
-readmeUrl: "https://github.com/Nam088/mcp-db-server/blob/main/README.md"
+readmeUrl: "https://github.com/Nam088/mcp-db-server/blob/HEAD/README.md"
 githubStars: 82
 githubForks: 0
 githubStatsFetchedAt: "2026-08-20T09:01:16.620Z"

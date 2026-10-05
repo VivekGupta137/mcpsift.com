@@ -10,7 +10,7 @@ owner: "Rwb3n"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Rwb3n/obsidian-mcp"
-readmeUrl: "https://github.com/Rwb3n/obsidian-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/Rwb3n/obsidian-mcp/blob/HEAD/README.md"
 githubStars: 35
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:34.130Z"

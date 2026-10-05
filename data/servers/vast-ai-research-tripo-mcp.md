@@ -10,7 +10,7 @@ owner: "vast-ai-research"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/VAST-AI-Research/tripo-mcp"
-readmeUrl: "https://github.com/VAST-AI-Research/tripo-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/VAST-AI-Research/tripo-mcp/blob/HEAD/README.md"
 githubStars: 179
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:43.392Z"

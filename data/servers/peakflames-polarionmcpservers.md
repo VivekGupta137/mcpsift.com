@@ -10,7 +10,7 @@ owner: "peakflames"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/peakflames/PolarionMcpServers"
-readmeUrl: "https://github.com/peakflames/PolarionMcpServers/blob/main/README.md"
+readmeUrl: "https://github.com/peakflames/PolarionMcpServers/blob/HEAD/README.md"
 githubStars: 28
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:16.747Z"

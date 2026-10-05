@@ -10,7 +10,7 @@ owner: "runekaagaard"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/runekaagaard/mcp-alchemy"
-readmeUrl: "https://github.com/runekaagaard/mcp-alchemy/blob/main/README.md"
+readmeUrl: "https://github.com/runekaagaard/mcp-alchemy/blob/HEAD/README.md"
 githubStars: 395
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:44.511Z"

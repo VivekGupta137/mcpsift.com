@@ -10,7 +10,7 @@ owner: "openags"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/openags/paper-search-mcp"
-readmeUrl: "https://github.com/openags/paper-search-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/openags/paper-search-mcp/blob/HEAD/README.md"
 githubStars: 752
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:51.619Z"

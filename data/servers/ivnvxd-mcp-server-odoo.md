@@ -10,7 +10,7 @@ owner: "ivnvxd"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ivnvxd/mcp-server-odoo"
-readmeUrl: "https://github.com/ivnvxd/mcp-server-odoo/blob/main/README.md"
+readmeUrl: "https://github.com/ivnvxd/mcp-server-odoo/blob/HEAD/README.md"
 githubStars: 183
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:47.063Z"

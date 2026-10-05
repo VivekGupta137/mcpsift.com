@@ -10,7 +10,7 @@ owner: "kevinwatt"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/kevinwatt/mcp-server-searxng"
-readmeUrl: "https://github.com/kevinwatt/mcp-server-searxng/blob/main/README.md"
+readmeUrl: "https://github.com/kevinwatt/mcp-server-searxng/blob/HEAD/README.md"
 githubStars: 31
 githubForks: 0
 githubStatsFetchedAt: "2026-06-17T19:01:06.994Z"

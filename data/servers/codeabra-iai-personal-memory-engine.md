@@ -10,7 +10,7 @@ owner: "CodeAbra"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/CodeAbra/iai-personal-memory-engine"
-readmeUrl: "https://github.com/CodeAbra/iai-personal-memory-engine/blob/main/README.md"
+readmeUrl: "https://github.com/CodeAbra/iai-personal-memory-engine/blob/HEAD/README.md"
 githubStars: 306
 githubForks: 0
 githubStatsFetchedAt: "2026-06-26T22:00:43.785Z"

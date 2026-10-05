@@ -10,7 +10,7 @@ owner: "merterbak"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/merterbak/Grok-MCP"
-readmeUrl: "https://github.com/merterbak/Grok-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/merterbak/Grok-MCP/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2026-04-18T15:31:01.815Z"

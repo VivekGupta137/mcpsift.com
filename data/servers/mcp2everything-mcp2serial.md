@@ -10,7 +10,7 @@ owner: "mcp2everything"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mcp2everything/mcp2serial"
-readmeUrl: "https://github.com/mcp2everything/mcp2serial/blob/main/README.md"
+readmeUrl: "https://github.com/mcp2everything/mcp2serial/blob/HEAD/README.md"
 githubStars: 40
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:14.395Z"

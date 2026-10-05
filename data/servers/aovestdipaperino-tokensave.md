@@ -10,7 +10,7 @@ owner: "aovestdipaperino"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/aovestdipaperino/tokensave"
-readmeUrl: "https://github.com/aovestdipaperino/tokensave/blob/main/README.md"
+readmeUrl: "https://github.com/aovestdipaperino/tokensave/blob/HEAD/README.md"
 githubStars: 52
 githubForks: 0
 githubStatsFetchedAt: "2026-04-22T09:31:41.953Z"

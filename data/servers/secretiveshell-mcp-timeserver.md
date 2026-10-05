@@ -10,7 +10,7 @@ owner: "SecretiveShell"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/SecretiveShell/MCP-timeserver"
-readmeUrl: "https://github.com/SecretiveShell/MCP-timeserver/blob/main/README.md"
+readmeUrl: "https://github.com/SecretiveShell/MCP-timeserver/blob/HEAD/README.md"
 githubStars: 42
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:34.048Z"

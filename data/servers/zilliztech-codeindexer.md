@@ -10,7 +10,7 @@ owner: "zilliztech"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/zilliztech/CodeIndexer"
-readmeUrl: "https://github.com/zilliztech/CodeIndexer/blob/main/README.md"
+readmeUrl: "https://github.com/zilliztech/CodeIndexer/blob/HEAD/README.md"
 githubStars: 97
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:37:40.978Z"

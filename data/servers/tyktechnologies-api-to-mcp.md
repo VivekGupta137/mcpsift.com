@@ -10,7 +10,7 @@ owner: "tyktechnologies"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/TykTechnologies/api-to-mcp"
-readmeUrl: "https://github.com/TykTechnologies/api-to-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/TykTechnologies/api-to-mcp/blob/HEAD/README.md"
 githubStars: 39
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:49.153Z"

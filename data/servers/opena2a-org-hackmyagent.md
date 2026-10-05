@@ -10,7 +10,7 @@ owner: "opena2a-org"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/opena2a-org/hackmyagent"
-readmeUrl: "https://github.com/opena2a-org/hackmyagent/blob/main/README.md"
+readmeUrl: "https://github.com/opena2a-org/hackmyagent/blob/HEAD/README.md"
 githubStars: 30
 githubForks: 0
 githubStatsFetchedAt: "2026-06-02T04:01:32.340Z"

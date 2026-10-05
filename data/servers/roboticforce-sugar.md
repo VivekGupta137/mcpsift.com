@@ -10,7 +10,7 @@ owner: "roboticforce"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/roboticforce/sugar"
-readmeUrl: "https://github.com/roboticforce/sugar/blob/main/README.md"
+readmeUrl: "https://github.com/roboticforce/sugar/blob/HEAD/README.md"
 githubStars: 30
 githubForks: 0
 githubStatsFetchedAt: "2026-01-08T22:39:14.411Z"

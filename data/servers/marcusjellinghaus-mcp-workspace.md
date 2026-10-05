@@ -10,7 +10,7 @@ owner: "MarcusJellinghaus"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/MarcusJellinghaus/mcp-workspace"
-readmeUrl: "https://github.com/MarcusJellinghaus/mcp-workspace/blob/main/README.md"
+readmeUrl: "https://github.com/MarcusJellinghaus/mcp-workspace/blob/HEAD/README.md"
 githubStars: 45
 githubForks: 0
 githubStatsFetchedAt: "2026-03-16T16:01:07.836Z"

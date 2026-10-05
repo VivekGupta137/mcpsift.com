@@ -10,7 +10,7 @@ owner: "Yrobot"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Yrobot/cloudflare-search"
-readmeUrl: "https://github.com/Yrobot/cloudflare-search/blob/main/README.md"
+readmeUrl: "https://github.com/Yrobot/cloudflare-search/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2026-03-13T15:01:07.268Z"

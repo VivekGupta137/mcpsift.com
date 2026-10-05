@@ -10,7 +10,7 @@ owner: "kayhendriksen"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/kayhendriksen/foehn"
-readmeUrl: "https://github.com/kayhendriksen/foehn/blob/main/README.md"
+readmeUrl: "https://github.com/kayhendriksen/foehn/blob/HEAD/README.md"
 githubStars: 33
 githubForks: 0
 githubStatsFetchedAt: "2026-04-04T19:01:03.128Z"

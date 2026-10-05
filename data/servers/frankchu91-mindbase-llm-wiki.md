@@ -10,7 +10,7 @@ owner: "frankchu91"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/frankchu91/mindbase-llm-wiki"
-readmeUrl: "https://github.com/frankchu91/mindbase-llm-wiki/blob/main/README.md"
+readmeUrl: "https://github.com/frankchu91/mindbase-llm-wiki/blob/HEAD/README.md"
 githubStars: 87
 githubForks: 0
 githubStatsFetchedAt: "2026-08-23T23:00:59.073Z"

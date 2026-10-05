@@ -10,7 +10,7 @@ owner: "huseyinstif"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/huseyinstif/oculos"
-readmeUrl: "https://github.com/huseyinstif/oculos/blob/main/README.md"
+readmeUrl: "https://github.com/huseyinstif/oculos/blob/HEAD/README.md"
 githubStars: 32
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T21:30:33.666Z"

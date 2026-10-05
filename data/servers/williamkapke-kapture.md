@@ -10,7 +10,7 @@ owner: "williamkapke"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/williamkapke/kapture"
-readmeUrl: "https://github.com/williamkapke/kapture/blob/main/README.md"
+readmeUrl: "https://github.com/williamkapke/kapture/blob/HEAD/README.md"
 githubStars: 98
 githubForks: 0
 githubStatsFetchedAt: "2026-03-10T00:01:04.028Z"

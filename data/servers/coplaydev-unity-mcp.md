@@ -10,7 +10,7 @@ owner: "CoplayDev"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/CoplayDev/unity-mcp"
-readmeUrl: "https://github.com/CoplayDev/unity-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/CoplayDev/unity-mcp/blob/HEAD/README.md"
 githubStars: 3780
 githubForks: 0
 githubStatsFetchedAt: "2025-11-09T05:33:43.681Z"

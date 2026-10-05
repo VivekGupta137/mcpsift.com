@@ -10,7 +10,7 @@ owner: "sdiehl"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/sdiehl/sympy-mcp"
-readmeUrl: "https://github.com/sdiehl/sympy-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/sdiehl/sympy-mcp/blob/HEAD/README.md"
 githubStars: 54
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:49.204Z"

@@ -10,7 +10,7 @@ owner: "arnaldo-delisio"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/arnaldo-delisio/claude-code-studio"
-readmeUrl: "https://github.com/arnaldo-delisio/claude-code-studio/blob/main/README.md"
+readmeUrl: "https://github.com/arnaldo-delisio/claude-code-studio/blob/HEAD/README.md"
 githubStars: 173
 githubForks: 0
 githubStatsFetchedAt: "2025-11-20T00:00:55.022Z"

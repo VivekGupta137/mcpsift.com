@@ -10,7 +10,7 @@ owner: "sugarforever"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/sugarforever/amap-mcp-server"
-readmeUrl: "https://github.com/sugarforever/amap-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/sugarforever/amap-mcp-server/blob/HEAD/README.md"
 githubStars: 75
 githubForks: 0
 githubStatsFetchedAt: "2025-11-18T00:30:40.366Z"

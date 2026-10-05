@@ -10,7 +10,7 @@ owner: "LeoGitGuy"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/LeoGitGuy/alex-paper-search-mcp"
-readmeUrl: "https://github.com/LeoGitGuy/alex-paper-search-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/LeoGitGuy/alex-paper-search-mcp/blob/HEAD/README.md"
 githubStars: 34
 githubForks: 0
 githubStatsFetchedAt: "2026-04-13T18:01:58.079Z"

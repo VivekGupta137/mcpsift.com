@@ -10,7 +10,7 @@ owner: "cohnen"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/cohnen/mcp-google-ads"
-readmeUrl: "https://github.com/cohnen/mcp-google-ads/blob/main/README.md"
+readmeUrl: "https://github.com/cohnen/mcp-google-ads/blob/HEAD/README.md"
 githubStars: 442
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:42.188Z"

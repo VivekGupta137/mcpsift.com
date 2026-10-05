@@ -10,7 +10,7 @@ owner: "Jos\u00e9 M. Requena Plens"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jmrplens/gitlab-mcp-server"
-readmeUrl: "https://github.com/jmrplens/gitlab-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/jmrplens/gitlab-mcp-server/blob/HEAD/README.md"
 githubStars: 30
 githubForks: 0
 githubStatsFetchedAt: "2026-08-27T15:53:10.288Z"

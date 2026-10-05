@@ -10,7 +10,7 @@ owner: "codespar"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/codespar/mcp-dev-latam"
-readmeUrl: "https://github.com/codespar/mcp-dev-latam/blob/main/README.md"
+readmeUrl: "https://github.com/codespar/mcp-dev-latam/blob/HEAD/README.md"
 githubStars: 220
 githubForks: 0
 githubStatsFetchedAt: "2026-04-12T16:02:03.842Z"

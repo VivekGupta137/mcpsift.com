@@ -10,7 +10,7 @@ owner: "hvkshetry"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/puran-water/autocad-mcp"
-readmeUrl: "https://github.com/puran-water/autocad-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/puran-water/autocad-mcp/blob/HEAD/README.md"
 githubStars: 137
 githubForks: 0
 githubStatsFetchedAt: "2026-01-20T23:31:11.137Z"

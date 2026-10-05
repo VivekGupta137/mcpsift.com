@@ -10,7 +10,7 @@ owner: "stefanoamorelli"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/stefanoamorelli/estonia-ai-kit"
-readmeUrl: "https://github.com/stefanoamorelli/estonia-ai-kit/blob/main/README.md"
+readmeUrl: "https://github.com/stefanoamorelli/estonia-ai-kit/blob/HEAD/README.md"
 githubStars: 66
 githubForks: 0
 githubStatsFetchedAt: "2026-06-03T21:30:45.458Z"

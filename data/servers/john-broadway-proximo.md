@@ -10,7 +10,7 @@ owner: "john-broadway"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/john-broadway/proximo"
-readmeUrl: "https://github.com/john-broadway/proximo/blob/main/README.md"
+readmeUrl: "https://github.com/john-broadway/proximo/blob/HEAD/README.md"
 githubStars: 50
 githubForks: 0
 githubStatsFetchedAt: "2026-10-03T04:48:18.953Z"

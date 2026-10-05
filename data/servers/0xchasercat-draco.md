@@ -10,7 +10,7 @@ owner: "0xchasercat"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/0xchasercat/draco"
-readmeUrl: "https://github.com/0xchasercat/draco/blob/main/README.md"
+readmeUrl: "https://github.com/0xchasercat/draco/blob/HEAD/README.md"
 githubStars: 89
 githubForks: 0
 githubStatsFetchedAt: "2026-08-20T21:30:46.255Z"

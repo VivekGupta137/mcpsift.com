@@ -10,7 +10,7 @@ owner: "saurabhsharma2u"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/saurabhsharma2u/search-console-mcp"
-readmeUrl: "https://github.com/saurabhsharma2u/search-console-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/saurabhsharma2u/search-console-mcp/blob/HEAD/README.md"
 githubStars: 180
 githubForks: 0
 githubStatsFetchedAt: "2026-06-24T12:23:25.179Z"

@@ -10,7 +10,7 @@ owner: "hereisSwapnil"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/hereisSwapnil/blinkit-mcp"
-readmeUrl: "https://github.com/hereisSwapnil/blinkit-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/hereisSwapnil/blinkit-mcp/blob/HEAD/README.md"
 githubStars: 46
 githubForks: 0
 githubStatsFetchedAt: "2026-09-24T20:00:49.915Z"

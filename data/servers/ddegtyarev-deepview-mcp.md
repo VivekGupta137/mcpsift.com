@@ -10,7 +10,7 @@ owner: "ddegtyarev"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ai-1st/deepview-mcp"
-readmeUrl: "https://github.com/ai-1st/deepview-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/ai-1st/deepview-mcp/blob/HEAD/README.md"
 githubStars: 67
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:41.942Z"

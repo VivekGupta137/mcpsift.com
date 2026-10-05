@@ -10,7 +10,7 @@ owner: "orliesaurus"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/orliesaurus/pulsemcp-server"
-readmeUrl: "https://github.com/orliesaurus/pulsemcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/orliesaurus/pulsemcp-server/blob/HEAD/README.md"
 githubStars: 28
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:37.022Z"

@@ -10,7 +10,7 @@ owner: "amafjarkasi"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/amafjarkasi/electron-mcp-server"
-readmeUrl: "https://github.com/amafjarkasi/electron-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/amafjarkasi/electron-mcp-server/blob/HEAD/README.md"
 githubStars: 76
 githubForks: 0
 githubStatsFetchedAt: "2026-07-10T23:01:02.437Z"

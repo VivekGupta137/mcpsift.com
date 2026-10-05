@@ -10,7 +10,7 @@ owner: "supabase-community"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/supabase-community/supabase-mcp"
-readmeUrl: "https://github.com/supabase-community/supabase-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/supabase-community/supabase-mcp/blob/HEAD/README.md"
 githubStars: 2516
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:38.258Z"

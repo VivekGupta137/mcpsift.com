@@ -10,7 +10,7 @@ owner: "LBNL-ETA"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/LBNL-ETA/EnergyPlus-MCP"
-readmeUrl: "https://github.com/LBNL-ETA/EnergyPlus-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/LBNL-ETA/EnergyPlus-MCP/blob/HEAD/README.md"
 githubStars: 83
 githubForks: 0
 githubStatsFetchedAt: "2026-04-24T21:31:32.381Z"

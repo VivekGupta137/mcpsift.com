@@ -10,7 +10,7 @@ owner: "snyk"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/snyk/agent-scan"
-readmeUrl: "https://github.com/snyk/agent-scan/blob/main/README.md"
+readmeUrl: "https://github.com/snyk/agent-scan/blob/HEAD/README.md"
 githubStars: 1464
 githubForks: 0
 githubStatsFetchedAt: "2026-02-12T16:00:59.914Z"

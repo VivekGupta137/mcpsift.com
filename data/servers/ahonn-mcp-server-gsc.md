@@ -10,7 +10,7 @@ owner: "ahonn"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ahonn/mcp-server-gsc"
-readmeUrl: "https://github.com/ahonn/mcp-server-gsc/blob/main/README.md"
+readmeUrl: "https://github.com/ahonn/mcp-server-gsc/blob/HEAD/README.md"
 githubStars: 181
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:19.732Z"

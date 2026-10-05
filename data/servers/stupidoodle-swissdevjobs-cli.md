@@ -10,7 +10,7 @@ owner: "Stupidoodle"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Stupidoodle/swissdevjobs-cli"
-readmeUrl: "https://github.com/Stupidoodle/swissdevjobs-cli/blob/main/README.md"
+readmeUrl: "https://github.com/Stupidoodle/swissdevjobs-cli/blob/HEAD/README.md"
 githubStars: 27
 githubForks: 0
 githubStatsFetchedAt: "2026-08-25T10:30:42.132Z"

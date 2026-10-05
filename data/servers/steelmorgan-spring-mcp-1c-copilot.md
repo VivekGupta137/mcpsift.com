@@ -10,7 +10,7 @@ owner: "SteelMorgan"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/SteelMorgan/spring-mcp-1c-copilot"
-readmeUrl: "https://github.com/SteelMorgan/spring-mcp-1c-copilot/blob/main/README.md"
+readmeUrl: "https://github.com/SteelMorgan/spring-mcp-1c-copilot/blob/HEAD/README.md"
 githubStars: 44
 githubForks: 0
 githubStatsFetchedAt: "2026-07-03T22:00:39.293Z"

@@ -10,7 +10,7 @@ owner: "dylanroscover"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/dylanroscover/Embody"
-readmeUrl: "https://github.com/dylanroscover/Embody/blob/main/README.md"
+readmeUrl: "https://github.com/dylanroscover/Embody/blob/HEAD/README.md"
 githubStars: 73
 githubForks: 0
 githubStatsFetchedAt: "2026-04-11T07:31:02.529Z"

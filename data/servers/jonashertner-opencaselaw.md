@@ -10,7 +10,7 @@ owner: "jonashertner"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jonashertner/opencaselaw"
-readmeUrl: "https://github.com/jonashertner/opencaselaw/blob/main/README.md"
+readmeUrl: "https://github.com/jonashertner/opencaselaw/blob/HEAD/README.md"
 githubStars: 53
 githubForks: 0
 githubStatsFetchedAt: "2026-08-10T09:30:42.599Z"

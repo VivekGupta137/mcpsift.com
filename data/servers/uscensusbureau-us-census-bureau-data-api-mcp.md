@@ -10,7 +10,7 @@ owner: "uscensusbureau"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/uscensusbureau/us-census-bureau-data-api-mcp"
-readmeUrl: "https://github.com/uscensusbureau/us-census-bureau-data-api-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/uscensusbureau/us-census-bureau-data-api-mcp/blob/HEAD/README.md"
 githubStars: 30
 githubForks: 0
 githubStatsFetchedAt: "2025-11-01T00:00:39.467Z"

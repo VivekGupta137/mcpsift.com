@@ -10,7 +10,7 @@ owner: "micl2e2"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/micl2e2/code-to-tree"
-readmeUrl: "https://github.com/micl2e2/code-to-tree/blob/main/README.md"
+readmeUrl: "https://github.com/micl2e2/code-to-tree/blob/HEAD/README.md"
 githubStars: 82
 githubForks: 0
 githubStatsFetchedAt: "2026-03-14T02:30:32.278Z"

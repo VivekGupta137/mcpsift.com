@@ -10,7 +10,7 @@ owner: "brandonyoungdev"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/brandonyoungdev/tldx"
-readmeUrl: "https://github.com/brandonyoungdev/tldx/blob/main/README.md"
+readmeUrl: "https://github.com/brandonyoungdev/tldx/blob/HEAD/README.md"
 githubStars: 1824
 githubForks: 0
 githubStatsFetchedAt: "2026-05-25T03:01:49.227Z"

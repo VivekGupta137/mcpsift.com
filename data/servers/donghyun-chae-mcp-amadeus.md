@@ -10,7 +10,7 @@ owner: "donghyun-chae"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/donghyun-chae/mcp-amadeus"
-readmeUrl: "https://github.com/donghyun-chae/mcp-amadeus/blob/main/README.md"
+readmeUrl: "https://github.com/donghyun-chae/mcp-amadeus/blob/HEAD/README.md"
 githubStars: 50
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:45.135Z"

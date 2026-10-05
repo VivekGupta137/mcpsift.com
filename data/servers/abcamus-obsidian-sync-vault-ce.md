@@ -10,7 +10,7 @@ owner: "abcamus"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/abcamus/obsidian-sync-vault-ce"
-readmeUrl: "https://github.com/abcamus/obsidian-sync-vault-ce/blob/main/README.md"
+readmeUrl: "https://github.com/abcamus/obsidian-sync-vault-ce/blob/HEAD/README.md"
 githubStars: 99
 githubForks: 0
 githubStatsFetchedAt: "2026-07-02T07:30:40.637Z"

@@ -10,7 +10,7 @@ owner: "wilsonchenghy"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/wilsonchenghy/ShaderToy-MCP"
-readmeUrl: "https://github.com/wilsonchenghy/ShaderToy-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/wilsonchenghy/ShaderToy-MCP/blob/HEAD/README.md"
 githubStars: 39
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:36.926Z"

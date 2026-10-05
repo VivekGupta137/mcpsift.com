@@ -10,7 +10,7 @@ owner: "jqlts1"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jqlts1/omnifocus-mcp-enhanced"
-readmeUrl: "https://github.com/jqlts1/omnifocus-mcp-enhanced/blob/main/README.md"
+readmeUrl: "https://github.com/jqlts1/omnifocus-mcp-enhanced/blob/HEAD/README.md"
 githubStars: 50
 githubForks: 0
 githubStatsFetchedAt: "2026-05-26T08:31:19.898Z"

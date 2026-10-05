@@ -10,7 +10,7 @@ owner: "13bm"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/13bm/GhidraMCP"
-readmeUrl: "https://github.com/13bm/GhidraMCP/blob/main/README.md"
+readmeUrl: "https://github.com/13bm/GhidraMCP/blob/HEAD/README.md"
 githubStars: 84
 githubForks: 0
 githubStatsFetchedAt: "2026-02-14T00:30:37.004Z"

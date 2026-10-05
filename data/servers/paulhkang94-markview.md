@@ -10,7 +10,7 @@ owner: "paulhkang94"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/paulhkang94/markview"
-readmeUrl: "https://github.com/paulhkang94/markview/blob/main/README.md"
+readmeUrl: "https://github.com/paulhkang94/markview/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2026-04-03T05:31:19.337Z"

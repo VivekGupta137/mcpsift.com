@@ -10,7 +10,7 @@ owner: "dondai1234"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/dondai1234/goshawk"
-readmeUrl: "https://github.com/dondai1234/goshawk/blob/main/README.md"
+readmeUrl: "https://github.com/dondai1234/goshawk/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2026-07-24T09:30:42.812Z"

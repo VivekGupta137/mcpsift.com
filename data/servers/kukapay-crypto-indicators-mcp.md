@@ -10,7 +10,7 @@ owner: "kukapay"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/kukapay/crypto-indicators-mcp"
-readmeUrl: "https://github.com/kukapay/crypto-indicators-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/kukapay/crypto-indicators-mcp/blob/HEAD/README.md"
 githubStars: 96
 githubForks: 0
 githubStatsFetchedAt: "2025-12-06T01:30:29.873Z"

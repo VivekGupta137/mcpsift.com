@@ -10,7 +10,7 @@ owner: "Wayfinder-Foundry"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/JordanGunn/gdal-mcp"
-readmeUrl: "https://github.com/JordanGunn/gdal-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/JordanGunn/gdal-mcp/blob/HEAD/README.md"
 githubStars: 72
 githubForks: 0
 githubStatsFetchedAt: "2026-05-21T15:31:25.298Z"

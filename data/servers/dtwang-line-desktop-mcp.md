@@ -10,7 +10,7 @@ owner: "dtwang"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/dtwang/line-desktop-mcp"
-readmeUrl: "https://github.com/dtwang/line-desktop-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/dtwang/line-desktop-mcp/blob/HEAD/README.md"
 githubStars: 87
 githubForks: 0
 githubStatsFetchedAt: "2026-05-25T13:30:54.103Z"

@@ -10,7 +10,7 @@ owner: "Whale-io"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Whale-io/lets-play-a-game"
-readmeUrl: "https://github.com/Whale-io/lets-play-a-game/blob/main/README.md"
+readmeUrl: "https://github.com/Whale-io/lets-play-a-game/blob/HEAD/README.md"
 githubStars: 57
 githubForks: 0
 githubStatsFetchedAt: "2026-04-10T10:02:46.248Z"

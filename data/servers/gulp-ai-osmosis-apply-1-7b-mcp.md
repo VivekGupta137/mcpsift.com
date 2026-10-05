@@ -10,7 +10,7 @@ owner: "gulp-ai"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Gulp-AI/Osmosis-Apply-1.7B-MCP"
-readmeUrl: "https://github.com/Gulp-AI/Osmosis-Apply-1.7B-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/Gulp-AI/Osmosis-Apply-1.7B-MCP/blob/HEAD/README.md"
 githubStars: 53
 githubForks: 0
 githubStatsFetchedAt: "2026-03-14T00:00:37.235Z"

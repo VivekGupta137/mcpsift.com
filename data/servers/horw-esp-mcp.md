@@ -10,7 +10,7 @@ owner: "horw"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/horw/esp-mcp"
-readmeUrl: "https://github.com/horw/esp-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/horw/esp-mcp/blob/HEAD/README.md"
 githubStars: 136
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:46.926Z"

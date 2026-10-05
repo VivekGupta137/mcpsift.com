@@ -10,7 +10,7 @@ owner: "dazeb"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/dazeb/cline-mcp-memory-bank"
-readmeUrl: "https://github.com/dazeb/cline-mcp-memory-bank/blob/main/README.md"
+readmeUrl: "https://github.com/dazeb/cline-mcp-memory-bank/blob/HEAD/README.md"
 githubStars: 60
 githubForks: 0
 githubStatsFetchedAt: "2026-06-02T14:26:02.386Z"

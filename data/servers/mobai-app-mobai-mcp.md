@@ -10,7 +10,7 @@ owner: "MobAI-App"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/MobAI-App/mobai-mcp"
-readmeUrl: "https://github.com/MobAI-App/mobai-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/MobAI-App/mobai-mcp/blob/HEAD/README.md"
 githubStars: 41
 githubForks: 0
 githubStatsFetchedAt: "2026-02-11T22:35:21.018Z"

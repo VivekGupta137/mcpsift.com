@@ -10,7 +10,7 @@ owner: "mitsuhiko"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mitsuhiko/pexpect-mcp"
-readmeUrl: "https://github.com/mitsuhiko/pexpect-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/mitsuhiko/pexpect-mcp/blob/HEAD/README.md"
 githubStars: 58
 githubForks: 0
 githubStatsFetchedAt: "2025-11-08T00:00:36.904Z"

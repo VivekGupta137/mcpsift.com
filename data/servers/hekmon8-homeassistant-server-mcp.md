@@ -10,7 +10,7 @@ owner: "hekmon8"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/hekmon8/Homeassistant-server-mcp"
-readmeUrl: "https://github.com/hekmon8/Homeassistant-server-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/hekmon8/Homeassistant-server-mcp/blob/HEAD/README.md"
 githubStars: 46
 githubForks: 0
 githubStatsFetchedAt: "2026-01-16T02:00:43.820Z"

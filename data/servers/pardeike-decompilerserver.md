@@ -10,7 +10,7 @@ owner: "pardeike"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/pardeike/DecompilerServer"
-readmeUrl: "https://github.com/pardeike/DecompilerServer/blob/main/README.md"
+readmeUrl: "https://github.com/pardeike/DecompilerServer/blob/HEAD/README.md"
 githubStars: 32
 githubForks: 0
 githubStatsFetchedAt: "2025-11-03T00:00:34.624Z"

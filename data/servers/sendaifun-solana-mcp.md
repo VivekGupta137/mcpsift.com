@@ -10,7 +10,7 @@ owner: "sendaifun"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/sendaifun/solana-mcp"
-readmeUrl: "https://github.com/sendaifun/solana-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/sendaifun/solana-mcp/blob/HEAD/README.md"
 githubStars: 152
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:44.068Z"

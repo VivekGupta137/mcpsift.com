@@ -10,7 +10,7 @@ owner: "base"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/base/base-mcp"
-readmeUrl: "https://github.com/base/base-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/base/base-mcp/blob/HEAD/README.md"
 githubStars: 342
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:44.894Z"

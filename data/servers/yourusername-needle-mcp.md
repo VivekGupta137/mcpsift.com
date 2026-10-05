@@ -10,7 +10,7 @@ owner: "yourusername"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/needle-ai/needle-mcp"
-readmeUrl: "https://github.com/needle-ai/needle-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/needle-ai/needle-mcp/blob/HEAD/README.md"
 githubStars: 96
 githubForks: 0
 githubStatsFetchedAt: "2026-03-12T00:00:40.950Z"

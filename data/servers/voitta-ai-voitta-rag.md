@@ -10,7 +10,7 @@ owner: "voitta-ai"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/voitta-ai/voitta-rag"
-readmeUrl: "https://github.com/voitta-ai/voitta-rag/blob/main/README.md"
+readmeUrl: "https://github.com/voitta-ai/voitta-rag/blob/HEAD/README.md"
 githubStars: 31
 githubForks: 0
 githubStatsFetchedAt: "2026-09-25T20:00:55.262Z"

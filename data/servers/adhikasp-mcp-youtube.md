@@ -10,7 +10,7 @@ owner: "adhikasp"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/adhikasp/mcp-youtube"
-readmeUrl: "https://github.com/adhikasp/mcp-youtube/blob/main/README.md"
+readmeUrl: "https://github.com/adhikasp/mcp-youtube/blob/HEAD/README.md"
 githubStars: 43
 githubForks: 0
 githubStatsFetchedAt: "2025-12-02T10:01:27.711Z"

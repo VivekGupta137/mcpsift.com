@@ -10,7 +10,7 @@ owner: "jmanek"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jmanek/google-news-trends-mcp"
-readmeUrl: "https://github.com/jmanek/google-news-trends-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/jmanek/google-news-trends-mcp/blob/HEAD/README.md"
 githubStars: 73
 githubForks: 0
 githubStatsFetchedAt: "2026-03-29T18:01:20.570Z"

@@ -10,7 +10,7 @@ owner: "dgellow"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/dgellow/mcp-front"
-readmeUrl: "https://github.com/dgellow/mcp-front/blob/main/README.md"
+readmeUrl: "https://github.com/dgellow/mcp-front/blob/HEAD/README.md"
 githubStars: 39
 githubForks: 0
 githubStatsFetchedAt: "2026-03-09T00:00:35.268Z"

@@ -10,7 +10,7 @@ owner: "sshaaf"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/sshaaf/keycloak-mcp-server"
-readmeUrl: "https://github.com/sshaaf/keycloak-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/sshaaf/keycloak-mcp-server/blob/HEAD/README.md"
 githubStars: 46
 githubForks: 0
 githubStatsFetchedAt: "2026-08-18T14:31:05.996Z"

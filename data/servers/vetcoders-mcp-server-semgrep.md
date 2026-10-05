@@ -10,7 +10,7 @@ owner: "VetCoders"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/VetCoders/mcp-server-semgrep"
-readmeUrl: "https://github.com/VetCoders/mcp-server-semgrep/blob/main/README.md"
+readmeUrl: "https://github.com/VetCoders/mcp-server-semgrep/blob/HEAD/README.md"
 githubStars: 27
 githubForks: 0
 githubStatsFetchedAt: "2026-04-22T05:31:10.996Z"

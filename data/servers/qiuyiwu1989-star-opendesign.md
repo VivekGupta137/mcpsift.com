@@ -10,7 +10,7 @@ owner: "qiuyiwu1989-star"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/qiuyiwu1989-star/opendesign"
-readmeUrl: "https://github.com/qiuyiwu1989-star/opendesign/blob/main/README.md"
+readmeUrl: "https://github.com/qiuyiwu1989-star/opendesign/blob/HEAD/README.md"
 githubStars: 64
 githubForks: 0
 githubStatsFetchedAt: "2026-08-08T13:00:54.806Z"

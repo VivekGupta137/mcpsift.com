@@ -10,7 +10,7 @@ owner: "rocklambros"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/rocklambros/nist-csf-2-mcp-server"
-readmeUrl: "https://github.com/rocklambros/nist-csf-2-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/rocklambros/nist-csf-2-mcp-server/blob/HEAD/README.md"
 githubStars: 31
 githubForks: 0
 githubStatsFetchedAt: "2025-11-04T00:01:39.043Z"

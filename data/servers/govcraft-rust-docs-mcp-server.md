@@ -10,7 +10,7 @@ owner: "Govcraft"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Govcraft/rust-docs-mcp-server"
-readmeUrl: "https://github.com/Govcraft/rust-docs-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/Govcraft/rust-docs-mcp-server/blob/HEAD/README.md"
 githubStars: 259
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:52.454Z"

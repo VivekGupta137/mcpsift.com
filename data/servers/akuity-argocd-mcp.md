@@ -10,7 +10,7 @@ owner: "Akuity"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/akuity/argocd-mcp"
-readmeUrl: "https://github.com/akuity/argocd-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/akuity/argocd-mcp/blob/HEAD/README.md"
 githubStars: 154
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:44:49.967Z"

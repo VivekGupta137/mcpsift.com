@@ -10,7 +10,7 @@ owner: "GongRzhe"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/GongRzhe/A2A-MCP-Server"
-readmeUrl: "https://github.com/GongRzhe/A2A-MCP-Server/blob/main/README.md"
+readmeUrl: "https://github.com/GongRzhe/A2A-MCP-Server/blob/HEAD/README.md"
 githubStars: 143
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:05.352Z"

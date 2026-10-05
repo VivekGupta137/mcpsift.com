@@ -10,7 +10,7 @@ owner: "hey-jian-wei"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/hey-jian-wei/jianying-mcp"
-readmeUrl: "https://github.com/hey-jian-wei/jianying-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/hey-jian-wei/jianying-mcp/blob/HEAD/README.md"
 githubStars: 245
 githubForks: 0
 githubStatsFetchedAt: "2026-06-09T00:49:56.839Z"

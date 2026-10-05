@@ -10,7 +10,7 @@ owner: "JohanLi233"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/JohanLi233/python-mcp-sandbox"
-readmeUrl: "https://github.com/JohanLi233/python-mcp-sandbox/blob/main/README.md"
+readmeUrl: "https://github.com/JohanLi233/python-mcp-sandbox/blob/HEAD/README.md"
 githubStars: 37
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:13.162Z"

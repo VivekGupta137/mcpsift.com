@@ -10,7 +10,7 @@ owner: "cnkanwei"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/cnkanwei/mcp-server-echart"
-readmeUrl: "https://github.com/cnkanwei/mcp-server-echart/blob/main/README.md"
+readmeUrl: "https://github.com/cnkanwei/mcp-server-echart/blob/HEAD/README.md"
 githubStars: 60
 githubForks: 0
 githubStatsFetchedAt: "2026-03-11T00:01:18.111Z"

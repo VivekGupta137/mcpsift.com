@@ -10,7 +10,7 @@ owner: "kadykov"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/kadykov/mcp-openapi-schema-explorer"
-readmeUrl: "https://github.com/kadykov/mcp-openapi-schema-explorer/blob/main/README.md"
+readmeUrl: "https://github.com/kadykov/mcp-openapi-schema-explorer/blob/HEAD/README.md"
 githubStars: 66
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:21.349Z"

@@ -10,7 +10,7 @@ owner: "Max Freedom Pollard"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/MaxFreedomPollard/Compartment"
-readmeUrl: "https://github.com/MaxFreedomPollard/Compartment/blob/main/README.md"
+readmeUrl: "https://github.com/MaxFreedomPollard/Compartment/blob/HEAD/README.md"
 githubStars: 590
 githubForks: 0
 githubStatsFetchedAt: "2026-09-03T05:00:08.740Z"

@@ -10,7 +10,7 @@ owner: "notargs"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/notargs/UnityNaturalMCP"
-readmeUrl: "https://github.com/notargs/UnityNaturalMCP/blob/main/README.md"
+readmeUrl: "https://github.com/notargs/UnityNaturalMCP/blob/HEAD/README.md"
 githubStars: 163
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:50.810Z"

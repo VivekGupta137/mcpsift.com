@@ -10,7 +10,7 @@ owner: "hedgehogform"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ShadowNineX/ce-mcp"
-readmeUrl: "https://github.com/ShadowNineX/ce-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/ShadowNineX/ce-mcp/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2026-04-21T16:31:34.532Z"

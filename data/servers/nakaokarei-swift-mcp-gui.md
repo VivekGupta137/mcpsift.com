@@ -10,7 +10,7 @@ owner: "NakaokaRei"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/NakaokaRei/swift-mcp-gui"
-readmeUrl: "https://github.com/NakaokaRei/swift-mcp-gui/blob/main/README.md"
+readmeUrl: "https://github.com/NakaokaRei/swift-mcp-gui/blob/HEAD/README.md"
 githubStars: 54
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:01.354Z"

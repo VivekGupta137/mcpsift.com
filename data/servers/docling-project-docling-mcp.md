@@ -10,7 +10,7 @@ owner: "docling-project"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/docling-project/docling-mcp"
-readmeUrl: "https://github.com/docling-project/docling-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/docling-project/docling-mcp/blob/HEAD/README.md"
 githubStars: 622
 githubForks: 0
 githubStatsFetchedAt: "2026-05-20T11:01:00.092Z"

@@ -10,7 +10,7 @@ owner: "agentrpc"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/agentrpc/agentrpc"
-readmeUrl: "https://github.com/agentrpc/agentrpc/blob/main/README.md"
+readmeUrl: "https://github.com/agentrpc/agentrpc/blob/HEAD/README.md"
 githubStars: 127
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:12.090Z"

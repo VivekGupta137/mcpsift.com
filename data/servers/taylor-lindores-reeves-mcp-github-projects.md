@@ -10,7 +10,7 @@ owner: "taylor-lindores-reeves"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/taylor-lindores-reeves/mcp-github-projects"
-readmeUrl: "https://github.com/taylor-lindores-reeves/mcp-github-projects/blob/main/README.md"
+readmeUrl: "https://github.com/taylor-lindores-reeves/mcp-github-projects/blob/HEAD/README.md"
 githubStars: 32
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:01.356Z"

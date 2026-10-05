@@ -10,7 +10,7 @@ owner: "sitbon"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/sitbon/magg"
-readmeUrl: "https://github.com/sitbon/magg/blob/main/README.md"
+readmeUrl: "https://github.com/sitbon/magg/blob/HEAD/README.md"
 githubStars: 140
 githubForks: 0
 githubStatsFetchedAt: "2026-08-02T20:00:45.910Z"

@@ -10,7 +10,7 @@ owner: "GoogleCloudPlatform"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/GoogleCloudPlatform/cloud-run-mcp"
-readmeUrl: "https://github.com/GoogleCloudPlatform/cloud-run-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/GoogleCloudPlatform/cloud-run-mcp/blob/HEAD/README.md"
 githubStars: 549
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:28.589Z"

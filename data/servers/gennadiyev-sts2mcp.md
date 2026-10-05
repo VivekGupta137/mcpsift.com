@@ -10,7 +10,7 @@ owner: "Gennadiyev"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Gennadiyev/STS2MCP"
-readmeUrl: "https://github.com/Gennadiyev/STS2MCP/blob/main/README.md"
+readmeUrl: "https://github.com/Gennadiyev/STS2MCP/blob/HEAD/README.md"
 githubStars: 165
 githubForks: 0
 githubStatsFetchedAt: "2026-03-26T18:31:35.110Z"

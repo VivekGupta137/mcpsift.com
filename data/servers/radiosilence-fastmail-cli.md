@@ -10,7 +10,7 @@ owner: "radiosilence"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/radiosilence/fastmail-cli"
-readmeUrl: "https://github.com/radiosilence/fastmail-cli/blob/main/README.md"
+readmeUrl: "https://github.com/radiosilence/fastmail-cli/blob/HEAD/README.md"
 githubStars: 43
 githubForks: 0
 githubStatsFetchedAt: "2026-04-11T16:02:23.507Z"

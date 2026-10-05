@@ -10,7 +10,7 @@ owner: "bun913"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/bun913/mcp-testrail"
-readmeUrl: "https://github.com/bun913/mcp-testrail/blob/main/README.md"
+readmeUrl: "https://github.com/bun913/mcp-testrail/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:44.086Z"

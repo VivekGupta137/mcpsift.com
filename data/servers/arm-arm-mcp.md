@@ -10,7 +10,7 @@ owner: "arm"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/arm/mcp"
-readmeUrl: "https://github.com/arm/mcp/blob/main/README.md"
+readmeUrl: "https://github.com/arm/mcp/blob/HEAD/README.md"
 githubStars: 68
 githubForks: 0
 githubStatsFetchedAt: "2026-03-27T23:00:58.524Z"

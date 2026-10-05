@@ -10,7 +10,7 @@ owner: "JotaDeRodriguez"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/revit-mcp/revit-mcp-python"
-readmeUrl: "https://github.com/revit-mcp/revit-mcp-python/blob/main/README.md"
+readmeUrl: "https://github.com/revit-mcp/revit-mcp-python/blob/HEAD/README.md"
 githubStars: 94
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:39.643Z"

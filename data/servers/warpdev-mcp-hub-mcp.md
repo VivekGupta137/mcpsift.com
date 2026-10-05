@@ -10,7 +10,7 @@ owner: "warpdev"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/warpdev/mcp-hub-mcp"
-readmeUrl: "https://github.com/warpdev/mcp-hub-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/warpdev/mcp-hub-mcp/blob/HEAD/README.md"
 githubStars: 60
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:58.749Z"

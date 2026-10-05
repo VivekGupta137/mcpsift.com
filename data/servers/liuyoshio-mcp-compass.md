@@ -10,7 +10,7 @@ owner: "liuyoshio"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/liuyoshio/mcp-compass"
-readmeUrl: "https://github.com/liuyoshio/mcp-compass/blob/main/README.md"
+readmeUrl: "https://github.com/liuyoshio/mcp-compass/blob/HEAD/README.md"
 githubStars: 201
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:11.695Z"

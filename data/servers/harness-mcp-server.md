@@ -10,7 +10,7 @@ owner: "harness"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/harness/mcp-server"
-readmeUrl: "https://github.com/harness/mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/harness/mcp-server/blob/HEAD/README.md"
 githubStars: 30
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:31.484Z"

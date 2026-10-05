@@ -10,7 +10,7 @@ owner: "whillhill"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/whillhill/mcpstore"
-readmeUrl: "https://github.com/whillhill/mcpstore/blob/main/README.md"
+readmeUrl: "https://github.com/whillhill/mcpstore/blob/HEAD/README.md"
 githubStars: 424
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:46.050Z"

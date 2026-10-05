@@ -10,7 +10,7 @@ owner: "taisly"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/taisly/agent"
-readmeUrl: "https://github.com/taisly/agent/blob/main/README.md"
+readmeUrl: "https://github.com/taisly/agent/blob/HEAD/README.md"
 githubStars: 246
 githubForks: 0
 githubStatsFetchedAt: "2026-07-06T05:00:44.656Z"

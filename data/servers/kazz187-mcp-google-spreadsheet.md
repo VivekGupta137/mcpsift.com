@@ -10,7 +10,7 @@ owner: "kazz187"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/kazz187/mcp-google-spreadsheet"
-readmeUrl: "https://github.com/kazz187/mcp-google-spreadsheet/blob/main/README.md"
+readmeUrl: "https://github.com/kazz187/mcp-google-spreadsheet/blob/HEAD/README.md"
 githubStars: 44
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:43.945Z"

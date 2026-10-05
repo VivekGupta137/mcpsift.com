@@ -10,7 +10,7 @@ owner: "blueman82"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/blueman82/ai-counsel"
-readmeUrl: "https://github.com/blueman82/ai-counsel/blob/main/README.md"
+readmeUrl: "https://github.com/blueman82/ai-counsel/blob/HEAD/README.md"
 githubStars: 30
 githubForks: 0
 githubStatsFetchedAt: "2025-10-29T10:55:48.479Z"

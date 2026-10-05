@@ -10,7 +10,7 @@ owner: "caol64"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/caol64/wenyan-mcp"
-readmeUrl: "https://github.com/caol64/wenyan-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/caol64/wenyan-mcp/blob/HEAD/README.md"
 githubStars: 225
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:09.420Z"

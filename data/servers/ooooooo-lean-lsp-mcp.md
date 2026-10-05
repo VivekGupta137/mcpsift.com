@@ -10,7 +10,7 @@ owner: "oOo0oOo"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/oOo0oOo/lean-lsp-mcp"
-readmeUrl: "https://github.com/oOo0oOo/lean-lsp-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/oOo0oOo/lean-lsp-mcp/blob/HEAD/README.md"
 githubStars: 303
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:50.996Z"

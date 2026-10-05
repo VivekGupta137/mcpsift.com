@@ -10,7 +10,7 @@ owner: "node9-ai"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/node9-ai/node9-proxy"
-readmeUrl: "https://github.com/node9-ai/node9-proxy/blob/main/README.md"
+readmeUrl: "https://github.com/node9-ai/node9-proxy/blob/HEAD/README.md"
 githubStars: 214
 githubForks: 0
 githubStatsFetchedAt: "2026-09-20T19:30:50.550Z"

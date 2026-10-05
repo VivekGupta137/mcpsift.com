@@ -10,7 +10,7 @@ owner: "spences10"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/spences10/mcp-sequentialthinking-tools"
-readmeUrl: "https://github.com/spences10/mcp-sequentialthinking-tools/blob/main/README.md"
+readmeUrl: "https://github.com/spences10/mcp-sequentialthinking-tools/blob/HEAD/README.md"
 githubStars: 583
 githubForks: 0
 githubStatsFetchedAt: "2026-07-18T15:01:57.966Z"

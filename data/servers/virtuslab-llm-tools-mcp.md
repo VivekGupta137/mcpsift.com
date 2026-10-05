@@ -10,7 +10,7 @@ owner: "VirtusLab"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/VirtusLab/llm-tools-mcp"
-readmeUrl: "https://github.com/VirtusLab/llm-tools-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/VirtusLab/llm-tools-mcp/blob/HEAD/README.md"
 githubStars: 28
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:44:59.372Z"

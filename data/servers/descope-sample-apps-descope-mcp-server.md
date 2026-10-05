@@ -10,7 +10,7 @@ owner: "descope-sample-apps"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/descope-sample-apps/descope-mcp-server-stdio"
-readmeUrl: "https://github.com/descope-sample-apps/descope-mcp-server-stdio/blob/main/README.md"
+readmeUrl: "https://github.com/descope-sample-apps/descope-mcp-server-stdio/blob/HEAD/README.md"
 githubStars: 28
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:12.680Z"

@@ -10,7 +10,7 @@ owner: "trafflux"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/trafflux/pdf-reader-mcp"
-readmeUrl: "https://github.com/trafflux/pdf-reader-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/trafflux/pdf-reader-mcp/blob/HEAD/README.md"
 githubStars: 43
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:51.834Z"

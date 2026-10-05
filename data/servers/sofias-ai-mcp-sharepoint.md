@@ -10,7 +10,7 @@ owner: "sofias"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Sofias-ai/mcp-sharepoint"
-readmeUrl: "https://github.com/Sofias-ai/mcp-sharepoint/blob/main/README.md"
+readmeUrl: "https://github.com/Sofias-ai/mcp-sharepoint/blob/HEAD/README.md"
 githubStars: 65
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:24.409Z"

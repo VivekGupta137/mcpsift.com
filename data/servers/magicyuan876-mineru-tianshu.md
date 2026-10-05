@@ -10,7 +10,7 @@ owner: "magicyuan876"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/magicyuan876/mineru-tianshu"
-readmeUrl: "https://github.com/magicyuan876/mineru-tianshu/blob/main/README.md"
+readmeUrl: "https://github.com/magicyuan876/mineru-tianshu/blob/HEAD/README.md"
 githubStars: 25
 githubForks: 0
 githubStatsFetchedAt: "2025-10-29T10:55:37.715Z"

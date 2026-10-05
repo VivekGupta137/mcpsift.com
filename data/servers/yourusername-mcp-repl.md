@@ -10,7 +10,7 @@ owner: "yourusername"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/AnEntrypoint/mcp-repl"
-readmeUrl: "https://github.com/AnEntrypoint/mcp-repl/blob/main/README.md"
+readmeUrl: "https://github.com/AnEntrypoint/mcp-repl/blob/HEAD/README.md"
 githubStars: 123
 githubForks: 0
 githubStatsFetchedAt: "2026-03-13T00:00:37.623Z"

@@ -10,7 +10,7 @@ owner: "weibaohui"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/weibaohui/kom"
-readmeUrl: "https://github.com/weibaohui/kom/blob/main/README.md"
+readmeUrl: "https://github.com/weibaohui/kom/blob/HEAD/README.md"
 githubStars: 147
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:50.158Z"

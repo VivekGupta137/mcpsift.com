@@ -10,7 +10,7 @@ owner: "Open-Document-Alliance"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Open-Document-Alliance/PDF-Tools"
-readmeUrl: "https://github.com/Open-Document-Alliance/PDF-Tools/blob/main/README.md"
+readmeUrl: "https://github.com/Open-Document-Alliance/PDF-Tools/blob/HEAD/README.md"
 githubStars: 147
 githubForks: 0
 githubStatsFetchedAt: "2026-07-28T20:30:39.666Z"

@@ -10,7 +10,7 @@ owner: "bpy-dev"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/bpy-dev/blender-mcp"
-readmeUrl: "https://github.com/bpy-dev/blender-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/bpy-dev/blender-mcp/blob/HEAD/README.md"
 githubStars: 32
 githubForks: 0
 githubStatsFetchedAt: "2026-09-12T03:30:39.410Z"

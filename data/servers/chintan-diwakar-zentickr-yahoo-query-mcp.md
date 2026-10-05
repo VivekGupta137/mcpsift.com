@@ -10,7 +10,7 @@ owner: "chintan-diwakar"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/chintan-diwakar/zentickr-yahoo-query-mcp"
-readmeUrl: "https://github.com/chintan-diwakar/zentickr-yahoo-query-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/chintan-diwakar/zentickr-yahoo-query-mcp/blob/HEAD/README.md"
 githubStars: 25
 githubForks: 0
 githubStatsFetchedAt: "2026-08-08T17:00:51.780Z"

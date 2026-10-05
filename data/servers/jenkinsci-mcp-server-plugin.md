@@ -10,7 +10,7 @@ owner: "jenkinsci"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jenkinsci/mcp-server-plugin"
-readmeUrl: "https://github.com/jenkinsci/mcp-server-plugin/blob/main/README.md"
+readmeUrl: "https://github.com/jenkinsci/mcp-server-plugin/blob/HEAD/README.md"
 githubStars: 74
 githubForks: 0
 githubStatsFetchedAt: "2026-04-01T01:31:02.502Z"

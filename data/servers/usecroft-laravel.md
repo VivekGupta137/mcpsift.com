@@ -10,7 +10,7 @@ owner: "usecroft"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/usecroft/laravel"
-readmeUrl: "https://github.com/usecroft/laravel/blob/main/README.md"
+readmeUrl: "https://github.com/usecroft/laravel/blob/HEAD/README.md"
 githubStars: 88
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:44.393Z"

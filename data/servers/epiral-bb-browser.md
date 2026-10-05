@@ -10,7 +10,7 @@ owner: "epiral"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/epiral/bb-browser"
-readmeUrl: "https://github.com/epiral/bb-browser/blob/main/README.md"
+readmeUrl: "https://github.com/epiral/bb-browser/blob/HEAD/README.md"
 githubStars: 3133
 githubForks: 0
 githubStatsFetchedAt: "2026-03-29T10:01:47.738Z"

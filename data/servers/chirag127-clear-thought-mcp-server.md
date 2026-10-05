@@ -10,7 +10,7 @@ owner: "chirag127"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/chirag127/Clear-Thought-MCP-server"
-readmeUrl: "https://github.com/chirag127/Clear-Thought-MCP-server/blob/main/README.md"
+readmeUrl: "https://github.com/chirag127/Clear-Thought-MCP-server/blob/HEAD/README.md"
 githubStars: 32
 githubForks: 0
 githubStatsFetchedAt: "2026-07-04T04:00:58.850Z"

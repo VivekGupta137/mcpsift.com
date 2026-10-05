@@ -10,7 +10,7 @@ owner: "Amazon Web Services"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/aws-powertools/powertools-mcp"
-readmeUrl: "https://github.com/aws-powertools/powertools-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/aws-powertools/powertools-mcp/blob/HEAD/README.md"
 githubStars: 41
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:10.504Z"

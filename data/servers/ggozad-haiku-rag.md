@@ -10,7 +10,7 @@ owner: "ggozad"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ggozad/haiku.rag"
-readmeUrl: "https://github.com/ggozad/haiku.rag/blob/main/README.md"
+readmeUrl: "https://github.com/ggozad/haiku.rag/blob/HEAD/README.md"
 githubStars: 579
 githubForks: 0
 githubStatsFetchedAt: "2026-08-18T11:30:55.142Z"

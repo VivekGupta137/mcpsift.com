@@ -10,7 +10,7 @@ owner: "Edison-Watch"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Edison-Watch/open-edison"
-readmeUrl: "https://github.com/Edison-Watch/open-edison/blob/main/README.md"
+readmeUrl: "https://github.com/Edison-Watch/open-edison/blob/HEAD/README.md"
 githubStars: 224
 githubForks: 0
 githubStatsFetchedAt: "2025-11-05T00:00:47.253Z"

@@ -10,7 +10,7 @@ owner: "guangxiangdebizi"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/guangxiangdebizi/MySQL_MCP"
-readmeUrl: "https://github.com/guangxiangdebizi/MySQL_MCP/blob/main/README.md"
+readmeUrl: "https://github.com/guangxiangdebizi/MySQL_MCP/blob/HEAD/README.md"
 githubStars: 67
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:31.937Z"

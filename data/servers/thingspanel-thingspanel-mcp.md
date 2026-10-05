@@ -10,7 +10,7 @@ owner: "ThingsPanel"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ThingsPanel/thingspanel-mcp"
-readmeUrl: "https://github.com/ThingsPanel/thingspanel-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/ThingsPanel/thingspanel-mcp/blob/HEAD/README.md"
 githubStars: 43
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:05.611Z"

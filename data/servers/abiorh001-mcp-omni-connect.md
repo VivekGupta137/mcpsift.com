@@ -10,7 +10,7 @@ owner: "Abiorh001"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Abiorh001/mcp_omni_connect"
-readmeUrl: "https://github.com/Abiorh001/mcp_omni_connect/blob/main/README.md"
+readmeUrl: "https://github.com/Abiorh001/mcp_omni_connect/blob/HEAD/README.md"
 githubStars: 123
 githubForks: 0
 githubStatsFetchedAt: "2025-01-01T00:00:00.000Z"

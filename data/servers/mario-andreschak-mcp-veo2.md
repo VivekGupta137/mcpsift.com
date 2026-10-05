@@ -10,7 +10,7 @@ owner: "mario-andreschak"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mario-andreschak/mcp-veo2"
-readmeUrl: "https://github.com/mario-andreschak/mcp-veo2/blob/main/README.md"
+readmeUrl: "https://github.com/mario-andreschak/mcp-veo2/blob/HEAD/README.md"
 githubStars: 35
 githubForks: 0
 githubStatsFetchedAt: "2026-09-24T05:00:31.918Z"

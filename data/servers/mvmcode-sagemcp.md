@@ -10,7 +10,7 @@ owner: "mvmcode"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/sagemcp/SageMCP"
-readmeUrl: "https://github.com/sagemcp/SageMCP/blob/main/README.md"
+readmeUrl: "https://github.com/sagemcp/SageMCP/blob/HEAD/README.md"
 githubStars: 25
 githubForks: 0
 githubStatsFetchedAt: "2025-11-15T05:30:29.347Z"

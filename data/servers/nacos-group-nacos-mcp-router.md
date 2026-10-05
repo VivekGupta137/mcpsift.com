@@ -10,7 +10,7 @@ owner: "nacos-group"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/nacos-group/nacos-mcp-router"
-readmeUrl: "https://github.com/nacos-group/nacos-mcp-router/blob/main/README.md"
+readmeUrl: "https://github.com/nacos-group/nacos-mcp-router/blob/HEAD/README.md"
 githubStars: 171
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:05.032Z"

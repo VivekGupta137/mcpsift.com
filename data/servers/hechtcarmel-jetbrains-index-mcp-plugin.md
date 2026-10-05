@@ -10,7 +10,7 @@ owner: "hechtcarmel"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/hechtcarmel/jetbrains-index-mcp-plugin"
-readmeUrl: "https://github.com/hechtcarmel/jetbrains-index-mcp-plugin/blob/main/README.md"
+readmeUrl: "https://github.com/hechtcarmel/jetbrains-index-mcp-plugin/blob/HEAD/README.md"
 githubStars: 131
 githubForks: 0
 githubStatsFetchedAt: "2026-03-30T13:01:25.609Z"

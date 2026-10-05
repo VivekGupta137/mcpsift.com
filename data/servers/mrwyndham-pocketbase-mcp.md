@@ -10,7 +10,7 @@ owner: "mrwyndham"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mrwyndham/pocketbase-mcp"
-readmeUrl: "https://github.com/mrwyndham/pocketbase-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/mrwyndham/pocketbase-mcp/blob/HEAD/README.md"
 githubStars: 116
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:52.143Z"

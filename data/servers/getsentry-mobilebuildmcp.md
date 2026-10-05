@@ -10,7 +10,7 @@ owner: "getsentry"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/getsentry/MobileBuildMCP"
-readmeUrl: "https://github.com/getsentry/MobileBuildMCP/blob/main/README.md"
+readmeUrl: "https://github.com/getsentry/MobileBuildMCP/blob/HEAD/README.md"
 githubStars: 6416
 githubForks: 0
 githubStatsFetchedAt: "2026-09-23T20:00:46.164Z"

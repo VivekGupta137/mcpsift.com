@@ -10,7 +10,7 @@ owner: "szeider"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/szeider/consult7"
-readmeUrl: "https://github.com/szeider/consult7/blob/main/README.md"
+readmeUrl: "https://github.com/szeider/consult7/blob/HEAD/README.md"
 githubStars: 291
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:15.530Z"

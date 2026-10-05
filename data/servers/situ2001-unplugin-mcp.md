@@ -10,7 +10,7 @@ owner: "situ2001"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/situ2001/unplugin-mcp"
-readmeUrl: "https://github.com/situ2001/unplugin-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/situ2001/unplugin-mcp/blob/HEAD/README.md"
 githubStars: 31
 githubForks: 0
 githubStatsFetchedAt: "2026-03-06T02:00:45.553Z"

@@ -10,7 +10,7 @@ owner: "mcpc-tech"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mcpc-tech/mcpc"
-readmeUrl: "https://github.com/mcpc-tech/mcpc/blob/main/README.md"
+readmeUrl: "https://github.com/mcpc-tech/mcpc/blob/HEAD/README.md"
 githubStars: 85
 githubForks: 0
 githubStatsFetchedAt: "2026-03-27T10:31:07.513Z"

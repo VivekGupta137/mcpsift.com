@@ -10,7 +10,7 @@ owner: "Rai220"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Rai220/think-mcp"
-readmeUrl: "https://github.com/Rai220/think-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/Rai220/think-mcp/blob/HEAD/README.md"
 githubStars: 94
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T07:30:44.899Z"

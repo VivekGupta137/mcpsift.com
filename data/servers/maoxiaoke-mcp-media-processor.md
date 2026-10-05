@@ -10,7 +10,7 @@ owner: "maoxiaoke"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/maoxiaoke/mcp-media-processor"
-readmeUrl: "https://github.com/maoxiaoke/mcp-media-processor/blob/main/README.md"
+readmeUrl: "https://github.com/maoxiaoke/mcp-media-processor/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:04.272Z"

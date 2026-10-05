@@ -10,7 +10,7 @@ owner: "modelcontextprotocol"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/modelcontextprotocol/inspector"
-readmeUrl: "https://github.com/modelcontextprotocol/inspector/blob/main/README.md"
+readmeUrl: "https://github.com/modelcontextprotocol/inspector/blob/HEAD/README.md"
 githubStars: 8931
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:18.174Z"

@@ -10,7 +10,7 @@ owner: "pinecone-io"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/pinecone-io/pinecone-mcp"
-readmeUrl: "https://github.com/pinecone-io/pinecone-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/pinecone-io/pinecone-mcp/blob/HEAD/README.md"
 githubStars: 41
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:44:55.746Z"

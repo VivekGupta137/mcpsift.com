@@ -10,7 +10,7 @@ owner: "sammcj"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/sammcj/mcp-devtools"
-readmeUrl: "https://github.com/sammcj/mcp-devtools/blob/main/README.md"
+readmeUrl: "https://github.com/sammcj/mcp-devtools/blob/HEAD/README.md"
 githubStars: 128
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:42.385Z"

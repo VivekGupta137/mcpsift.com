@@ -10,7 +10,7 @@ owner: "kdpa-llc"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/kdpa-llc/local-skills-mcp"
-readmeUrl: "https://github.com/kdpa-llc/local-skills-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/kdpa-llc/local-skills-mcp/blob/HEAD/README.md"
 githubStars: 35
 githubForks: 0
 githubStatsFetchedAt: "2026-08-20T23:00:34.146Z"

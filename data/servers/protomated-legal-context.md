@@ -10,7 +10,7 @@ owner: "protomated"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/protomated/legal-context-ce"
-readmeUrl: "https://github.com/protomated/legal-context-ce/blob/main/README.md"
+readmeUrl: "https://github.com/protomated/legal-context-ce/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2026-05-01T09:31:07.433Z"

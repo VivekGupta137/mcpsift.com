@@ -50,7 +50,7 @@ def generate_markdown(item, output_dir):
     if raw_github_url and raw_github_url.startswith("https://github.com/"):
         parts = [p for p in raw_github_url.replace("https://github.com/", "").split("/") if p]
         if len(parts) >= 2:
-            readme_url_str = f"https://github.com/{parts[0]}/{parts[1]}/blob/main/README.md"
+            readme_url_str = f"https://github.com/{parts[0]}/{parts[1]}/blob/HEAD/README.md"
             
     readme_url = yaml_escape(readme_url_str)
     

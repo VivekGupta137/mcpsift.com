@@ -10,7 +10,7 @@ owner: "PSU3D0"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/PSU3D0/agent-spreadsheet"
-readmeUrl: "https://github.com/PSU3D0/agent-spreadsheet/blob/main/README.md"
+readmeUrl: "https://github.com/PSU3D0/agent-spreadsheet/blob/HEAD/README.md"
 githubStars: 53
 githubForks: 0
 githubStatsFetchedAt: "2026-08-25T15:00:58.376Z"

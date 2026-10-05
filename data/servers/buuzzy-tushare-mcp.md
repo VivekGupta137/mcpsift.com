@@ -10,7 +10,7 @@ owner: "buuzzy"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/buuzzy/tushare_MCP"
-readmeUrl: "https://github.com/buuzzy/tushare_MCP/blob/main/README.md"
+readmeUrl: "https://github.com/buuzzy/tushare_MCP/blob/HEAD/README.md"
 githubStars: 39
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:42.511Z"

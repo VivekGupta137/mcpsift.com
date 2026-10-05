@@ -10,7 +10,7 @@ owner: "gomarble-ai"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/gomarble-ai/google-ads-mcp-server"
-readmeUrl: "https://github.com/gomarble-ai/google-ads-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/gomarble-ai/google-ads-mcp-server/blob/HEAD/README.md"
 githubStars: 105
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:39.289Z"

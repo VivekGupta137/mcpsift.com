@@ -10,7 +10,7 @@ owner: "shadowgit"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/blade47/shadowgit-mcp"
-readmeUrl: "https://github.com/blade47/shadowgit-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/blade47/shadowgit-mcp/blob/HEAD/README.md"
 githubStars: 45
 githubForks: 0
 githubStatsFetchedAt: "2025-11-04T00:01:31.275Z"

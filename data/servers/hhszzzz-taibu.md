@@ -10,7 +10,7 @@ owner: "hhszzzz"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/hhszzzz/taibu"
-readmeUrl: "https://github.com/hhszzzz/taibu/blob/main/README.md"
+readmeUrl: "https://github.com/hhszzzz/taibu/blob/HEAD/README.md"
 githubStars: 50
 githubForks: 0
 githubStatsFetchedAt: "2026-04-15T03:31:44.714Z"

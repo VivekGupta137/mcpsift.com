@@ -10,7 +10,7 @@ owner: "bitovi"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/bitovi/vybit"
-readmeUrl: "https://github.com/bitovi/vybit/blob/main/README.md"
+readmeUrl: "https://github.com/bitovi/vybit/blob/HEAD/README.md"
 githubStars: 36
 githubForks: 0
 githubStatsFetchedAt: "2026-04-05T15:01:23.319Z"

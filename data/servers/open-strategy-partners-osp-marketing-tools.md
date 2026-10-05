@@ -10,7 +10,7 @@ owner: "open-strategy-partners"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/open-strategy-partners/osp_marketing_tools"
-readmeUrl: "https://github.com/open-strategy-partners/osp_marketing_tools/blob/main/README.md"
+readmeUrl: "https://github.com/open-strategy-partners/osp_marketing_tools/blob/HEAD/README.md"
 githubStars: 258
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:42.360Z"

@@ -10,7 +10,7 @@ owner: "Odds API"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/odds-api/odds-api"
-readmeUrl: "https://github.com/odds-api/odds-api/blob/main/README.md"
+readmeUrl: "https://github.com/odds-api/odds-api/blob/HEAD/README.md"
 githubStars: 29
 githubForks: 0
 githubStatsFetchedAt: "2026-09-23T02:27:29.456Z"

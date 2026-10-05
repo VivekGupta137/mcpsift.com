@@ -10,7 +10,7 @@ owner: "peless"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/peless/claude-thread-continuity"
-readmeUrl: "https://github.com/peless/claude-thread-continuity/blob/main/README.md"
+readmeUrl: "https://github.com/peless/claude-thread-continuity/blob/HEAD/README.md"
 githubStars: 66
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:50.289Z"

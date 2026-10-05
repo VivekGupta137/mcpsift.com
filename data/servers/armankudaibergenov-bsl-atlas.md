@@ -10,7 +10,7 @@ owner: "Arman-Kudaibergenov"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Arman-Kudaibergenov/bsl-atlas"
-readmeUrl: "https://github.com/Arman-Kudaibergenov/bsl-atlas/blob/main/README.md"
+readmeUrl: "https://github.com/Arman-Kudaibergenov/bsl-atlas/blob/HEAD/README.md"
 githubStars: 55
 githubForks: 0
 githubStatsFetchedAt: "2026-05-25T16:30:49.976Z"

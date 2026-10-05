@@ -10,7 +10,7 @@ owner: "hyperb1iss"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/hyperb1iss/droidmind"
-readmeUrl: "https://github.com/hyperb1iss/droidmind/blob/main/README.md"
+readmeUrl: "https://github.com/hyperb1iss/droidmind/blob/HEAD/README.md"
 githubStars: 314
 githubForks: 0
 githubStatsFetchedAt: "2025-12-22T07:30:39.359Z"

@@ -10,7 +10,7 @@ owner: "box-community"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/box-community/mcp-server-box"
-readmeUrl: "https://github.com/box-community/mcp-server-box/blob/main/README.md"
+readmeUrl: "https://github.com/box-community/mcp-server-box/blob/HEAD/README.md"
 githubStars: 96
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:56.382Z"

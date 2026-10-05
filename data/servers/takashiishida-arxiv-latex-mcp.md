@@ -10,7 +10,7 @@ owner: "takashiishida"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/takashiishida/arxiv-latex-mcp"
-readmeUrl: "https://github.com/takashiishida/arxiv-latex-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/takashiishida/arxiv-latex-mcp/blob/HEAD/README.md"
 githubStars: 106
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:51.686Z"

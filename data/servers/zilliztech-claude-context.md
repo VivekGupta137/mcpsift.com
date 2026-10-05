@@ -10,7 +10,7 @@ owner: "zilliztech"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/zilliztech/claude-context"
-readmeUrl: "https://github.com/zilliztech/claude-context/blob/main/README.md"
+readmeUrl: "https://github.com/zilliztech/claude-context/blob/HEAD/README.md"
 githubStars: 4873
 githubForks: 0
 githubStatsFetchedAt: "2025-12-29T00:01:09.604Z"

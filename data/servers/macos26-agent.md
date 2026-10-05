@@ -10,7 +10,7 @@ owner: "macos26"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/macOS26/Agent"
-readmeUrl: "https://github.com/macOS26/Agent/blob/main/README.md"
+readmeUrl: "https://github.com/macOS26/Agent/blob/HEAD/README.md"
 githubStars: 341
 githubForks: 0
 githubStatsFetchedAt: "2026-04-18T17:31:25.142Z"

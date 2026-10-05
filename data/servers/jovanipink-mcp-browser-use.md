@@ -10,7 +10,7 @@ owner: "JovaniPink"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/JovaniPink/mcp-browser-use"
-readmeUrl: "https://github.com/JovaniPink/mcp-browser-use/blob/main/README.md"
+readmeUrl: "https://github.com/JovaniPink/mcp-browser-use/blob/HEAD/README.md"
 githubStars: 58
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:35.588Z"

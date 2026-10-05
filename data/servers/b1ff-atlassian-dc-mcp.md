@@ -10,7 +10,7 @@ owner: "b1ff"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/b1ff/atlassian-dc-mcp"
-readmeUrl: "https://github.com/b1ff/atlassian-dc-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/b1ff/atlassian-dc-mcp/blob/HEAD/README.md"
 githubStars: 45
 githubForks: 0
 githubStatsFetchedAt: "2026-01-23T00:01:29.226Z"

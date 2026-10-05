@@ -10,7 +10,7 @@ owner: "sparfenyuk"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/sparfenyuk/mcp-proxy"
-readmeUrl: "https://github.com/sparfenyuk/mcp-proxy/blob/main/README.md"
+readmeUrl: "https://github.com/sparfenyuk/mcp-proxy/blob/HEAD/README.md"
 githubStars: 2309
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:49.667Z"

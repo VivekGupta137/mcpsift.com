@@ -10,7 +10,7 @@ owner: "supadata-ai"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/supadata-ai/mcp"
-readmeUrl: "https://github.com/supadata-ai/mcp/blob/main/README.md"
+readmeUrl: "https://github.com/supadata-ai/mcp/blob/HEAD/README.md"
 githubStars: 32
 githubForks: 0
 githubStatsFetchedAt: "2026-03-14T00:00:38.347Z"

@@ -10,7 +10,7 @@ owner: "hyper-mcp-rs"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/hyper-mcp-rs/hyper-mcp"
-readmeUrl: "https://github.com/hyper-mcp-rs/hyper-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/hyper-mcp-rs/hyper-mcp/blob/HEAD/README.md"
 githubStars: 872
 githubForks: 0
 githubStatsFetchedAt: "2026-03-24T15:02:37.387Z"

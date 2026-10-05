@@ -10,7 +10,7 @@ owner: "cboxdk"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/cboxdk/statamic-mcp"
-readmeUrl: "https://github.com/cboxdk/statamic-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/cboxdk/statamic-mcp/blob/HEAD/README.md"
 githubStars: 32
 githubForks: 0
 githubStatsFetchedAt: "2026-07-29T20:30:51.523Z"

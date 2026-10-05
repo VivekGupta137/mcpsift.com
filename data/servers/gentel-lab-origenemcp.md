@@ -10,7 +10,7 @@ owner: "GENTEL-lab"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/GENTEL-lab/OrigeneMCP"
-readmeUrl: "https://github.com/GENTEL-lab/OrigeneMCP/blob/main/README.md"
+readmeUrl: "https://github.com/GENTEL-lab/OrigeneMCP/blob/HEAD/README.md"
 githubStars: 34
 githubForks: 0
 githubStatsFetchedAt: "2026-03-09T00:00:35.195Z"

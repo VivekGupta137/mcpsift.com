@@ -10,7 +10,7 @@ owner: "BrockReece"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/BrockReece/whimsical-mcp-server"
-readmeUrl: "https://github.com/BrockReece/whimsical-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/BrockReece/whimsical-mcp-server/blob/HEAD/README.md"
 githubStars: 40
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:24.782Z"

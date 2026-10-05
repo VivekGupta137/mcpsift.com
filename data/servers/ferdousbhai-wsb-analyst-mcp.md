@@ -10,7 +10,7 @@ owner: "ferdousbhai"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ferdousbhai/wsb-analyst-mcp"
-readmeUrl: "https://github.com/ferdousbhai/wsb-analyst-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/ferdousbhai/wsb-analyst-mcp/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:26.879Z"

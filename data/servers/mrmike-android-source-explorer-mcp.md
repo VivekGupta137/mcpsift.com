@@ -10,7 +10,7 @@ owner: "mrmike"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mrmike/android-source-explorer-mcp"
-readmeUrl: "https://github.com/mrmike/android-source-explorer-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/mrmike/android-source-explorer-mcp/blob/HEAD/README.md"
 githubStars: 97
 githubForks: 0
 githubStatsFetchedAt: "2026-07-13T18:00:52.120Z"

@@ -10,7 +10,7 @@ owner: "marselsel"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/marselsel/Lexware-MCP-Server"
-readmeUrl: "https://github.com/marselsel/Lexware-MCP-Server/blob/main/README.md"
+readmeUrl: "https://github.com/marselsel/Lexware-MCP-Server/blob/HEAD/README.md"
 githubStars: 27
 githubForks: 0
 githubStatsFetchedAt: "2026-08-13T10:31:00.238Z"

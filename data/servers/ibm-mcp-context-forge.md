@@ -10,7 +10,7 @@ owner: "IBM"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/IBM/mcp-context-forge"
-readmeUrl: "https://github.com/IBM/mcp-context-forge/blob/main/README.md"
+readmeUrl: "https://github.com/IBM/mcp-context-forge/blob/HEAD/README.md"
 githubStars: 3371
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:43.759Z"

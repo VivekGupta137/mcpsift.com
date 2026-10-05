@@ -10,7 +10,7 @@ owner: "cswkim"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/cswkim/discogs-mcp-server"
-readmeUrl: "https://github.com/cswkim/discogs-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/cswkim/discogs-mcp-server/blob/HEAD/README.md"
 githubStars: 88
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:24.908Z"

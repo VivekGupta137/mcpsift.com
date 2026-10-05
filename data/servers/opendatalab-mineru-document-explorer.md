@@ -10,7 +10,7 @@ owner: "opendatalab"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/opendatalab/MinerU-Document-Explorer"
-readmeUrl: "https://github.com/opendatalab/MinerU-Document-Explorer/blob/main/README.md"
+readmeUrl: "https://github.com/opendatalab/MinerU-Document-Explorer/blob/HEAD/README.md"
 githubStars: 94
 githubForks: 0
 githubStatsFetchedAt: "2026-04-07T11:01:27.019Z"

@@ -10,7 +10,7 @@ owner: "trailofbits"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/trailofbits/mcp-context-protector"
-readmeUrl: "https://github.com/trailofbits/mcp-context-protector/blob/main/README.md"
+readmeUrl: "https://github.com/trailofbits/mcp-context-protector/blob/HEAD/README.md"
 githubStars: 215
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:22.446Z"

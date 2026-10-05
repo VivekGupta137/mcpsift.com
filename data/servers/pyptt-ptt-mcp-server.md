@@ -10,7 +10,7 @@ owner: "PyPtt"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/PyPtt/ptt_mcp_server"
-readmeUrl: "https://github.com/PyPtt/ptt_mcp_server/blob/main/README.md"
+readmeUrl: "https://github.com/PyPtt/ptt_mcp_server/blob/HEAD/README.md"
 githubStars: 32
 githubForks: 0
 githubStatsFetchedAt: "2026-03-09T00:00:41.861Z"

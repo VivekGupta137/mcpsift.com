@@ -10,7 +10,7 @@ owner: "exoticknight"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/exoticknight/mcp-file-merger"
-readmeUrl: "https://github.com/exoticknight/mcp-file-merger/blob/main/README.md"
+readmeUrl: "https://github.com/exoticknight/mcp-file-merger/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:01.202Z"

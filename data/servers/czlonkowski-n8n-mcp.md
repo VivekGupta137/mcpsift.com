@@ -10,7 +10,7 @@ owner: "czlonkowski"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/czlonkowski/n8n-mcp"
-readmeUrl: "https://github.com/czlonkowski/n8n-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/czlonkowski/n8n-mcp/blob/HEAD/README.md"
 githubStars: 9229
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:37:47.379Z"

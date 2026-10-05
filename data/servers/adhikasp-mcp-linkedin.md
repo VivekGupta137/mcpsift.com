@@ -10,7 +10,7 @@ owner: "adhikasp"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/adhikasp/mcp-linkedin"
-readmeUrl: "https://github.com/adhikasp/mcp-linkedin/blob/main/README.md"
+readmeUrl: "https://github.com/adhikasp/mcp-linkedin/blob/HEAD/README.md"
 githubStars: 111
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:02.368Z"

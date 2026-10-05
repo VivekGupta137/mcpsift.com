@@ -10,7 +10,7 @@ owner: "lsd-so"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/lsd-so/lsd-mcp"
-readmeUrl: "https://github.com/lsd-so/lsd-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/lsd-so/lsd-mcp/blob/HEAD/README.md"
 githubStars: 64
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:51.684Z"

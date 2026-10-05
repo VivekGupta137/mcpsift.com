@@ -10,7 +10,7 @@ owner: "lpigeon"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/lpigeon/ros-mcp-server"
-readmeUrl: "https://github.com/lpigeon/ros-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/lpigeon/ros-mcp-server/blob/HEAD/README.md"
 githubStars: 124
 githubForks: 0
 githubStatsFetchedAt: "2026-03-19T00:01:05.841Z"

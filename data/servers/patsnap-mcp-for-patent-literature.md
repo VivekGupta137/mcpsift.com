@@ -10,7 +10,7 @@ owner: "patsnap"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/patsnap/mcp-for-patent-literature"
-readmeUrl: "https://github.com/patsnap/mcp-for-patent-literature/blob/main/README.md"
+readmeUrl: "https://github.com/patsnap/mcp-for-patent-literature/blob/HEAD/README.md"
 githubStars: 69
 githubForks: 0
 githubStatsFetchedAt: "2026-07-20T08:01:00.092Z"

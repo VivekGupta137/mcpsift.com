@@ -10,7 +10,7 @@ owner: "mendableai"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mendableai/firecrawl-mcp-server"
-readmeUrl: "https://github.com/mendableai/firecrawl-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/mendableai/firecrawl-mcp-server/blob/HEAD/README.md"
 githubStars: 3303
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:37:08.248Z"

@@ -10,7 +10,7 @@ owner: "MackDing"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/MackDing/CodexClaw"
-readmeUrl: "https://github.com/MackDing/CodexClaw/blob/main/README.md"
+readmeUrl: "https://github.com/MackDing/CodexClaw/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2026-05-21T13:31:18.062Z"

@@ -10,7 +10,7 @@ owner: "VictoriaMetrics"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/VictoriaMetrics/mcp-victoriametrics"
-readmeUrl: "https://github.com/VictoriaMetrics/mcp-victoriametrics/blob/main/README.md"
+readmeUrl: "https://github.com/VictoriaMetrics/mcp-victoriametrics/blob/HEAD/README.md"
 githubStars: 143
 githubForks: 0
 githubStatsFetchedAt: "2026-04-07T11:01:27.413Z"

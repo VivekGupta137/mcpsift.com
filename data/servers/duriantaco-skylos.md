@@ -10,7 +10,7 @@ owner: "duriantaco"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/duriantaco/skylos"
-readmeUrl: "https://github.com/duriantaco/skylos/blob/main/README.md"
+readmeUrl: "https://github.com/duriantaco/skylos/blob/HEAD/README.md"
 githubStars: 306
 githubForks: 0
 githubStatsFetchedAt: "2026-02-13T06:30:44.195Z"

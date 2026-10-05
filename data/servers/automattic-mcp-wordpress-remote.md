@@ -10,7 +10,7 @@ owner: "Automattic"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Automattic/mcp-wordpress-remote/tree/trunk"
-readmeUrl: "https://github.com/Automattic/mcp-wordpress-remote/blob/main/README.md"
+readmeUrl: "https://github.com/Automattic/mcp-wordpress-remote/blob/HEAD/README.md"
 githubStars: 101
 githubForks: 0
 githubStatsFetchedAt: "2025-11-11T00:00:54.283Z"

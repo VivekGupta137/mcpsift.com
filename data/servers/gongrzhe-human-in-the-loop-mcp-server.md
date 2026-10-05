@@ -10,7 +10,7 @@ owner: "GongRzhe"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/GongRzhe/Human-In-the-Loop-MCP-Server"
-readmeUrl: "https://github.com/GongRzhe/Human-In-the-Loop-MCP-Server/blob/main/README.md"
+readmeUrl: "https://github.com/GongRzhe/Human-In-the-Loop-MCP-Server/blob/HEAD/README.md"
 githubStars: 147
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:28.993Z"

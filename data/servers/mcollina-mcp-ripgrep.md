@@ -10,7 +10,7 @@ owner: "mcollina"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mcollina/mcp-ripgrep"
-readmeUrl: "https://github.com/mcollina/mcp-ripgrep/blob/main/README.md"
+readmeUrl: "https://github.com/mcollina/mcp-ripgrep/blob/HEAD/README.md"
 githubStars: 41
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:13.113Z"

@@ -10,7 +10,7 @@ owner: "dbankscard"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/dbankscard/jamf-mcp-server"
-readmeUrl: "https://github.com/dbankscard/jamf-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/dbankscard/jamf-mcp-server/blob/HEAD/README.md"
 githubStars: 29
 githubForks: 0
 githubStatsFetchedAt: "2026-07-08T00:00:56.884Z"

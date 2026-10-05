@@ -10,7 +10,7 @@ owner: "jbrinkman"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jbrinkman/valkey-ai-tasks"
-readmeUrl: "https://github.com/jbrinkman/valkey-ai-tasks/blob/main/README.md"
+readmeUrl: "https://github.com/jbrinkman/valkey-ai-tasks/blob/HEAD/README.md"
 githubStars: 25
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:26.927Z"

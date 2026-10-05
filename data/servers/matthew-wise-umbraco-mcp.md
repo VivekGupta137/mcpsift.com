@@ -10,7 +10,7 @@ owner: "Matthew-Wise"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Matthew-Wise/umbraco-mcp"
-readmeUrl: "https://github.com/Matthew-Wise/umbraco-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/Matthew-Wise/umbraco-mcp/blob/HEAD/README.md"
 githubStars: 57
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:50.131Z"

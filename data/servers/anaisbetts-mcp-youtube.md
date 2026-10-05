@@ -10,7 +10,7 @@ owner: "anaisbetts"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/anaisbetts/mcp-youtube"
-readmeUrl: "https://github.com/anaisbetts/mcp-youtube/blob/main/README.md"
+readmeUrl: "https://github.com/anaisbetts/mcp-youtube/blob/HEAD/README.md"
 githubStars: 529
 githubForks: 0
 githubStatsFetchedAt: "2026-06-19T19:01:03.568Z"

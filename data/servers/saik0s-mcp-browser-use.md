@@ -10,7 +10,7 @@ owner: "Saik0s"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Saik0s/mcp-browser-use"
-readmeUrl: "https://github.com/Saik0s/mcp-browser-use/blob/main/README.md"
+readmeUrl: "https://github.com/Saik0s/mcp-browser-use/blob/HEAD/README.md"
 githubStars: 908
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:37.420Z"

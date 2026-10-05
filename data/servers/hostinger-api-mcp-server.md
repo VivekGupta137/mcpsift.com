@@ -10,7 +10,7 @@ owner: "hostinger"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/hostinger/api-mcp-server"
-readmeUrl: "https://github.com/hostinger/api-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/hostinger/api-mcp-server/blob/HEAD/README.md"
 githubStars: 113
 githubForks: 0
 githubStatsFetchedAt: "2026-07-01T09:11:28.264Z"

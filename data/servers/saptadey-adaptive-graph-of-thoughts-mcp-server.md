@@ -10,7 +10,7 @@ owner: "SaptaDey"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/SaptaDey/Adaptive-Graph-of-Thoughts-MCP-server"
-readmeUrl: "https://github.com/SaptaDey/Adaptive-Graph-of-Thoughts-MCP-server/blob/main/README.md"
+readmeUrl: "https://github.com/SaptaDey/Adaptive-Graph-of-Thoughts-MCP-server/blob/HEAD/README.md"
 githubStars: 27
 githubForks: 0
 githubStatsFetchedAt: "2026-03-09T00:00:33.814Z"

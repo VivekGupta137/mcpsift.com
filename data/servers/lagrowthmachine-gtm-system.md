@@ -10,7 +10,7 @@ owner: "LaGrowthMachine"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/LaGrowthMachine/gtm-system"
-readmeUrl: "https://github.com/LaGrowthMachine/gtm-system/blob/main/README.md"
+readmeUrl: "https://github.com/LaGrowthMachine/gtm-system/blob/HEAD/README.md"
 githubStars: 25
 githubForks: 0
 githubStatsFetchedAt: "2026-07-06T07:52:22.989Z"

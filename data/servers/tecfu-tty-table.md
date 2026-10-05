@@ -10,7 +10,7 @@ owner: "Tecfu"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/tecfu/tty-table"
-readmeUrl: "https://github.com/tecfu/tty-table/blob/main/README.md"
+readmeUrl: "https://github.com/tecfu/tty-table/blob/HEAD/README.md"
 githubStars: 308
 githubForks: 0
 githubStatsFetchedAt: "2026-09-20T23:30:44.689Z"

@@ -10,7 +10,7 @@ owner: "AntV"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/antvis/mcp-server-chart"
-readmeUrl: "https://github.com/antvis/mcp-server-chart/blob/main/README.md"
+readmeUrl: "https://github.com/antvis/mcp-server-chart/blob/HEAD/README.md"
 githubStars: 3058
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:37:15.629Z"

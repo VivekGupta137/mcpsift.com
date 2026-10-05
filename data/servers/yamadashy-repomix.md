@@ -10,7 +10,7 @@ owner: "yamadashy"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/yamadashy/repomix"
-readmeUrl: "https://github.com/yamadashy/repomix/blob/main/README.md"
+readmeUrl: "https://github.com/yamadashy/repomix/blob/HEAD/README.md"
 githubStars: 26807
 githubForks: 0
 githubStatsFetchedAt: "2026-07-03T20:14:48.949Z"

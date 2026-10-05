@@ -10,7 +10,7 @@ owner: "bx33661"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/bx33661/wireshark-mcp"
-readmeUrl: "https://github.com/bx33661/wireshark-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/bx33661/wireshark-mcp/blob/HEAD/README.md"
 githubStars: 182
 githubForks: 0
 githubStatsFetchedAt: "2026-07-30T05:43:01.709Z"

@@ -10,7 +10,7 @@ owner: "adhikasp"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/adhikasp/mcp-client-cli"
-readmeUrl: "https://github.com/adhikasp/mcp-client-cli/blob/main/README.md"
+readmeUrl: "https://github.com/adhikasp/mcp-client-cli/blob/HEAD/README.md"
 githubStars: 649
 githubForks: 0
 githubStatsFetchedAt: "2025-12-02T09:00:35.195Z"

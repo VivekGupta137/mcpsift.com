@@ -10,7 +10,7 @@ owner: "gradion-ai"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/gradion-ai/ipybox"
-readmeUrl: "https://github.com/gradion-ai/ipybox/blob/main/README.md"
+readmeUrl: "https://github.com/gradion-ai/ipybox/blob/HEAD/README.md"
 githubStars: 74
 githubForks: 0
 githubStatsFetchedAt: "2026-06-01T10:01:23.968Z"

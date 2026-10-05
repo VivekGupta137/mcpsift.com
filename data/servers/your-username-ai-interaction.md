@@ -10,7 +10,7 @@ owner: "your-username"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/KhaiHuynhVN/MCP-Server_AI-interaction"
-readmeUrl: "https://github.com/KhaiHuynhVN/MCP-Server_AI-interaction/blob/main/README.md"
+readmeUrl: "https://github.com/KhaiHuynhVN/MCP-Server_AI-interaction/blob/HEAD/README.md"
 githubStars: 30
 githubForks: 0
 githubStatsFetchedAt: "2026-03-11T00:00:33.748Z"

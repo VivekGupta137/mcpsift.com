@@ -10,7 +10,7 @@ owner: "wegitor"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/wegitor/reaper-reapy-mcp"
-readmeUrl: "https://github.com/wegitor/reaper-reapy-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/wegitor/reaper-reapy-mcp/blob/HEAD/README.md"
 githubStars: 47
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:21.938Z"

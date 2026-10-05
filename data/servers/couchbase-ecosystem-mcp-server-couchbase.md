@@ -10,7 +10,7 @@ owner: "Couchbase-Ecosystem"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Couchbase-Ecosystem/mcp-server-couchbase"
-readmeUrl: "https://github.com/Couchbase-Ecosystem/mcp-server-couchbase/blob/main/README.md"
+readmeUrl: "https://github.com/Couchbase-Ecosystem/mcp-server-couchbase/blob/HEAD/README.md"
 githubStars: 27
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:18.267Z"

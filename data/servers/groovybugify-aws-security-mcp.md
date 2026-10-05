@@ -10,7 +10,7 @@ owner: "groovyBugify"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/groovyBugify/aws-security-mcp"
-readmeUrl: "https://github.com/groovyBugify/aws-security-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/groovyBugify/aws-security-mcp/blob/HEAD/README.md"
 githubStars: 81
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:52.484Z"

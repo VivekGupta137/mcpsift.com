@@ -10,7 +10,7 @@ owner: "metis-mantis"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/metis-mantis/metis-router"
-readmeUrl: "https://github.com/metis-mantis/metis-router/blob/main/README.md"
+readmeUrl: "https://github.com/metis-mantis/metis-router/blob/HEAD/README.md"
 githubStars: 58
 githubForks: 0
 githubStatsFetchedAt: "2026-03-09T00:00:34.727Z"

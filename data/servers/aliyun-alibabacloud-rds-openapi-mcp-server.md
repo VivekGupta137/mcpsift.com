@@ -10,7 +10,7 @@ owner: "aliyun"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/aliyun/alibabacloud-rds-openapi-mcp-server"
-readmeUrl: "https://github.com/aliyun/alibabacloud-rds-openapi-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/aliyun/alibabacloud-rds-openapi-mcp-server/blob/HEAD/README.md"
 githubStars: 49
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:54.153Z"

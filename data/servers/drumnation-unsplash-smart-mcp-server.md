@@ -10,7 +10,7 @@ owner: "drumnation"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/drumnation/unsplash-smart-mcp-server"
-readmeUrl: "https://github.com/drumnation/unsplash-smart-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/drumnation/unsplash-smart-mcp-server/blob/HEAD/README.md"
 githubStars: 51
 githubForks: 0
 githubStatsFetchedAt: "2026-01-17T14:30:59.089Z"

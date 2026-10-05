@@ -10,7 +10,7 @@ owner: "vouchdev"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/vouchdev/vouch"
-readmeUrl: "https://github.com/vouchdev/vouch/blob/main/README.md"
+readmeUrl: "https://github.com/vouchdev/vouch/blob/HEAD/README.md"
 githubStars: 147
 githubForks: 0
 githubStatsFetchedAt: "2026-07-03T03:31:09.312Z"

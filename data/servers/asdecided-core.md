@@ -10,7 +10,7 @@ owner: "asdecided"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/asdecided/core"
-readmeUrl: "https://github.com/asdecided/core/blob/main/README.md"
+readmeUrl: "https://github.com/asdecided/core/blob/HEAD/README.md"
 githubStars: 283
 githubForks: 0
 githubStatsFetchedAt: "2026-07-27T22:00:57.818Z"

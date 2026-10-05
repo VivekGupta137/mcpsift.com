@@ -10,7 +10,7 @@ owner: "kintone"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/kintone/mcp-server"
-readmeUrl: "https://github.com/kintone/mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/kintone/mcp-server/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2025-11-05T00:00:50.219Z"

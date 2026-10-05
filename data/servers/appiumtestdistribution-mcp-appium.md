@@ -10,7 +10,7 @@ owner: "AppiumTestDistribution"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/AppiumTestDistribution/mcp-appium"
-readmeUrl: "https://github.com/AppiumTestDistribution/mcp-appium/blob/main/README.md"
+readmeUrl: "https://github.com/AppiumTestDistribution/mcp-appium/blob/HEAD/README.md"
 githubStars: 68
 githubForks: 0
 githubStatsFetchedAt: "2025-10-30T00:01:07.508Z"

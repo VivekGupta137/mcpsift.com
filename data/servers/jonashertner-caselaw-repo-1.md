@@ -10,7 +10,7 @@ owner: "jonashertner"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jonashertner/caselaw-repo-1"
-readmeUrl: "https://github.com/jonashertner/caselaw-repo-1/blob/main/README.md"
+readmeUrl: "https://github.com/jonashertner/caselaw-repo-1/blob/HEAD/README.md"
 githubStars: 53
 githubForks: 0
 githubStatsFetchedAt: "2026-08-06T22:00:45.321Z"

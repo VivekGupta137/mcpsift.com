@@ -10,7 +10,7 @@ owner: "Dicklesworthstone"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Dicklesworthstone/mcp_agent_mail_rust"
-readmeUrl: "https://github.com/Dicklesworthstone/mcp_agent_mail_rust/blob/main/README.md"
+readmeUrl: "https://github.com/Dicklesworthstone/mcp_agent_mail_rust/blob/HEAD/README.md"
 githubStars: 47
 githubForks: 0
 githubStatsFetchedAt: "2026-03-24T15:32:30.867Z"

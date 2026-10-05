@@ -10,7 +10,7 @@ owner: "BrightbeamAI"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/BrightbeamAI/chap"
-readmeUrl: "https://github.com/BrightbeamAI/chap/blob/main/README.md"
+readmeUrl: "https://github.com/BrightbeamAI/chap/blob/HEAD/README.md"
 githubStars: 80
 githubForks: 0
 githubStatsFetchedAt: "2026-08-31T14:01:22.708Z"

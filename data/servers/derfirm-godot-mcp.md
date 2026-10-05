@@ -10,7 +10,7 @@ owner: "Derfirm"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Derfirm/godot-mcp"
-readmeUrl: "https://github.com/Derfirm/godot-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/Derfirm/godot-mcp/blob/HEAD/README.md"
 githubStars: 57
 githubForks: 0
 githubStatsFetchedAt: "2026-07-27T09:34:12.630Z"

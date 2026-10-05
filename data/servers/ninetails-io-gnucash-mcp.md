@@ -10,7 +10,7 @@ owner: "ninetails-io"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ninetails-io/gnucash-mcp"
-readmeUrl: "https://github.com/ninetails-io/gnucash-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/ninetails-io/gnucash-mcp/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2026-05-01T10:01:03.505Z"

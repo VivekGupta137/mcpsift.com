@@ -10,7 +10,7 @@ owner: "dawnslab"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/dawnslab/jebmcp"
-readmeUrl: "https://github.com/dawnslab/jebmcp/blob/main/README.md"
+readmeUrl: "https://github.com/dawnslab/jebmcp/blob/HEAD/README.md"
 githubStars: 148
 githubForks: 0
 githubStatsFetchedAt: "2025-11-06T09:00:34.612Z"

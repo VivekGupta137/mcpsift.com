@@ -10,7 +10,7 @@ owner: "deepset-ai"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/deepset-ai/hayhooks"
-readmeUrl: "https://github.com/deepset-ai/hayhooks/blob/main/README.md"
+readmeUrl: "https://github.com/deepset-ai/hayhooks/blob/HEAD/README.md"
 githubStars: 88
 githubForks: 0
 githubStatsFetchedAt: "2026-03-19T00:01:01.125Z"

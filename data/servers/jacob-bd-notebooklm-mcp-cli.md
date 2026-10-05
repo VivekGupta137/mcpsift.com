@@ -10,7 +10,7 @@ owner: "jacob-bd"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jacob-bd/notebooklm-mcp-cli"
-readmeUrl: "https://github.com/jacob-bd/notebooklm-mcp-cli/blob/main/README.md"
+readmeUrl: "https://github.com/jacob-bd/notebooklm-mcp-cli/blob/HEAD/README.md"
 githubStars: 655
 githubForks: 0
 githubStatsFetchedAt: "2026-01-30T01:00:39.321Z"

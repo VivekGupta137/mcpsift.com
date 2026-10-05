@@ -10,7 +10,7 @@ owner: "EvalsOne"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/EvalsOne/MCP-connect"
-readmeUrl: "https://github.com/EvalsOne/MCP-connect/blob/main/README.md"
+readmeUrl: "https://github.com/EvalsOne/MCP-connect/blob/HEAD/README.md"
 githubStars: 223
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:44:48.321Z"

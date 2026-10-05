@@ -10,7 +10,7 @@ owner: "Ivlad003"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Ivlad003/mcp_newrelic"
-readmeUrl: "https://github.com/Ivlad003/mcp_newrelic/blob/main/README.md"
+readmeUrl: "https://github.com/Ivlad003/mcp_newrelic/blob/HEAD/README.md"
 githubStars: 28
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:36.499Z"

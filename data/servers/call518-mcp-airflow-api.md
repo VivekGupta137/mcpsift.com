@@ -10,7 +10,7 @@ owner: "call518"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/call518/MCP-Airflow-API"
-readmeUrl: "https://github.com/call518/MCP-Airflow-API/blob/main/README.md"
+readmeUrl: "https://github.com/call518/MCP-Airflow-API/blob/HEAD/README.md"
 githubStars: 44
 githubForks: 0
 githubStatsFetchedAt: "2026-03-27T13:31:11.325Z"

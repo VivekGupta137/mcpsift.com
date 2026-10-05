@@ -10,7 +10,7 @@ owner: "hloiseaufcms"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/hloiseaufcms/mcp-gopls"
-readmeUrl: "https://github.com/hloiseaufcms/mcp-gopls/blob/main/README.md"
+readmeUrl: "https://github.com/hloiseaufcms/mcp-gopls/blob/HEAD/README.md"
 githubStars: 69
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:54.736Z"

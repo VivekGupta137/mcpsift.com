@@ -10,7 +10,7 @@ owner: "AbyssCN"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/AbyssCN/oh-my-dag"
-readmeUrl: "https://github.com/AbyssCN/oh-my-dag/blob/main/README.md"
+readmeUrl: "https://github.com/AbyssCN/oh-my-dag/blob/HEAD/README.md"
 githubStars: 38
 githubForks: 0
 githubStatsFetchedAt: "2026-08-24T00:30:35.307Z"

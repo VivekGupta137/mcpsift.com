@@ -10,7 +10,7 @@ owner: "PSPDFKit"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/PSPDFKit/nutrient-document-engine-mcp-server"
-readmeUrl: "https://github.com/PSPDFKit/nutrient-document-engine-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/PSPDFKit/nutrient-document-engine-mcp-server/blob/HEAD/README.md"
 githubStars: 59
 githubForks: 0
 githubStatsFetchedAt: "2026-03-09T00:00:39.336Z"

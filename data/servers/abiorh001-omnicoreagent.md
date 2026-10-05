@@ -10,7 +10,7 @@ owner: "Abiorh001"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Abiorh001/omnicoreagent"
-readmeUrl: "https://github.com/Abiorh001/omnicoreagent/blob/main/README.md"
+readmeUrl: "https://github.com/Abiorh001/omnicoreagent/blob/HEAD/README.md"
 githubStars: 192
 githubForks: 0
 githubStatsFetchedAt: "2025-11-04T00:00:57.044Z"

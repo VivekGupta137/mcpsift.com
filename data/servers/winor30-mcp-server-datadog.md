@@ -10,7 +10,7 @@ owner: "winor30"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/winor30/mcp-server-datadog"
-readmeUrl: "https://github.com/winor30/mcp-server-datadog/blob/main/README.md"
+readmeUrl: "https://github.com/winor30/mcp-server-datadog/blob/HEAD/README.md"
 githubStars: 139
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:34.305Z"

@@ -10,7 +10,7 @@ owner: "matthewhand"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/matthewhand/mcp-openapi-proxy"
-readmeUrl: "https://github.com/matthewhand/mcp-openapi-proxy/blob/main/README.md"
+readmeUrl: "https://github.com/matthewhand/mcp-openapi-proxy/blob/HEAD/README.md"
 githubStars: 148
 githubForks: 0
 githubStatsFetchedAt: "2026-06-12T20:30:39.557Z"

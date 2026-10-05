@@ -10,7 +10,7 @@ owner: "Mtehabsim"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Mtehabsim/ScreenPilot"
-readmeUrl: "https://github.com/Mtehabsim/ScreenPilot/blob/main/README.md"
+readmeUrl: "https://github.com/Mtehabsim/ScreenPilot/blob/HEAD/README.md"
 githubStars: 49
 githubForks: 0
 githubStatsFetchedAt: "2025-11-09T00:00:32.898Z"

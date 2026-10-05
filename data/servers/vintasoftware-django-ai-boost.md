@@ -10,7 +10,7 @@ owner: "vintasoftware"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/vintasoftware/django-ai-boost"
-readmeUrl: "https://github.com/vintasoftware/django-ai-boost/blob/main/README.md"
+readmeUrl: "https://github.com/vintasoftware/django-ai-boost/blob/HEAD/README.md"
 githubStars: 108
 githubForks: 0
 githubStatsFetchedAt: "2026-07-31T18:30:51.313Z"

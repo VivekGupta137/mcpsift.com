@@ -10,7 +10,7 @@ owner: "xorrkaz"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/xorrkaz/cml-mcp"
-readmeUrl: "https://github.com/xorrkaz/cml-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/xorrkaz/cml-mcp/blob/HEAD/README.md"
 githubStars: 37
 githubForks: 0
 githubStatsFetchedAt: "2026-03-26T21:01:40.470Z"

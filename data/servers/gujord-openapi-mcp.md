@@ -10,7 +10,7 @@ owner: "gujord"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/gujord/OpenAPI-MCP"
-readmeUrl: "https://github.com/gujord/OpenAPI-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/gujord/OpenAPI-MCP/blob/HEAD/README.md"
 githubStars: 62
 githubForks: 0
 githubStatsFetchedAt: "2026-01-07T00:01:04.012Z"

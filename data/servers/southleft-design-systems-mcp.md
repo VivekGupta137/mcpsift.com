@@ -10,7 +10,7 @@ owner: "southleft"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/southleft/design-systems-mcp"
-readmeUrl: "https://github.com/southleft/design-systems-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/southleft/design-systems-mcp/blob/HEAD/README.md"
 githubStars: 162
 githubForks: 0
 githubStatsFetchedAt: "2026-05-26T19:01:16.052Z"

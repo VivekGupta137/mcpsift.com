@@ -10,7 +10,7 @@ owner: "healkeiser"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/healkeiser/fxhoudinimcp"
-readmeUrl: "https://github.com/healkeiser/fxhoudinimcp/blob/main/README.md"
+readmeUrl: "https://github.com/healkeiser/fxhoudinimcp/blob/HEAD/README.md"
 githubStars: 31
 githubForks: 0
 githubStatsFetchedAt: "2026-03-31T16:01:31.729Z"

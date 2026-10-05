@@ -10,7 +10,7 @@ owner: "panxingfeng"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/panxingfeng/mcp_server_wechat"
-readmeUrl: "https://github.com/panxingfeng/mcp_server_wechat/blob/main/README.md"
+readmeUrl: "https://github.com/panxingfeng/mcp_server_wechat/blob/HEAD/README.md"
 githubStars: 81
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:06.276Z"

@@ -10,7 +10,7 @@ owner: "nloui"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/nloui/paperless-mcp"
-readmeUrl: "https://github.com/nloui/paperless-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/nloui/paperless-mcp/blob/HEAD/README.md"
 githubStars: 189
 githubForks: 0
 githubStatsFetchedAt: "2026-06-02T17:28:05.325Z"

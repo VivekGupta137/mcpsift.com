@@ -10,7 +10,7 @@ owner: "msaelices"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/msaelices/whatsapp-mcp-server"
-readmeUrl: "https://github.com/msaelices/whatsapp-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/msaelices/whatsapp-mcp-server/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:39.252Z"

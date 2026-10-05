@@ -10,7 +10,7 @@ owner: "FlipForensics"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/FlipForensics/AIFT"
-readmeUrl: "https://github.com/FlipForensics/AIFT/blob/main/README.md"
+readmeUrl: "https://github.com/FlipForensics/AIFT/blob/HEAD/README.md"
 githubStars: 32
 githubForks: 0
 githubStatsFetchedAt: "2026-06-13T15:01:03.785Z"

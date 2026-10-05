@@ -10,7 +10,7 @@ owner: "beixiyo"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/beixiyo/vsc-lsp-mcp"
-readmeUrl: "https://github.com/beixiyo/vsc-lsp-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/beixiyo/vsc-lsp-mcp/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2026-05-15T07:00:46.031Z"

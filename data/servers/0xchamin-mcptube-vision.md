@@ -10,7 +10,7 @@ owner: "0xchamin"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/0xchamin/mcptube/tree/vision"
-readmeUrl: "https://github.com/0xchamin/mcptube/blob/main/README.md"
+readmeUrl: "https://github.com/0xchamin/mcptube/blob/HEAD/README.md"
 githubStars: 39
 githubForks: 0
 githubStatsFetchedAt: "2026-04-10T19:31:44.781Z"

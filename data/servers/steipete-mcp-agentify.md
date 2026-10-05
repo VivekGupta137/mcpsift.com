@@ -10,7 +10,7 @@ owner: "steipete"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/steipete/mcp-agentify"
-readmeUrl: "https://github.com/steipete/mcp-agentify/blob/main/README.md"
+readmeUrl: "https://github.com/steipete/mcp-agentify/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2026-06-09T00:01:34.900Z"

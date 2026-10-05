@@ -10,7 +10,7 @@ owner: "mmdju"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mmdju/divar-mcp"
-readmeUrl: "https://github.com/mmdju/divar-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/mmdju/divar-mcp/blob/HEAD/README.md"
 githubStars: 58
 githubForks: 0
 githubStatsFetchedAt: "2026-09-23T20:30:52.196Z"

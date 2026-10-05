@@ -10,7 +10,7 @@ owner: "metatool-ai"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/metatool-ai/mcp-server-metamcp"
-readmeUrl: "https://github.com/metatool-ai/mcp-server-metamcp/blob/main/README.md"
+readmeUrl: "https://github.com/metatool-ai/mcp-server-metamcp/blob/HEAD/README.md"
 githubStars: 149
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:09.468Z"

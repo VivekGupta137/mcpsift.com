@@ -10,7 +10,7 @@ owner: "mdwsk88"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mdwsk88/ms-365-21v-mcp-server"
-readmeUrl: "https://github.com/mdwsk88/ms-365-21v-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/mdwsk88/ms-365-21v-mcp-server/blob/HEAD/README.md"
 githubStars: 101
 githubForks: 0
 githubStatsFetchedAt: "2026-09-07T07:00:47.101Z"

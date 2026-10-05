@@ -10,7 +10,7 @@ owner: "Arch1eSUN"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Arch1eSUN/Arcgentic"
-readmeUrl: "https://github.com/Arch1eSUN/Arcgentic/blob/main/README.md"
+readmeUrl: "https://github.com/Arch1eSUN/Arcgentic/blob/HEAD/README.md"
 githubStars: 32
 githubForks: 0
 githubStatsFetchedAt: "2026-08-12T14:30:54.386Z"

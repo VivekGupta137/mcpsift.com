@@ -10,7 +10,7 @@ owner: "privetin"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/privetin/chroma"
-readmeUrl: "https://github.com/privetin/chroma/blob/main/README.md"
+readmeUrl: "https://github.com/privetin/chroma/blob/HEAD/README.md"
 githubStars: 41
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:53.499Z"

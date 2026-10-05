@@ -10,7 +10,7 @@ owner: "kenliao94"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/kenliao94/mcp-server-rabbitmq"
-readmeUrl: "https://github.com/kenliao94/mcp-server-rabbitmq/blob/main/README.md"
+readmeUrl: "https://github.com/kenliao94/mcp-server-rabbitmq/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2026-03-19T00:00:58.208Z"

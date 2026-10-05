@@ -10,7 +10,7 @@ owner: "fhhyyp"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/fhhyyp/serein-flow"
-readmeUrl: "https://github.com/fhhyyp/serein-flow/blob/main/README.md"
+readmeUrl: "https://github.com/fhhyyp/serein-flow/blob/HEAD/README.md"
 githubStars: 183
 githubForks: 0
 githubStatsFetchedAt: "2026-08-31T16:30:54.623Z"

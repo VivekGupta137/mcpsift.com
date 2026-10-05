@@ -10,7 +10,7 @@ owner: "cnitlrt"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/cnitlrt/headless-ida-mcp-server"
-readmeUrl: "https://github.com/cnitlrt/headless-ida-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/cnitlrt/headless-ida-mcp-server/blob/HEAD/README.md"
 githubStars: 33
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:14.022Z"

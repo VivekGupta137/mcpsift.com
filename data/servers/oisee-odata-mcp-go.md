@@ -10,7 +10,7 @@ owner: "oisee"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/oisee/odata_mcp_go"
-readmeUrl: "https://github.com/oisee/odata_mcp_go/blob/main/README.md"
+readmeUrl: "https://github.com/oisee/odata_mcp_go/blob/HEAD/README.md"
 githubStars: 111
 githubForks: 0
 githubStatsFetchedAt: "2026-03-09T00:00:39.695Z"

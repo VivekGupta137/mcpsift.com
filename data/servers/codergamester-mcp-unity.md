@@ -10,7 +10,7 @@ owner: "CoderGamester"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/CoderGamester/mcp-unity"
-readmeUrl: "https://github.com/CoderGamester/mcp-unity/blob/main/README.md"
+readmeUrl: "https://github.com/CoderGamester/mcp-unity/blob/HEAD/README.md"
 githubStars: 1388
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:41.717Z"

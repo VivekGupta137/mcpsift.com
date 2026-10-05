@@ -10,7 +10,7 @@ owner: "gwbischof"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/gwbischof/free-will-mcp"
-readmeUrl: "https://github.com/gwbischof/free-will-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/gwbischof/free-will-mcp/blob/HEAD/README.md"
 githubStars: 30
 githubForks: 0
 githubStatsFetchedAt: "2025-11-13T00:00:43.483Z"

@@ -10,7 +10,7 @@ owner: "datalayer"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/datalayer/jupyter-mcp-server"
-readmeUrl: "https://github.com/datalayer/jupyter-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/datalayer/jupyter-mcp-server/blob/HEAD/README.md"
 githubStars: 932
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:34.281Z"

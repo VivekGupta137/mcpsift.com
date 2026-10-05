@@ -10,7 +10,7 @@ owner: "Avinash-jetwani"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Avinash-jetwani/jevmem"
-readmeUrl: "https://github.com/Avinash-jetwani/jevmem/blob/main/README.md"
+readmeUrl: "https://github.com/Avinash-jetwani/jevmem/blob/HEAD/README.md"
 githubStars: 105
 githubForks: 0
 githubStatsFetchedAt: "2026-10-02T12:34:47.848Z"

@@ -10,7 +10,7 @@ owner: "morristai"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/morristai/iceberg-mcp"
-readmeUrl: "https://github.com/morristai/iceberg-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/morristai/iceberg-mcp/blob/HEAD/README.md"
 githubStars: 31
 githubForks: 0
 githubStatsFetchedAt: "2025-11-10T00:00:34.064Z"

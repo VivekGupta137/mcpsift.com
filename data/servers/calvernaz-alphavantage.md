@@ -10,7 +10,7 @@ owner: "calvernaz"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/calvernaz/alphavantage"
-readmeUrl: "https://github.com/calvernaz/alphavantage/blob/main/README.md"
+readmeUrl: "https://github.com/calvernaz/alphavantage/blob/HEAD/README.md"
 githubStars: 73
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:05.696Z"

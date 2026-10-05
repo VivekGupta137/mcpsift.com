@@ -10,7 +10,7 @@ owner: "feenlace"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/feenlace/mcp-1c"
-readmeUrl: "https://github.com/feenlace/mcp-1c/blob/main/README.md"
+readmeUrl: "https://github.com/feenlace/mcp-1c/blob/HEAD/README.md"
 githubStars: 163
 githubForks: 0
 githubStatsFetchedAt: "2026-07-18T12:57:35.825Z"

@@ -10,7 +10,7 @@ owner: "dvcrn"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/dvcrn/mcp-server-devonthink"
-readmeUrl: "https://github.com/dvcrn/mcp-server-devonthink/blob/main/README.md"
+readmeUrl: "https://github.com/dvcrn/mcp-server-devonthink/blob/HEAD/README.md"
 githubStars: 62
 githubForks: 0
 githubStatsFetchedAt: "2026-03-12T00:00:51.905Z"

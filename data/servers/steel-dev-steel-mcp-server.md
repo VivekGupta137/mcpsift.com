@@ -10,7 +10,7 @@ owner: "steel-dev"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/steel-dev/steel-mcp-server"
-readmeUrl: "https://github.com/steel-dev/steel-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/steel-dev/steel-mcp-server/blob/HEAD/README.md"
 githubStars: 49
 githubForks: 0
 githubStatsFetchedAt: "2026-08-07T15:01:02.008Z"

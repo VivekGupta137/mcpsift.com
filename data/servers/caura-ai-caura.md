@@ -10,7 +10,7 @@ owner: "caura-ai"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/caura-ai/caura"
-readmeUrl: "https://github.com/caura-ai/caura/blob/main/README.md"
+readmeUrl: "https://github.com/caura-ai/caura/blob/HEAD/README.md"
 githubStars: 430
 githubForks: 0
 githubStatsFetchedAt: "2026-08-13T09:30:46.052Z"

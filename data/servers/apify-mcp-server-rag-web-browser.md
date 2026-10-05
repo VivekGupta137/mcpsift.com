@@ -10,7 +10,7 @@ owner: "apify"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/apify/mcp-server-rag-web-browser"
-readmeUrl: "https://github.com/apify/mcp-server-rag-web-browser/blob/main/README.md"
+readmeUrl: "https://github.com/apify/mcp-server-rag-web-browser/blob/HEAD/README.md"
 githubStars: 198
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:03.361Z"

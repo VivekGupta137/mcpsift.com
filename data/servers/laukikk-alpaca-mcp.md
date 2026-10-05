@@ -10,7 +10,7 @@ owner: "laukikk"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/laukikk/alpaca-mcp"
-readmeUrl: "https://github.com/laukikk/alpaca-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/laukikk/alpaca-mcp/blob/HEAD/README.md"
 githubStars: 32
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:24.283Z"

@@ -10,7 +10,7 @@ owner: "HoldMyBeer-gg"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jabberwock/blend-ai"
-readmeUrl: "https://github.com/jabberwock/blend-ai/blob/main/README.md"
+readmeUrl: "https://github.com/jabberwock/blend-ai/blob/HEAD/README.md"
 githubStars: 113
 githubForks: 0
 githubStatsFetchedAt: "2026-07-25T19:50:05.791Z"

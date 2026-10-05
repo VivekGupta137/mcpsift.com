@@ -10,7 +10,7 @@ owner: "locomotive-agency"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/locomotive-agency/mcp-router"
-readmeUrl: "https://github.com/locomotive-agency/mcp-router/blob/main/README.md"
+readmeUrl: "https://github.com/locomotive-agency/mcp-router/blob/HEAD/README.md"
 githubStars: 37
 githubForks: 0
 githubStatsFetchedAt: "2026-03-13T00:00:57.222Z"

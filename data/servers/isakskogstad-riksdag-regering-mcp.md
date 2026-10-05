@@ -10,7 +10,7 @@ owner: "isakskogstad"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/isakskogstad/Riksdag-Regering-MCP"
-readmeUrl: "https://github.com/isakskogstad/Riksdag-Regering-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/isakskogstad/Riksdag-Regering-MCP/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2026-04-22T09:01:44.260Z"

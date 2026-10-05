@@ -10,7 +10,7 @@ owner: "yuhuacheng"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/yuhuacheng/tidal-mcp"
-readmeUrl: "https://github.com/yuhuacheng/tidal-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/yuhuacheng/tidal-mcp/blob/HEAD/README.md"
 githubStars: 37
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:46.213Z"

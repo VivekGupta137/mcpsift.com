@@ -10,7 +10,7 @@ owner: "Aayush9029"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Aayush9029/mcp-server"
-readmeUrl: "https://github.com/Aayush9029/mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/Aayush9029/mcp-server/blob/HEAD/README.md"
 githubStars: 39
 githubForks: 0
 githubStatsFetchedAt: "2026-03-28T19:01:28.450Z"

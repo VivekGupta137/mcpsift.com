@@ -10,7 +10,7 @@ owner: "zinja-coder"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/zinja-coder/zin-mcp-client"
-readmeUrl: "https://github.com/zinja-coder/zin-mcp-client/blob/main/README.md"
+readmeUrl: "https://github.com/zinja-coder/zin-mcp-client/blob/HEAD/README.md"
 githubStars: 99
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:01.459Z"

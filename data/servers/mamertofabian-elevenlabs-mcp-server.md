@@ -10,7 +10,7 @@ owner: "mamertofabian"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mamertofabian/elevenlabs-mcp-server"
-readmeUrl: "https://github.com/mamertofabian/elevenlabs-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/mamertofabian/elevenlabs-mcp-server/blob/HEAD/README.md"
 githubStars: 119
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:00.381Z"

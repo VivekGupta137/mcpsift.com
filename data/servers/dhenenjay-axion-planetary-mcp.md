@@ -10,7 +10,7 @@ owner: "Dhenenjay"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Dhenenjay/axion-planetary-mcp"
-readmeUrl: "https://github.com/Dhenenjay/axion-planetary-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/Dhenenjay/axion-planetary-mcp/blob/HEAD/README.md"
 githubStars: 122
 githubForks: 0
 githubStatsFetchedAt: "2025-11-02T00:00:36.772Z"

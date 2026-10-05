@@ -10,7 +10,7 @@ owner: "DeepL"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/DeepL/deepl-mcp-server"
-readmeUrl: "https://github.com/DeepL/deepl-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/DeepL/deepl-mcp-server/blob/HEAD/README.md"
 githubStars: 109
 githubForks: 0
 githubStatsFetchedAt: "2026-07-30T15:30:50.508Z"

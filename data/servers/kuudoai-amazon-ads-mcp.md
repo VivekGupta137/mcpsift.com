@@ -10,7 +10,7 @@ owner: "Kuudo"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/KuudoAI/amazon_ads_mcp"
-readmeUrl: "https://github.com/KuudoAI/amazon_ads_mcp/blob/main/README.md"
+readmeUrl: "https://github.com/KuudoAI/amazon_ads_mcp/blob/HEAD/README.md"
 githubStars: 67
 githubForks: 0
 githubStatsFetchedAt: "2026-09-06T17:17:14.512Z"

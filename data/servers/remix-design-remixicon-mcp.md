@@ -10,7 +10,7 @@ owner: "Remix-Design"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Remix-Design/RemixIcon-MCP"
-readmeUrl: "https://github.com/Remix-Design/RemixIcon-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/Remix-Design/RemixIcon-MCP/blob/HEAD/README.md"
 githubStars: 54
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:37:21.253Z"

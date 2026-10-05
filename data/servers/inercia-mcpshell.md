@@ -10,7 +10,7 @@ owner: "inercia"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/inercia/MCPShell"
-readmeUrl: "https://github.com/inercia/MCPShell/blob/main/README.md"
+readmeUrl: "https://github.com/inercia/MCPShell/blob/HEAD/README.md"
 githubStars: 58
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:05.590Z"

@@ -10,7 +10,7 @@ owner: "ageborn-dev"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ageborn-dev/architect-mcp-server"
-readmeUrl: "https://github.com/ageborn-dev/architect-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/ageborn-dev/architect-mcp-server/blob/HEAD/README.md"
 githubStars: 25
 githubForks: 0
 githubStatsFetchedAt: "2026-06-12T16:01:37.200Z"

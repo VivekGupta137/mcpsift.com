@@ -10,7 +10,7 @@ owner: "coreviz"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/coreviz/cli"
-readmeUrl: "https://github.com/coreviz/cli/blob/main/README.md"
+readmeUrl: "https://github.com/coreviz/cli/blob/HEAD/README.md"
 githubStars: 48
 githubForks: 0
 githubStatsFetchedAt: "2026-03-23T16:01:15.410Z"

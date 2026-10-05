@@ -10,7 +10,7 @@ owner: "caidish"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/caidish/instrMCP"
-readmeUrl: "https://github.com/caidish/instrMCP/blob/main/README.md"
+readmeUrl: "https://github.com/caidish/instrMCP/blob/HEAD/README.md"
 githubStars: 27
 githubForks: 0
 githubStatsFetchedAt: "2026-06-21T10:00:42.648Z"

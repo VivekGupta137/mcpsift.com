@@ -10,7 +10,7 @@ owner: "vespo92"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/vespo92/SolidworksMCP-TS"
-readmeUrl: "https://github.com/vespo92/SolidworksMCP-TS/blob/main/README.md"
+readmeUrl: "https://github.com/vespo92/SolidworksMCP-TS/blob/HEAD/README.md"
 githubStars: 143
 githubForks: 0
 githubStatsFetchedAt: "2026-05-23T23:51:42.492Z"

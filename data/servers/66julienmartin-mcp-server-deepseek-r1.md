@@ -10,7 +10,7 @@ owner: "66julienmartin"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/66julienmartin/MCP-server-Deepseek_R1"
-readmeUrl: "https://github.com/66julienmartin/MCP-server-Deepseek_R1/blob/main/README.md"
+readmeUrl: "https://github.com/66julienmartin/MCP-server-Deepseek_R1/blob/HEAD/README.md"
 githubStars: 69
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:36.663Z"

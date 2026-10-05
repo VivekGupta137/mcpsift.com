@@ -10,7 +10,7 @@ owner: "SharkyND"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/SharkyND/mcp-atlassian"
-readmeUrl: "https://github.com/SharkyND/mcp-atlassian/blob/main/README.md"
+readmeUrl: "https://github.com/SharkyND/mcp-atlassian/blob/HEAD/README.md"
 githubStars: 27
 githubForks: 0
 githubStatsFetchedAt: "2026-03-26T04:31:58.281Z"

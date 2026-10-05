@@ -10,7 +10,7 @@ owner: "thirdstrandstudio"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/thirdstrandstudio/mcp-figma"
-readmeUrl: "https://github.com/thirdstrandstudio/mcp-figma/blob/main/README.md"
+readmeUrl: "https://github.com/thirdstrandstudio/mcp-figma/blob/HEAD/README.md"
 githubStars: 31
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:44:58.089Z"

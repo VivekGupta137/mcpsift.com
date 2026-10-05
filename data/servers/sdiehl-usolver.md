@@ -10,7 +10,7 @@ owner: "sdiehl"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/sdiehl/usolver"
-readmeUrl: "https://github.com/sdiehl/usolver/blob/main/README.md"
+readmeUrl: "https://github.com/sdiehl/usolver/blob/HEAD/README.md"
 githubStars: 64
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:48.408Z"

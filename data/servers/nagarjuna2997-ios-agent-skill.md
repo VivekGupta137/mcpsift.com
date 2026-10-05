@@ -10,7 +10,7 @@ owner: "Nagarjuna2997"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Nagarjuna2997/ios-agent-skill"
-readmeUrl: "https://github.com/Nagarjuna2997/ios-agent-skill/blob/main/README.md"
+readmeUrl: "https://github.com/Nagarjuna2997/ios-agent-skill/blob/HEAD/README.md"
 githubStars: 32
 githubForks: 0
 githubStatsFetchedAt: "2026-09-10T20:00:54.121Z"

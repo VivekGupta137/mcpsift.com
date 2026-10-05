@@ -10,7 +10,7 @@ owner: "LNC0831"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/LNC0831/SynthPilot"
-readmeUrl: "https://github.com/LNC0831/SynthPilot/blob/main/README.md"
+readmeUrl: "https://github.com/LNC0831/SynthPilot/blob/HEAD/README.md"
 githubStars: 46
 githubForks: 0
 githubStatsFetchedAt: "2026-06-09T05:00:59.053Z"

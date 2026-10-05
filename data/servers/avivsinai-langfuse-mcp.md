@@ -10,7 +10,7 @@ owner: "avivsinai"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/avivsinai/langfuse-mcp"
-readmeUrl: "https://github.com/avivsinai/langfuse-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/avivsinai/langfuse-mcp/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2025-10-31T00:01:11.541Z"

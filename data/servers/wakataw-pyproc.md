@@ -10,7 +10,7 @@ owner: "wakataw"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/wakataw/pyproc"
-readmeUrl: "https://github.com/wakataw/pyproc/blob/main/README.md"
+readmeUrl: "https://github.com/wakataw/pyproc/blob/HEAD/README.md"
 githubStars: 34
 githubForks: 0
 githubStatsFetchedAt: "2026-06-11T09:31:01.999Z"

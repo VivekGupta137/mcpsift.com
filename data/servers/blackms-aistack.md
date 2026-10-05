@@ -10,7 +10,7 @@ owner: "blackms"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/blackms/aistack"
-readmeUrl: "https://github.com/blackms/aistack/blob/main/README.md"
+readmeUrl: "https://github.com/blackms/aistack/blob/HEAD/README.md"
 githubStars: 51
 githubForks: 0
 githubStatsFetchedAt: "2026-05-28T11:30:57.799Z"

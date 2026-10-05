@@ -10,7 +10,7 @@ owner: "ai-zerolab"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ai-zerolab/mcp-toolbox"
-readmeUrl: "https://github.com/ai-zerolab/mcp-toolbox/blob/main/README.md"
+readmeUrl: "https://github.com/ai-zerolab/mcp-toolbox/blob/HEAD/README.md"
 githubStars: 28
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:22.656Z"

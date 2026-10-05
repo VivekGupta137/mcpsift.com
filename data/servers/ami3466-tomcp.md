@@ -10,7 +10,7 @@ owner: "Ami3466"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Ami3466/tomcp"
-readmeUrl: "https://github.com/Ami3466/tomcp/blob/main/README.md"
+readmeUrl: "https://github.com/Ami3466/tomcp/blob/HEAD/README.md"
 githubStars: 175
 githubForks: 0
 githubStatsFetchedAt: "2026-09-10T16:00:53.116Z"

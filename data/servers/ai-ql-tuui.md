@@ -10,7 +10,7 @@ owner: "AI-QL"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/AI-QL/tuui"
-readmeUrl: "https://github.com/AI-QL/tuui/blob/main/README.md"
+readmeUrl: "https://github.com/AI-QL/tuui/blob/HEAD/README.md"
 githubStars: 1131
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:43.770Z"

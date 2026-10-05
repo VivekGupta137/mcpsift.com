@@ -10,7 +10,7 @@ owner: "greirson"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/greirson/mcp-todoist"
-readmeUrl: "https://github.com/greirson/mcp-todoist/blob/main/README.md"
+readmeUrl: "https://github.com/greirson/mcp-todoist/blob/HEAD/README.md"
 githubStars: 143
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:10.539Z"

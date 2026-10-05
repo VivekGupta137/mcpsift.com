@@ -10,7 +10,7 @@ owner: "ScrapeGraphAI"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ScrapeGraphAI/scrapegraph-mcp"
-readmeUrl: "https://github.com/ScrapeGraphAI/scrapegraph-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/ScrapeGraphAI/scrapegraph-mcp/blob/HEAD/README.md"
 githubStars: 58
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:07.275Z"

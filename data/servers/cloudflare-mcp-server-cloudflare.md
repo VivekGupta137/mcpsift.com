@@ -10,7 +10,7 @@ owner: "cloudflare"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/cloudflare/mcp-server-cloudflare"
-readmeUrl: "https://github.com/cloudflare/mcp-server-cloudflare/blob/main/README.md"
+readmeUrl: "https://github.com/cloudflare/mcp-server-cloudflare/blob/HEAD/README.md"
 githubStars: 3506
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:53.544Z"

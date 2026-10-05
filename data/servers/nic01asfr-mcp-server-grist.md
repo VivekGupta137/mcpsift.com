@@ -10,7 +10,7 @@ owner: "nic01asfr"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/nic01asFr/mcp-server-grist/tree/dev"
-readmeUrl: "https://github.com/nic01asFr/mcp-server-grist/blob/main/README.md"
+readmeUrl: "https://github.com/nic01asFr/mcp-server-grist/blob/HEAD/README.md"
 githubStars: 36
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:15.784Z"

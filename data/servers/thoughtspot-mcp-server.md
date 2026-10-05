@@ -10,7 +10,7 @@ owner: "thoughtspot"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/thoughtspot/mcp-server"
-readmeUrl: "https://github.com/thoughtspot/mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/thoughtspot/mcp-server/blob/HEAD/README.md"
 githubStars: 27
 githubForks: 0
 githubStatsFetchedAt: "2026-03-09T00:00:34.495Z"

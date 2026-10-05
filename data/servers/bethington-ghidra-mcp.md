@@ -10,7 +10,7 @@ owner: "bethington"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/bethington/ghidra-mcp"
-readmeUrl: "https://github.com/bethington/ghidra-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/bethington/ghidra-mcp/blob/HEAD/README.md"
 githubStars: 2047
 githubForks: 0
 githubStatsFetchedAt: "2026-05-22T19:31:40.684Z"

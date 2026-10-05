@@ -10,7 +10,7 @@ owner: "gaffx"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Gaffx/volatility-mcp"
-readmeUrl: "https://github.com/Gaffx/volatility-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/Gaffx/volatility-mcp/blob/HEAD/README.md"
 githubStars: 40
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:36.054Z"

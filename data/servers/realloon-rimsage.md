@@ -10,7 +10,7 @@ owner: "realloon"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/realloon/RimSage"
-readmeUrl: "https://github.com/realloon/RimSage/blob/main/README.md"
+readmeUrl: "https://github.com/realloon/RimSage/blob/HEAD/README.md"
 githubStars: 47
 githubForks: 0
 githubStatsFetchedAt: "2026-04-05T01:00:58.414Z"

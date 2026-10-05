@@ -10,7 +10,7 @@ owner: "MichaelS1011"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/MichaelS1011/ephemora-cell"
-readmeUrl: "https://github.com/MichaelS1011/ephemora-cell/blob/main/README.md"
+readmeUrl: "https://github.com/MichaelS1011/ephemora-cell/blob/HEAD/README.md"
 githubStars: 39
 githubForks: 0
 githubStatsFetchedAt: "2026-09-17T19:30:40.767Z"

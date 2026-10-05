@@ -10,7 +10,7 @@ owner: "memovai"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/memovai/memov"
-readmeUrl: "https://github.com/memovai/memov/blob/main/README.md"
+readmeUrl: "https://github.com/memovai/memov/blob/HEAD/README.md"
 githubStars: 70
 githubForks: 0
 githubStatsFetchedAt: "2025-12-29T15:30:38.337Z"

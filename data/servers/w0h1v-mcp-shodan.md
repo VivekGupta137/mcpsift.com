@@ -10,7 +10,7 @@ owner: "w0h1v"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/w0h1v/mcp-shodan"
-readmeUrl: "https://github.com/w0h1v/mcp-shodan/blob/main/README.md"
+readmeUrl: "https://github.com/w0h1v/mcp-shodan/blob/HEAD/README.md"
 githubStars: 165
 githubForks: 0
 githubStatsFetchedAt: "2026-09-08T17:01:02.097Z"

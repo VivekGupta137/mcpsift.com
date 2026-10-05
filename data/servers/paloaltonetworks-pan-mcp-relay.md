@@ -10,7 +10,7 @@ owner: "PaloAltoNetworks"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/PaloAltoNetworks/pan-mcp-relay"
-readmeUrl: "https://github.com/PaloAltoNetworks/pan-mcp-relay/blob/main/README.md"
+readmeUrl: "https://github.com/PaloAltoNetworks/pan-mcp-relay/blob/HEAD/README.md"
 githubStars: 29
 githubForks: 0
 githubStatsFetchedAt: "2025-11-06T00:01:12.095Z"

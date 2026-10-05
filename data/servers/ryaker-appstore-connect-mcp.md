@@ -10,7 +10,7 @@ owner: "ryaker"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ryaker/appstore-connect-mcp"
-readmeUrl: "https://github.com/ryaker/appstore-connect-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/ryaker/appstore-connect-mcp/blob/HEAD/README.md"
 githubStars: 29
 githubForks: 0
 githubStatsFetchedAt: "2026-08-28T02:00:50.458Z"

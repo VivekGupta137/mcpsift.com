@@ -10,7 +10,7 @@ owner: "brightdata-com"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/brightdata/brightdata-mcp"
-readmeUrl: "https://github.com/brightdata/brightdata-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/brightdata/brightdata-mcp/blob/HEAD/README.md"
 githubStars: 1519
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:37:19.205Z"

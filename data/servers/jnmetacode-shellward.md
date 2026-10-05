@@ -10,7 +10,7 @@ owner: "jnMetaCode"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jnMetaCode/shellward"
-readmeUrl: "https://github.com/jnMetaCode/shellward/blob/main/README.md"
+readmeUrl: "https://github.com/jnMetaCode/shellward/blob/HEAD/README.md"
 githubStars: 58
 githubForks: 0
 githubStatsFetchedAt: "2026-04-15T03:01:20.369Z"

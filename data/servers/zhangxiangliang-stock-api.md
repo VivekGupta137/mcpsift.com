@@ -10,7 +10,7 @@ owner: "zhangxiangliang"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/zhangxiangliang/stock-api"
-readmeUrl: "https://github.com/zhangxiangliang/stock-api/blob/main/README.md"
+readmeUrl: "https://github.com/zhangxiangliang/stock-api/blob/HEAD/README.md"
 githubStars: 1444
 githubForks: 0
 githubStatsFetchedAt: "2026-06-22T01:29:31.833Z"

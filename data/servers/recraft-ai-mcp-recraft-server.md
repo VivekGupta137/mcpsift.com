@@ -10,7 +10,7 @@ owner: "recraft-ai"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/recraft-ai/mcp-recraft-server"
-readmeUrl: "https://github.com/recraft-ai/mcp-recraft-server/blob/main/README.md"
+readmeUrl: "https://github.com/recraft-ai/mcp-recraft-server/blob/HEAD/README.md"
 githubStars: 40
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:37:46.923Z"

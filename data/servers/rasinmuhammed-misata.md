@@ -10,7 +10,7 @@ owner: "rasinmuhammed"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/rasinmuhammed/misata"
-readmeUrl: "https://github.com/rasinmuhammed/misata/blob/main/README.md"
+readmeUrl: "https://github.com/rasinmuhammed/misata/blob/HEAD/README.md"
 githubStars: 63
 githubForks: 0
 githubStatsFetchedAt: "2026-07-25T05:30:29.885Z"

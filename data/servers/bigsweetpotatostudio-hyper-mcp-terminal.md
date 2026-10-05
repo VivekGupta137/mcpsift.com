@@ -10,7 +10,7 @@ owner: "BigSweetPotatoStudio"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/BigSweetPotatoStudio/hyper-mcp-terminal"
-readmeUrl: "https://github.com/BigSweetPotatoStudio/hyper-mcp-terminal/blob/main/README.md"
+readmeUrl: "https://github.com/BigSweetPotatoStudio/hyper-mcp-terminal/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:03.690Z"

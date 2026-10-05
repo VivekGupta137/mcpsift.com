@@ -10,7 +10,7 @@ owner: "henrique-coder"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/henrique-coder/perplexity-webui-scraper/tree/prod"
-readmeUrl: "https://github.com/henrique-coder/perplexity-webui-scraper/blob/main/README.md"
+readmeUrl: "https://github.com/henrique-coder/perplexity-webui-scraper/blob/HEAD/README.md"
 githubStars: 76
 githubForks: 0
 githubStatsFetchedAt: "2026-05-01T03:30:32.087Z"

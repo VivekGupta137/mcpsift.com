@@ -10,7 +10,7 @@ owner: "useshortcut"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/useshortcut/mcp-server-shortcut"
-readmeUrl: "https://github.com/useshortcut/mcp-server-shortcut/blob/main/README.md"
+readmeUrl: "https://github.com/useshortcut/mcp-server-shortcut/blob/HEAD/README.md"
 githubStars: 40
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:37:02.771Z"

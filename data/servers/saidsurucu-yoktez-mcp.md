@@ -10,7 +10,7 @@ owner: "saidsurucu"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/saidsurucu/yoktez-mcp"
-readmeUrl: "https://github.com/saidsurucu/yoktez-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/saidsurucu/yoktez-mcp/blob/HEAD/README.md"
 githubStars: 36
 githubForks: 0
 githubStatsFetchedAt: "2025-12-26T16:00:39.992Z"

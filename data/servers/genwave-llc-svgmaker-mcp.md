@@ -10,7 +10,7 @@ owner: "GenWaveLLC"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/GenWaveLLC/svgmaker-mcp"
-readmeUrl: "https://github.com/GenWaveLLC/svgmaker-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/GenWaveLLC/svgmaker-mcp/blob/HEAD/README.md"
 githubStars: 43
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:52.892Z"

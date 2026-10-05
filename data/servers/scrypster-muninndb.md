@@ -10,7 +10,7 @@ owner: "scrypster"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/scrypster/muninndb/tree/develop"
-readmeUrl: "https://github.com/scrypster/muninndb/blob/main/README.md"
+readmeUrl: "https://github.com/scrypster/muninndb/blob/HEAD/README.md"
 githubStars: 249
 githubForks: 0
 githubStatsFetchedAt: "2026-03-25T15:02:12.589Z"

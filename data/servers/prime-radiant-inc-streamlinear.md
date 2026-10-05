@@ -10,7 +10,7 @@ owner: "prime-radiant-inc"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/prime-radiant-inc/streamlinear"
-readmeUrl: "https://github.com/prime-radiant-inc/streamlinear/blob/main/README.md"
+readmeUrl: "https://github.com/prime-radiant-inc/streamlinear/blob/HEAD/README.md"
 githubStars: 81
 githubForks: 0
 githubStatsFetchedAt: "2026-06-06T18:00:56.376Z"

@@ -10,7 +10,7 @@ owner: "huangjunsen0406"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/huangjunsen0406/xiaozhi-mcphub"
-readmeUrl: "https://github.com/huangjunsen0406/xiaozhi-mcphub/blob/main/README.md"
+readmeUrl: "https://github.com/huangjunsen0406/xiaozhi-mcphub/blob/HEAD/README.md"
 githubStars: 187
 githubForks: 0
 githubStatsFetchedAt: "2026-07-27T04:00:52.553Z"

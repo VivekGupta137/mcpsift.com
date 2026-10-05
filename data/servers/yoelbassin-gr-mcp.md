@@ -10,7 +10,7 @@ owner: "yoelbassin"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/yoelbassin/gr-mcp"
-readmeUrl: "https://github.com/yoelbassin/gr-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/yoelbassin/gr-mcp/blob/HEAD/README.md"
 githubStars: 31
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:13.910Z"

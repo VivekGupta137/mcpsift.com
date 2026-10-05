@@ -10,7 +10,7 @@ owner: "GenOrca"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/GenOrca/unreal-mcp"
-readmeUrl: "https://github.com/GenOrca/unreal-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/GenOrca/unreal-mcp/blob/HEAD/README.md"
 githubStars: 82
 githubForks: 0
 githubStatsFetchedAt: "2026-04-24T15:02:00.513Z"

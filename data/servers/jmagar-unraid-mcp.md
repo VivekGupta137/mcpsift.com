@@ -10,7 +10,7 @@ owner: "jmagar"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/dinglebear-ai/unraid-mcp"
-readmeUrl: "https://github.com/dinglebear-ai/unraid-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/dinglebear-ai/unraid-mcp/blob/HEAD/README.md"
 githubStars: 98
 githubForks: 0
 githubStatsFetchedAt: "2026-07-21T19:31:01.437Z"

@@ -10,7 +10,7 @@ owner: "capoomgit"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/capoomgit/houdini-mcp"
-readmeUrl: "https://github.com/capoomgit/houdini-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/capoomgit/houdini-mcp/blob/HEAD/README.md"
 githubStars: 224
 githubForks: 0
 githubStatsFetchedAt: "2026-06-11T14:31:19.838Z"

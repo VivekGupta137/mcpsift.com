@@ -10,7 +10,7 @@ owner: "fidetolabs"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/fidetolabs/qanat"
-readmeUrl: "https://github.com/fidetolabs/qanat/blob/main/README.md"
+readmeUrl: "https://github.com/fidetolabs/qanat/blob/HEAD/README.md"
 githubStars: 269
 githubForks: 0
 githubStatsFetchedAt: "2026-09-30T01:30:39.052Z"

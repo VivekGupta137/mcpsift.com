@@ -10,7 +10,7 @@ owner: "trypeggy"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/trypeggy/instagram_dm_mcp"
-readmeUrl: "https://github.com/trypeggy/instagram_dm_mcp/blob/main/README.md"
+readmeUrl: "https://github.com/trypeggy/instagram_dm_mcp/blob/HEAD/README.md"
 githubStars: 151
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:53.183Z"

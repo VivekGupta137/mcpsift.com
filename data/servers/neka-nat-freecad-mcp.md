@@ -10,7 +10,7 @@ owner: "neka-nat"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/neka-nat/freecad-mcp"
-readmeUrl: "https://github.com/neka-nat/freecad-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/neka-nat/freecad-mcp/blob/HEAD/README.md"
 githubStars: 571
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:52.241Z"

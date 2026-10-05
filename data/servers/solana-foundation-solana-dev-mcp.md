@@ -10,7 +10,7 @@ owner: "solana-foundation"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/solana-foundation/solana-dev-mcp"
-readmeUrl: "https://github.com/solana-foundation/solana-dev-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/solana-foundation/solana-dev-mcp/blob/HEAD/README.md"
 githubStars: 42
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:02.979Z"

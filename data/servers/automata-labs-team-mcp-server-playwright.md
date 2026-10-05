@@ -10,7 +10,7 @@ owner: "Automata-Labs-team"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Automata-Labs-team/MCP-Server-Playwright"
-readmeUrl: "https://github.com/Automata-Labs-team/MCP-Server-Playwright/blob/main/README.md"
+readmeUrl: "https://github.com/Automata-Labs-team/MCP-Server-Playwright/blob/HEAD/README.md"
 githubStars: 213
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:37:18.931Z"

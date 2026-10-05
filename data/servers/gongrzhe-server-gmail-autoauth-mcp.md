@@ -10,7 +10,7 @@ owner: "gongrzhe"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/GongRzhe/Gmail-MCP-Server"
-readmeUrl: "https://github.com/GongRzhe/Gmail-MCP-Server/blob/main/README.md"
+readmeUrl: "https://github.com/GongRzhe/Gmail-MCP-Server/blob/HEAD/README.md"
 githubStars: 1048
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:24.852Z"

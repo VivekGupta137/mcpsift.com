@@ -10,7 +10,7 @@ owner: "yourusername"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jmanhype/MCPhoenix"
-readmeUrl: "https://github.com/jmanhype/MCPhoenix/blob/main/README.md"
+readmeUrl: "https://github.com/jmanhype/MCPhoenix/blob/HEAD/README.md"
 githubStars: 65
 githubForks: 0
 githubStatsFetchedAt: "2025-11-04T18:30:43.745Z"

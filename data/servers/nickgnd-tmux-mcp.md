@@ -10,7 +10,7 @@ owner: "nickgnd"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/nickgnd/tmux-mcp"
-readmeUrl: "https://github.com/nickgnd/tmux-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/nickgnd/tmux-mcp/blob/HEAD/README.md"
 githubStars: 233
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:04.292Z"

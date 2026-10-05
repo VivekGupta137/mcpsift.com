@@ -10,7 +10,7 @@ owner: "lucitra"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/lucitra/linear-mcp"
-readmeUrl: "https://github.com/lucitra/linear-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/lucitra/linear-mcp/blob/HEAD/README.md"
 githubStars: 50
 githubForks: 0
 githubStatsFetchedAt: "2025-01-01T00:00:00.000Z"

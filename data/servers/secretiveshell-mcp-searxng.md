@@ -10,7 +10,7 @@ owner: "SecretiveShell"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/SecretiveShell/MCP-searxng"
-readmeUrl: "https://github.com/SecretiveShell/MCP-searxng/blob/main/README.md"
+readmeUrl: "https://github.com/SecretiveShell/MCP-searxng/blob/HEAD/README.md"
 githubStars: 114
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:51.392Z"

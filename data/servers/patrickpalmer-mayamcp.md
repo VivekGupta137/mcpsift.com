@@ -10,7 +10,7 @@ owner: "PatrickPalmer"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/PatrickPalmer/MayaMCP"
-readmeUrl: "https://github.com/PatrickPalmer/MayaMCP/blob/main/README.md"
+readmeUrl: "https://github.com/PatrickPalmer/MayaMCP/blob/HEAD/README.md"
 githubStars: 56
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:36.148Z"

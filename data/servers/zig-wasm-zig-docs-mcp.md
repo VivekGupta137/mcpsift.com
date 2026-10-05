@@ -10,7 +10,7 @@ owner: "zig-wasm"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/zig-wasm/zig-docs-mcp"
-readmeUrl: "https://github.com/zig-wasm/zig-docs-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/zig-wasm/zig-docs-mcp/blob/HEAD/README.md"
 githubStars: 135
 githubForks: 0
 githubStatsFetchedAt: "2026-03-10T00:01:01.536Z"

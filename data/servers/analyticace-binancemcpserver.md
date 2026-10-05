@@ -10,7 +10,7 @@ owner: "AnalyticAce"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/AnalyticAce/BinanceMCPServer"
-readmeUrl: "https://github.com/AnalyticAce/BinanceMCPServer/blob/main/README.md"
+readmeUrl: "https://github.com/AnalyticAce/BinanceMCPServer/blob/HEAD/README.md"
 githubStars: 41
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:45.481Z"

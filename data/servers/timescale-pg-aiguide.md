@@ -10,7 +10,7 @@ owner: "timescale"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/timescale/pg-aiguide"
-readmeUrl: "https://github.com/timescale/pg-aiguide/blob/main/README.md"
+readmeUrl: "https://github.com/timescale/pg-aiguide/blob/HEAD/README.md"
 githubStars: 35
 githubForks: 0
 githubStatsFetchedAt: "2025-11-17T22:30:38.321Z"

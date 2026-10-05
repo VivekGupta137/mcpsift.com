@@ -10,7 +10,7 @@ owner: "nim444"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/nim444/mcp-android-server-python"
-readmeUrl: "https://github.com/nim444/mcp-android-server-python/blob/main/README.md"
+readmeUrl: "https://github.com/nim444/mcp-android-server-python/blob/HEAD/README.md"
 githubStars: 39
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:31.103Z"

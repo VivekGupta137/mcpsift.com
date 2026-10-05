@@ -10,7 +10,7 @@ owner: "mrexodia"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mrexodia/ida-pro-mcp"
-readmeUrl: "https://github.com/mrexodia/ida-pro-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/mrexodia/ida-pro-mcp/blob/HEAD/README.md"
 githubStars: 2403
 githubForks: 0
 githubStatsFetchedAt: "2026-03-19T00:00:59.257Z"

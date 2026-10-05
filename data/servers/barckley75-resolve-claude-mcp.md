@@ -10,7 +10,7 @@ owner: "barckley75"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/barckley75/resolve-claude-mcp"
-readmeUrl: "https://github.com/barckley75/resolve-claude-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/barckley75/resolve-claude-mcp/blob/HEAD/README.md"
 githubStars: 158
 githubForks: 0
 githubStatsFetchedAt: "2026-05-14T13:01:32.709Z"

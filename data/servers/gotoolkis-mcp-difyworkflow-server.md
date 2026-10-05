@@ -10,7 +10,7 @@ owner: "gotoolkis"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/gotoolkits/mcp-difyworkflow-server"
-readmeUrl: "https://github.com/gotoolkits/mcp-difyworkflow-server/blob/main/README.md"
+readmeUrl: "https://github.com/gotoolkits/mcp-difyworkflow-server/blob/HEAD/README.md"
 githubStars: 59
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:45.201Z"

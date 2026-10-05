@@ -10,7 +10,7 @@ owner: "limelit-co"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/limelit-co/open"
-readmeUrl: "https://github.com/limelit-co/open/blob/main/README.md"
+readmeUrl: "https://github.com/limelit-co/open/blob/HEAD/README.md"
 githubStars: 44
 githubForks: 0
 githubStatsFetchedAt: "2026-09-28T19:00:35.492Z"

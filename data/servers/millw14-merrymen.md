@@ -10,7 +10,7 @@ owner: "millw14"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/millw14/merrymen"
-readmeUrl: "https://github.com/millw14/merrymen/blob/main/README.md"
+readmeUrl: "https://github.com/millw14/merrymen/blob/HEAD/README.md"
 githubStars: 65
 githubForks: 0
 githubStatsFetchedAt: "2026-09-25T21:00:37.306Z"

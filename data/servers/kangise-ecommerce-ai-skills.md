@@ -10,7 +10,7 @@ owner: "kangise"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/kangise/ecommerce-ai-skills"
-readmeUrl: "https://github.com/kangise/ecommerce-ai-skills/blob/main/README.md"
+readmeUrl: "https://github.com/kangise/ecommerce-ai-skills/blob/HEAD/README.md"
 githubStars: 43
 githubForks: 0
 githubStatsFetchedAt: "2026-08-11T11:30:56.608Z"

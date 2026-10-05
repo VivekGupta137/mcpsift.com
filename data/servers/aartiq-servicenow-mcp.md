@@ -10,7 +10,7 @@ owner: "aartiq"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/aartiq/servicenow-mcp"
-readmeUrl: "https://github.com/aartiq/servicenow-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/aartiq/servicenow-mcp/blob/HEAD/README.md"
 githubStars: 35
 githubForks: 0
 githubStatsFetchedAt: "2026-06-24T21:30:57.733Z"

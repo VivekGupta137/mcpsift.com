@@ -10,7 +10,7 @@ owner: "Kastalien-Research"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Kastalien-Research/thoughtbox"
-readmeUrl: "https://github.com/Kastalien-Research/thoughtbox/blob/main/README.md"
+readmeUrl: "https://github.com/Kastalien-Research/thoughtbox/blob/HEAD/README.md"
 githubStars: 38
 githubForks: 0
 githubStatsFetchedAt: "2026-02-07T11:30:47.539Z"

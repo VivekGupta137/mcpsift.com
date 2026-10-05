@@ -10,7 +10,7 @@ owner: "brookstalley"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/brookstalley/cordyceps"
-readmeUrl: "https://github.com/brookstalley/cordyceps/blob/main/README.md"
+readmeUrl: "https://github.com/brookstalley/cordyceps/blob/HEAD/README.md"
 githubStars: 76
 githubForks: 0
 githubStatsFetchedAt: "2026-06-20T17:00:47.026Z"

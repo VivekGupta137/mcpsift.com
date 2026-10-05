@@ -10,7 +10,7 @@ owner: "angrysky56"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/angrysky56/mcp-logic"
-readmeUrl: "https://github.com/angrysky56/mcp-logic/blob/main/README.md"
+readmeUrl: "https://github.com/angrysky56/mcp-logic/blob/HEAD/README.md"
 githubStars: 43
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:05.653Z"

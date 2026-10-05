@@ -10,7 +10,7 @@ owner: "your-username"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Tritlo/lsp-mcp"
-readmeUrl: "https://github.com/Tritlo/lsp-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/Tritlo/lsp-mcp/blob/HEAD/README.md"
 githubStars: 45
 githubForks: 0
 githubStatsFetchedAt: "2025-01-01T00:00:00.000Z"

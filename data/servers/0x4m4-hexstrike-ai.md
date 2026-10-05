@@ -10,7 +10,7 @@ owner: "0x4m4"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/0x4m4/hexstrike-ai"
-readmeUrl: "https://github.com/0x4m4/hexstrike-ai/blob/main/README.md"
+readmeUrl: "https://github.com/0x4m4/hexstrike-ai/blob/HEAD/README.md"
 githubStars: 7327
 githubForks: 0
 githubStatsFetchedAt: "2026-03-10T00:00:40.772Z"

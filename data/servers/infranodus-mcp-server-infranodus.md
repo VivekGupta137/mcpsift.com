@@ -10,7 +10,7 @@ owner: "infranodus"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/infranodus/mcp-server-infranodus"
-readmeUrl: "https://github.com/infranodus/mcp-server-infranodus/blob/main/README.md"
+readmeUrl: "https://github.com/infranodus/mcp-server-infranodus/blob/HEAD/README.md"
 githubStars: 75
 githubForks: 0
 githubStatsFetchedAt: "2026-04-01T18:01:59.661Z"

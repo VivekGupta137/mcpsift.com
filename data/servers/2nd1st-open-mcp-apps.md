@@ -10,7 +10,7 @@ owner: "2nd1st"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/2nd1st/open-mcp-apps"
-readmeUrl: "https://github.com/2nd1st/open-mcp-apps/blob/main/README.md"
+readmeUrl: "https://github.com/2nd1st/open-mcp-apps/blob/HEAD/README.md"
 githubStars: 86
 githubForks: 0
 githubStatsFetchedAt: "2026-08-16T06:27:12.055Z"

@@ -10,7 +10,7 @@ owner: "yourusername"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/disler/just-prompt"
-readmeUrl: "https://github.com/disler/just-prompt/blob/main/README.md"
+readmeUrl: "https://github.com/disler/just-prompt/blob/HEAD/README.md"
 githubStars: 718
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:42.545Z"

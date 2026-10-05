@@ -10,7 +10,7 @@ owner: "lishenxydlgzs"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/lishenxydlgzs/simple-files-vectorstore"
-readmeUrl: "https://github.com/lishenxydlgzs/simple-files-vectorstore/blob/main/README.md"
+readmeUrl: "https://github.com/lishenxydlgzs/simple-files-vectorstore/blob/HEAD/README.md"
 githubStars: 39
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:40.659Z"

@@ -10,7 +10,7 @@ owner: "LuotoCompany"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/LuotoCompany/cursor-local-indexing"
-readmeUrl: "https://github.com/LuotoCompany/cursor-local-indexing/blob/main/README.md"
+readmeUrl: "https://github.com/LuotoCompany/cursor-local-indexing/blob/HEAD/README.md"
 githubStars: 34
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:51.494Z"

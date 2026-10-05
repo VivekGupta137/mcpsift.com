@@ -10,7 +10,7 @@ owner: "phxdev1"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/phxdev1/archy-mcp"
-readmeUrl: "https://github.com/phxdev1/archy-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/phxdev1/archy-mcp/blob/HEAD/README.md"
 githubStars: 29
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:05.759Z"

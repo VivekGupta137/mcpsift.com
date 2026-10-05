@@ -10,7 +10,7 @@ owner: "yourusername"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/NightTrek/Serper-search-mcp"
-readmeUrl: "https://github.com/NightTrek/Serper-search-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/NightTrek/Serper-search-mcp/blob/HEAD/README.md"
 githubStars: 46
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:42.635Z"

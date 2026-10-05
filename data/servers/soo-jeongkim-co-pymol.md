@@ -10,7 +10,7 @@ owner: "soo-jeongkim"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/soo-jeongkim/co-pymol"
-readmeUrl: "https://github.com/soo-jeongkim/co-pymol/blob/main/README.md"
+readmeUrl: "https://github.com/soo-jeongkim/co-pymol/blob/HEAD/README.md"
 githubStars: 32
 githubForks: 0
 githubStatsFetchedAt: "2026-06-16T05:00:52.246Z"

@@ -10,7 +10,7 @@ owner: "arcadeai-labs"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/arcadeai-labs/mcpx"
-readmeUrl: "https://github.com/arcadeai-labs/mcpx/blob/main/README.md"
+readmeUrl: "https://github.com/arcadeai-labs/mcpx/blob/HEAD/README.md"
 githubStars: 32
 githubForks: 0
 githubStatsFetchedAt: "2026-07-17T03:30:26.941Z"

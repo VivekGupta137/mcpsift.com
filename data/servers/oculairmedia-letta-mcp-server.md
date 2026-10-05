@@ -10,7 +10,7 @@ owner: "oculairmedia"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/oculairmedia/Letta-MCP-server"
-readmeUrl: "https://github.com/oculairmedia/Letta-MCP-server/blob/main/README.md"
+readmeUrl: "https://github.com/oculairmedia/Letta-MCP-server/blob/HEAD/README.md"
 githubStars: 68
 githubForks: 0
 githubStatsFetchedAt: "2026-04-05T05:01:09.003Z"

@@ -10,7 +10,7 @@ owner: "mhyrr"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mhyrr/sketchup-mcp"
-readmeUrl: "https://github.com/mhyrr/sketchup-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/mhyrr/sketchup-mcp/blob/HEAD/README.md"
 githubStars: 227
 githubForks: 0
 githubStatsFetchedAt: "2026-04-25T13:30:49.807Z"

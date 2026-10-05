@@ -10,7 +10,7 @@ owner: "resend"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/resend/mcp-send-email"
-readmeUrl: "https://github.com/resend/mcp-send-email/blob/main/README.md"
+readmeUrl: "https://github.com/resend/mcp-send-email/blob/HEAD/README.md"
 githubStars: 461
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:51.028Z"

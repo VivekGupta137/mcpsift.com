@@ -10,7 +10,7 @@ owner: "itshare4u"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/itshare4u/AgentKnowledgeMCP"
-readmeUrl: "https://github.com/itshare4u/AgentKnowledgeMCP/blob/main/README.md"
+readmeUrl: "https://github.com/itshare4u/AgentKnowledgeMCP/blob/HEAD/README.md"
 githubStars: 29
 githubForks: 0
 githubStatsFetchedAt: "2026-03-09T00:00:43.951Z"

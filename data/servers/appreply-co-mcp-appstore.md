@@ -10,7 +10,7 @@ owner: "appreply-co"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/appreply-co/mcp-appstore"
-readmeUrl: "https://github.com/appreply-co/mcp-appstore/blob/main/README.md"
+readmeUrl: "https://github.com/appreply-co/mcp-appstore/blob/HEAD/README.md"
 githubStars: 42
 githubForks: 0
 githubStatsFetchedAt: "2026-04-01T17:31:48.312Z"

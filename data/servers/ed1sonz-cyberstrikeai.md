@@ -10,7 +10,7 @@ owner: "Ed1s0nZ"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Ed1s0nZ/CyberStrikeAI"
-readmeUrl: "https://github.com/Ed1s0nZ/CyberStrikeAI/blob/main/README.md"
+readmeUrl: "https://github.com/Ed1s0nZ/CyberStrikeAI/blob/HEAD/README.md"
 githubStars: 5005
 githubForks: 0
 githubStatsFetchedAt: "2026-07-07T06:30:56.605Z"

@@ -10,7 +10,7 @@ owner: "tokenizin-agency"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/tokenizin-agency/mcp-npx-fetch"
-readmeUrl: "https://github.com/tokenizin-agency/mcp-npx-fetch/blob/main/README.md"
+readmeUrl: "https://github.com/tokenizin-agency/mcp-npx-fetch/blob/HEAD/README.md"
 githubStars: 36
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:04.162Z"

@@ -10,7 +10,7 @@ owner: "digital-go-jp"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/digital-go-jp/administrative-procedures-mcp"
-readmeUrl: "https://github.com/digital-go-jp/administrative-procedures-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/digital-go-jp/administrative-procedures-mcp/blob/HEAD/README.md"
 githubStars: 72
 githubForks: 0
 githubStatsFetchedAt: "2026-09-03T07:30:44.686Z"

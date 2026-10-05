@@ -10,7 +10,7 @@ owner: "leehack"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/leehack/mcp_dart"
-readmeUrl: "https://github.com/leehack/mcp_dart/blob/main/README.md"
+readmeUrl: "https://github.com/leehack/mcp_dart/blob/HEAD/README.md"
 githubStars: 101
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:49.667Z"

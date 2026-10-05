@@ -10,7 +10,7 @@ owner: "danosb"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/danosb/onenote-mcp"
-readmeUrl: "https://github.com/danosb/onenote-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/danosb/onenote-mcp/blob/HEAD/README.md"
 githubStars: 45
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:43.460Z"

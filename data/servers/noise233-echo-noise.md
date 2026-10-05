@@ -10,7 +10,7 @@ owner: "noise233"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/rcy1314/echo-noise"
-readmeUrl: "https://github.com/rcy1314/echo-noise/blob/main/README.md"
+readmeUrl: "https://github.com/rcy1314/echo-noise/blob/HEAD/README.md"
 githubStars: 39
 githubForks: 0
 githubStatsFetchedAt: "2025-11-26T21:30:46.805Z"

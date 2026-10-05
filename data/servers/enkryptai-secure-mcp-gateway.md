@@ -10,7 +10,7 @@ owner: "enkryptai"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/enkryptai/secure-mcp-gateway"
-readmeUrl: "https://github.com/enkryptai/secure-mcp-gateway/blob/main/README.md"
+readmeUrl: "https://github.com/enkryptai/secure-mcp-gateway/blob/HEAD/README.md"
 githubStars: 48
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:22.249Z"

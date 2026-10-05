@@ -10,7 +10,7 @@ owner: "wiseman"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/wiseman/osm-mcp"
-readmeUrl: "https://github.com/wiseman/osm-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/wiseman/osm-mcp/blob/HEAD/README.md"
 githubStars: 45
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:52.554Z"

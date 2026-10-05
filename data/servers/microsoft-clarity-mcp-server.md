@@ -10,7 +10,7 @@ owner: "Microsoft"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/microsoft/clarity-mcp-server"
-readmeUrl: "https://github.com/microsoft/clarity-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/microsoft/clarity-mcp-server/blob/HEAD/README.md"
 githubStars: 64
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:23.938Z"

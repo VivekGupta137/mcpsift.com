@@ -10,7 +10,7 @@ owner: "yunfeizhu"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/yunfeizhu/mcp-mail-server"
-readmeUrl: "https://github.com/yunfeizhu/mcp-mail-server/blob/main/README.md"
+readmeUrl: "https://github.com/yunfeizhu/mcp-mail-server/blob/HEAD/README.md"
 githubStars: 43
 githubForks: 0
 githubStatsFetchedAt: "2026-07-23T08:02:05.195Z"

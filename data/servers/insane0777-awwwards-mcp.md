@@ -10,7 +10,7 @@ owner: "INSANE0777"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/INSANE0777/Awwwards-mcp"
-readmeUrl: "https://github.com/INSANE0777/Awwwards-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/INSANE0777/Awwwards-mcp/blob/HEAD/README.md"
 githubStars: 88
 githubForks: 0
 githubStatsFetchedAt: "2026-09-28T10:30:54.332Z"

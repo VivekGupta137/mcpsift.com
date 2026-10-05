@@ -10,7 +10,7 @@ owner: "Mahdi Nazari Ashani"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mahdin75/geoserver-mcp"
-readmeUrl: "https://github.com/mahdin75/geoserver-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/mahdin75/geoserver-mcp/blob/HEAD/README.md"
 githubStars: 59
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:08.763Z"

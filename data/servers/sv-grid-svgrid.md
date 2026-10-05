@@ -10,7 +10,7 @@ owner: "sv-grid"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/sv-grid/sv-grid"
-readmeUrl: "https://github.com/sv-grid/sv-grid/blob/main/README.md"
+readmeUrl: "https://github.com/sv-grid/sv-grid/blob/HEAD/README.md"
 githubStars: 86
 githubForks: 0
 githubStatsFetchedAt: "2026-06-22T07:31:16.148Z"

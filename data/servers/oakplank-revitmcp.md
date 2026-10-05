@@ -10,7 +10,7 @@ owner: "oakplank"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/oakplank/RevitMCP"
-readmeUrl: "https://github.com/oakplank/RevitMCP/blob/main/README.md"
+readmeUrl: "https://github.com/oakplank/RevitMCP/blob/HEAD/README.md"
 githubStars: 36
 githubForks: 0
 githubStatsFetchedAt: "2026-03-30T17:01:48.897Z"

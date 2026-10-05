@@ -10,7 +10,7 @@ owner: "PraneshASP"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/PraneshASP/foundry-mcp-server"
-readmeUrl: "https://github.com/PraneshASP/foundry-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/PraneshASP/foundry-mcp-server/blob/HEAD/README.md"
 githubStars: 241
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:11.360Z"

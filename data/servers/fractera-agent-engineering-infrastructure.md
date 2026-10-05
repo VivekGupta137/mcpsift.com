@@ -10,7 +10,7 @@ owner: "fractera"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Fractera/Agent-Engineering-Infrastructure"
-readmeUrl: "https://github.com/Fractera/Agent-Engineering-Infrastructure/blob/main/README.md"
+readmeUrl: "https://github.com/Fractera/Agent-Engineering-Infrastructure/blob/HEAD/README.md"
 githubStars: 27
 githubForks: 0
 githubStatsFetchedAt: "2026-06-20T21:00:41.623Z"

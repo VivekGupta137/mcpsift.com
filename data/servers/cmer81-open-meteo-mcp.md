@@ -10,7 +10,7 @@ owner: "cmer81"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/cmer81/open-meteo-mcp"
-readmeUrl: "https://github.com/cmer81/open-meteo-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/cmer81/open-meteo-mcp/blob/HEAD/README.md"
 githubStars: 34
 githubForks: 0
 githubStatsFetchedAt: "2026-03-09T00:01:04.047Z"

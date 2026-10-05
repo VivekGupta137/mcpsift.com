@@ -10,7 +10,7 @@ owner: "pazuzu1w"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/pazuzu1w/ubuntu_mcp_server"
-readmeUrl: "https://github.com/pazuzu1w/ubuntu_mcp_server/blob/main/README.md"
+readmeUrl: "https://github.com/pazuzu1w/ubuntu_mcp_server/blob/HEAD/README.md"
 githubStars: 28
 githubForks: 0
 githubStatsFetchedAt: "2026-03-16T00:00:31.868Z"

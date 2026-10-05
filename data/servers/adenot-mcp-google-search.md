@@ -10,7 +10,7 @@ owner: "adenot"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/adenot/mcp-google-search"
-readmeUrl: "https://github.com/adenot/mcp-google-search/blob/main/README.md"
+readmeUrl: "https://github.com/adenot/mcp-google-search/blob/HEAD/README.md"
 githubStars: 60
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:10.486Z"

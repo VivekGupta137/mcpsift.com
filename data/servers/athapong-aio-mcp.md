@@ -10,7 +10,7 @@ owner: "athapong"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/athapong/aio-mcp"
-readmeUrl: "https://github.com/athapong/aio-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/athapong/aio-mcp/blob/HEAD/README.md"
 githubStars: 34
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:56.500Z"

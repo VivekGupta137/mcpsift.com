@@ -10,7 +10,7 @@ owner: "pimzino"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Pimzino/spec-workflow-mcp"
-readmeUrl: "https://github.com/Pimzino/spec-workflow-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/Pimzino/spec-workflow-mcp/blob/HEAD/README.md"
 githubStars: 3079
 githubForks: 0
 githubStatsFetchedAt: "2025-11-24T00:01:19.905Z"

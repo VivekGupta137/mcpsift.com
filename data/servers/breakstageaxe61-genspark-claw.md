@@ -10,7 +10,7 @@ owner: "breakstageaxe61"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/breakstageaxe61/genspark-claw"
-readmeUrl: "https://github.com/breakstageaxe61/genspark-claw/blob/main/README.md"
+readmeUrl: "https://github.com/breakstageaxe61/genspark-claw/blob/HEAD/README.md"
 githubStars: 38
 githubForks: 0
 githubStatsFetchedAt: "2026-09-26T08:30:53.478Z"

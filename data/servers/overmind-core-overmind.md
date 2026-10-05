@@ -10,7 +10,7 @@ owner: "overmind-core"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/overmind-core/overmind"
-readmeUrl: "https://github.com/overmind-core/overmind/blob/main/README.md"
+readmeUrl: "https://github.com/overmind-core/overmind/blob/HEAD/README.md"
 githubStars: 30
 githubForks: 0
 githubStatsFetchedAt: "2026-09-21T19:00:51.984Z"

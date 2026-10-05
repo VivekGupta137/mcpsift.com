@@ -10,7 +10,7 @@ owner: "bgauryy"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/bgauryy/octocode"
-readmeUrl: "https://github.com/bgauryy/octocode/blob/main/README.md"
+readmeUrl: "https://github.com/bgauryy/octocode/blob/HEAD/README.md"
 githubStars: 845
 githubForks: 0
 githubStatsFetchedAt: "2026-05-23T13:30:57.125Z"

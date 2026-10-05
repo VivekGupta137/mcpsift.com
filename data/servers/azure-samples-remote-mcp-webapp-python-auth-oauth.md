@@ -10,7 +10,7 @@ owner: "Azure-Samples"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Azure-Samples/remote-mcp-webapp-python-auth-oauth"
-readmeUrl: "https://github.com/Azure-Samples/remote-mcp-webapp-python-auth-oauth/blob/main/README.md"
+readmeUrl: "https://github.com/Azure-Samples/remote-mcp-webapp-python-auth-oauth/blob/HEAD/README.md"
 githubStars: 27
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:41.636Z"

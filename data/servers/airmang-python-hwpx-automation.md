@@ -10,7 +10,7 @@ owner: "airmang"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/airmang/python-hwpx-automation"
-readmeUrl: "https://github.com/airmang/python-hwpx-automation/blob/main/README.md"
+readmeUrl: "https://github.com/airmang/python-hwpx-automation/blob/HEAD/README.md"
 githubStars: 65
 githubForks: 0
 githubStatsFetchedAt: "2026-07-28T06:31:15.707Z"

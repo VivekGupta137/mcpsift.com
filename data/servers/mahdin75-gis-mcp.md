@@ -10,7 +10,7 @@ owner: "mahdin75"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mahdin75/gis-mcp"
-readmeUrl: "https://github.com/mahdin75/gis-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/mahdin75/gis-mcp/blob/HEAD/README.md"
 githubStars: 71
 githubForks: 0
 githubStatsFetchedAt: "2025-11-19T00:00:43.422Z"

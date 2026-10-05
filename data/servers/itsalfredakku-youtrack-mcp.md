@@ -10,7 +10,7 @@ owner: "itsalfredakku"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/devstroop/youtrack-mcp"
-readmeUrl: "https://github.com/devstroop/youtrack-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/devstroop/youtrack-mcp/blob/HEAD/README.md"
 githubStars: 38
 githubForks: 0
 githubStatsFetchedAt: "2025-12-22T18:01:06.144Z"

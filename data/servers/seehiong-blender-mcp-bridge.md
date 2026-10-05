@@ -10,7 +10,7 @@ owner: "seehiong"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/seehiong/blender-mcp-bridge"
-readmeUrl: "https://github.com/seehiong/blender-mcp-bridge/blob/main/README.md"
+readmeUrl: "https://github.com/seehiong/blender-mcp-bridge/blob/HEAD/README.md"
 githubStars: 50
 githubForks: 0
 githubStatsFetchedAt: "2026-08-22T03:30:33.103Z"

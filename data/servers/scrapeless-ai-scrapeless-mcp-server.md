@@ -10,7 +10,7 @@ owner: "scrapeless-ai"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/scrapeless-ai/scrapeless-mcp-server"
-readmeUrl: "https://github.com/scrapeless-ai/scrapeless-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/scrapeless-ai/scrapeless-mcp-server/blob/HEAD/README.md"
 githubStars: 156
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:17.683Z"

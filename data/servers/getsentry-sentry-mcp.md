@@ -10,7 +10,7 @@ owner: "getsentry"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/getsentry/sentry-mcp"
-readmeUrl: "https://github.com/getsentry/sentry-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/getsentry/sentry-mcp/blob/HEAD/README.md"
 githubStars: 607
 githubForks: 0
 githubStatsFetchedAt: "2026-03-24T18:01:48.366Z"

@@ -10,7 +10,7 @@ owner: "collibra"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/collibra/chip"
-readmeUrl: "https://github.com/collibra/chip/blob/main/README.md"
+readmeUrl: "https://github.com/collibra/chip/blob/HEAD/README.md"
 githubStars: 25
 githubForks: 0
 githubStatsFetchedAt: "2026-03-30T13:31:12.452Z"

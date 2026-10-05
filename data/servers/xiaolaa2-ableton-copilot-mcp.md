@@ -10,7 +10,7 @@ owner: "xiaolaa2"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/xiaolaa2/ableton-copilot-mcp"
-readmeUrl: "https://github.com/xiaolaa2/ableton-copilot-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/xiaolaa2/ableton-copilot-mcp/blob/HEAD/README.md"
 githubStars: 90
 githubForks: 0
 githubStatsFetchedAt: "2026-07-29T08:01:08.696Z"

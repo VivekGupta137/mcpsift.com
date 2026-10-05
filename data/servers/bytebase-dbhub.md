@@ -10,7 +10,7 @@ owner: "bytebase"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/bytebase/dbhub"
-readmeUrl: "https://github.com/bytebase/dbhub/blob/main/README.md"
+readmeUrl: "https://github.com/bytebase/dbhub/blob/HEAD/README.md"
 githubStars: 2991
 githubForks: 0
 githubStatsFetchedAt: "2026-06-18T06:52:19.531Z"

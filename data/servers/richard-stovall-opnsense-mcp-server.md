@@ -10,7 +10,7 @@ owner: "Richard Stovall"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Pixelworlds/opnsense-mcp-server"
-readmeUrl: "https://github.com/Pixelworlds/opnsense-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/Pixelworlds/opnsense-mcp-server/blob/HEAD/README.md"
 githubStars: 58
 githubForks: 0
 githubStatsFetchedAt: "2026-07-01T15:57:14.360Z"

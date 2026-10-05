@@ -10,7 +10,7 @@ owner: "esignaturescom"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/esignaturescom/mcp-server-esignatures"
-readmeUrl: "https://github.com/esignaturescom/mcp-server-esignatures/blob/main/README.md"
+readmeUrl: "https://github.com/esignaturescom/mcp-server-esignatures/blob/HEAD/README.md"
 githubStars: 35
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:45.183Z"

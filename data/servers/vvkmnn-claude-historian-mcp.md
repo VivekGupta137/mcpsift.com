@@ -10,7 +10,7 @@ owner: "Vvkmnn"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Vvkmnn/claude-historian-mcp"
-readmeUrl: "https://github.com/Vvkmnn/claude-historian-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/Vvkmnn/claude-historian-mcp/blob/HEAD/README.md"
 githubStars: 68
 githubForks: 0
 githubStatsFetchedAt: "2025-12-09T04:00:33.895Z"

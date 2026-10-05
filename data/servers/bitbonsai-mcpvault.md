@@ -10,7 +10,7 @@ owner: "bitbonsai"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/bitbonsai/mcpvault"
-readmeUrl: "https://github.com/bitbonsai/mcpvault/blob/main/README.md"
+readmeUrl: "https://github.com/bitbonsai/mcpvault/blob/HEAD/README.md"
 githubStars: 684
 githubForks: 0
 githubStatsFetchedAt: "2026-03-12T14:01:14.881Z"

@@ -10,7 +10,7 @@ owner: "metadist"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/metadist/synaplan"
-readmeUrl: "https://github.com/metadist/synaplan/blob/main/README.md"
+readmeUrl: "https://github.com/metadist/synaplan/blob/HEAD/README.md"
 githubStars: 110
 githubForks: 0
 githubStatsFetchedAt: "2026-08-29T08:30:37.554Z"

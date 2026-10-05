@@ -10,7 +10,7 @@ owner: "deus-h"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/deus-h/claudeus-wp-mcp"
-readmeUrl: "https://github.com/deus-h/claudeus-wp-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/deus-h/claudeus-wp-mcp/blob/HEAD/README.md"
 githubStars: 95
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:03.252Z"

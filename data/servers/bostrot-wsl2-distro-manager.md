@@ -10,7 +10,7 @@ owner: "bostrot"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/bostrot/wsl2-distro-manager"
-readmeUrl: "https://github.com/bostrot/wsl2-distro-manager/blob/main/README.md"
+readmeUrl: "https://github.com/bostrot/wsl2-distro-manager/blob/HEAD/README.md"
 githubStars: 3975
 githubForks: 0
 githubStatsFetchedAt: "2026-09-07T19:00:33.717Z"

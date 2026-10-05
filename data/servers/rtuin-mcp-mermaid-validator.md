@@ -10,7 +10,7 @@ owner: "rtuin"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/rtuin/mcp-mermaid-validator"
-readmeUrl: "https://github.com/rtuin/mcp-mermaid-validator/blob/main/README.md"
+readmeUrl: "https://github.com/rtuin/mcp-mermaid-validator/blob/HEAD/README.md"
 githubStars: 44
 githubForks: 0
 githubStatsFetchedAt: "2025-11-05T00:01:16.118Z"

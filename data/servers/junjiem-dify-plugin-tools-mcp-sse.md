@@ -10,7 +10,7 @@ owner: "junjiem"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/junjiem/dify-plugin-tools-mcp_sse"
-readmeUrl: "https://github.com/junjiem/dify-plugin-tools-mcp_sse/blob/main/README.md"
+readmeUrl: "https://github.com/junjiem/dify-plugin-tools-mcp_sse/blob/HEAD/README.md"
 githubStars: 181
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:46.021Z"

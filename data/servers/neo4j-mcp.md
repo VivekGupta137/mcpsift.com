@@ -10,7 +10,7 @@ owner: "neo4j"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/neo4j/mcp"
-readmeUrl: "https://github.com/neo4j/mcp/blob/main/README.md"
+readmeUrl: "https://github.com/neo4j/mcp/blob/HEAD/README.md"
 githubStars: 64
 githubForks: 0
 githubStatsFetchedAt: "2025-11-01T00:00:39.036Z"

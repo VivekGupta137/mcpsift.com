@@ -10,7 +10,7 @@ owner: "mcp-getgather"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mcp-getgather/mcp-getgather"
-readmeUrl: "https://github.com/mcp-getgather/mcp-getgather/blob/main/README.md"
+readmeUrl: "https://github.com/mcp-getgather/mcp-getgather/blob/HEAD/README.md"
 githubStars: 50
 githubForks: 0
 githubStatsFetchedAt: "2025-12-20T00:00:44.450Z"

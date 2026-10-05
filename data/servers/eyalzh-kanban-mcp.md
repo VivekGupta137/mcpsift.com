@@ -10,7 +10,7 @@ owner: "eyalzh"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/eyalzh/kanban-mcp"
-readmeUrl: "https://github.com/eyalzh/kanban-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/eyalzh/kanban-mcp/blob/HEAD/README.md"
 githubStars: 34
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:13.993Z"

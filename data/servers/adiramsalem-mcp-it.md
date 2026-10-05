@@ -10,7 +10,7 @@ owner: "AdirAmsalem"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/AdirAmsalem/mcp-it"
-readmeUrl: "https://github.com/AdirAmsalem/mcp-it/blob/main/README.md"
+readmeUrl: "https://github.com/AdirAmsalem/mcp-it/blob/HEAD/README.md"
 githubStars: 37
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:07.662Z"

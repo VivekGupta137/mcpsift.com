@@ -10,7 +10,7 @@ owner: "lapfelix"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/lapfelix/XcodeMCP"
-readmeUrl: "https://github.com/lapfelix/XcodeMCP/blob/main/README.md"
+readmeUrl: "https://github.com/lapfelix/XcodeMCP/blob/HEAD/README.md"
 githubStars: 52
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:09.870Z"

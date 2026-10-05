@@ -10,7 +10,7 @@ owner: "MatthewDailey"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/MatthewDailey/figma-mcp"
-readmeUrl: "https://github.com/MatthewDailey/figma-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/MatthewDailey/figma-mcp/blob/HEAD/README.md"
 githubStars: 203
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:11.957Z"

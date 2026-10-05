@@ -10,7 +10,7 @@ owner: "The-Vibe-Company"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/The-Vibe-Company/granite"
-readmeUrl: "https://github.com/The-Vibe-Company/granite/blob/main/README.md"
+readmeUrl: "https://github.com/The-Vibe-Company/granite/blob/HEAD/README.md"
 githubStars: 32
 githubForks: 0
 githubStatsFetchedAt: "2026-09-20T19:00:48.108Z"

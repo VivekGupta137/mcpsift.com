@@ -10,7 +10,7 @@ owner: "wavelovey"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/wavelovey/pubmed_search"
-readmeUrl: "https://github.com/wavelovey/pubmed_search/blob/main/README.md"
+readmeUrl: "https://github.com/wavelovey/pubmed_search/blob/HEAD/README.md"
 githubStars: 47
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:41.085Z"

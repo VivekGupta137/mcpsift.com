@@ -10,7 +10,7 @@ owner: "appiumtestdistribution"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/AppiumTestDistribution/mcp-appium-gestures"
-readmeUrl: "https://github.com/AppiumTestDistribution/mcp-appium-gestures/blob/main/README.md"
+readmeUrl: "https://github.com/AppiumTestDistribution/mcp-appium-gestures/blob/HEAD/README.md"
 githubStars: 31
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:01.148Z"

@@ -10,7 +10,7 @@ owner: "lis186"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/lis186/taiwan-holiday-mcp"
-readmeUrl: "https://github.com/lis186/taiwan-holiday-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/lis186/taiwan-holiday-mcp/blob/HEAD/README.md"
 githubStars: 25
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:23.937Z"

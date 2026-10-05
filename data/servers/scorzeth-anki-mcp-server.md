@@ -10,7 +10,7 @@ owner: "scorzeth"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/scorzeth/anki-mcp-server"
-readmeUrl: "https://github.com/scorzeth/anki-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/scorzeth/anki-mcp-server/blob/HEAD/README.md"
 githubStars: 178
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:42.498Z"

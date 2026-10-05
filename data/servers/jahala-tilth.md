@@ -10,7 +10,7 @@ owner: "jahala"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jahala/tilth"
-readmeUrl: "https://github.com/jahala/tilth/blob/main/README.md"
+readmeUrl: "https://github.com/jahala/tilth/blob/HEAD/README.md"
 githubStars: 350
 githubForks: 0
 githubStatsFetchedAt: "2026-09-19T12:00:55.526Z"

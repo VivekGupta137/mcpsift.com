@@ -10,7 +10,7 @@ owner: "divar-ir"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/divar-ir/sourcegraph-mcp"
-readmeUrl: "https://github.com/divar-ir/sourcegraph-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/divar-ir/sourcegraph-mcp/blob/HEAD/README.md"
 githubStars: 27
 githubForks: 0
 githubStatsFetchedAt: "2026-03-09T00:00:41.749Z"

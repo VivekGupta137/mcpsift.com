@@ -10,7 +10,7 @@ owner: "smadi0x86"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/smadi0x86/MDB-MCP"
-readmeUrl: "https://github.com/smadi0x86/MDB-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/smadi0x86/MDB-MCP/blob/HEAD/README.md"
 githubStars: 71
 githubForks: 0
 githubStatsFetchedAt: "2026-08-14T23:30:41.360Z"

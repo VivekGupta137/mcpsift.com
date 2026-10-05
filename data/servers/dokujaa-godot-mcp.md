@@ -10,7 +10,7 @@ owner: "Dokujaa"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Dokujaa/Godot-MCP"
-readmeUrl: "https://github.com/Dokujaa/Godot-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/Dokujaa/Godot-MCP/blob/HEAD/README.md"
 githubStars: 49
 githubForks: 0
 githubStatsFetchedAt: "2026-07-02T04:31:00.135Z"

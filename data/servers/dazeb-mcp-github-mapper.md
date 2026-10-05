@@ -10,7 +10,7 @@ owner: "dazeb"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/dazeb/MCP-Github-Mapper"
-readmeUrl: "https://github.com/dazeb/MCP-Github-Mapper/blob/main/README.md"
+readmeUrl: "https://github.com/dazeb/MCP-Github-Mapper/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:46.605Z"

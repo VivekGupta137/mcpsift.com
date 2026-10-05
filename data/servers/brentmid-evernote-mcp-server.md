@@ -10,7 +10,7 @@ owner: "brentmid"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/brentmid/evernote-mcp-server"
-readmeUrl: "https://github.com/brentmid/evernote-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/brentmid/evernote-mcp-server/blob/HEAD/README.md"
 githubStars: 38
 githubForks: 0
 githubStatsFetchedAt: "2026-03-09T00:00:43.632Z"

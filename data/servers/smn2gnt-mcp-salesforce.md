@@ -10,7 +10,7 @@ owner: "smn2gnt"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/smn2gnt/MCP-Salesforce"
-readmeUrl: "https://github.com/smn2gnt/MCP-Salesforce/blob/main/README.md"
+readmeUrl: "https://github.com/smn2gnt/MCP-Salesforce/blob/HEAD/README.md"
 githubStars: 163
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:45.501Z"

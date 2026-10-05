@@ -10,7 +10,7 @@ owner: "apecloud"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/apecloud/ApeRAG"
-readmeUrl: "https://github.com/apecloud/ApeRAG/blob/main/README.md"
+readmeUrl: "https://github.com/apecloud/ApeRAG/blob/HEAD/README.md"
 githubStars: 896
 githubForks: 0
 githubStatsFetchedAt: "2025-11-03T00:00:47.821Z"

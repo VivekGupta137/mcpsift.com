@@ -10,7 +10,7 @@ owner: "DEFENSE-SEU"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/DEFENSE-SEU/Code2MCP"
-readmeUrl: "https://github.com/DEFENSE-SEU/Code2MCP/blob/main/README.md"
+readmeUrl: "https://github.com/DEFENSE-SEU/Code2MCP/blob/HEAD/README.md"
 githubStars: 132
 githubForks: 0
 githubStatsFetchedAt: "2026-08-18T11:30:56.316Z"

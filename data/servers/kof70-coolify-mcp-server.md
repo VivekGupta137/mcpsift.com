@@ -10,7 +10,7 @@ owner: "kof70"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/kof70/coolify-mcp-server"
-readmeUrl: "https://github.com/kof70/coolify-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/kof70/coolify-mcp-server/blob/HEAD/README.md"
 githubStars: 29
 githubForks: 0
 githubStatsFetchedAt: "2026-09-17T19:02:02.536Z"

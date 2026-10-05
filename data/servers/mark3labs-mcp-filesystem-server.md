@@ -10,7 +10,7 @@ owner: "mark3labs"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mark3labs/mcp-filesystem-server"
-readmeUrl: "https://github.com/mark3labs/mcp-filesystem-server/blob/main/README.md"
+readmeUrl: "https://github.com/mark3labs/mcp-filesystem-server/blob/HEAD/README.md"
 githubStars: 613
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:43.611Z"

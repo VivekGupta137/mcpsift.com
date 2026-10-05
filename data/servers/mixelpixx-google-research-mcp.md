@@ -10,7 +10,7 @@ owner: "mixelpixx"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mixelpixx/Google-Research-MCP"
-readmeUrl: "https://github.com/mixelpixx/Google-Research-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/mixelpixx/Google-Research-MCP/blob/HEAD/README.md"
 githubStars: 246
 githubForks: 0
 githubStatsFetchedAt: "2026-06-27T03:30:50.676Z"

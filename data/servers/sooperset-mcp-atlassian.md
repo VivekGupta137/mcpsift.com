@@ -10,7 +10,7 @@ owner: "sooperset"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/sooperset/mcp-atlassian"
-readmeUrl: "https://github.com/sooperset/mcp-atlassian/blob/main/README.md"
+readmeUrl: "https://github.com/sooperset/mcp-atlassian/blob/HEAD/README.md"
 githubStars: 3448
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:37:14.171Z"

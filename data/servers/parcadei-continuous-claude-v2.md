@@ -10,7 +10,7 @@ owner: "parcadei"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/parcadei/Continuous-Claude-v2"
-readmeUrl: "https://github.com/parcadei/Continuous-Claude-v2/blob/main/README.md"
+readmeUrl: "https://github.com/parcadei/Continuous-Claude-v2/blob/HEAD/README.md"
 githubStars: 669
 githubForks: 0
 githubStatsFetchedAt: "2025-12-28T05:01:34.845Z"

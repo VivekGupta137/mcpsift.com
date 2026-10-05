@@ -10,7 +10,7 @@ owner: "mcp2everything"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mcp2everything/mcp2mqtt"
-readmeUrl: "https://github.com/mcp2everything/mcp2mqtt/blob/main/README.md"
+readmeUrl: "https://github.com/mcp2everything/mcp2mqtt/blob/HEAD/README.md"
 githubStars: 362
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:02.972Z"

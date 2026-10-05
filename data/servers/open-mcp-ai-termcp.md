@@ -10,7 +10,7 @@ owner: "open-mcp-ai"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/open-mcp-ai/Termcp"
-readmeUrl: "https://github.com/open-mcp-ai/Termcp/blob/main/README.md"
+readmeUrl: "https://github.com/open-mcp-ai/Termcp/blob/HEAD/README.md"
 githubStars: 37
 githubForks: 0
 githubStatsFetchedAt: "2026-10-02T09:30:45.529Z"

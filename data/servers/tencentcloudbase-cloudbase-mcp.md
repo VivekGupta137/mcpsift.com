@@ -10,7 +10,7 @@ owner: "TencentCloudBase"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/TencentCloudBase/CloudBase-MCP"
-readmeUrl: "https://github.com/TencentCloudBase/CloudBase-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/TencentCloudBase/CloudBase-MCP/blob/HEAD/README.md"
 githubStars: 909
 githubForks: 0
 githubStatsFetchedAt: "2025-12-31T12:00:52.617Z"

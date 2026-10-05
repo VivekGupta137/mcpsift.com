@@ -10,7 +10,7 @@ owner: "mshojaei77"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mshojaei77/ReActMCP"
-readmeUrl: "https://github.com/mshojaei77/ReActMCP/blob/main/README.md"
+readmeUrl: "https://github.com/mshojaei77/ReActMCP/blob/HEAD/README.md"
 githubStars: 141
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:53.444Z"

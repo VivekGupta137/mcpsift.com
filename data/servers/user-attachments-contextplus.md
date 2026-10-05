@@ -10,7 +10,7 @@ owner: "user-attachments"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ForLoopCodes/contextplus"
-readmeUrl: "https://github.com/ForLoopCodes/contextplus/blob/main/README.md"
+readmeUrl: "https://github.com/ForLoopCodes/contextplus/blob/HEAD/README.md"
 githubStars: 1683
 githubForks: 0
 githubStatsFetchedAt: "2026-03-28T13:01:11.668Z"

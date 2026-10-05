@@ -10,7 +10,7 @@ owner: "iconben"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/iconben/z-image-studio"
-readmeUrl: "https://github.com/iconben/z-image-studio/blob/main/README.md"
+readmeUrl: "https://github.com/iconben/z-image-studio/blob/HEAD/README.md"
 githubStars: 38
 githubForks: 0
 githubStatsFetchedAt: "2025-12-15T10:00:45.191Z"

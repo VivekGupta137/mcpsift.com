@@ -10,7 +10,7 @@ owner: "cantian-ai"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/cantian-ai/bazi-mcp/tree/dev"
-readmeUrl: "https://github.com/cantian-ai/bazi-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/cantian-ai/bazi-mcp/blob/HEAD/README.md"
 githubStars: 87
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:44:50.158Z"

@@ -10,7 +10,7 @@ owner: "alexander-zuev"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/alexander-zuev/supabase-mcp-server"
-readmeUrl: "https://github.com/alexander-zuev/supabase-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/alexander-zuev/supabase-mcp-server/blob/HEAD/README.md"
 githubStars: 815
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:42.157Z"

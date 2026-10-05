@@ -10,7 +10,7 @@ owner: "guangxiangdebizi"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/guangxiangdebizi/FinanceMCP"
-readmeUrl: "https://github.com/guangxiangdebizi/FinanceMCP/blob/main/README.md"
+readmeUrl: "https://github.com/guangxiangdebizi/FinanceMCP/blob/HEAD/README.md"
 githubStars: 474
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:04.310Z"

@@ -10,7 +10,7 @@ owner: "microchipgnu"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/microchipgnu/mcpay"
-readmeUrl: "https://github.com/microchipgnu/mcpay/blob/main/README.md"
+readmeUrl: "https://github.com/microchipgnu/mcpay/blob/HEAD/README.md"
 githubStars: 57
 githubForks: 0
 githubStatsFetchedAt: "2025-11-05T00:01:15.793Z"

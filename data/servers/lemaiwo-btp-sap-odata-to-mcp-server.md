@@ -10,7 +10,7 @@ owner: "lemaiwo"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/lemaiwo/btp-sap-odata-to-mcp-server"
-readmeUrl: "https://github.com/lemaiwo/btp-sap-odata-to-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/lemaiwo/btp-sap-odata-to-mcp-server/blob/HEAD/README.md"
 githubStars: 127
 githubForks: 0
 githubStatsFetchedAt: "2026-05-22T22:30:28.322Z"

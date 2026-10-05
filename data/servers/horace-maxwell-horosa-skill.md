@@ -10,7 +10,7 @@ owner: "Horace-Maxwell"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Horace-Maxwell/horosa-skill"
-readmeUrl: "https://github.com/Horace-Maxwell/horosa-skill/blob/main/README.md"
+readmeUrl: "https://github.com/Horace-Maxwell/horosa-skill/blob/HEAD/README.md"
 githubStars: 270
 githubForks: 0
 githubStatsFetchedAt: "2026-08-17T06:30:44.086Z"

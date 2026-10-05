@@ -10,7 +10,7 @@ owner: "ghost-in-the-droid"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ghost-in-the-droid/android-agent"
-readmeUrl: "https://github.com/ghost-in-the-droid/android-agent/blob/main/README.md"
+readmeUrl: "https://github.com/ghost-in-the-droid/android-agent/blob/HEAD/README.md"
 githubStars: 276
 githubForks: 0
 githubStatsFetchedAt: "2026-07-31T18:30:48.332Z"

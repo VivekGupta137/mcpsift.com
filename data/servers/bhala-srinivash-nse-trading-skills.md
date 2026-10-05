@@ -10,7 +10,7 @@ owner: "Bhala-Srinivash"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Bhala-Srinivash/nse-trading-skills"
-readmeUrl: "https://github.com/Bhala-Srinivash/nse-trading-skills/blob/main/README.md"
+readmeUrl: "https://github.com/Bhala-Srinivash/nse-trading-skills/blob/HEAD/README.md"
 githubStars: 31
 githubForks: 0
 githubStatsFetchedAt: "2026-07-09T08:52:40.876Z"

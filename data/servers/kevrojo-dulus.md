@@ -10,7 +10,7 @@ owner: "KevRojo"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/KevRojo/Dulus"
-readmeUrl: "https://github.com/KevRojo/Dulus/blob/main/README.md"
+readmeUrl: "https://github.com/KevRojo/Dulus/blob/HEAD/README.md"
 githubStars: 374
 githubForks: 0
 githubStatsFetchedAt: "2026-07-21T23:37:01.660Z"

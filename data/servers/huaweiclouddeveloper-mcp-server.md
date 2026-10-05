@@ -10,7 +10,7 @@ owner: "HuaweiCloudDeveloper"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/HuaweiCloudDeveloper/mcp-server/tree/master-dev"
-readmeUrl: "https://github.com/HuaweiCloudDeveloper/mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/HuaweiCloudDeveloper/mcp-server/blob/HEAD/README.md"
 githubStars: 34
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:23.065Z"

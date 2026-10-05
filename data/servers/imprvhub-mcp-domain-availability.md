@@ -10,7 +10,7 @@ owner: "Ivan Luna"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/imprvhub/mcp-domain-availability"
-readmeUrl: "https://github.com/imprvhub/mcp-domain-availability/blob/main/README.md"
+readmeUrl: "https://github.com/imprvhub/mcp-domain-availability/blob/HEAD/README.md"
 githubStars: 38
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:57.216Z"

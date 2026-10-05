@@ -10,7 +10,7 @@ owner: "loopwork"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/loopwork/iMCP"
-readmeUrl: "https://github.com/loopwork/iMCP/blob/main/README.md"
+readmeUrl: "https://github.com/loopwork/iMCP/blob/HEAD/README.md"
 githubStars: 1183
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:42.427Z"

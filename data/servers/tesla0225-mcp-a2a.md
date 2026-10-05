@@ -10,7 +10,7 @@ owner: "tesla0225"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/tesla0225/mcp-a2a"
-readmeUrl: "https://github.com/tesla0225/mcp-a2a/blob/main/README.md"
+readmeUrl: "https://github.com/tesla0225/mcp-a2a/blob/HEAD/README.md"
 githubStars: 28
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:00.072Z"

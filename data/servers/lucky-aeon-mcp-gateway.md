@@ -10,7 +10,7 @@ owner: "lucky-aeon"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/lucky-aeon/mcp-gateway"
-readmeUrl: "https://github.com/lucky-aeon/mcp-gateway/blob/main/README.md"
+readmeUrl: "https://github.com/lucky-aeon/mcp-gateway/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:36.673Z"

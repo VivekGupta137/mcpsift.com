@@ -10,7 +10,7 @@ owner: "bgts-ai-org"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/bgts-ai-org/bgts-context-engine"
-readmeUrl: "https://github.com/bgts-ai-org/bgts-context-engine/blob/main/README.md"
+readmeUrl: "https://github.com/bgts-ai-org/bgts-context-engine/blob/HEAD/README.md"
 githubStars: 57
 githubForks: 0
 githubStatsFetchedAt: "2026-09-24T07:00:51.445Z"

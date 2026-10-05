@@ -10,7 +10,7 @@ owner: "yourusername"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jasperket/clanki"
-readmeUrl: "https://github.com/jasperket/clanki/blob/main/README.md"
+readmeUrl: "https://github.com/jasperket/clanki/blob/HEAD/README.md"
 githubStars: 27
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:24.964Z"

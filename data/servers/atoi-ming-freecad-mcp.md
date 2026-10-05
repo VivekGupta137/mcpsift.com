@@ -10,7 +10,7 @@ owner: "ATOI-ming"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ATOI-Ming/FreeCAD-MCP"
-readmeUrl: "https://github.com/ATOI-Ming/FreeCAD-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/ATOI-Ming/FreeCAD-MCP/blob/HEAD/README.md"
 githubStars: 29
 githubForks: 0
 githubStatsFetchedAt: "2025-11-05T00:00:41.849Z"

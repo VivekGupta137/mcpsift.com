@@ -10,7 +10,7 @@ owner: "choyiny"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/choyiny/saasmail"
-readmeUrl: "https://github.com/choyiny/saasmail/blob/main/README.md"
+readmeUrl: "https://github.com/choyiny/saasmail/blob/HEAD/README.md"
 githubStars: 245
 githubForks: 0
 githubStatsFetchedAt: "2026-08-30T05:00:27.869Z"

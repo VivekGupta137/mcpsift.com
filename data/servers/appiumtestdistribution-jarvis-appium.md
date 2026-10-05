@@ -10,7 +10,7 @@ owner: "AppiumTestDistribution"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/AppiumTestDistribution/jarvis-appium"
-readmeUrl: "https://github.com/AppiumTestDistribution/jarvis-appium/blob/main/README.md"
+readmeUrl: "https://github.com/AppiumTestDistribution/jarvis-appium/blob/HEAD/README.md"
 githubStars: 222
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:29.860Z"

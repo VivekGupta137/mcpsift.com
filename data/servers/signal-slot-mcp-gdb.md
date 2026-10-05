@@ -10,7 +10,7 @@ owner: "Tasuku Suzuki"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/signal-slot/mcp-gdb"
-readmeUrl: "https://github.com/signal-slot/mcp-gdb/blob/main/README.md"
+readmeUrl: "https://github.com/signal-slot/mcp-gdb/blob/HEAD/README.md"
 githubStars: 89
 githubForks: 0
 githubStatsFetchedAt: "2026-02-07T06:30:42.394Z"

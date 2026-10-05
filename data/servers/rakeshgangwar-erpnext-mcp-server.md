@@ -10,7 +10,7 @@ owner: "rakeshgangwar"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/rakeshgangwar/erpnext-mcp-server"
-readmeUrl: "https://github.com/rakeshgangwar/erpnext-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/rakeshgangwar/erpnext-mcp-server/blob/HEAD/README.md"
 githubStars: 73
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:03.184Z"

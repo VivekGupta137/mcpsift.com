@@ -10,7 +10,7 @@ owner: "24mlight"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/24mlight/a-share-mcp-is-just-i-need"
-readmeUrl: "https://github.com/24mlight/a-share-mcp-is-just-i-need/blob/main/README.md"
+readmeUrl: "https://github.com/24mlight/a-share-mcp-is-just-i-need/blob/HEAD/README.md"
 githubStars: 628
 githubForks: 0
 githubStatsFetchedAt: "2026-03-13T00:00:48.753Z"

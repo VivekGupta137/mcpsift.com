@@ -10,7 +10,7 @@ owner: "agenticros"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/agenticros/agenticros"
-readmeUrl: "https://github.com/agenticros/agenticros/blob/main/README.md"
+readmeUrl: "https://github.com/agenticros/agenticros/blob/HEAD/README.md"
 githubStars: 25
 githubForks: 0
 githubStatsFetchedAt: "2026-03-31T18:02:29.739Z"

@@ -10,7 +10,7 @@ owner: "cablate"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/cablate/mcp-google-map"
-readmeUrl: "https://github.com/cablate/mcp-google-map/blob/main/README.md"
+readmeUrl: "https://github.com/cablate/mcp-google-map/blob/HEAD/README.md"
 githubStars: 193
 githubForks: 0
 githubStatsFetchedAt: "2026-03-15T00:00:57.439Z"

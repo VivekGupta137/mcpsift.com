@@ -10,7 +10,7 @@ owner: "aurda012"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/aurda012/devcontext"
-readmeUrl: "https://github.com/aurda012/devcontext/blob/main/README.md"
+readmeUrl: "https://github.com/aurda012/devcontext/blob/HEAD/README.md"
 githubStars: 36
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:44:57.020Z"

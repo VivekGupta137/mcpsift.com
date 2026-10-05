@@ -10,7 +10,7 @@ owner: "ouvreboite"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ouvreboite/openapi-to-mcp"
-readmeUrl: "https://github.com/ouvreboite/openapi-to-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/ouvreboite/openapi-to-mcp/blob/HEAD/README.md"
 githubStars: 29
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:13.020Z"

@@ -10,7 +10,7 @@ owner: "agiletec-inc"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/agiletec-inc/airis-mcp-gateway"
-readmeUrl: "https://github.com/agiletec-inc/airis-mcp-gateway/blob/main/README.md"
+readmeUrl: "https://github.com/agiletec-inc/airis-mcp-gateway/blob/HEAD/README.md"
 githubStars: 141
 githubForks: 0
 githubStatsFetchedAt: "2026-03-25T01:31:06.892Z"

@@ -10,7 +10,7 @@ owner: "yuaotian"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/yuaotian/sanshu"
-readmeUrl: "https://github.com/yuaotian/sanshu/blob/main/README.md"
+readmeUrl: "https://github.com/yuaotian/sanshu/blob/HEAD/README.md"
 githubStars: 157
 githubForks: 0
 githubStatsFetchedAt: "2026-02-02T06:30:40.459Z"

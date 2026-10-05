@@ -10,7 +10,7 @@ owner: "panther-labs"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/panther-labs/mcp-panther"
-readmeUrl: "https://github.com/panther-labs/mcp-panther/blob/main/README.md"
+readmeUrl: "https://github.com/panther-labs/mcp-panther/blob/HEAD/README.md"
 githubStars: 40
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:23.358Z"

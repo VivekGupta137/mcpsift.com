@@ -10,7 +10,7 @@ owner: "kazukinakai"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/kazukinakai/docker-mcp-gateway"
-readmeUrl: "https://github.com/kazukinakai/docker-mcp-gateway/blob/main/README.md"
+readmeUrl: "https://github.com/kazukinakai/docker-mcp-gateway/blob/HEAD/README.md"
 githubStars: 44
 githubForks: 0
 githubStatsFetchedAt: "2025-11-22T00:00:37.908Z"

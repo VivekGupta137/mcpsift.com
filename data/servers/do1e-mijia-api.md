@@ -10,7 +10,7 @@ owner: "Do1e"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Do1e/mijia-api"
-readmeUrl: "https://github.com/Do1e/mijia-api/blob/main/README.md"
+readmeUrl: "https://github.com/Do1e/mijia-api/blob/HEAD/README.md"
 githubStars: 730
 githubForks: 0
 githubStatsFetchedAt: "2026-08-19T06:30:51.741Z"

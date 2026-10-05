@@ -10,7 +10,7 @@ owner: "DevsHero"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/DevsHero/search-scrape"
-readmeUrl: "https://github.com/DevsHero/search-scrape/blob/main/README.md"
+readmeUrl: "https://github.com/DevsHero/search-scrape/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2025-11-18T00:00:42.572Z"

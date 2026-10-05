@@ -10,7 +10,7 @@ owner: "jmandel"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jmandel/health-record-mcp"
-readmeUrl: "https://github.com/jmandel/health-record-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/jmandel/health-record-mcp/blob/HEAD/README.md"
 githubStars: 75
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:02.534Z"

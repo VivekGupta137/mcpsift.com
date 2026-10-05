@@ -10,7 +10,7 @@ owner: "vectorize-io"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/vectorize-io/vectorize-mcp-server"
-readmeUrl: "https://github.com/vectorize-io/vectorize-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/vectorize-io/vectorize-mcp-server/blob/HEAD/README.md"
 githubStars: 104
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:04.962Z"

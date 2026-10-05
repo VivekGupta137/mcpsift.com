@@ -10,7 +10,7 @@ owner: "wheattoast11"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/wheattoast11/openrouter-deep-research-mcp"
-readmeUrl: "https://github.com/wheattoast11/openrouter-deep-research-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/wheattoast11/openrouter-deep-research-mcp/blob/HEAD/README.md"
 githubStars: 42
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:45.916Z"

@@ -10,7 +10,7 @@ owner: "kkeeling"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/kkeeling/zoho-mcp"
-readmeUrl: "https://github.com/kkeeling/zoho-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/kkeeling/zoho-mcp/blob/HEAD/README.md"
 githubStars: 37
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:59.913Z"

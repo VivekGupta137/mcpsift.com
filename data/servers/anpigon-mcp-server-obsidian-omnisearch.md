@@ -10,7 +10,7 @@ owner: "anpigon"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/anpigon/mcp-server-obsidian-omnisearch"
-readmeUrl: "https://github.com/anpigon/mcp-server-obsidian-omnisearch/blob/main/README.md"
+readmeUrl: "https://github.com/anpigon/mcp-server-obsidian-omnisearch/blob/HEAD/README.md"
 githubStars: 25
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:09.102Z"

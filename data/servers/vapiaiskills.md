@@ -10,7 +10,7 @@ owner: "VapiAI"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/VapiAI/skills"
-readmeUrl: "https://github.com/VapiAI/skills/blob/main/README.md"
+readmeUrl: "https://github.com/VapiAI/skills/blob/HEAD/README.md"
 githubStars: 34
 githubForks: 0
 githubStatsFetchedAt: "2026-04-17T00:30:54.883Z"

@@ -10,7 +10,7 @@ owner: "OpenAgentPlatform"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/OpenAgentPlatform/dive-mcp-host"
-readmeUrl: "https://github.com/OpenAgentPlatform/dive-mcp-host/blob/main/README.md"
+readmeUrl: "https://github.com/OpenAgentPlatform/dive-mcp-host/blob/HEAD/README.md"
 githubStars: 47
 githubForks: 0
 githubStatsFetchedAt: "2026-04-22T08:31:34.537Z"

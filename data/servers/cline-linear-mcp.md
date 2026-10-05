@@ -10,7 +10,7 @@ owner: "cline"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/cline/linear-mcp"
-readmeUrl: "https://github.com/cline/linear-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/cline/linear-mcp/blob/HEAD/README.md"
 githubStars: 120
 githubForks: 0
 githubStatsFetchedAt: "2025-11-18T00:00:42.608Z"

@@ -10,7 +10,7 @@ owner: "timrogers"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/timrogers/formanator"
-readmeUrl: "https://github.com/timrogers/formanator/blob/main/README.md"
+readmeUrl: "https://github.com/timrogers/formanator/blob/HEAD/README.md"
 githubStars: 82
 githubForks: 0
 githubStatsFetchedAt: "2026-04-23T15:02:02.895Z"

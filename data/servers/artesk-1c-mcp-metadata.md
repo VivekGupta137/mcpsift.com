@@ -10,7 +10,7 @@ owner: "artesk"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/artesk/1C_MCP_metadata"
-readmeUrl: "https://github.com/artesk/1C_MCP_metadata/blob/main/README.md"
+readmeUrl: "https://github.com/artesk/1C_MCP_metadata/blob/HEAD/README.md"
 githubStars: 52
 githubForks: 0
 githubStatsFetchedAt: "2026-03-15T00:00:40.787Z"

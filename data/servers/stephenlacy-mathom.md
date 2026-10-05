@@ -10,7 +10,7 @@ owner: "stephenlacy"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/stephenlacy/mathom"
-readmeUrl: "https://github.com/stephenlacy/mathom/blob/main/README.md"
+readmeUrl: "https://github.com/stephenlacy/mathom/blob/HEAD/README.md"
 githubStars: 196
 githubForks: 0
 githubStatsFetchedAt: "2025-11-10T00:00:39.192Z"

@@ -10,7 +10,7 @@ owner: "Karthikrshet"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/karthikrshet/Career-Agents"
-readmeUrl: "https://github.com/karthikrshet/Career-Agents/blob/main/README.md"
+readmeUrl: "https://github.com/karthikrshet/Career-Agents/blob/HEAD/README.md"
 githubStars: 34
 githubForks: 0
 githubStatsFetchedAt: "2026-08-12T23:30:46.274Z"

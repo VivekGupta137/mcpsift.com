@@ -10,7 +10,7 @@ owner: "BrunoV21"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/BrunoV21/AiCore"
-readmeUrl: "https://github.com/BrunoV21/AiCore/blob/main/README.md"
+readmeUrl: "https://github.com/BrunoV21/AiCore/blob/HEAD/README.md"
 githubStars: 27
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:05.328Z"

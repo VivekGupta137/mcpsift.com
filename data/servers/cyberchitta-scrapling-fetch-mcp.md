@@ -10,7 +10,7 @@ owner: "cyberchitta"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/cyberchitta/scrapling-fetch-mcp"
-readmeUrl: "https://github.com/cyberchitta/scrapling-fetch-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/cyberchitta/scrapling-fetch-mcp/blob/HEAD/README.md"
 githubStars: 65
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:01.139Z"

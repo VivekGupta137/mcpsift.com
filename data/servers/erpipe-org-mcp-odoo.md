@@ -10,7 +10,7 @@ owner: "erpipe-org"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/erpipe-org/mcp-odoo"
-readmeUrl: "https://github.com/erpipe-org/mcp-odoo/blob/main/README.md"
+readmeUrl: "https://github.com/erpipe-org/mcp-odoo/blob/HEAD/README.md"
 githubStars: 370
 githubForks: 0
 githubStatsFetchedAt: "2026-07-22T09:01:15.674Z"

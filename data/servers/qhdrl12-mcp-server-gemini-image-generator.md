@@ -10,7 +10,7 @@ owner: "qhdrl12"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/qhdrl12/mcp-server-gemini-image-generator"
-readmeUrl: "https://github.com/qhdrl12/mcp-server-gemini-image-generator/blob/main/README.md"
+readmeUrl: "https://github.com/qhdrl12/mcp-server-gemini-image-generator/blob/HEAD/README.md"
 githubStars: 29
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:44.408Z"

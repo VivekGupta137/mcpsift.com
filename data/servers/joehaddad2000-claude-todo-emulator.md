@@ -10,7 +10,7 @@ owner: "joehaddad2000"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/joehaddad2000/claude-todo-emulator"
-readmeUrl: "https://github.com/joehaddad2000/claude-todo-emulator/blob/main/README.md"
+readmeUrl: "https://github.com/joehaddad2000/claude-todo-emulator/blob/HEAD/README.md"
 githubStars: 25
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:15.491Z"

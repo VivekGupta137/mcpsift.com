@@ -10,7 +10,7 @@ owner: "feder-cr"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/feder-cr/AIHawk"
-readmeUrl: "https://github.com/feder-cr/AIHawk/blob/main/README.md"
+readmeUrl: "https://github.com/feder-cr/AIHawk/blob/HEAD/README.md"
 githubStars: 30309
 githubForks: 0
 githubStatsFetchedAt: "2026-09-04T18:30:56.085Z"

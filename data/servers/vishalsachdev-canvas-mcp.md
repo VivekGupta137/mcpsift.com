@@ -10,7 +10,7 @@ owner: "vishalsachdev"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/vishalsachdev/canvas-mcp"
-readmeUrl: "https://github.com/vishalsachdev/canvas-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/vishalsachdev/canvas-mcp/blob/HEAD/README.md"
 githubStars: 69
 githubForks: 0
 githubStatsFetchedAt: "2026-03-09T00:00:36.974Z"

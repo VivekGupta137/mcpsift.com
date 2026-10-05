@@ -10,7 +10,7 @@ owner: "lightpanda-io"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/lightpanda-io/gomcp"
-readmeUrl: "https://github.com/lightpanda-io/gomcp/blob/main/README.md"
+readmeUrl: "https://github.com/lightpanda-io/gomcp/blob/HEAD/README.md"
 githubStars: 57
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:01.300Z"

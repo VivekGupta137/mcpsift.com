@@ -10,7 +10,7 @@ owner: "ramp"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ramp-public/ramp_mcp"
-readmeUrl: "https://github.com/ramp-public/ramp_mcp/blob/main/README.md"
+readmeUrl: "https://github.com/ramp-public/ramp_mcp/blob/HEAD/README.md"
 githubStars: 30
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:38.485Z"

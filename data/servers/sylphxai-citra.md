@@ -10,7 +10,7 @@ owner: "SylphxAI"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/SylphxAI/citra"
-readmeUrl: "https://github.com/SylphxAI/citra/blob/main/README.md"
+readmeUrl: "https://github.com/SylphxAI/citra/blob/HEAD/README.md"
 githubStars: 935
 githubForks: 0
 githubStatsFetchedAt: "2026-09-22T03:00:49.836Z"

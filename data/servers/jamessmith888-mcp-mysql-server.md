@@ -10,7 +10,7 @@ owner: "jamessmith888"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/JamesSmith888/mcp-mysql-server"
-readmeUrl: "https://github.com/JamesSmith888/mcp-mysql-server/blob/main/README.md"
+readmeUrl: "https://github.com/JamesSmith888/mcp-mysql-server/blob/HEAD/README.md"
 githubStars: 27
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:16.540Z"

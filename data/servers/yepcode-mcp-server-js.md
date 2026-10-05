@@ -10,7 +10,7 @@ owner: "yepcode"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/yepcode/mcp-server-js"
-readmeUrl: "https://github.com/yepcode/mcp-server-js/blob/main/README.md"
+readmeUrl: "https://github.com/yepcode/mcp-server-js/blob/HEAD/README.md"
 githubStars: 41
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:22.709Z"

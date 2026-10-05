@@ -10,7 +10,7 @@ owner: "PsychArch"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/PsychArch/jina-mcp-tools"
-readmeUrl: "https://github.com/PsychArch/jina-mcp-tools/blob/main/README.md"
+readmeUrl: "https://github.com/PsychArch/jina-mcp-tools/blob/HEAD/README.md"
 githubStars: 30
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:37:18.781Z"

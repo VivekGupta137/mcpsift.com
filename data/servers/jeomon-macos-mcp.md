@@ -10,7 +10,7 @@ owner: "Jeomon"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/CursorTouch/MacOS-MCP"
-readmeUrl: "https://github.com/CursorTouch/MacOS-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/CursorTouch/MacOS-MCP/blob/HEAD/README.md"
 githubStars: 66
 githubForks: 0
 githubStatsFetchedAt: "2026-06-04T16:12:18.273Z"

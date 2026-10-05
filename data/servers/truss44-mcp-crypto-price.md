@@ -10,7 +10,7 @@ owner: "truss44"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/truss44/mcp-crypto-price"
-readmeUrl: "https://github.com/truss44/mcp-crypto-price/blob/main/README.md"
+readmeUrl: "https://github.com/truss44/mcp-crypto-price/blob/HEAD/README.md"
 githubStars: 28
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:04.464Z"

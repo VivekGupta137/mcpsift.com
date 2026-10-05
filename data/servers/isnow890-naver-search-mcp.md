@@ -10,7 +10,7 @@ owner: "isnow890"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/isnow890/naver-search-mcp"
-readmeUrl: "https://github.com/isnow890/naver-search-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/isnow890/naver-search-mcp/blob/HEAD/README.md"
 githubStars: 57
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:16.183Z"

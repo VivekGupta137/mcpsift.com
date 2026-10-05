@@ -10,7 +10,7 @@ owner: "aws-samples"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/aws-samples/sample-nova-sonic-mcp"
-readmeUrl: "https://github.com/aws-samples/sample-nova-sonic-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/aws-samples/sample-nova-sonic-mcp/blob/HEAD/README.md"
 githubStars: 30
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:04.952Z"

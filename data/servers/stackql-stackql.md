@@ -10,7 +10,7 @@ owner: "stackql"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/stackql/stackql"
-readmeUrl: "https://github.com/stackql/stackql/blob/main/README.md"
+readmeUrl: "https://github.com/stackql/stackql/blob/HEAD/README.md"
 githubStars: 862
 githubForks: 0
 githubStatsFetchedAt: "2026-06-15T23:00:40.265Z"

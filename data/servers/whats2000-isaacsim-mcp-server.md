@@ -10,7 +10,7 @@ owner: "whats2000"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/whats2000/isaacsim-mcp-server"
-readmeUrl: "https://github.com/whats2000/isaacsim-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/whats2000/isaacsim-mcp-server/blob/HEAD/README.md"
 githubStars: 38
 githubForks: 0
 githubStatsFetchedAt: "2026-07-01T15:15:57.430Z"

@@ -10,7 +10,7 @@ owner: "patrickchugh"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/patrickchugh/terravision"
-readmeUrl: "https://github.com/patrickchugh/terravision/blob/main/README.md"
+readmeUrl: "https://github.com/patrickchugh/terravision/blob/HEAD/README.md"
 githubStars: 1640
 githubForks: 0
 githubStatsFetchedAt: "2026-09-25T14:01:48.894Z"

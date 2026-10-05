@@ -10,7 +10,7 @@ owner: "lightninglabs"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/lightninglabs/lightning-agent-tools"
-readmeUrl: "https://github.com/lightninglabs/lightning-agent-tools/blob/main/README.md"
+readmeUrl: "https://github.com/lightninglabs/lightning-agent-tools/blob/HEAD/README.md"
 githubStars: 46
 githubForks: 0
 githubStatsFetchedAt: "2026-05-29T10:01:32.520Z"

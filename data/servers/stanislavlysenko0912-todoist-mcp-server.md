@@ -10,7 +10,7 @@ owner: "stanislavlysenko0912"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/stanislavlysenko0912/todoist-mcp-server"
-readmeUrl: "https://github.com/stanislavlysenko0912/todoist-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/stanislavlysenko0912/todoist-mcp-server/blob/HEAD/README.md"
 githubStars: 30
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:37:04.917Z"

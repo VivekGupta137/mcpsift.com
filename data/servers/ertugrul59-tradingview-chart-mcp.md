@@ -10,7 +10,7 @@ owner: "ertugrul59"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ertugrul59/tradingview-chart-mcp"
-readmeUrl: "https://github.com/ertugrul59/tradingview-chart-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/ertugrul59/tradingview-chart-mcp/blob/HEAD/README.md"
 githubStars: 71
 githubForks: 0
 githubStatsFetchedAt: "2026-03-09T00:00:41.048Z"

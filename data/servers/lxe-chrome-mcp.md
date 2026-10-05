@@ -10,7 +10,7 @@ owner: "lxe"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/lxe/chrome-mcp"
-readmeUrl: "https://github.com/lxe/chrome-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/lxe/chrome-mcp/blob/HEAD/README.md"
 githubStars: 47
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:00.693Z"

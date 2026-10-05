@@ -10,7 +10,7 @@ owner: "talivia-group"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/talivia-group/agent"
-readmeUrl: "https://github.com/talivia-group/agent/blob/main/README.md"
+readmeUrl: "https://github.com/talivia-group/agent/blob/HEAD/README.md"
 githubStars: 68
 githubForks: 0
 githubStatsFetchedAt: "2026-08-02T10:30:38.711Z"

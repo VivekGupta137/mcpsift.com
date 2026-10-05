@@ -10,7 +10,7 @@ owner: "crawlbase"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/crawlbase/crawlbase-mcp"
-readmeUrl: "https://github.com/crawlbase/crawlbase-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/crawlbase/crawlbase-mcp/blob/HEAD/README.md"
 githubStars: 53
 githubForks: 0
 githubStatsFetchedAt: "2026-04-10T08:31:33.808Z"

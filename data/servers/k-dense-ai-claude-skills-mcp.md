@@ -10,7 +10,7 @@ owner: "K-Dense-AI"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/K-Dense-AI/claude-skills-mcp"
-readmeUrl: "https://github.com/K-Dense-AI/claude-skills-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/K-Dense-AI/claude-skills-mcp/blob/HEAD/README.md"
 githubStars: 394
 githubForks: 0
 githubStatsFetchedAt: "2026-07-20T17:30:44.180Z"

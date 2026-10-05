@@ -10,7 +10,7 @@ owner: "SzamosiMate"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/SzamosiMate/tapir-archicad-MCP"
-readmeUrl: "https://github.com/SzamosiMate/tapir-archicad-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/SzamosiMate/tapir-archicad-MCP/blob/HEAD/README.md"
 githubStars: 61
 githubForks: 0
 githubStatsFetchedAt: "2026-05-17T21:30:53.500Z"

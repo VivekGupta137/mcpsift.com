@@ -10,7 +10,7 @@ owner: "tableau"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/tableau/tableau-mcp"
-readmeUrl: "https://github.com/tableau/tableau-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/tableau/tableau-mcp/blob/HEAD/README.md"
 githubStars: 194
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:45.114Z"

@@ -10,7 +10,7 @@ owner: "aimasteracc"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/aimasteracc/tree-sitter-analyzer"
-readmeUrl: "https://github.com/aimasteracc/tree-sitter-analyzer/blob/main/README.md"
+readmeUrl: "https://github.com/aimasteracc/tree-sitter-analyzer/blob/HEAD/README.md"
 githubStars: 27
 githubForks: 0
 githubStatsFetchedAt: "2026-03-29T14:31:09.707Z"

@@ -10,7 +10,7 @@ owner: "chrisryugj"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/chrisryugj/korean-patent-mcp"
-readmeUrl: "https://github.com/chrisryugj/korean-patent-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/chrisryugj/korean-patent-mcp/blob/HEAD/README.md"
 githubStars: 51
 githubForks: 0
 githubStatsFetchedAt: "2026-08-12T12:31:30.698Z"

@@ -10,7 +10,7 @@ owner: "peakmojo"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/peakmojo/applescript-mcp"
-readmeUrl: "https://github.com/peakmojo/applescript-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/peakmojo/applescript-mcp/blob/HEAD/README.md"
 githubStars: 378
 githubForks: 0
 githubStatsFetchedAt: "2025-11-20T20:30:44.634Z"

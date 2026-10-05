@@ -10,7 +10,7 @@ owner: "thingsboard"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/thingsboard/thingsboard-mcp"
-readmeUrl: "https://github.com/thingsboard/thingsboard-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/thingsboard/thingsboard-mcp/blob/HEAD/README.md"
 githubStars: 78
 githubForks: 0
 githubStatsFetchedAt: "2025-12-07T00:00:59.352Z"

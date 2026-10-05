@@ -10,7 +10,7 @@ owner: "hangwin"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/hangwin/mcp-chrome"
-readmeUrl: "https://github.com/hangwin/mcp-chrome/blob/main/README.md"
+readmeUrl: "https://github.com/hangwin/mcp-chrome/blob/HEAD/README.md"
 githubStars: 10653
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:50.371Z"

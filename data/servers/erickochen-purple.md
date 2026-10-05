@@ -10,7 +10,7 @@ owner: "erickochen"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/erickochen/purple"
-readmeUrl: "https://github.com/erickochen/purple/blob/main/README.md"
+readmeUrl: "https://github.com/erickochen/purple/blob/HEAD/README.md"
 githubStars: 78
 githubForks: 0
 githubStatsFetchedAt: "2026-03-28T09:31:12.980Z"

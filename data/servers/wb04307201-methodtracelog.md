@@ -10,7 +10,7 @@ owner: "wb04307201"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/wb04307201/methodTraceLog"
-readmeUrl: "https://github.com/wb04307201/methodTraceLog/blob/main/README.md"
+readmeUrl: "https://github.com/wb04307201/methodTraceLog/blob/HEAD/README.md"
 githubStars: 46
 githubForks: 0
 githubStatsFetchedAt: "2026-06-11T13:31:58.554Z"

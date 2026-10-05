@@ -10,7 +10,7 @@ owner: "Jacck"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Jacck/mcp-reasoner"
-readmeUrl: "https://github.com/Jacck/mcp-reasoner/blob/main/README.md"
+readmeUrl: "https://github.com/Jacck/mcp-reasoner/blob/HEAD/README.md"
 githubStars: 277
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:35.629Z"

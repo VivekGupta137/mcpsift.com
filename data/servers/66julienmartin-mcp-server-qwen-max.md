@@ -10,7 +10,7 @@ owner: "66julienmartin"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/66julienmartin/MCP-server-Qwen_Max"
-readmeUrl: "https://github.com/66julienmartin/MCP-server-Qwen_Max/blob/main/README.md"
+readmeUrl: "https://github.com/66julienmartin/MCP-server-Qwen_Max/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:46.235Z"

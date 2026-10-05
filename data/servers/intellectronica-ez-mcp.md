@@ -10,7 +10,7 @@ owner: "intellectronica"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/intellectronica/ez-mcp"
-readmeUrl: "https://github.com/intellectronica/ez-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/intellectronica/ez-mcp/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2025-10-29T10:55:59.723Z"

@@ -10,7 +10,7 @@ owner: "cyclops-ui"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/cyclops-ui/mcp-cyclops"
-readmeUrl: "https://github.com/cyclops-ui/mcp-cyclops/blob/main/README.md"
+readmeUrl: "https://github.com/cyclops-ui/mcp-cyclops/blob/HEAD/README.md"
 githubStars: 30
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:50.757Z"

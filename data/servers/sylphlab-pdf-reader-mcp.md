@@ -10,7 +10,7 @@ owner: "sylphlab"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/sylphxltd/pdf-reader-mcp"
-readmeUrl: "https://github.com/sylphxltd/pdf-reader-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/sylphxltd/pdf-reader-mcp/blob/HEAD/README.md"
 githubStars: 285
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:37:23.446Z"

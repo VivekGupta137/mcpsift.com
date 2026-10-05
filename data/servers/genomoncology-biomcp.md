@@ -10,7 +10,7 @@ owner: "genomoncology"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/genomoncology/biomcp"
-readmeUrl: "https://github.com/genomoncology/biomcp/blob/main/README.md"
+readmeUrl: "https://github.com/genomoncology/biomcp/blob/HEAD/README.md"
 githubStars: 450
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:39.241Z"

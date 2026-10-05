@@ -10,7 +10,7 @@ owner: "arpitbatra123"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/arpitbatra123/mcp-googletasks"
-readmeUrl: "https://github.com/arpitbatra123/mcp-googletasks/blob/main/README.md"
+readmeUrl: "https://github.com/arpitbatra123/mcp-googletasks/blob/HEAD/README.md"
 githubStars: 32
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:05.984Z"

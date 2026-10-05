@@ -10,7 +10,7 @@ owner: "RamXX"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/RamXX/mcp-tavily"
-readmeUrl: "https://github.com/RamXX/mcp-tavily/blob/main/README.md"
+readmeUrl: "https://github.com/RamXX/mcp-tavily/blob/HEAD/README.md"
 githubStars: 72
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:54.295Z"

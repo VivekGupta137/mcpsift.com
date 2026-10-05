@@ -10,7 +10,7 @@ owner: "agentculture"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/agentculture/reachy-mini-mcp"
-readmeUrl: "https://github.com/agentculture/reachy-mini-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/agentculture/reachy-mini-mcp/blob/HEAD/README.md"
 githubStars: 29
 githubForks: 0
 githubStatsFetchedAt: "2026-06-02T21:31:13.096Z"

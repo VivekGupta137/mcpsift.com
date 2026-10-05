@@ -10,7 +10,7 @@ owner: "LetsFG"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/LetsFG/LetsFG"
-readmeUrl: "https://github.com/LetsFG/LetsFG/blob/main/README.md"
+readmeUrl: "https://github.com/LetsFG/LetsFG/blob/HEAD/README.md"
 githubStars: 1638
 githubForks: 0
 githubStatsFetchedAt: "2026-08-05T15:00:45.834Z"

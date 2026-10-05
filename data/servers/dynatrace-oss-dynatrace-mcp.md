@@ -10,7 +10,7 @@ owner: "dynatrace-oss"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/dynatrace-oss/dynatrace-mcp"
-readmeUrl: "https://github.com/dynatrace-oss/dynatrace-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/dynatrace-oss/dynatrace-mcp/blob/HEAD/README.md"
 githubStars: 84
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:34.163Z"

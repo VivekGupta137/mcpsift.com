@@ -10,7 +10,7 @@ owner: "jingcheng-chen"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jingcheng-chen/rhinomcp"
-readmeUrl: "https://github.com/jingcheng-chen/rhinomcp/blob/main/README.md"
+readmeUrl: "https://github.com/jingcheng-chen/rhinomcp/blob/HEAD/README.md"
 githubStars: 246
 githubForks: 0
 githubStatsFetchedAt: "2025-11-17T00:00:41.419Z"

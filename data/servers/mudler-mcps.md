@@ -10,7 +10,7 @@ owner: "mudler"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mudler/MCPs"
-readmeUrl: "https://github.com/mudler/MCPs/blob/main/README.md"
+readmeUrl: "https://github.com/mudler/MCPs/blob/HEAD/README.md"
 githubStars: 33
 githubForks: 0
 githubStatsFetchedAt: "2026-04-10T21:01:40.621Z"

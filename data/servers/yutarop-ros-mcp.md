@@ -10,7 +10,7 @@ owner: "Yutarop"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Yutarop/ros-mcp"
-readmeUrl: "https://github.com/Yutarop/ros-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/Yutarop/ros-mcp/blob/HEAD/README.md"
 githubStars: 25
 githubForks: 0
 githubStatsFetchedAt: "2025-11-07T00:00:42.072Z"

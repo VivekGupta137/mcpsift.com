@@ -10,7 +10,7 @@ owner: "alejandro-ao"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/alejandro-ao/mcp-streamable-http"
-readmeUrl: "https://github.com/alejandro-ao/mcp-streamable-http/blob/main/README.md"
+readmeUrl: "https://github.com/alejandro-ao/mcp-streamable-http/blob/HEAD/README.md"
 githubStars: 31
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:32.292Z"

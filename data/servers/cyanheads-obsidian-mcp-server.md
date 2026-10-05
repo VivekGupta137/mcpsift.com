@@ -10,7 +10,7 @@ owner: "cyanheads"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/cyanheads/obsidian-mcp-server"
-readmeUrl: "https://github.com/cyanheads/obsidian-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/cyanheads/obsidian-mcp-server/blob/HEAD/README.md"
 githubStars: 587
 githubForks: 0
 githubStatsFetchedAt: "2026-06-13T23:11:52.919Z"

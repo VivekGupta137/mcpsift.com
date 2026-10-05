@@ -10,7 +10,7 @@ owner: "BilkentAudio"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/BilkentAudio/Wwise-MCP"
-readmeUrl: "https://github.com/BilkentAudio/Wwise-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/BilkentAudio/Wwise-MCP/blob/HEAD/README.md"
 githubStars: 29
 githubForks: 0
 githubStatsFetchedAt: "2026-03-06T06:57:12.584Z"

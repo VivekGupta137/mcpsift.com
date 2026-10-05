@@ -10,7 +10,7 @@ owner: "KDAN-PDF"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/KDAN-PDF/KDAN-PDF-MCP"
-readmeUrl: "https://github.com/KDAN-PDF/KDAN-PDF-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/KDAN-PDF/KDAN-PDF-MCP/blob/HEAD/README.md"
 githubStars: 57
 githubForks: 0
 githubStatsFetchedAt: "2026-07-28T03:30:37.968Z"

@@ -10,7 +10,7 @@ owner: "Yourdaylight"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Yourdaylight/stock_datasource"
-readmeUrl: "https://github.com/Yourdaylight/stock_datasource/blob/main/README.md"
+readmeUrl: "https://github.com/Yourdaylight/stock_datasource/blob/HEAD/README.md"
 githubStars: 79
 githubForks: 0
 githubStatsFetchedAt: "2026-03-24T16:32:01.065Z"

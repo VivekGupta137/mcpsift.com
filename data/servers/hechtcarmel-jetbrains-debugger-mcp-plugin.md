@@ -10,7 +10,7 @@ owner: "hechtcarmel"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/hechtcarmel/jetbrains-debugger-mcp-plugin"
-readmeUrl: "https://github.com/hechtcarmel/jetbrains-debugger-mcp-plugin/blob/main/README.md"
+readmeUrl: "https://github.com/hechtcarmel/jetbrains-debugger-mcp-plugin/blob/HEAD/README.md"
 githubStars: 49
 githubForks: 0
 githubStatsFetchedAt: "2026-04-02T11:31:05.712Z"

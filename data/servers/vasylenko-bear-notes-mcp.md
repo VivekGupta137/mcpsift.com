@@ -10,7 +10,7 @@ owner: "vasylenko"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/vasylenko/bear-notes-mcp"
-readmeUrl: "https://github.com/vasylenko/bear-notes-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/vasylenko/bear-notes-mcp/blob/HEAD/README.md"
 githubStars: 153
 githubForks: 0
 githubStatsFetchedAt: "2026-03-29T00:01:53.354Z"

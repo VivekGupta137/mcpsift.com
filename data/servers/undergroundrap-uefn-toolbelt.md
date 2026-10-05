@@ -10,7 +10,7 @@ owner: "undergroundrap"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/undergroundrap/UEFN-TOOLBELT"
-readmeUrl: "https://github.com/undergroundrap/UEFN-TOOLBELT/blob/main/README.md"
+readmeUrl: "https://github.com/undergroundrap/UEFN-TOOLBELT/blob/HEAD/README.md"
 githubStars: 45
 githubForks: 0
 githubStatsFetchedAt: "2026-09-09T02:01:19.184Z"

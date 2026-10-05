@@ -10,7 +10,7 @@ owner: "annenpolka"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/annenpolka/roo-logger"
-readmeUrl: "https://github.com/annenpolka/roo-logger/blob/main/README.md"
+readmeUrl: "https://github.com/annenpolka/roo-logger/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:52.749Z"

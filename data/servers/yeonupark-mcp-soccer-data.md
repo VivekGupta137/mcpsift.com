@@ -10,7 +10,7 @@ owner: "yeonupark"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/yeonupark/mcp-soccer-data"
-readmeUrl: "https://github.com/yeonupark/mcp-soccer-data/blob/main/README.md"
+readmeUrl: "https://github.com/yeonupark/mcp-soccer-data/blob/HEAD/README.md"
 githubStars: 28
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:06.350Z"

@@ -94,7 +94,9 @@ async function load(url, force) {
     await writeFile(filename, JSON.stringify(result));
     return { ...result, state: 'fresh' };
   } catch (error) {
-    console.warn(`[README] ${url}: ${error.message}${cached ? ' — using cached copy' : ' — displaying source link'}`);
+    if (!error.message.includes('HTTP 404') && !error.message.includes('HTTP 301')) {
+      console.warn(`[README] ${url} ${error.message}${cached ? ' — using cached copy' : ' — displaying source link'}`);
+    }
     if (cached) return { ...cached, state: 'cached' };
     return { markdown: '', url, fetchedAt: null, state: 'unavailable' };
   }

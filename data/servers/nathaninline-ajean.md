@@ -10,7 +10,7 @@ owner: "nathaninline"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/nathaninline/ajean"
-readmeUrl: "https://github.com/nathaninline/ajean/blob/main/README.md"
+readmeUrl: "https://github.com/nathaninline/ajean/blob/HEAD/README.md"
 githubStars: 27
 githubForks: 0
 githubStatsFetchedAt: "2026-08-04T14:31:03.401Z"

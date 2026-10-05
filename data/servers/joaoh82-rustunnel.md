@@ -10,7 +10,7 @@ owner: "joaoh82"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/joaoh82/rustunnel"
-readmeUrl: "https://github.com/joaoh82/rustunnel/blob/main/README.md"
+readmeUrl: "https://github.com/joaoh82/rustunnel/blob/HEAD/README.md"
 githubStars: 630
 githubForks: 0
 githubStatsFetchedAt: "2026-05-25T16:30:51.753Z"

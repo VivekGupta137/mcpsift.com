@@ -10,7 +10,7 @@ owner: "cbunting99"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/cbunting99/enhanced-mcp-memory"
-readmeUrl: "https://github.com/cbunting99/enhanced-mcp-memory/blob/main/README.md"
+readmeUrl: "https://github.com/cbunting99/enhanced-mcp-memory/blob/HEAD/README.md"
 githubStars: 30
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:23.810Z"

@@ -10,7 +10,7 @@ owner: "deploystackio"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/deploystackio/deploystack"
-readmeUrl: "https://github.com/deploystackio/deploystack/blob/main/README.md"
+readmeUrl: "https://github.com/deploystackio/deploystack/blob/HEAD/README.md"
 githubStars: 55
 githubForks: 0
 githubStatsFetchedAt: "2026-04-18T19:31:17.242Z"

@@ -10,7 +10,7 @@ owner: "emaspa"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/emaspa/unraidclaw"
-readmeUrl: "https://github.com/emaspa/unraidclaw/blob/main/README.md"
+readmeUrl: "https://github.com/emaspa/unraidclaw/blob/HEAD/README.md"
 githubStars: 45
 githubForks: 0
 githubStatsFetchedAt: "2026-09-16T09:31:02.805Z"

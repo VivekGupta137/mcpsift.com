@@ -10,7 +10,7 @@ owner: "loganrooks"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/loganrooks/zlibrary-mcp"
-readmeUrl: "https://github.com/loganrooks/zlibrary-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/loganrooks/zlibrary-mcp/blob/HEAD/README.md"
 githubStars: 45
 githubForks: 0
 githubStatsFetchedAt: "2026-07-10T15:51:17.610Z"

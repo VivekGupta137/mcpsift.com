@@ -10,7 +10,7 @@ owner: "daniel3303"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/daniel3303/Equibles"
-readmeUrl: "https://github.com/daniel3303/Equibles/blob/main/README.md"
+readmeUrl: "https://github.com/daniel3303/Equibles/blob/HEAD/README.md"
 githubStars: 179
 githubForks: 0
 githubStatsFetchedAt: "2026-07-18T18:00:36.817Z"

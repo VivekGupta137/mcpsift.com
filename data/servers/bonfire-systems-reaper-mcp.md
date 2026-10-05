@@ -10,7 +10,7 @@ owner: "bonfire-systems"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/bonfire-systems/reaper-mcp"
-readmeUrl: "https://github.com/bonfire-systems/reaper-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/bonfire-systems/reaper-mcp/blob/HEAD/README.md"
 githubStars: 122
 githubForks: 0
 githubStatsFetchedAt: "2026-08-20T07:01:21.086Z"

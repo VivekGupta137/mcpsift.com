@@ -10,7 +10,7 @@ owner: "brutus-gr"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/brutus-gr/stratint-mcp"
-readmeUrl: "https://github.com/brutus-gr/stratint-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/brutus-gr/stratint-mcp/blob/HEAD/README.md"
 githubStars: 69
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:37:18.095Z"

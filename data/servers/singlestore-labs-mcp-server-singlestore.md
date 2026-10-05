@@ -10,7 +10,7 @@ owner: "singlestore-labs"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/singlestore-labs/mcp-server-singlestore"
-readmeUrl: "https://github.com/singlestore-labs/mcp-server-singlestore/blob/main/README.md"
+readmeUrl: "https://github.com/singlestore-labs/mcp-server-singlestore/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:06.359Z"

@@ -10,7 +10,7 @@ owner: "7gugu"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/7gugu/whistle-mcp"
-readmeUrl: "https://github.com/7gugu/whistle-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/7gugu/whistle-mcp/blob/HEAD/README.md"
 githubStars: 28
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:07.493Z"

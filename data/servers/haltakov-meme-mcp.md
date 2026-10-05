@@ -10,7 +10,7 @@ owner: "haltakov"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/haltakov/meme-mcp"
-readmeUrl: "https://github.com/haltakov/meme-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/haltakov/meme-mcp/blob/HEAD/README.md"
 githubStars: 37
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:13.467Z"

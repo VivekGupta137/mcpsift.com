@@ -10,7 +10,7 @@ owner: "jhgaylor"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jhgaylor/node-candidate-mcp-server"
-readmeUrl: "https://github.com/jhgaylor/node-candidate-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/jhgaylor/node-candidate-mcp-server/blob/HEAD/README.md"
 githubStars: 81
 githubForks: 0
 githubStatsFetchedAt: "2026-06-10T04:30:50.576Z"

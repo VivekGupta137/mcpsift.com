@@ -10,7 +10,7 @@ owner: "benborla29"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/benborla/mcp-server-mysql"
-readmeUrl: "https://github.com/benborla/mcp-server-mysql/blob/main/README.md"
+readmeUrl: "https://github.com/benborla/mcp-server-mysql/blob/HEAD/README.md"
 githubStars: 1315
 githubForks: 0
 githubStatsFetchedAt: "2026-03-11T00:01:17.209Z"

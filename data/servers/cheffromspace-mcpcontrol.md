@@ -10,7 +10,7 @@ owner: "Cheffromspace"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Cheffromspace/MCPControl"
-readmeUrl: "https://github.com/Cheffromspace/MCPControl/blob/main/README.md"
+readmeUrl: "https://github.com/Cheffromspace/MCPControl/blob/HEAD/README.md"
 githubStars: 294
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:42.882Z"

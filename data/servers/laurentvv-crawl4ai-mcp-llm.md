@@ -10,7 +10,7 @@ owner: "laurentvv"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/laurentvv/crawl4ai-mcp-llm"
-readmeUrl: "https://github.com/laurentvv/crawl4ai-mcp-llm/blob/main/README.md"
+readmeUrl: "https://github.com/laurentvv/crawl4ai-mcp-llm/blob/HEAD/README.md"
 githubStars: 42
 githubForks: 0
 githubStatsFetchedAt: "2026-07-22T08:31:13.855Z"

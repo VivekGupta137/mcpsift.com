@@ -10,7 +10,7 @@ owner: "mcpblender"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/MCPBlender/ableton-mcp"
-readmeUrl: "https://github.com/MCPBlender/ableton-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/MCPBlender/ableton-mcp/blob/HEAD/README.md"
 githubStars: 2883
 githubForks: 0
 githubStatsFetchedAt: "2026-08-08T12:30:31.373Z"

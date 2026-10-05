@@ -10,7 +10,7 @@ owner: "mixelpixx"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mixelpixx/SSH-MCP"
-readmeUrl: "https://github.com/mixelpixx/SSH-MCP/blob/main/README.md"
+readmeUrl: "https://github.com/mixelpixx/SSH-MCP/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2026-03-16T00:00:31.397Z"

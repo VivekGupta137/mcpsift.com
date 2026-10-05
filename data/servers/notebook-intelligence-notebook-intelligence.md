@@ -10,7 +10,7 @@ owner: "notebook-intelligence"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/notebook-intelligence/notebook-intelligence"
-readmeUrl: "https://github.com/notebook-intelligence/notebook-intelligence/blob/main/README.md"
+readmeUrl: "https://github.com/notebook-intelligence/notebook-intelligence/blob/HEAD/README.md"
 githubStars: 298
 githubForks: 0
 githubStatsFetchedAt: "2026-05-17T01:00:39.935Z"

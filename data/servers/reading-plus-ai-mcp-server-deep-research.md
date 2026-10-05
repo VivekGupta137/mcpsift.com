@@ -10,7 +10,7 @@ owner: "reading-plus-ai"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/reading-plus-ai/mcp-server-deep-research"
-readmeUrl: "https://github.com/reading-plus-ai/mcp-server-deep-research/blob/main/README.md"
+readmeUrl: "https://github.com/reading-plus-ai/mcp-server-deep-research/blob/HEAD/README.md"
 githubStars: 210
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:36.575Z"

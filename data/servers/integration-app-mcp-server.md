@@ -10,7 +10,7 @@ owner: "integration-app"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/integration-app/mcp-server"
-readmeUrl: "https://github.com/integration-app/mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/integration-app/mcp-server/blob/HEAD/README.md"
 githubStars: 34
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:35.310Z"

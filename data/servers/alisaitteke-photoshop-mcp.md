@@ -10,7 +10,7 @@ owner: "alisaitteke"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/alisaitteke/photoshop-mcp/tree/develop"
-readmeUrl: "https://github.com/alisaitteke/photoshop-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/alisaitteke/photoshop-mcp/blob/HEAD/README.md"
 githubStars: 65
 githubForks: 0
 githubStatsFetchedAt: "2026-05-28T04:50:44.865Z"

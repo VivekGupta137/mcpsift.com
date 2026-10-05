@@ -10,7 +10,7 @@ owner: "heyosseus"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Heyosseus/sloppy"
-readmeUrl: "https://github.com/Heyosseus/sloppy/blob/main/README.md"
+readmeUrl: "https://github.com/Heyosseus/sloppy/blob/HEAD/README.md"
 githubStars: 45
 githubForks: 0
 githubStatsFetchedAt: "2026-09-23T11:00:47.962Z"

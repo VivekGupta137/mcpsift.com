@@ -10,7 +10,7 @@ owner: "syyuan14"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/syyuan14/sh-disney-mcp"
-readmeUrl: "https://github.com/syyuan14/sh-disney-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/syyuan14/sh-disney-mcp/blob/HEAD/README.md"
 githubStars: 43
 githubForks: 0
 githubStatsFetchedAt: "2025-10-29T10:55:32.259Z"

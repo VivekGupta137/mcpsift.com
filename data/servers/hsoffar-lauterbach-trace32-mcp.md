@@ -10,7 +10,7 @@ owner: "hsoffar"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/hsoffar/lauterbach-trace32-mcp"
-readmeUrl: "https://github.com/hsoffar/lauterbach-trace32-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/hsoffar/lauterbach-trace32-mcp/blob/HEAD/README.md"
 githubStars: 25
 githubForks: 0
 githubStatsFetchedAt: "2026-06-07T07:30:37.685Z"

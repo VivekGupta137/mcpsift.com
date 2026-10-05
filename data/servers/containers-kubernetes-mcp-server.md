@@ -10,7 +10,7 @@ owner: "containers"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/containers/kubernetes-mcp-server"
-readmeUrl: "https://github.com/containers/kubernetes-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/containers/kubernetes-mcp-server/blob/HEAD/README.md"
 githubStars: 1330
 githubForks: 0
 githubStatsFetchedAt: "2026-03-25T08:32:06.238Z"

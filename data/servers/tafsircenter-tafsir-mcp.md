@@ -10,7 +10,7 @@ owner: "tafsircenter"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/tafsircenter/tafsir-mcp"
-readmeUrl: "https://github.com/tafsircenter/tafsir-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/tafsircenter/tafsir-mcp/blob/HEAD/README.md"
 githubStars: 34
 githubForks: 0
 githubStatsFetchedAt: "2026-06-03T13:01:04.205Z"

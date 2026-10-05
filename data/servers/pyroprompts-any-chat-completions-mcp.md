@@ -10,7 +10,7 @@ owner: "pyroprompts"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/pyroprompts/any-chat-completions-mcp"
-readmeUrl: "https://github.com/pyroprompts/any-chat-completions-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/pyroprompts/any-chat-completions-mcp/blob/HEAD/README.md"
 githubStars: 149
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:01.056Z"

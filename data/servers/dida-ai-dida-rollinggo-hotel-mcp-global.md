@@ -10,7 +10,7 @@ owner: "DIDA-AI"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/DIDA-AI/Dida-RollingGo-Hotel-MCP-Global"
-readmeUrl: "https://github.com/DIDA-AI/Dida-RollingGo-Hotel-MCP-Global/blob/main/README.md"
+readmeUrl: "https://github.com/DIDA-AI/Dida-RollingGo-Hotel-MCP-Global/blob/HEAD/README.md"
 githubStars: 81
 githubForks: 0
 githubStatsFetchedAt: "2026-08-03T07:30:56.326Z"

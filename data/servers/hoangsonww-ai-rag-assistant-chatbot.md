@@ -10,7 +10,7 @@ owner: "hoangsonww"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/hoangsonww/AI-RAG-Assistant-Chatbot"
-readmeUrl: "https://github.com/hoangsonww/AI-RAG-Assistant-Chatbot/blob/main/README.md"
+readmeUrl: "https://github.com/hoangsonww/AI-RAG-Assistant-Chatbot/blob/HEAD/README.md"
 githubStars: 34
 githubForks: 0
 githubStatsFetchedAt: "2026-03-31T19:32:16.167Z"

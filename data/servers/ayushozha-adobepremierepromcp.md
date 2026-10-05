@@ -10,7 +10,7 @@ owner: "ayushozha"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ayushozha/AdobePremiereProMCP"
-readmeUrl: "https://github.com/ayushozha/AdobePremiereProMCP/blob/main/README.md"
+readmeUrl: "https://github.com/ayushozha/AdobePremiereProMCP/blob/HEAD/README.md"
 githubStars: 74
 githubForks: 0
 githubStatsFetchedAt: "2026-08-06T18:00:55.122Z"

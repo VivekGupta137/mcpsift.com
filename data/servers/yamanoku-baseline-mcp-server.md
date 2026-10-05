@@ -10,7 +10,7 @@ owner: "yamanoku"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/yamanoku/baseline-mcp-server"
-readmeUrl: "https://github.com/yamanoku/baseline-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/yamanoku/baseline-mcp-server/blob/HEAD/README.md"
 githubStars: 36
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:43.554Z"

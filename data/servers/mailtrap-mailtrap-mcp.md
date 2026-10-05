@@ -10,7 +10,7 @@ owner: "mailtrap"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mailtrap/mailtrap-mcp"
-readmeUrl: "https://github.com/mailtrap/mailtrap-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/mailtrap/mailtrap-mcp/blob/HEAD/README.md"
 githubStars: 49
 githubForks: 0
 githubStatsFetchedAt: "2025-10-29T10:55:48.623Z"

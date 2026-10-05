@@ -10,7 +10,7 @@ owner: "icraft2170"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/icraft2170/youtube-data-mcp-server"
-readmeUrl: "https://github.com/icraft2170/youtube-data-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/icraft2170/youtube-data-mcp-server/blob/HEAD/README.md"
 githubStars: 58
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:05.230Z"

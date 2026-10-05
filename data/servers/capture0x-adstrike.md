@@ -10,7 +10,7 @@ owner: "capture0x"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/capture0x/AdStrike"
-readmeUrl: "https://github.com/capture0x/AdStrike/blob/main/README.md"
+readmeUrl: "https://github.com/capture0x/AdStrike/blob/HEAD/README.md"
 githubStars: 214
 githubForks: 0
 githubStatsFetchedAt: "2026-06-02T00:30:54.578Z"

@@ -10,7 +10,7 @@ owner: "zellerhaus"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/zellerhaus/batchdata-mcp-real-estate"
-readmeUrl: "https://github.com/zellerhaus/batchdata-mcp-real-estate/blob/main/README.md"
+readmeUrl: "https://github.com/zellerhaus/batchdata-mcp-real-estate/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:01.999Z"

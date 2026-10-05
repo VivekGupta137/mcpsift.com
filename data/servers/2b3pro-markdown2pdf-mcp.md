@@ -10,7 +10,7 @@ owner: "2b3pro"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/2b3pro/markdown2pdf-mcp"
-readmeUrl: "https://github.com/2b3pro/markdown2pdf-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/2b3pro/markdown2pdf-mcp/blob/HEAD/README.md"
 githubStars: 29
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:30.234Z"

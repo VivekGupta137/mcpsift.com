@@ -10,7 +10,7 @@ owner: "bitdive"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/bitDive/mcp-server/tree/python-mcp-server"
-readmeUrl: "https://github.com/bitDive/mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/bitDive/mcp-server/blob/HEAD/README.md"
 githubStars: 81
 githubForks: 0
 githubStatsFetchedAt: "2026-05-30T15:30:44.397Z"

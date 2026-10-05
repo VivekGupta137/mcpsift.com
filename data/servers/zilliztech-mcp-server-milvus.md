@@ -10,7 +10,7 @@ owner: "zilliztech"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/zilliztech/mcp-server-milvus"
-readmeUrl: "https://github.com/zilliztech/mcp-server-milvus/blob/main/README.md"
+readmeUrl: "https://github.com/zilliztech/mcp-server-milvus/blob/HEAD/README.md"
 githubStars: 218
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:56.575Z"

@@ -10,7 +10,7 @@ owner: "mcp-servers-for-revit"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mcp-servers-for-revit/mcp-servers-for-revit"
-readmeUrl: "https://github.com/mcp-servers-for-revit/mcp-servers-for-revit/blob/main/README.md"
+readmeUrl: "https://github.com/mcp-servers-for-revit/mcp-servers-for-revit/blob/HEAD/README.md"
 githubStars: 84
 githubForks: 0
 githubStatsFetchedAt: "2026-04-05T01:31:14.522Z"

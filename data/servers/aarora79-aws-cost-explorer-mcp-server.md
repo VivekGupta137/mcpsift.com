@@ -10,7 +10,7 @@ owner: "aarora79"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/aarora79/aws-cost-explorer-mcp-server"
-readmeUrl: "https://github.com/aarora79/aws-cost-explorer-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/aarora79/aws-cost-explorer-mcp-server/blob/HEAD/README.md"
 githubStars: 127
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:58.548Z"

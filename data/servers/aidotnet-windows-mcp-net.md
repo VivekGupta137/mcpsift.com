@@ -10,7 +10,7 @@ owner: "AIDotNet"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/AIDotNet/Windows-MCP.Net"
-readmeUrl: "https://github.com/AIDotNet/Windows-MCP.Net/blob/main/README.md"
+readmeUrl: "https://github.com/AIDotNet/Windows-MCP.Net/blob/HEAD/README.md"
 githubStars: 208
 githubForks: 0
 githubStatsFetchedAt: "2025-11-10T00:00:43.073Z"

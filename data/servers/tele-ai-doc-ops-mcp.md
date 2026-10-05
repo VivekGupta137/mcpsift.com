@@ -10,7 +10,7 @@ owner: "Tele-AI"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Tele-AI/doc-ops-mcp"
-readmeUrl: "https://github.com/Tele-AI/doc-ops-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/Tele-AI/doc-ops-mcp/blob/HEAD/README.md"
 githubStars: 132
 githubForks: 0
 githubStatsFetchedAt: "2025-11-09T00:00:51.063Z"

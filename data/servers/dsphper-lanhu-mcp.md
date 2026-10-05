@@ -10,7 +10,7 @@ owner: "dsphper"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/dsphper/lanhu-mcp"
-readmeUrl: "https://github.com/dsphper/lanhu-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/dsphper/lanhu-mcp/blob/HEAD/README.md"
 githubStars: 787
 githubForks: 0
 githubStatsFetchedAt: "2026-03-24T17:01:30.733Z"

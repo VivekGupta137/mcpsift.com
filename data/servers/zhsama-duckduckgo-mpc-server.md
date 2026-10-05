@@ -10,7 +10,7 @@ owner: "zhsama"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/zhsama/duckduckgo-mpc-server"
-readmeUrl: "https://github.com/zhsama/duckduckgo-mpc-server/blob/main/README.md"
+readmeUrl: "https://github.com/zhsama/duckduckgo-mpc-server/blob/HEAD/README.md"
 githubStars: 63
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:37:27.377Z"

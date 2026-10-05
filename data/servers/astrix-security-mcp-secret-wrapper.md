@@ -10,7 +10,7 @@ owner: "astrix-security"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/astrix-security/mcp-secret-wrapper"
-readmeUrl: "https://github.com/astrix-security/mcp-secret-wrapper/blob/main/README.md"
+readmeUrl: "https://github.com/astrix-security/mcp-secret-wrapper/blob/HEAD/README.md"
 githubStars: 47
 githubForks: 0
 githubStatsFetchedAt: "2026-03-26T10:02:37.351Z"

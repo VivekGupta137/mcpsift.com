@@ -10,7 +10,7 @@ owner: "gokulapap"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/gokulapap/bugbounty-mcp-server"
-readmeUrl: "https://github.com/gokulapap/bugbounty-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/gokulapap/bugbounty-mcp-server/blob/HEAD/README.md"
 githubStars: 41
 githubForks: 0
 githubStatsFetchedAt: "2026-08-24T09:30:55.837Z"

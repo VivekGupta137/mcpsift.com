@@ -10,7 +10,7 @@ owner: "jsonresume"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jsonresume/mcp"
-readmeUrl: "https://github.com/jsonresume/mcp/blob/main/README.md"
+readmeUrl: "https://github.com/jsonresume/mcp/blob/HEAD/README.md"
 githubStars: 61
 githubForks: 0
 githubStatsFetchedAt: "2026-06-05T18:31:04.733Z"

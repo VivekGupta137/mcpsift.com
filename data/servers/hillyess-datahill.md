@@ -10,7 +10,7 @@ owner: "Hillyess"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Hillyess/dataHill"
-readmeUrl: "https://github.com/Hillyess/dataHill/blob/main/README.md"
+readmeUrl: "https://github.com/Hillyess/dataHill/blob/HEAD/README.md"
 githubStars: 159
 githubForks: 0
 githubStatsFetchedAt: "2026-01-02T00:00:43.552Z"

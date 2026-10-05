@@ -10,7 +10,7 @@ owner: "uiNerd16"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/uiNerd16/aicanvas"
-readmeUrl: "https://github.com/uiNerd16/aicanvas/blob/main/README.md"
+readmeUrl: "https://github.com/uiNerd16/aicanvas/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2026-06-22T08:01:38.882Z"

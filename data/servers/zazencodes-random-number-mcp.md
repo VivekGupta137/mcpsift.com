@@ -10,7 +10,7 @@ owner: "zazencodes"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/zazencodes/random-number-mcp"
-readmeUrl: "https://github.com/zazencodes/random-number-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/zazencodes/random-number-mcp/blob/HEAD/README.md"
 githubStars: 46
 githubForks: 0
 githubStatsFetchedAt: "2026-03-10T00:00:46.430Z"

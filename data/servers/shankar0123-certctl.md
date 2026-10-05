@@ -10,7 +10,7 @@ owner: "shankar0123"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/shankar0123/certctl"
-readmeUrl: "https://github.com/shankar0123/certctl/blob/main/README.md"
+readmeUrl: "https://github.com/shankar0123/certctl/blob/HEAD/README.md"
 githubStars: 133
 githubForks: 0
 githubStatsFetchedAt: "2026-03-25T08:32:10.194Z"

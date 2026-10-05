@@ -10,7 +10,7 @@ owner: "laravel"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/laravel/boost"
-readmeUrl: "https://github.com/laravel/boost/blob/main/README.md"
+readmeUrl: "https://github.com/laravel/boost/blob/HEAD/README.md"
 githubStars: 2804
 githubForks: 0
 githubStatsFetchedAt: "2025-11-11T00:00:37.254Z"

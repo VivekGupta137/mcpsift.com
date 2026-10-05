@@ -10,7 +10,7 @@ owner: "skwallace36"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/skwallace36/Pepper"
-readmeUrl: "https://github.com/skwallace36/Pepper/blob/main/README.md"
+readmeUrl: "https://github.com/skwallace36/Pepper/blob/HEAD/README.md"
 githubStars: 46
 githubForks: 0
 githubStatsFetchedAt: "2026-03-29T17:30:58.769Z"

@@ -10,7 +10,7 @@ owner: "slothflowlabs"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/slothflowlabs/duckle"
-readmeUrl: "https://github.com/slothflowlabs/duckle/blob/main/README.md"
+readmeUrl: "https://github.com/slothflowlabs/duckle/blob/HEAD/README.md"
 githubStars: 865
 githubForks: 0
 githubStatsFetchedAt: "2026-07-25T08:00:48.214Z"

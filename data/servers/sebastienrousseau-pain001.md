@@ -10,7 +10,7 @@ owner: "sebastienrousseau"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/sebastienrousseau/pain001"
-readmeUrl: "https://github.com/sebastienrousseau/pain001/blob/main/README.md"
+readmeUrl: "https://github.com/sebastienrousseau/pain001/blob/HEAD/README.md"
 githubStars: 42
 githubForks: 0
 githubStatsFetchedAt: "2026-06-17T07:01:08.535Z"

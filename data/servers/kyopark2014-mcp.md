@@ -10,7 +10,7 @@ owner: "kyopark2014"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/kyopark2014/mcp"
-readmeUrl: "https://github.com/kyopark2014/mcp/blob/main/README.md"
+readmeUrl: "https://github.com/kyopark2014/mcp/blob/HEAD/README.md"
 githubStars: 39
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:54.849Z"

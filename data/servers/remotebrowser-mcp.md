@@ -10,7 +10,7 @@ owner: "remotebrowser"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/remotebrowser/mcp"
-readmeUrl: "https://github.com/remotebrowser/mcp/blob/main/README.md"
+readmeUrl: "https://github.com/remotebrowser/mcp/blob/HEAD/README.md"
 githubStars: 55
 githubForks: 0
 githubStatsFetchedAt: "2026-04-18T00:31:10.309Z"

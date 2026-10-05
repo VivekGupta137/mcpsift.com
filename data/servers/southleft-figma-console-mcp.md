@@ -10,7 +10,7 @@ owner: "southleft"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/southleft/figma-console-mcp"
-readmeUrl: "https://github.com/southleft/figma-console-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/southleft/figma-console-mcp/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2025-10-30T00:00:46.580Z"

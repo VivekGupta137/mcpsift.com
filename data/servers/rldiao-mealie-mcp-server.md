@@ -10,7 +10,7 @@ owner: "rldiao"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/rldiao/mealie-mcp-server"
-readmeUrl: "https://github.com/rldiao/mealie-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/rldiao/mealie-mcp-server/blob/HEAD/README.md"
 githubStars: 52
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:24.239Z"

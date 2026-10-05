@@ -10,7 +10,7 @@ owner: "Keshavsharma-code"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Keshavsharma-code/DeepSleep-beta"
-readmeUrl: "https://github.com/Keshavsharma-code/DeepSleep-beta/blob/main/README.md"
+readmeUrl: "https://github.com/Keshavsharma-code/DeepSleep-beta/blob/HEAD/README.md"
 githubStars: 35
 githubForks: 0
 githubStatsFetchedAt: "2026-04-24T17:30:41.344Z"

@@ -10,7 +10,7 @@ owner: "netanelavr"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/netanelavr/trading-mcp"
-readmeUrl: "https://github.com/netanelavr/trading-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/netanelavr/trading-mcp/blob/HEAD/README.md"
 githubStars: 70
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:46.276Z"

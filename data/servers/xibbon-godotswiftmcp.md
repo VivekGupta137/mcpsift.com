@@ -10,7 +10,7 @@ owner: "xibbon"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/xibbon/GodotSwiftMcp"
-readmeUrl: "https://github.com/xibbon/GodotSwiftMcp/blob/main/README.md"
+readmeUrl: "https://github.com/xibbon/GodotSwiftMcp/blob/HEAD/README.md"
 githubStars: 27
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:53.074Z"

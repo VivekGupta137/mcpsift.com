@@ -10,7 +10,7 @@ owner: "pedramamini"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/pedramamini/RSSidian"
-readmeUrl: "https://github.com/pedramamini/RSSidian/blob/main/README.md"
+readmeUrl: "https://github.com/pedramamini/RSSidian/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:19.312Z"

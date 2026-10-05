@@ -10,7 +10,7 @@ owner: "JexinSam"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/JexinSam/mssql_mcp_server"
-readmeUrl: "https://github.com/JexinSam/mssql_mcp_server/blob/main/README.md"
+readmeUrl: "https://github.com/JexinSam/mssql_mcp_server/blob/HEAD/README.md"
 githubStars: 54
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:01.908Z"

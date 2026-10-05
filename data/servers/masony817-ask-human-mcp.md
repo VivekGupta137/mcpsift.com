@@ -10,7 +10,7 @@ owner: "masony817"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Masony817/ask-human-mcp"
-readmeUrl: "https://github.com/Masony817/ask-human-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/Masony817/ask-human-mcp/blob/HEAD/README.md"
 githubStars: 150
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:04.686Z"

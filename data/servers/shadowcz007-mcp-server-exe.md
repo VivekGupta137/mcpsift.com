@@ -10,7 +10,7 @@ owner: "shadowcz007"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/shadowcz007/mcp_server_exe"
-readmeUrl: "https://github.com/shadowcz007/mcp_server_exe/blob/main/README.md"
+readmeUrl: "https://github.com/shadowcz007/mcp_server_exe/blob/HEAD/README.md"
 githubStars: 134
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:54.038Z"

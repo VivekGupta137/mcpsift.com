@@ -10,7 +10,7 @@ owner: "VeriTeknik"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/VeriTeknik/pluggedin-mcp"
-readmeUrl: "https://github.com/VeriTeknik/pluggedin-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/VeriTeknik/pluggedin-mcp/blob/HEAD/README.md"
 githubStars: 49
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:27.280Z"

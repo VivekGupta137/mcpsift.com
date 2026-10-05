@@ -10,7 +10,7 @@ owner: "aloth"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/aloth/olcli"
-readmeUrl: "https://github.com/aloth/olcli/blob/main/README.md"
+readmeUrl: "https://github.com/aloth/olcli/blob/HEAD/README.md"
 githubStars: 98
 githubForks: 0
 githubStatsFetchedAt: "2026-07-01T10:31:15.405Z"

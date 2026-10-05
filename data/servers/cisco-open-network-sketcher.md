@@ -10,7 +10,7 @@ owner: "cisco-open"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/cisco-open/network-sketcher"
-readmeUrl: "https://github.com/cisco-open/network-sketcher/blob/main/README.md"
+readmeUrl: "https://github.com/cisco-open/network-sketcher/blob/HEAD/README.md"
 githubStars: 369
 githubForks: 0
 githubStatsFetchedAt: "2026-07-06T04:03:51.730Z"

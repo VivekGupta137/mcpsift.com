@@ -10,7 +10,7 @@ owner: "geelen"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/geelen/mcp-remote"
-readmeUrl: "https://github.com/geelen/mcp-remote/blob/main/README.md"
+readmeUrl: "https://github.com/geelen/mcp-remote/blob/HEAD/README.md"
 githubStars: 1301
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:46.115Z"

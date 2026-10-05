@@ -10,7 +10,7 @@ owner: "g0t4"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/g0t4/mcp-server-commands"
-readmeUrl: "https://github.com/g0t4/mcp-server-commands/blob/main/README.md"
+readmeUrl: "https://github.com/g0t4/mcp-server-commands/blob/HEAD/README.md"
 githubStars: 201
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:00.108Z"

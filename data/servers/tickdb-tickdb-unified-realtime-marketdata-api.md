@@ -10,7 +10,7 @@ owner: "TickDB"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/TickDB/tickdb-unified-realtime-marketdata-api"
-readmeUrl: "https://github.com/TickDB/tickdb-unified-realtime-marketdata-api/blob/main/README.md"
+readmeUrl: "https://github.com/TickDB/tickdb-unified-realtime-marketdata-api/blob/HEAD/README.md"
 githubStars: 321
 githubForks: 0
 githubStatsFetchedAt: "2026-05-22T03:35:11.600Z"

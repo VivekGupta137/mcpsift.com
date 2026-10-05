@@ -10,7 +10,7 @@ owner: "MnemosyneOS"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/MnemosyneOS/mnemosyne"
-readmeUrl: "https://github.com/MnemosyneOS/mnemosyne/blob/main/README.md"
+readmeUrl: "https://github.com/MnemosyneOS/mnemosyne/blob/HEAD/README.md"
 githubStars: 37
 githubForks: 0
 githubStatsFetchedAt: "2026-10-03T06:30:36.778Z"

@@ -10,7 +10,7 @@ owner: "gh05tcrew"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/GH05TCREW/MetasploitMCP"
-readmeUrl: "https://github.com/GH05TCREW/MetasploitMCP/blob/main/README.md"
+readmeUrl: "https://github.com/GH05TCREW/MetasploitMCP/blob/HEAD/README.md"
 githubStars: 516
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:52.714Z"

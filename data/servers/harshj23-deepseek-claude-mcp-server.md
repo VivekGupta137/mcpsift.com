@@ -10,7 +10,7 @@ owner: "HarshJ23"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/HarshJ23/deepseek-claude-MCP-server"
-readmeUrl: "https://github.com/HarshJ23/deepseek-claude-MCP-server/blob/main/README.md"
+readmeUrl: "https://github.com/HarshJ23/deepseek-claude-MCP-server/blob/HEAD/README.md"
 githubStars: 51
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:46.102Z"

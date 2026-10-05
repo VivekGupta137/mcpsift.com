@@ -10,7 +10,7 @@ owner: "instawp"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/InstaWP/mcp-wp"
-readmeUrl: "https://github.com/InstaWP/mcp-wp/blob/main/README.md"
+readmeUrl: "https://github.com/InstaWP/mcp-wp/blob/HEAD/README.md"
 githubStars: 85
 githubForks: 0
 githubStatsFetchedAt: "2026-06-15T06:30:44.158Z"

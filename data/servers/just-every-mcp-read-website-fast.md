@@ -10,7 +10,7 @@ owner: "just-every"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/just-every/mcp-read-website-fast"
-readmeUrl: "https://github.com/just-every/mcp-read-website-fast/blob/main/README.md"
+readmeUrl: "https://github.com/just-every/mcp-read-website-fast/blob/HEAD/README.md"
 githubStars: 102
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:37:46.612Z"

@@ -10,7 +10,7 @@ owner: "vectara"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/vectara/vectara-mcp"
-readmeUrl: "https://github.com/vectara/vectara-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/vectara/vectara-mcp/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:51.446Z"

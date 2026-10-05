@@ -10,7 +10,7 @@ owner: "KBThree13"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/KBThree13/mcp_espn_ff"
-readmeUrl: "https://github.com/KBThree13/mcp_espn_ff/blob/main/README.md"
+readmeUrl: "https://github.com/KBThree13/mcp_espn_ff/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2025-12-19T14:30:50.201Z"

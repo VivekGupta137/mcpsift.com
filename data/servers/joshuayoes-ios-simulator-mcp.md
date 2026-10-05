@@ -10,7 +10,7 @@ owner: "joshuayoes"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/joshuayoes/ios-simulator-mcp"
-readmeUrl: "https://github.com/joshuayoes/ios-simulator-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/joshuayoes/ios-simulator-mcp/blob/HEAD/README.md"
 githubStars: 2080
 githubForks: 0
 githubStatsFetchedAt: "2026-07-05T15:31:29.630Z"

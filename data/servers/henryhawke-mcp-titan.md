@@ -10,7 +10,7 @@ owner: "henryhawke"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/henryhawke/mcp-titan"
-readmeUrl: "https://github.com/henryhawke/mcp-titan/blob/main/README.md"
+readmeUrl: "https://github.com/henryhawke/mcp-titan/blob/HEAD/README.md"
 githubStars: 90
 githubForks: 0
 githubStatsFetchedAt: "2026-06-25T14:31:48.673Z"

@@ -10,7 +10,7 @@ owner: "SeoNaRu"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/SeoNaRu/lexguard-mcp"
-readmeUrl: "https://github.com/SeoNaRu/lexguard-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/SeoNaRu/lexguard-mcp/blob/HEAD/README.md"
 githubStars: 120
 githubForks: 0
 githubStatsFetchedAt: "2026-07-06T04:08:09.284Z"

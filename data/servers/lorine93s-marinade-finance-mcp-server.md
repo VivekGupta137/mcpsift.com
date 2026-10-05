@@ -10,7 +10,7 @@ owner: "lorine93s"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/lorine93s/marinade-finance-mcp-server"
-readmeUrl: "https://github.com/lorine93s/marinade-finance-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/lorine93s/marinade-finance-mcp-server/blob/HEAD/README.md"
 githubStars: 44
 githubForks: 0
 githubStatsFetchedAt: "2025-12-20T22:30:29.434Z"

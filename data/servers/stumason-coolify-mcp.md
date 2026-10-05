@@ -10,7 +10,7 @@ owner: "StuMason"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/StuMason/coolify-mcp"
-readmeUrl: "https://github.com/StuMason/coolify-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/StuMason/coolify-mcp/blob/HEAD/README.md"
 githubStars: 277
 githubForks: 0
 githubStatsFetchedAt: "2026-04-02T12:03:05.468Z"

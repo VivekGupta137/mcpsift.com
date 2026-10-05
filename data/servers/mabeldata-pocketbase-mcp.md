@@ -10,7 +10,7 @@ owner: "mabeldata"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mabeldata/pocketbase-mcp"
-readmeUrl: "https://github.com/mabeldata/pocketbase-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/mabeldata/pocketbase-mcp/blob/HEAD/README.md"
 githubStars: 31
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:15.557Z"

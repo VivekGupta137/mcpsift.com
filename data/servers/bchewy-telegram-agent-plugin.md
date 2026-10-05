@@ -10,7 +10,7 @@ owner: "bchewy"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/bchewy/telegram-agent-plugin"
-readmeUrl: "https://github.com/bchewy/telegram-agent-plugin/blob/main/README.md"
+readmeUrl: "https://github.com/bchewy/telegram-agent-plugin/blob/HEAD/README.md"
 githubStars: 34
 githubForks: 0
 githubStatsFetchedAt: "2026-08-22T05:00:37.830Z"

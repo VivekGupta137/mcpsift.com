@@ -10,7 +10,7 @@ owner: "SocketDev"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/SocketDev/socket-mcp"
-readmeUrl: "https://github.com/SocketDev/socket-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/SocketDev/socket-mcp/blob/HEAD/README.md"
 githubStars: 86
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:44.446Z"

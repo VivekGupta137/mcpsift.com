@@ -10,7 +10,7 @@ owner: "lyehe"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/lyehe/porterminal"
-readmeUrl: "https://github.com/lyehe/porterminal/blob/main/README.md"
+readmeUrl: "https://github.com/lyehe/porterminal/blob/HEAD/README.md"
 githubStars: 289
 githubForks: 0
 githubStatsFetchedAt: "2026-06-25T22:30:49.360Z"

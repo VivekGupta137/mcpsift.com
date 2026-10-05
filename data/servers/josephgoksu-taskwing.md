@@ -10,7 +10,7 @@ owner: "josephgoksu"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/josephgoksu/TaskWing"
-readmeUrl: "https://github.com/josephgoksu/TaskWing/blob/main/README.md"
+readmeUrl: "https://github.com/josephgoksu/TaskWing/blob/HEAD/README.md"
 githubStars: 83
 githubForks: 0
 githubStatsFetchedAt: "2026-04-06T08:01:41.448Z"

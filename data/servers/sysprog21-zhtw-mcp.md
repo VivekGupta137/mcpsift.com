@@ -10,7 +10,7 @@ owner: "sysprog21"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/sysprog21/zhtw-mcp"
-readmeUrl: "https://github.com/sysprog21/zhtw-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/sysprog21/zhtw-mcp/blob/HEAD/README.md"
 githubStars: 157
 githubForks: 0
 githubStatsFetchedAt: "2026-03-25T05:01:33.636Z"

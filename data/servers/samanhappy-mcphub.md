@@ -10,7 +10,7 @@ owner: "samanhappy"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/samanhappy/mcphub"
-readmeUrl: "https://github.com/samanhappy/mcphub/blob/main/README.md"
+readmeUrl: "https://github.com/samanhappy/mcphub/blob/HEAD/README.md"
 githubStars: 1851
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:41.616Z"

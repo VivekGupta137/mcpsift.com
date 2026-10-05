@@ -10,7 +10,7 @@ owner: "jamesanz"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/JamesANZ/medical-mcp"
-readmeUrl: "https://github.com/JamesANZ/medical-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/JamesANZ/medical-mcp/blob/HEAD/README.md"
 githubStars: 94
 githubForks: 0
 githubStatsFetchedAt: "2026-06-04T03:01:09.980Z"

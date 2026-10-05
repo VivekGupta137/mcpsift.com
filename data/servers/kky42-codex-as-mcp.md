@@ -10,7 +10,7 @@ owner: "kky42"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/evilpsycho42/codex-as-mcp"
-readmeUrl: "https://github.com/evilpsycho42/codex-as-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/evilpsycho42/codex-as-mcp/blob/HEAD/README.md"
 githubStars: 128
 githubForks: 0
 githubStatsFetchedAt: "2026-01-26T08:30:54.529Z"

@@ -10,7 +10,7 @@ owner: "ztxtxwd"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ztxtxwd/feishu-mcp-server"
-readmeUrl: "https://github.com/ztxtxwd/feishu-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/ztxtxwd/feishu-mcp-server/blob/HEAD/README.md"
 githubStars: 81
 githubForks: 0
 githubStatsFetchedAt: "2026-03-09T00:00:40.774Z"

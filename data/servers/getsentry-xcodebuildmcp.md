@@ -10,7 +10,7 @@ owner: "getsentry"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/getsentry/XcodeBuildMCP"
-readmeUrl: "https://github.com/getsentry/XcodeBuildMCP/blob/main/README.md"
+readmeUrl: "https://github.com/getsentry/XcodeBuildMCP/blob/HEAD/README.md"
 githubStars: 4205
 githubForks: 0
 githubStatsFetchedAt: "2026-02-10T23:00:44.261Z"

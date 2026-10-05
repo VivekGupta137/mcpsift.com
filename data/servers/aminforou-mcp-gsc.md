@@ -10,7 +10,7 @@ owner: "AminForou"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/AminForou/mcp-gsc"
-readmeUrl: "https://github.com/AminForou/mcp-gsc/blob/main/README.md"
+readmeUrl: "https://github.com/AminForou/mcp-gsc/blob/HEAD/README.md"
 githubStars: 194
 githubForks: 0
 githubStatsFetchedAt: "2026-01-22T15:31:15.935Z"

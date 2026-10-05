@@ -10,7 +10,7 @@ owner: "FradSer"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/FradSer/mcp-server-mas-sequential-thinking"
-readmeUrl: "https://github.com/FradSer/mcp-server-mas-sequential-thinking/blob/main/README.md"
+readmeUrl: "https://github.com/FradSer/mcp-server-mas-sequential-thinking/blob/HEAD/README.md"
 githubStars: 288
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:37.656Z"

@@ -10,7 +10,7 @@ owner: "nietus"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/nietus/anki-mcp"
-readmeUrl: "https://github.com/nietus/anki-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/nietus/anki-mcp/blob/HEAD/README.md"
 githubStars: 39
 githubForks: 0
 githubStatsFetchedAt: "2026-08-06T17:01:03.257Z"

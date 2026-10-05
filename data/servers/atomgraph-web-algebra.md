@@ -10,7 +10,7 @@ owner: "AtomGraph"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/AtomGraph/Web-Algebra"
-readmeUrl: "https://github.com/AtomGraph/Web-Algebra/blob/main/README.md"
+readmeUrl: "https://github.com/AtomGraph/Web-Algebra/blob/HEAD/README.md"
 githubStars: 33
 githubForks: 0
 githubStatsFetchedAt: "2025-12-29T00:00:44.179Z"

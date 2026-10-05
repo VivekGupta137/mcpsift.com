@@ -10,7 +10,7 @@ owner: "geekychris"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/geekychris/amiga_mcp"
-readmeUrl: "https://github.com/geekychris/amiga_mcp/blob/main/README.md"
+readmeUrl: "https://github.com/geekychris/amiga_mcp/blob/HEAD/README.md"
 githubStars: 33
 githubForks: 0
 githubStatsFetchedAt: "2026-06-01T20:31:14.046Z"

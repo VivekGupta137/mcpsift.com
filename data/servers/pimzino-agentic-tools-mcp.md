@@ -10,7 +10,7 @@ owner: "Pimzino"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Pimzino/agentic-tools-mcp"
-readmeUrl: "https://github.com/Pimzino/agentic-tools-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/Pimzino/agentic-tools-mcp/blob/HEAD/README.md"
 githubStars: 63
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:23.861Z"

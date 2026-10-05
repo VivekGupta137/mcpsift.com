@@ -10,7 +10,7 @@ owner: "ko1ynnky"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ko1ynnky/github-actions-mcp-server"
-readmeUrl: "https://github.com/ko1ynnky/github-actions-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/ko1ynnky/github-actions-mcp-server/blob/HEAD/README.md"
 githubStars: 40
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:53.627Z"

@@ -10,7 +10,7 @@ owner: "ahujasid"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ahujasid/blender-mcp"
-readmeUrl: "https://github.com/ahujasid/blender-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/ahujasid/blender-mcp/blob/HEAD/README.md"
 githubStars: 22247
 githubForks: 0
 githubStatsFetchedAt: "2026-06-02T15:03:31.236Z"

@@ -10,7 +10,7 @@ owner: "caura-ai"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/caura-ai/caura-memclaw"
-readmeUrl: "https://github.com/caura-ai/caura-memclaw/blob/main/README.md"
+readmeUrl: "https://github.com/caura-ai/caura-memclaw/blob/HEAD/README.md"
 githubStars: 99
 githubForks: 0
 githubStatsFetchedAt: "2026-06-11T11:31:58.303Z"

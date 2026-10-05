@@ -10,7 +10,7 @@ owner: "unchase"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/unchase/antigravity-storage-manager"
-readmeUrl: "https://github.com/unchase/antigravity-storage-manager/blob/main/README.md"
+readmeUrl: "https://github.com/unchase/antigravity-storage-manager/blob/HEAD/README.md"
 githubStars: 56
 githubForks: 0
 githubStatsFetchedAt: "2026-04-05T16:01:59.695Z"

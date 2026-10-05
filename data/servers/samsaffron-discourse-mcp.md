@@ -10,7 +10,7 @@ owner: "SamSaffron"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/SamSaffron/discourse-mcp"
-readmeUrl: "https://github.com/SamSaffron/discourse-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/SamSaffron/discourse-mcp/blob/HEAD/README.md"
 githubStars: 24
 githubForks: 0
 githubStatsFetchedAt: "2025-11-08T00:00:52.156Z"

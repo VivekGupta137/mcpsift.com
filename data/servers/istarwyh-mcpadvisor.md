@@ -10,7 +10,7 @@ owner: "istarwyh"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/istarwyh/mcpadvisor"
-readmeUrl: "https://github.com/istarwyh/mcpadvisor/blob/main/README.md"
+readmeUrl: "https://github.com/istarwyh/mcpadvisor/blob/HEAD/README.md"
 githubStars: 28
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:01.941Z"

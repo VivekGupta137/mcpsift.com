@@ -10,7 +10,7 @@ owner: "run-llama"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/run-llama/mcp-server-llamacloud"
-readmeUrl: "https://github.com/run-llama/mcp-server-llamacloud/blob/main/README.md"
+readmeUrl: "https://github.com/run-llama/mcp-server-llamacloud/blob/HEAD/README.md"
 githubStars: 86
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:03.682Z"

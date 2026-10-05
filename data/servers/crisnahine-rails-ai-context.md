@@ -10,7 +10,7 @@ owner: "crisnahine"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/crisnahine/rails-ai-context"
-readmeUrl: "https://github.com/crisnahine/rails-ai-context/blob/main/README.md"
+readmeUrl: "https://github.com/crisnahine/rails-ai-context/blob/HEAD/README.md"
 githubStars: 44
 githubForks: 0
 githubStatsFetchedAt: "2026-03-25T02:01:12.973Z"

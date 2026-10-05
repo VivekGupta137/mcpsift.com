@@ -10,7 +10,7 @@ owner: "microsoft"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/microsoft/fabric-rti-mcp"
-readmeUrl: "https://github.com/microsoft/fabric-rti-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/microsoft/fabric-rti-mcp/blob/HEAD/README.md"
 githubStars: 102
 githubForks: 0
 githubStatsFetchedAt: "2026-03-27T04:31:29.151Z"

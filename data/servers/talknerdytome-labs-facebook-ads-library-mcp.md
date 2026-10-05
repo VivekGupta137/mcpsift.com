@@ -10,7 +10,7 @@ owner: "talknerdytome-labs"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/talknerdytome-labs/facebook-ads-library-mcp"
-readmeUrl: "https://github.com/talknerdytome-labs/facebook-ads-library-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/talknerdytome-labs/facebook-ads-library-mcp/blob/HEAD/README.md"
 githubStars: 159
 githubForks: 0
 githubStatsFetchedAt: "2025-11-14T00:00:36.847Z"

@@ -10,7 +10,7 @@ owner: "fallow-rs"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/fallow-rs/fallow"
-readmeUrl: "https://github.com/fallow-rs/fallow/blob/main/README.md"
+readmeUrl: "https://github.com/fallow-rs/fallow/blob/HEAD/README.md"
 githubStars: 4957
 githubForks: 0
 githubStatsFetchedAt: "2026-09-29T21:30:40.517Z"

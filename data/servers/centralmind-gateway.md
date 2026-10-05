@@ -10,7 +10,7 @@ owner: "centralmind"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/centralmind/gateway"
-readmeUrl: "https://github.com/centralmind/gateway/blob/main/README.md"
+readmeUrl: "https://github.com/centralmind/gateway/blob/HEAD/README.md"
 githubStars: 517
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:54.171Z"

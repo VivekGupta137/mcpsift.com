@@ -10,7 +10,7 @@ owner: "AbdelStark"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/AbdelStark/bitcoin-mcp"
-readmeUrl: "https://github.com/AbdelStark/bitcoin-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/AbdelStark/bitcoin-mcp/blob/HEAD/README.md"
 githubStars: 65
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:08.641Z"

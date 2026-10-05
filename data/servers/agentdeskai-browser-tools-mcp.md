@@ -10,7 +10,7 @@ owner: "AgentDeskAI"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/AgentDeskAI/browser-tools-mcp"
-readmeUrl: "https://github.com/AgentDeskAI/browser-tools-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/AgentDeskAI/browser-tools-mcp/blob/HEAD/README.md"
 githubStars: 7286
 githubForks: 0
 githubStatsFetchedAt: "2026-08-10T15:31:08.433Z"

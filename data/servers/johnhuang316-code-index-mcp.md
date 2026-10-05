@@ -10,7 +10,7 @@ owner: "johnhuang316"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/johnhuang316/code-index-mcp"
-readmeUrl: "https://github.com/johnhuang316/code-index-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/johnhuang316/code-index-mcp/blob/HEAD/README.md"
 githubStars: 810
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:52.381Z"

@@ -10,7 +10,7 @@ owner: "KayanoLiam"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/KayanoLiam/ContextX"
-readmeUrl: "https://github.com/KayanoLiam/ContextX/blob/main/README.md"
+readmeUrl: "https://github.com/KayanoLiam/ContextX/blob/HEAD/README.md"
 githubStars: 85
 githubForks: 0
 githubStatsFetchedAt: "2026-08-06T15:01:01.269Z"

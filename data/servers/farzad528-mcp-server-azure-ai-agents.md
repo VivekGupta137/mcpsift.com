@@ -10,7 +10,7 @@ owner: "farzad528"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/farzad528/mcp-server-azure-ai-agents"
-readmeUrl: "https://github.com/farzad528/mcp-server-azure-ai-agents/blob/main/README.md"
+readmeUrl: "https://github.com/farzad528/mcp-server-azure-ai-agents/blob/HEAD/README.md"
 githubStars: 54
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:53.415Z"

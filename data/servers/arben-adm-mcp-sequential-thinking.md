@@ -10,7 +10,7 @@ owner: "arben-adm"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/arben-adm/mcp-sequential-thinking"
-readmeUrl: "https://github.com/arben-adm/mcp-sequential-thinking/blob/main/README.md"
+readmeUrl: "https://github.com/arben-adm/mcp-sequential-thinking/blob/HEAD/README.md"
 githubStars: 851
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:43.732Z"

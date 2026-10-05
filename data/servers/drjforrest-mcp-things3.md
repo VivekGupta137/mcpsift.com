@@ -10,7 +10,7 @@ owner: "drjforrest"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/drjforrest/mcp-things3"
-readmeUrl: "https://github.com/drjforrest/mcp-things3/blob/main/README.md"
+readmeUrl: "https://github.com/drjforrest/mcp-things3/blob/HEAD/README.md"
 githubStars: 56
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:02.854Z"

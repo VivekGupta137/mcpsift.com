@@ -10,7 +10,7 @@ owner: "vbcherepanov"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/vbcherepanov/total-agent-memory"
-readmeUrl: "https://github.com/vbcherepanov/total-agent-memory/blob/main/README.md"
+readmeUrl: "https://github.com/vbcherepanov/total-agent-memory/blob/HEAD/README.md"
 githubStars: 69
 githubForks: 0
 githubStatsFetchedAt: "2026-09-24T06:30:48.116Z"

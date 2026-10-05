@@ -10,7 +10,7 @@ owner: "oidebrett"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/oidebrett/mcpauth"
-readmeUrl: "https://github.com/oidebrett/mcpauth/blob/main/README.md"
+readmeUrl: "https://github.com/oidebrett/mcpauth/blob/HEAD/README.md"
 githubStars: 30
 githubForks: 0
 githubStatsFetchedAt: "2026-04-01T15:01:36.263Z"

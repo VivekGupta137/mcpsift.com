@@ -10,7 +10,7 @@ owner: "gongrzhe"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/GongRzhe/REDIS-MCP-Server"
-readmeUrl: "https://github.com/GongRzhe/REDIS-MCP-Server/blob/main/README.md"
+readmeUrl: "https://github.com/GongRzhe/REDIS-MCP-Server/blob/HEAD/README.md"
 githubStars: 30
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:08.923Z"

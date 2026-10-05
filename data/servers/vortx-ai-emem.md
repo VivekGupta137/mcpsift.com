@@ -10,7 +10,7 @@ owner: "Vortx AI"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Vortx-AI/emem"
-readmeUrl: "https://github.com/Vortx-AI/emem/blob/main/README.md"
+readmeUrl: "https://github.com/Vortx-AI/emem/blob/HEAD/README.md"
 githubStars: 56
 githubForks: 0
 githubStatsFetchedAt: "2026-09-13T06:07:00.117Z"

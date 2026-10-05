@@ -10,7 +10,7 @@ owner: "imlewc"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/imlewc/metabase-server"
-readmeUrl: "https://github.com/imlewc/metabase-server/blob/main/README.md"
+readmeUrl: "https://github.com/imlewc/metabase-server/blob/HEAD/README.md"
 githubStars: 127
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:04.363Z"

@@ -10,7 +10,7 @@ owner: "hmldns"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/hmldns/nautex"
-readmeUrl: "https://github.com/hmldns/nautex/blob/main/README.md"
+readmeUrl: "https://github.com/hmldns/nautex/blob/HEAD/README.md"
 githubStars: 67
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:55.446Z"

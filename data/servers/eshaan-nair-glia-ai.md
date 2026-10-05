@@ -10,7 +10,7 @@ owner: "Eshaan Nair"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Eshaan-Nair/Glia-AI"
-readmeUrl: "https://github.com/Eshaan-Nair/Glia-AI/blob/main/README.md"
+readmeUrl: "https://github.com/Eshaan-Nair/Glia-AI/blob/HEAD/README.md"
 githubStars: 31
 githubForks: 0
 githubStatsFetchedAt: "2026-05-19T10:01:45.340Z"

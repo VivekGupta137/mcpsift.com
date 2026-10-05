@@ -10,7 +10,7 @@ owner: "minio"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/minio/mcp-server-aistor"
-readmeUrl: "https://github.com/minio/mcp-server-aistor/blob/main/README.md"
+readmeUrl: "https://github.com/minio/mcp-server-aistor/blob/HEAD/README.md"
 githubStars: 39
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:04.889Z"

@@ -10,7 +10,7 @@ owner: "aikts"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/aikts/yandex-tracker-mcp"
-readmeUrl: "https://github.com/aikts/yandex-tracker-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/aikts/yandex-tracker-mcp/blob/HEAD/README.md"
 githubStars: 49
 githubForks: 0
 githubStatsFetchedAt: "2026-03-11T00:01:30.240Z"

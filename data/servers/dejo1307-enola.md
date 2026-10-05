@@ -10,7 +10,7 @@ owner: "dejo1307"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/dejo1307/enola"
-readmeUrl: "https://github.com/dejo1307/enola/blob/main/README.md"
+readmeUrl: "https://github.com/dejo1307/enola/blob/HEAD/README.md"
 githubStars: 31
 githubForks: 0
 githubStatsFetchedAt: "2026-05-29T14:01:10.339Z"

@@ -10,7 +10,7 @@ owner: "marvkr"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/marvkr/better-design"
-readmeUrl: "https://github.com/marvkr/better-design/blob/main/README.md"
+readmeUrl: "https://github.com/marvkr/better-design/blob/HEAD/README.md"
 githubStars: 147
 githubForks: 0
 githubStatsFetchedAt: "2026-06-19T08:30:57.294Z"

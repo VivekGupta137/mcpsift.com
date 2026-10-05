@@ -10,7 +10,7 @@ owner: "macuse-app"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/macuse-app/macuse-mcp"
-readmeUrl: "https://github.com/macuse-app/macuse-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/macuse-app/macuse-mcp/blob/HEAD/README.md"
 githubStars: 33
 githubForks: 0
 githubStatsFetchedAt: "2026-06-21T08:17:52.321Z"

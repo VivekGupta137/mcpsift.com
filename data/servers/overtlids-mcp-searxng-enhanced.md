@@ -10,7 +10,7 @@ owner: "OvertliDS"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/OvertliDS/mcp-searxng-enhanced"
-readmeUrl: "https://github.com/OvertliDS/mcp-searxng-enhanced/blob/main/README.md"
+readmeUrl: "https://github.com/OvertliDS/mcp-searxng-enhanced/blob/HEAD/README.md"
 githubStars: 35
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:54.246Z"

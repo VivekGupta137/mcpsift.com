@@ -10,7 +10,7 @@ owner: "joshuarileydev"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/JoshuaRileyDev/app-store-connect-mcp-server"
-readmeUrl: "https://github.com/JoshuaRileyDev/app-store-connect-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/JoshuaRileyDev/app-store-connect-mcp-server/blob/HEAD/README.md"
 githubStars: 305
 githubForks: 0
 githubStatsFetchedAt: "2026-03-13T00:00:54.921Z"

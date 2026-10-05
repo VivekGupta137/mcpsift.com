@@ -10,7 +10,7 @@ owner: "Agents365-ai"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Agents365-ai/dsclaude"
-readmeUrl: "https://github.com/Agents365-ai/dsclaude/blob/main/README.md"
+readmeUrl: "https://github.com/Agents365-ai/dsclaude/blob/HEAD/README.md"
 githubStars: 55
 githubForks: 0
 githubStatsFetchedAt: "2026-07-09T16:31:14.966Z"

@@ -10,7 +10,7 @@ owner: "tanaikech"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/tanaikech/ggsrun"
-readmeUrl: "https://github.com/tanaikech/ggsrun/blob/main/README.md"
+readmeUrl: "https://github.com/tanaikech/ggsrun/blob/HEAD/README.md"
 githubStars: 163
 githubForks: 0
 githubStatsFetchedAt: "2026-05-31T08:00:54.628Z"

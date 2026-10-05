@@ -10,7 +10,7 @@ owner: "mastergo-design"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/mastergo-design/mastergo-magic-mcp"
-readmeUrl: "https://github.com/mastergo-design/mastergo-magic-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/mastergo-design/mastergo-magic-mcp/blob/HEAD/README.md"
 githubStars: 181
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:04.139Z"

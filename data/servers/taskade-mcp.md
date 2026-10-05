@@ -10,7 +10,7 @@ owner: "taskade"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/taskade/mcp"
-readmeUrl: "https://github.com/taskade/mcp/blob/main/README.md"
+readmeUrl: "https://github.com/taskade/mcp/blob/HEAD/README.md"
 githubStars: 103
 githubForks: 0
 githubStatsFetchedAt: "2026-02-13T11:00:55.082Z"

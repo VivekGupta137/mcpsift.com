@@ -10,7 +10,7 @@ owner: "aarora79"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/aarora79/mcp-gateway"
-readmeUrl: "https://github.com/aarora79/mcp-gateway/blob/main/README.md"
+readmeUrl: "https://github.com/aarora79/mcp-gateway/blob/HEAD/README.md"
 githubStars: 78
 githubForks: 0
 githubStatsFetchedAt: "2025-10-29T10:55:48.010Z"

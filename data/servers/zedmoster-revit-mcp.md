@@ -10,7 +10,7 @@ owner: "zedmoster"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/zedmoster/revit-mcp"
-readmeUrl: "https://github.com/zedmoster/revit-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/zedmoster/revit-mcp/blob/HEAD/README.md"
 githubStars: 34
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:33.925Z"

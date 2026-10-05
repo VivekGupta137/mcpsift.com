@@ -10,7 +10,7 @@ owner: "augmentedstartups"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/augmentedstartups/VisionCraft-MCP-Server"
-readmeUrl: "https://github.com/augmentedstartups/VisionCraft-MCP-Server/blob/main/README.md"
+readmeUrl: "https://github.com/augmentedstartups/VisionCraft-MCP-Server/blob/HEAD/README.md"
 githubStars: 48
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:37:42.672Z"

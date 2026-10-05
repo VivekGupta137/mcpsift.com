@@ -10,7 +10,7 @@ owner: "dtkmn"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/dtkmn/mcp-zap-server"
-readmeUrl: "https://github.com/dtkmn/mcp-zap-server/blob/main/README.md"
+readmeUrl: "https://github.com/dtkmn/mcp-zap-server/blob/HEAD/README.md"
 githubStars: 36
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:20.065Z"

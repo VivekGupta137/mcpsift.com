@@ -10,7 +10,7 @@ owner: "hugoduncan"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/hugoduncan/mcp-clj"
-readmeUrl: "https://github.com/hugoduncan/mcp-clj/blob/main/README.md"
+readmeUrl: "https://github.com/hugoduncan/mcp-clj/blob/HEAD/README.md"
 githubStars: 47
 githubForks: 0
 githubStatsFetchedAt: "2025-10-31T00:01:07.453Z"

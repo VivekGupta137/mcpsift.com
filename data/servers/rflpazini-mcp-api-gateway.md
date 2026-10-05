@@ -10,7 +10,7 @@ owner: "rflpazini"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/rflpazini/mcp-api-gateway"
-readmeUrl: "https://github.com/rflpazini/mcp-api-gateway/blob/main/README.md"
+readmeUrl: "https://github.com/rflpazini/mcp-api-gateway/blob/HEAD/README.md"
 githubStars: 34
 githubForks: 0
 githubStatsFetchedAt: "2026-03-25T05:01:33.341Z"

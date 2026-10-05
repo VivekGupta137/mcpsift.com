@@ -10,7 +10,7 @@ owner: "wysh3"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/wysh3/perplexity-mcp-server"
-readmeUrl: "https://github.com/wysh3/perplexity-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/wysh3/perplexity-mcp-server/blob/HEAD/README.md"
 githubStars: 76
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:03.671Z"

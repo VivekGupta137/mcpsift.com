@@ -10,7 +10,7 @@ owner: "joelhooks"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/joelhooks/logseq-mcp-tools"
-readmeUrl: "https://github.com/joelhooks/logseq-mcp-tools/blob/main/README.md"
+readmeUrl: "https://github.com/joelhooks/logseq-mcp-tools/blob/HEAD/README.md"
 githubStars: 55
 githubForks: 0
 githubStatsFetchedAt: "2025-12-01T18:00:55.914Z"

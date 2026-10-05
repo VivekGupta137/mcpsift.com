@@ -10,7 +10,7 @@ owner: "VectifyAI"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/VectifyAI/pageindex-mcp"
-readmeUrl: "https://github.com/VectifyAI/pageindex-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/VectifyAI/pageindex-mcp/blob/HEAD/README.md"
 githubStars: 62
 githubForks: 0
 githubStatsFetchedAt: "2025-11-04T00:00:54.769Z"

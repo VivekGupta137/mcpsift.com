@@ -10,7 +10,7 @@ owner: "vmoranv"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/vmoranv/jshookmcp"
-readmeUrl: "https://github.com/vmoranv/jshookmcp/blob/main/README.md"
+readmeUrl: "https://github.com/vmoranv/jshookmcp/blob/HEAD/README.md"
 githubStars: 1291
 githubForks: 0
 githubStatsFetchedAt: "2026-04-25T06:01:29.398Z"

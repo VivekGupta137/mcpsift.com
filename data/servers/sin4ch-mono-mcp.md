@@ -10,7 +10,7 @@ owner: "sin4ch"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/sin4ch/mono-mcp"
-readmeUrl: "https://github.com/sin4ch/mono-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/sin4ch/mono-mcp/blob/HEAD/README.md"
 githubStars: 52
 githubForks: 0
 githubStatsFetchedAt: "2025-11-05T00:00:39.681Z"

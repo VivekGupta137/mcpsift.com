@@ -10,7 +10,7 @@ owner: "ShunsukeHayashi"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ShunsukeHayashi/context_engineering_MCP"
-readmeUrl: "https://github.com/ShunsukeHayashi/context_engineering_MCP/blob/main/README.md"
+readmeUrl: "https://github.com/ShunsukeHayashi/context_engineering_MCP/blob/HEAD/README.md"
 githubStars: 28
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:45.402Z"

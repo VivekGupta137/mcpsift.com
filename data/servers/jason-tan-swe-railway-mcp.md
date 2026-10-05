@@ -10,7 +10,7 @@ owner: "jason-tan-swe"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jason-tan-swe/railway-mcp"
-readmeUrl: "https://github.com/jason-tan-swe/railway-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/jason-tan-swe/railway-mcp/blob/HEAD/README.md"
 githubStars: 68
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:04.293Z"

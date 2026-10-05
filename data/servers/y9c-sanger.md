@@ -10,7 +10,7 @@ owner: "y9c"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/y9c/sanger"
-readmeUrl: "https://github.com/y9c/sanger/blob/main/README.md"
+readmeUrl: "https://github.com/y9c/sanger/blob/HEAD/README.md"
 githubStars: 26
 githubForks: 0
 githubStatsFetchedAt: "2026-08-27T18:01:01.375Z"

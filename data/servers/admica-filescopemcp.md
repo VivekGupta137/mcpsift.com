@@ -10,7 +10,7 @@ owner: "admica"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/admica/FileScopeMCP"
-readmeUrl: "https://github.com/admica/FileScopeMCP/blob/main/README.md"
+readmeUrl: "https://github.com/admica/FileScopeMCP/blob/HEAD/README.md"
 githubStars: 282
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:33.576Z"

@@ -10,7 +10,7 @@ owner: "jkawamoto"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jkawamoto/mcp-bear"
-readmeUrl: "https://github.com/jkawamoto/mcp-bear/blob/main/README.md"
+readmeUrl: "https://github.com/jkawamoto/mcp-bear/blob/HEAD/README.md"
 githubStars: 67
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:51.545Z"

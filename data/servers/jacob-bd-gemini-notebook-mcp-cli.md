@@ -10,7 +10,7 @@ owner: "jacob-bd"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/jacob-bd/gemini-notebook-mcp-cli"
-readmeUrl: "https://github.com/jacob-bd/gemini-notebook-mcp-cli/blob/main/README.md"
+readmeUrl: "https://github.com/jacob-bd/gemini-notebook-mcp-cli/blob/HEAD/README.md"
 githubStars: 5618
 githubForks: 0
 githubStatsFetchedAt: "2026-07-26T01:00:38.476Z"

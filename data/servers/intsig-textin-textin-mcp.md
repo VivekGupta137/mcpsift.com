@@ -10,7 +10,7 @@ owner: "intsig-textin"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/intsig-textin/textin-mcp"
-readmeUrl: "https://github.com/intsig-textin/textin-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/intsig-textin/textin-mcp/blob/HEAD/README.md"
 githubStars: 28
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:10.454Z"

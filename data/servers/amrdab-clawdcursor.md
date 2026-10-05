@@ -10,7 +10,7 @@ owner: "AmrDab"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/AmrDab/clawdcursor"
-readmeUrl: "https://github.com/AmrDab/clawdcursor/blob/main/README.md"
+readmeUrl: "https://github.com/AmrDab/clawdcursor/blob/HEAD/README.md"
 githubStars: 335
 githubForks: 0
 githubStatsFetchedAt: "2026-05-24T09:30:37.518Z"

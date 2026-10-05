@@ -10,7 +10,7 @@ owner: "GongRzhe"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/GongRzhe/Office-Word-MCP-Server"
-readmeUrl: "https://github.com/GongRzhe/Office-Word-MCP-Server/blob/main/README.md"
+readmeUrl: "https://github.com/GongRzhe/Office-Word-MCP-Server/blob/HEAD/README.md"
 githubStars: 1693
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:49.202Z"

@@ -10,7 +10,7 @@ owner: "plasmate-labs"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/plasmate-labs/plasmate"
-readmeUrl: "https://github.com/plasmate-labs/plasmate/blob/main/README.md"
+readmeUrl: "https://github.com/plasmate-labs/plasmate/blob/HEAD/README.md"
 githubStars: 32
 githubForks: 0
 githubStatsFetchedAt: "2026-08-03T16:01:57.608Z"

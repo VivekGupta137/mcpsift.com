@@ -10,7 +10,7 @@ owner: "v-3"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/v-3/google-calendar"
-readmeUrl: "https://github.com/v-3/google-calendar/blob/main/README.md"
+readmeUrl: "https://github.com/v-3/google-calendar/blob/HEAD/README.md"
 githubStars: 70
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:36.455Z"

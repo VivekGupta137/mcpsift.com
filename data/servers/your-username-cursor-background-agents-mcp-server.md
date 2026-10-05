@@ -10,7 +10,7 @@ owner: "your-username"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ericzakariasson/cursor-mcp-server"
-readmeUrl: "https://github.com/ericzakariasson/cursor-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/ericzakariasson/cursor-mcp-server/blob/HEAD/README.md"
 githubStars: 39
 githubForks: 0
 githubStatsFetchedAt: "2025-10-30T00:00:46.913Z"

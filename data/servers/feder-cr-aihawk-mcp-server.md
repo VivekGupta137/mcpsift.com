@@ -10,7 +10,7 @@ owner: "feder-cr"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/feder-cr/aihawk_mcp_server"
-readmeUrl: "https://github.com/feder-cr/aihawk_mcp_server/blob/main/README.md"
+readmeUrl: "https://github.com/feder-cr/aihawk_mcp_server/blob/HEAD/README.md"
 githubStars: 31621
 githubForks: 0
 githubStatsFetchedAt: "2026-09-22T04:00:39.890Z"

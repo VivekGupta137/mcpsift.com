@@ -10,7 +10,7 @@ owner: "teabranch"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/teabranch/agentic-developer-mcp"
-readmeUrl: "https://github.com/teabranch/agentic-developer-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/teabranch/agentic-developer-mcp/blob/HEAD/README.md"
 githubStars: 43
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:46.393Z"

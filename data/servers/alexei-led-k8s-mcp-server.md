@@ -10,7 +10,7 @@ owner: "alexei-led"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/alexei-led/k8s-mcp-server"
-readmeUrl: "https://github.com/alexei-led/k8s-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/alexei-led/k8s-mcp-server/blob/HEAD/README.md"
 githubStars: 183
 githubForks: 0
 githubStatsFetchedAt: "2026-02-14T10:00:28.957Z"

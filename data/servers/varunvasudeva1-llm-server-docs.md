@@ -10,7 +10,7 @@ owner: "varunvasudeva1"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/varunvasudeva1/llm-server-docs"
-readmeUrl: "https://github.com/varunvasudeva1/llm-server-docs/blob/main/README.md"
+readmeUrl: "https://github.com/varunvasudeva1/llm-server-docs/blob/HEAD/README.md"
 githubStars: 586
 githubForks: 0
 githubStatsFetchedAt: "2025-10-30T00:00:39.209Z"

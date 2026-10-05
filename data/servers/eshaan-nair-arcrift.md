@@ -10,7 +10,7 @@ owner: "Eshaan-Nair"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Eshaan-Nair/ArcRift"
-readmeUrl: "https://github.com/Eshaan-Nair/ArcRift/blob/main/README.md"
+readmeUrl: "https://github.com/Eshaan-Nair/ArcRift/blob/HEAD/README.md"
 githubStars: 66
 githubForks: 0
 githubStatsFetchedAt: "2026-05-23T19:30:39.162Z"

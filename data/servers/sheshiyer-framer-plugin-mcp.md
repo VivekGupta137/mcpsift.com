@@ -10,7 +10,7 @@ owner: "sheshiyer"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Sheshiyer/framer-plugin-mcp"
-readmeUrl: "https://github.com/Sheshiyer/framer-plugin-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/Sheshiyer/framer-plugin-mcp/blob/HEAD/README.md"
 githubStars: 29
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:00:34.188Z"

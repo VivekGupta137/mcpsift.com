@@ -10,7 +10,7 @@ owner: "P3GLEG"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/P3GLEG/tauri-plugin-mcp"
-readmeUrl: "https://github.com/P3GLEG/tauri-plugin-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/P3GLEG/tauri-plugin-mcp/blob/HEAD/README.md"
 githubStars: 72
 githubForks: 0
 githubStatsFetchedAt: "2026-02-23T14:00:49.678Z"

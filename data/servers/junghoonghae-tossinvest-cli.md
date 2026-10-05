@@ -10,7 +10,7 @@ owner: "JungHoonGhae"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/JungHoonGhae/tossinvest-cli"
-readmeUrl: "https://github.com/JungHoonGhae/tossinvest-cli/blob/main/README.md"
+readmeUrl: "https://github.com/JungHoonGhae/tossinvest-cli/blob/HEAD/README.md"
 githubStars: 433
 githubForks: 0
 githubStatsFetchedAt: "2026-07-08T01:30:32.677Z"

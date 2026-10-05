@@ -10,7 +10,7 @@ owner: "Higangssh"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Higangssh/homebutler"
-readmeUrl: "https://github.com/Higangssh/homebutler/blob/main/README.md"
+readmeUrl: "https://github.com/Higangssh/homebutler/blob/HEAD/README.md"
 githubStars: 269
 githubForks: 0
 githubStatsFetchedAt: "2026-09-03T04:31:08.091Z"

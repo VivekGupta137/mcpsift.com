@@ -10,7 +10,7 @@ owner: "nickclyde"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/nickclyde/duckduckgo-mcp-server"
-readmeUrl: "https://github.com/nickclyde/duckduckgo-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/nickclyde/duckduckgo-mcp-server/blob/HEAD/README.md"
 githubStars: 856
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:56.662Z"

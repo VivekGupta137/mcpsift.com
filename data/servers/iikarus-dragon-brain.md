@@ -10,7 +10,7 @@ owner: "iikarus"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/iikarus/Dragon-Brain"
-readmeUrl: "https://github.com/iikarus/Dragon-Brain/blob/main/README.md"
+readmeUrl: "https://github.com/iikarus/Dragon-Brain/blob/HEAD/README.md"
 githubStars: 40
 githubForks: 0
 githubStatsFetchedAt: "2026-03-26T22:01:31.617Z"

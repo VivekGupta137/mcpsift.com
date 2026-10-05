@@ -10,7 +10,7 @@ owner: "your-org"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/brijr/meta-ads-mcp"
-readmeUrl: "https://github.com/brijr/meta-ads-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/brijr/meta-ads-mcp/blob/HEAD/README.md"
 githubStars: 93
 githubForks: 0
 githubStatsFetchedAt: "2026-03-08T00:01:42.105Z"

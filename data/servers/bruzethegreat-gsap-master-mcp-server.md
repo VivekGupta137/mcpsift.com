@@ -10,7 +10,7 @@ owner: "bruzethegreat"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/bruzethegreat/gsap-master-mcp-server"
-readmeUrl: "https://github.com/bruzethegreat/gsap-master-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/bruzethegreat/gsap-master-mcp-server/blob/HEAD/README.md"
 githubStars: 68
 githubForks: 0
 githubStatsFetchedAt: "2026-03-10T00:00:51.769Z"

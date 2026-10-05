@@ -10,7 +10,7 @@ owner: "nkarasiak"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/nkarasiak/qgis-mcp"
-readmeUrl: "https://github.com/nkarasiak/qgis-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/nkarasiak/qgis-mcp/blob/HEAD/README.md"
 githubStars: 54
 githubForks: 0
 githubStatsFetchedAt: "2026-04-21T07:02:59.008Z"

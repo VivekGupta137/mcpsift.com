@@ -10,7 +10,7 @@ owner: "LyuboslavLyubenov"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/LyuboslavLyubenov/search-solodit-mcp"
-readmeUrl: "https://github.com/LyuboslavLyubenov/search-solodit-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/LyuboslavLyubenov/search-solodit-mcp/blob/HEAD/README.md"
 githubStars: 39
 githubForks: 0
 githubStatsFetchedAt: "2026-03-13T00:01:36.176Z"

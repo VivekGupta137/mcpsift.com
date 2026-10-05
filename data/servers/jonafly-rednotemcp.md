@@ -10,7 +10,7 @@ owner: "JonaFly"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/JonaFly/RednoteMCP"
-readmeUrl: "https://github.com/JonaFly/RednoteMCP/blob/main/README.md"
+readmeUrl: "https://github.com/JonaFly/RednoteMCP/blob/HEAD/README.md"
 githubStars: 105
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:00:45.821Z"

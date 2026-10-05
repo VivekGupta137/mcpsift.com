@@ -10,7 +10,7 @@ owner: "InsightVessel"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/tetreesex/TetreesAgent_EX"
-readmeUrl: "https://github.com/tetreesex/TetreesAgent_EX/blob/main/README.md"
+readmeUrl: "https://github.com/tetreesex/TetreesAgent_EX/blob/HEAD/README.md"
 githubStars: 314
 githubForks: 0
 githubStatsFetchedAt: "2026-09-07T10:17:49.385Z"

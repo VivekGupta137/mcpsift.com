@@ -10,7 +10,7 @@ owner: "GH05TCREW"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/GH05TCREW/ghostcrew"
-readmeUrl: "https://github.com/GH05TCREW/ghostcrew/blob/main/README.md"
+readmeUrl: "https://github.com/GH05TCREW/ghostcrew/blob/HEAD/README.md"
 githubStars: 497
 githubForks: 0
 githubStatsFetchedAt: "2025-12-11T15:01:02.996Z"

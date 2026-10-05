@@ -10,7 +10,7 @@ owner: "orellazri"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/orellazri/coda-mcp"
-readmeUrl: "https://github.com/orellazri/coda-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/orellazri/coda-mcp/blob/HEAD/README.md"
 githubStars: 33
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:12.884Z"

@@ -10,7 +10,7 @@ owner: "mcpjam"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/MCPJam/inspector"
-readmeUrl: "https://github.com/MCPJam/inspector/blob/main/README.md"
+readmeUrl: "https://github.com/MCPJam/inspector/blob/HEAD/README.md"
 githubStars: 186
 githubForks: 0
 githubStatsFetchedAt: "2025-01-01T00:00:00.000Z"

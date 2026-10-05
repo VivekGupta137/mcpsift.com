@@ -10,7 +10,7 @@ owner: "antonbabenko"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/antonbabenko/deliberation"
-readmeUrl: "https://github.com/antonbabenko/deliberation/blob/main/README.md"
+readmeUrl: "https://github.com/antonbabenko/deliberation/blob/HEAD/README.md"
 githubStars: 59
 githubForks: 0
 githubStatsFetchedAt: "2026-06-05T10:30:57.083Z"

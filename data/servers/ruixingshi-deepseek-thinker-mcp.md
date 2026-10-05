@@ -10,7 +10,7 @@ owner: "ruixingshi"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ruixingshi/deepseek-thinker-mcp"
-readmeUrl: "https://github.com/ruixingshi/deepseek-thinker-mcp/blob/main/README.md"
+readmeUrl: "https://github.com/ruixingshi/deepseek-thinker-mcp/blob/HEAD/README.md"
 githubStars: 65
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:45:08.768Z"

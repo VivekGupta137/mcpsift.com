@@ -10,7 +10,7 @@ owner: "okooo5km"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/okooo5km/memory-mcp-server-go"
-readmeUrl: "https://github.com/okooo5km/memory-mcp-server-go/blob/main/README.md"
+readmeUrl: "https://github.com/okooo5km/memory-mcp-server-go/blob/HEAD/README.md"
 githubStars: 88
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:08.981Z"

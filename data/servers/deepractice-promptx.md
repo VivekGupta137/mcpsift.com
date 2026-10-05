@@ -10,7 +10,7 @@ owner: "Deepractice"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/Deepractice/PromptX"
-readmeUrl: "https://github.com/Deepractice/PromptX/blob/main/README.md"
+readmeUrl: "https://github.com/Deepractice/PromptX/blob/HEAD/README.md"
 githubStars: 638
 githubForks: 0
 githubStatsFetchedAt: "2025-10-28T15:37:18.129Z"

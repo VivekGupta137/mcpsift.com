@@ -10,7 +10,7 @@ owner: "irockel"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/irockel/tda"
-readmeUrl: "https://github.com/irockel/tda/blob/main/README.md"
+readmeUrl: "https://github.com/irockel/tda/blob/HEAD/README.md"
 githubStars: 534
 githubForks: 0
 githubStatsFetchedAt: "2026-02-16T07:00:39.407Z"

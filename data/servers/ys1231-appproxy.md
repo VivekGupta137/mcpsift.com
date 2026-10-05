@@ -10,7 +10,7 @@ owner: "ys1231"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/ys1231/appproxy/tree/iyue"
-readmeUrl: "https://github.com/ys1231/appproxy/blob/main/README.md"
+readmeUrl: "https://github.com/ys1231/appproxy/blob/HEAD/README.md"
 githubStars: 620
 githubForks: 0
 githubStatsFetchedAt: "2026-08-22T15:30:51.726Z"

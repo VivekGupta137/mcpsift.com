@@ -10,7 +10,7 @@ owner: "centminmod"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/centminmod/gemini-cli-mcp-server"
-readmeUrl: "https://github.com/centminmod/gemini-cli-mcp-server/blob/main/README.md"
+readmeUrl: "https://github.com/centminmod/gemini-cli-mcp-server/blob/HEAD/README.md"
 githubStars: 117
 githubForks: 0
 githubStatsFetchedAt: "2026-03-09T00:00:41.646Z"

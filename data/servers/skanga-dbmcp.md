@@ -10,7 +10,7 @@ owner: "skanga"
 transport: "stdio"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/skanga/dbmcp"
-readmeUrl: "https://github.com/skanga/dbmcp/blob/main/README.md"
+readmeUrl: "https://github.com/skanga/dbmcp/blob/HEAD/README.md"
 githubStars: 90
 githubForks: 0
 githubStatsFetchedAt: "2026-03-10T00:00:43.624Z"

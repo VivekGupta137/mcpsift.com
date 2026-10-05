@@ -10,7 +10,7 @@ owner: "Sam McLeod"
 transport: "stdio or Streamable HTTP"
 authentication: "Varies by repository; review the upstream documentation"
 githubUrl: "https://github.com/sammcj/mcp-package-docs"
-readmeUrl: "https://github.com/sammcj/mcp-package-docs/blob/main/README.md"
+readmeUrl: "https://github.com/sammcj/mcp-package-docs/blob/HEAD/README.md"
 githubStars: 80
 githubForks: 0
 githubStatsFetchedAt: "2026-03-07T00:01:09.827Z"
