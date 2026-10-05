@@ -13,7 +13,7 @@ githubUrl: 'https://github.com/lizqwerscott/mcp.el'
 githubStars: 591
 githubForks: 55
 githubStatsFetchedAt: 2026-10-04T14:15:54.882Z
-readmeUrl: 'https://github.com/lizqwerscott/mcp.el/blob/master/README.md'
+readmeUrl: 'https://github.com/lizqwerscott/mcp.el/blob/master/Readme.org'
 ---
 ## Overview
 

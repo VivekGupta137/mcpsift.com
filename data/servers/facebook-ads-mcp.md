@@ -13,7 +13,7 @@ githubUrl: 'https://github.com/gomarble-ai/facebook-ads-mcp-server'
 githubStars: 366
 githubForks: 108
 githubStatsFetchedAt: 2026-10-04T14:15:55.138Z
-readmeUrl: 'https://github.com/gomarble-ai/facebook-ads-mcp-server/blob/main/README.md'
+readmeUrl: 'https://github.com/gomarble-ai/facebook-ads-mcp-server/blob/main/readme.md'
 ---
 ## Overview
 

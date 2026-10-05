@@ -88,7 +88,7 @@ export async function getEntries(kind: 'server' | 'guide'): Promise<Entry[]> {
       entry.owner = typeof data.owner === 'string' ? data.owner : entry.githubUrl ? new URL(entry.githubUrl).pathname.split('/')[1] : entry.source;
       const staticStars = data.githubStars;
       const staticForks = data.githubForks;
-      const staticFetchedAt = data.githubStatsFetchedAt;
+      const staticFetchedAt = data.githubStatsFetchedAt instanceof Date ? data.githubStatsFetchedAt.toISOString() : data.githubStatsFetchedAt;
       const githubUrl = entry.githubUrl;
       if (!githubUrl) throw new Error(`${filename}: GitHub URL disappeared during validation`);
       if (Number.isSafeInteger(staticStars) && staticStars >= 0 && Number.isSafeInteger(staticForks) && staticForks >= 0 && typeof staticFetchedAt === 'string') {

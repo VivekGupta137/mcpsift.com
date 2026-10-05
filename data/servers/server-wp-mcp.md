@@ -8,7 +8,7 @@ owner: "emzimmer"
 transport: stdio or Streamable HTTP
 authentication: Varies by repository; review the upstream documentation
 githubUrl: https://github.com/emzimmer/server-wp-mcp
-readmeUrl: https://github.com/emzimmer/server-wp-mcp/blob/main/README.md
+readmeUrl: https://github.com/emzimmer/server-wp-mcp/blob/main/readme.md
 githubStars: 117
 githubForks: 29
 githubStatsFetchedAt: 2026-10-04T17:19:09.941Z

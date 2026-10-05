@@ -18,7 +18,7 @@ githubUrl: 'https://github.com/executeautomation/mcp-database-server'
 githubStars: 386
 githubForks: 97
 githubStatsFetchedAt: 2026-10-04T14:15:55.128Z
-readmeUrl: 'https://github.com/executeautomation/mcp-database-server/blob/main/README.md'
+readmeUrl: 'https://github.com/executeautomation/mcp-database-server/blob/main/readme.md'
 ---
 ## Overview
 

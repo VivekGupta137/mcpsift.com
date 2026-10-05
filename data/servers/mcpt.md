@@ -13,7 +13,6 @@ githubUrl: 'https://github.com/neurotrader888/mcpt'
 githubStars: 424
 githubForks: 143
 githubStatsFetchedAt: 2026-10-04T14:15:55.098Z
-readmeUrl: 'https://github.com/neurotrader888/mcpt/blob/main/README.md'
 ---
 ## Overview
 

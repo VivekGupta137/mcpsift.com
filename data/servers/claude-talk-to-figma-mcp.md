@@ -22,7 +22,7 @@ githubUrl: 'https://github.com/arinspunk/claude-talk-to-figma-mcp'
 githubStars: 666
 githubForks: 131
 githubStatsFetchedAt: 2026-10-04T14:15:54.866Z
-readmeUrl: 'https://github.com/arinspunk/claude-talk-to-figma-mcp/blob/main/README.md'
+readmeUrl: 'https://github.com/arinspunk/claude-talk-to-figma-mcp/blob/main/readme.md'
 ---
 ## Overview
 

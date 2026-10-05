@@ -8,7 +8,7 @@ owner: "PhillipRt"
 transport: stdio or Streamable HTTP
 authentication: Varies by repository; review the upstream documentation
 githubUrl: https://github.com/PhillipRt/think-mcp-server
-readmeUrl: https://github.com/PhillipRt/think-mcp-server/blob/master/README.md
+readmeUrl: https://github.com/PhillipRt/think-mcp-server/blob/master/Readme.md
 githubStars: 126
 githubForks: 15
 githubStatsFetchedAt: 2026-10-04T17:19:09.916Z
