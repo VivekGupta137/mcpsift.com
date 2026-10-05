@@ -1,0 +1,27 @@
+---
+title: "Excel to PDF MCP Server"
+description: "An MCP server that can convert Excel (.xls/.xlsx) and Apple Numbers (.numbers) files to PDF format. Requires LibreOffice installed on the system for the conversion process."
+category: "Design & creative"
+tags:
+  - "mcp"
+  - "mcp-server"
+source: "Community"
+owner: "kmexnx"
+transport: "stdio or Streamable HTTP"
+authentication: "Varies by repository; review the upstream documentation"
+githubUrl: "https://github.com/kmexnx/excel-to-pdf-mcp"
+readmeUrl: "https://github.com/kmexnx/excel-to-pdf-mcp/blob/main/README.md"
+githubStars: 2
+githubForks: 0
+githubStatsFetchedAt: "2025-10-28T15:45:14.157Z"
+icon: "https://github.com/kmexnx.png"
+---
+## Overview
+
+The **Excel to PDF MCP Server MCP server** is a publicly available project. Review the upstream repository for installation instructions, supported tools, compatibility, permissions, and current maintenance status.
+
+## Configuration
+
+Configuration, transport, authentication, and runtime requirements vary by project. Open the repository before connecting and use the smallest set of credentials and permissions required.
+
+[Open the Excel to PDF MCP Server repository](https://github.com/kmexnx/excel-to-pdf-mcp) to read the latest documentation.

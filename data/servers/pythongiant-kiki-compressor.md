@@ -1,0 +1,27 @@
+---
+title: "kiki-compressor"
+description: "Query-guided context compression MCP server that shrinks a long document down to parts relevant to a question. Configuration is via environment variables. Optional external data includes NLTK sentence tokenizer data downloaded via nltk downloader."
+category: "Developer tools"
+tags:
+  - "mcp"
+  - "mcp-server"
+source: "Community"
+owner: "pythongiant"
+transport: "stdio"
+authentication: "Varies by repository; review the upstream documentation"
+githubUrl: "https://github.com/pythongiant/kiki-compressor"
+readmeUrl: "https://github.com/pythongiant/kiki-compressor/blob/main/README.md"
+githubStars: 4
+githubForks: 0
+githubStatsFetchedAt: "2026-06-27T07:00:39.800Z"
+icon: "https://github.com/pythongiant.png"
+---
+## Overview
+
+The **kiki-compressor MCP server** is a publicly available project. Review the upstream repository for installation instructions, supported tools, compatibility, permissions, and current maintenance status.
+
+## Configuration
+
+Configuration, transport, authentication, and runtime requirements vary by project. Open the repository before connecting and use the smallest set of credentials and permissions required.
+
+[Open the kiki-compressor repository](https://github.com/pythongiant/kiki-compressor) to read the latest documentation.

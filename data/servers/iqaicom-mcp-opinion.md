@@ -1,0 +1,27 @@
+---
+title: "Opinion MCP Server"
+description: "MCP server for interacting with Opinion.trade prediction markets on BNB Chain. Requires OPINION_API_KEY environment variable for API access."
+category: "Finance"
+tags:
+  - "mcp"
+  - "mcp-server"
+source: "Community"
+owner: "IQAIcom"
+transport: "stdio or Streamable HTTP"
+authentication: "Varies by repository; review the upstream documentation"
+githubUrl: "https://github.com/IQAIcom/mcp-opinion"
+readmeUrl: "https://github.com/IQAIcom/mcp-opinion/blob/main/README.md"
+githubStars: 1
+githubForks: 0
+githubStatsFetchedAt: "2026-06-23T13:01:28.132Z"
+icon: "https://github.com/IQAIcom.png"
+---
+## Overview
+
+The **Opinion MCP Server MCP server** is a publicly available project. Review the upstream repository for installation instructions, supported tools, compatibility, permissions, and current maintenance status.
+
+## Configuration
+
+Configuration, transport, authentication, and runtime requirements vary by project. Open the repository before connecting and use the smallest set of credentials and permissions required.
+
+[Open the Opinion MCP Server repository](https://github.com/IQAIcom/mcp-opinion) to read the latest documentation.

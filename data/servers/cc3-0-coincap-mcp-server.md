@@ -1,0 +1,27 @@
+---
+title: "CoinCap MCP Server"
+description: "A Model Context Protocol (MCP) server that exposes the CoinCap.io API as tools. Requires a CoinCap API key set via the environment variable COINCAP_API_KEY."
+category: "Finance"
+tags:
+  - "mcp"
+  - "mcp-server"
+source: "Community"
+owner: "CC3-0"
+transport: "stdio or Streamable HTTP"
+authentication: "Varies by repository; review the upstream documentation"
+githubUrl: "https://github.com/CC3-0/coincap-mcp-server"
+readmeUrl: "https://github.com/CC3-0/coincap-mcp-server/blob/main/README.md"
+githubStars: 3
+githubForks: 0
+githubStatsFetchedAt: "2025-11-04T00:01:46.021Z"
+icon: "https://github.com/CC3-0.png"
+---
+## Overview
+
+The **CoinCap MCP Server MCP server** is a publicly available project. Review the upstream repository for installation instructions, supported tools, compatibility, permissions, and current maintenance status.
+
+## Configuration
+
+Configuration, transport, authentication, and runtime requirements vary by project. Open the repository before connecting and use the smallest set of credentials and permissions required.
+
+[Open the CoinCap MCP Server repository](https://github.com/CC3-0/coincap-mcp-server) to read the latest documentation.

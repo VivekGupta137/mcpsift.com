@@ -1,0 +1,27 @@
+---
+title: "Stardog Cloud MCP Server"
+description: "MCP Server for Stardog Cloud enabling natural language interaction with Stardog knowledge graphs via Voicebox APIs. Requires Stardog Cloud API Token for authentication, which must be provided via command line arguments or HTTP headers depending on deployment."
+category: "Developer tools"
+tags:
+  - "mcp"
+  - "mcp-server"
+source: "Community"
+owner: "stardog-union"
+transport: "stdio"
+authentication: "Varies by repository; review the upstream documentation"
+githubUrl: "https://github.com/stardog-union/stardog-cloud-mcp"
+readmeUrl: "https://github.com/stardog-union/stardog-cloud-mcp/blob/main/README.md"
+githubStars: 2
+githubForks: 0
+githubStatsFetchedAt: "2026-02-04T10:00:53.634Z"
+icon: "https://github.com/stardog-union.png"
+---
+## Overview
+
+The **Stardog Cloud MCP Server MCP server** is a publicly available project. Review the upstream repository for installation instructions, supported tools, compatibility, permissions, and current maintenance status.
+
+## Configuration
+
+Configuration, transport, authentication, and runtime requirements vary by project. Open the repository before connecting and use the smallest set of credentials and permissions required.
+
+[Open the Stardog Cloud MCP Server repository](https://github.com/stardog-union/stardog-cloud-mcp) to read the latest documentation.

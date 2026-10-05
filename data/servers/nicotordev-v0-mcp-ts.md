@@ -1,0 +1,27 @@
+---
+title: "v0-mcp-ts"
+description: "A powerful Model Context Protocol (MCP) server that integrates v0.dev AI capabilities for modern web development. Powered by Bun for 25x faster performance."
+category: "Developer tools"
+tags:
+  - "mcp"
+  - "mcp-server"
+source: "Community"
+owner: "nicotordev"
+transport: "stdio"
+authentication: "Varies by repository; review the upstream documentation"
+githubUrl: "https://github.com/nicotordev/v0.dev-mcp"
+readmeUrl: "https://github.com/nicotordev/v0.dev-mcp/blob/main/README.md"
+githubStars: 1
+githubForks: 0
+githubStatsFetchedAt: "2025-01-01T00:00:00.000Z"
+icon: "https://github.com/nicotordev.png"
+---
+## Overview
+
+The **v0-mcp-ts MCP server** is a publicly available project. Review the upstream repository for installation instructions, supported tools, compatibility, permissions, and current maintenance status.
+
+## Configuration
+
+Configuration, transport, authentication, and runtime requirements vary by project. Open the repository before connecting and use the smallest set of credentials and permissions required.
+
+[Open the v0-mcp-ts repository](https://github.com/nicotordev/v0.dev-mcp) to read the latest documentation.

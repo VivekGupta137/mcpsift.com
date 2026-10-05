@@ -1,0 +1,27 @@
+---
+title: "suricata-mcp"
+description: "An MCP server that lets an AI client read and triage Suricata IDS/IPS and Zeek NSM telemetry, enabling alert investigation in natural language instead of grep over EVE JSON. Requires Suricata EVE JSON logs and optionally Zeek TSV logs, configured via environment variables."
+category: "Developer tools"
+tags:
+  - "mcp"
+  - "mcp-server"
+source: "Community"
+owner: "lidless-labs"
+transport: "stdio or Streamable HTTP"
+authentication: "Varies by repository; review the upstream documentation"
+githubUrl: "https://github.com/lidless-labs/suricata-mcp"
+readmeUrl: "https://github.com/lidless-labs/suricata-mcp/blob/main/README.md"
+githubStars: 1
+githubForks: 0
+githubStatsFetchedAt: "2026-06-26T16:01:46.461Z"
+icon: "https://github.com/lidless-labs.png"
+---
+## Overview
+
+The **suricata-mcp MCP server** is a publicly available project. Review the upstream repository for installation instructions, supported tools, compatibility, permissions, and current maintenance status.
+
+## Configuration
+
+Configuration, transport, authentication, and runtime requirements vary by project. Open the repository before connecting and use the smallest set of credentials and permissions required.
+
+[Open the suricata-mcp repository](https://github.com/lidless-labs/suricata-mcp) to read the latest documentation.

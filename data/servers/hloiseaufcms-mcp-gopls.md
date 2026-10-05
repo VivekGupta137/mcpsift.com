@@ -1,0 +1,27 @@
+---
+title: "MCP LSP Go"
+description: "A Model Context Protocol (MCP) server that allows AI assistants like Claude to interact with Go's Language Server Protocol (LSP) and benefit from advanced Go code analysis features."
+category: "Developer tools"
+tags:
+  - "mcp"
+  - "mcp-server"
+source: "Community"
+owner: "hloiseaufcms"
+transport: "stdio"
+authentication: "Varies by repository; review the upstream documentation"
+githubUrl: "https://github.com/hloiseaufcms/mcp-gopls"
+readmeUrl: "https://github.com/hloiseaufcms/mcp-gopls/blob/main/README.md"
+githubStars: 69
+githubForks: 0
+githubStatsFetchedAt: "2026-03-07T00:00:54.736Z"
+icon: "https://github.com/hloiseaufcms.png"
+---
+## Overview
+
+The **MCP LSP Go MCP server** is a publicly available project. Review the upstream repository for installation instructions, supported tools, compatibility, permissions, and current maintenance status.
+
+## Configuration
+
+Configuration, transport, authentication, and runtime requirements vary by project. Open the repository before connecting and use the smallest set of credentials and permissions required.
+
+[Open the MCP LSP Go repository](https://github.com/hloiseaufcms/mcp-gopls) to read the latest documentation.

@@ -1,0 +1,27 @@
+---
+title: "MCP System Bridge"
+description: "An implementation of the Model Context Protocol (MCP), acting as a simple bridge to native OS functionalities like clipboard management, URL handling, and system notifications."
+category: "Developer tools"
+tags:
+  - "mcp"
+  - "mcp-server"
+source: "Community"
+owner: "Leynier Guti\u00e9rrez Gonz\u00e1lez"
+transport: "stdio"
+authentication: "Varies by repository; review the upstream documentation"
+githubUrl: "https://github.com/leynier/mcp-sys-bridge"
+readmeUrl: "https://github.com/leynier/mcp-sys-bridge/blob/main/README.md"
+githubStars: 9
+githubForks: 0
+githubStatsFetchedAt: "2025-11-16T03:30:54.942Z"
+icon: "https://github.com/leynier.png"
+---
+## Overview
+
+The **MCP System Bridge MCP server** is a publicly available project. Review the upstream repository for installation instructions, supported tools, compatibility, permissions, and current maintenance status.
+
+## Configuration
+
+Configuration, transport, authentication, and runtime requirements vary by project. Open the repository before connecting and use the smallest set of credentials and permissions required.
+
+[Open the MCP System Bridge repository](https://github.com/leynier/mcp-sys-bridge) to read the latest documentation.
