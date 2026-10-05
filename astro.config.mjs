@@ -49,6 +49,9 @@ export default defineConfig({
   site,
   output: 'static',
   trailingSlash: 'always',
+  build: {
+    concurrency: 4,
+  },
   redirects: {
     '/servers/fetch/': '/servers/fetch-mcp/',
     '/servers/filesystem/': '/servers/filesystem-mcp/',

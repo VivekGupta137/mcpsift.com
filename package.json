@@ -13,7 +13,8 @@
     "preview": "astro preview",
     "refresh:readmes": "node scripts/refresh-readmes.mjs",
     "refresh:github-readmes": "node scripts/refresh-github-readme-links.mjs",
-    "import:github": "node scripts/import-github-mcp-servers.mjs"
+    "import:github": "node scripts/import-github-mcp-servers.mjs",
+    "deploy": "npm run build && wrangler pages deploy dist --project-name mcp-sift"
   },
   "dependencies": {
     "@astrojs/partytown": "2.1.8",
@@ -46,6 +47,7 @@
     "pagefind": "1.5.2",
     "schema-dts": "2.1.0",
     "sharp": "0.35.5",
-    "typescript": "~5.9.3"
+    "typescript": "~5.9.3",
+    "wrangler": "^4.147.0"
   }
 }
